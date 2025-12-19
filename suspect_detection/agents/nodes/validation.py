@@ -9,6 +9,16 @@ logger = logging.getLogger(__name__)
 
 MAX_REFINEMENT_ATTEMPTS = 2
 
+
+def _build_doc_summary(documents: list, max_docs: int = 5, max_chars: int = 2000) -> str:
+    """Build a text summary of documents for LLM context."""
+    summary = ""
+    for doc in documents[:max_docs]:
+        doc_type = doc.get("type", "document")
+        content = doc.get("content", "")[:max_chars]
+        summary += f"\n=== {doc_type} ===\n{content}\n"
+    return summary
+
 VALIDATION_PROMPT = """You are a clinical validation expert. Your job is to verify that clinical findings are supported by the source documents.
 
 For each finding, evaluate:
@@ -54,13 +64,7 @@ def self_reflect_node(state: AgentState) -> dict:
 
     logger.info(f"Validating {len(findings_to_check)} findings (attempt {refinement_attempts + 1})")
 
-    # Doc reference
-    doc_summary = ""
-    for doc in documents[:5]:
-        doc_type = doc.get("type", "document")
-        content = doc.get("content", "")[:2000]
-        doc_summary += f"\n=== {doc_type} ===\n{content}\n"
-
+    doc_summary = _build_doc_summary(documents)
     client = get_gemini_client()
     validated = list(already_validated)  # Start with already validated
     needs_refinement = []
@@ -132,13 +136,7 @@ def refine_node(state: AgentState) -> dict:
 
     logger.info(f"Refining {len(findings_to_refine)} findings")
 
-    # Doc reference
-    doc_summary = ""
-    for doc in documents[:5]:
-        doc_type = doc.get("type", "document")
-        content = doc.get("content", "")[:2000]
-        doc_summary += f"\n=== {doc_type} ===\n{content}\n"
-
+    doc_summary = _build_doc_summary(documents)
     client = get_gemini_client()
     refined_findings = []
 

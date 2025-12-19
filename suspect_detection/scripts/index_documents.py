@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-import os
-import sys
 import argparse
+import os
+import shutil
+import sys
 import time
 
 # Add project root to path
@@ -59,7 +60,6 @@ def main():
 
     # Rebuild: remove existing index
     if args.rebuild and os.path.exists(args.index_dir):
-        import shutil
         print(f"Removing existing index at {args.index_dir}")
         shutil.rmtree(args.index_dir)
 

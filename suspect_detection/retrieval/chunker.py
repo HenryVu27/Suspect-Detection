@@ -14,6 +14,11 @@ SMALL_SECTION_THRESHOLD = 200
 MIN_SPLIT_CONTENT_SIZE = 50
 
 
+def _with_header(content: str, header: str) -> str:
+    """Prepend header to content if header exists."""
+    return f"{header}\n\n{content}" if header else content
+
+
 class Chunker:
     def __init__(
         self,
@@ -88,7 +93,7 @@ class Chunker:
                 # Save current chunk
                 if current_sentences:
                     chunk_body = " ".join(current_sentences)
-                    chunk_content = f"{header}\n\n{chunk_body}" if header else chunk_body
+                    chunk_content = _with_header(chunk_body, header)
                     if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE:
                         chunks.append((f"{section_name}_part{part_num}", chunk_content))
                         part_num += 1
@@ -103,7 +108,7 @@ class Chunker:
                     wt = self._count_tokens(word)
                     if word_tokens + wt > available_tokens and word_chunk:
                         chunk_body = " ".join(word_chunk)
-                        chunk_content = f"{header}\n\n{chunk_body}" if header else chunk_body
+                        chunk_content = _with_header(chunk_body, header)
                         if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE:
                             chunks.append((f"{section_name}_part{part_num}", chunk_content))
                             part_num += 1
@@ -120,7 +125,7 @@ class Chunker:
             # Check limit
             if current_tokens + sent_tokens > available_tokens and current_sentences:
                 chunk_body = " ".join(current_sentences)
-                chunk_content = f"{header}\n\n{chunk_body}" if header else chunk_body
+                chunk_content = _with_header(chunk_body, header)
                 if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE:
                     chunks.append((f"{section_name}_part{part_num}", chunk_content))
                     part_num += 1
@@ -136,7 +141,7 @@ class Chunker:
         # Last chunk
         if current_sentences:
             chunk_body = " ".join(current_sentences)
-            chunk_content = f"{header}\n\n{chunk_body}" if header else chunk_body
+            chunk_content = _with_header(chunk_body, header)
             if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE or not chunks:
                 # Single chunk - use original name
                 final_name = section_name if part_num == 1 else f"{section_name}_part{part_num}"
@@ -273,7 +278,7 @@ class Chunker:
         # Create chunks
         chunks = []
         for section_name, section_content in merged_sections:
-            chunk_content = f"{header}\n\n{section_content}" if header else section_content
+            chunk_content = _with_header(section_content, header)
 
             # Split if needed
             split_chunks = self._split_oversized_chunk(chunk_content, header, section_name)
@@ -306,9 +311,9 @@ class Chunker:
             # Check for section markers
             has_markers = bool(re.match(r"^\[[A-Z][A-Z\s\-_/]+\]", section_content))
             if has_markers:
-                chunk_content = f"{header}\n\n{section_content}" if header else section_content
+                chunk_content = _with_header(section_content, header)
             else:
-                chunk_content = f"{header}\n\n[{clean_section_name}]\n{section_content}" if header else f"[{clean_section_name}]\n{section_content}"
+                chunk_content = _with_header(f"[{clean_section_name}]\n{section_content}", header)
 
             # Split if needed
             split_chunks = self._split_oversized_chunk(chunk_content, header, normalized_name)
@@ -486,7 +491,7 @@ class Chunker:
             last_chunk = chunks[-1]
             chunks[-1] = self._create_chunk(
                 doc, last_chunk.content + "\n\n" + current_chunk, len(chunks) - 1
-            )
+             )
         elif current_chunk:
             # Need at least one
             chunks.append(self._create_chunk(doc, current_chunk, 0))

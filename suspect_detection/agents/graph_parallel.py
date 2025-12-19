@@ -25,3 +25,11 @@ from agents.nodes.answer_query import answer_query_node
 
 logger = logging.getLogger(__name__)
 
+def route_from_orchestrator(state: AgentState) -> Literal["list_patients", "analyze", "retrieve_info", "direct_reply"]:
+    # Route based on user intent
+    next_step = state.get("next_step", "direct_reply")
+    if next_step == "list_patients":
+        return ["list_patients"]
+    elif next_step == "analyze":
+        return "analyze"
+    
