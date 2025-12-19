@@ -1,0 +1,47 @@
+PROGRESS NOTE
+Patient: Robert Thompson    DOB: 03/14/1958    MRN: 12345678
+Date: 2024-07-22       Provider: Dr. Sarah Chen, MD
+
+Chief Complaint: Follow-up HTN, DM, new symptom - shortness of breath
+
+Subjective:
+Pt returns for f/u. Reports new onset SOB with exertion over past 4-6 weeks. "I get
+winded walking up a flight of stairs now." Also noticing some ankle swelling by end of day.
+Denies chest pain, orthopnea, PND. No recent illness or fever. Sleep still disrupted -
+now waking 3x nightly for nocturia. Mood has been down - "feeling stressed and tired
+all the time." Admits hasn't been to gym in months. Diet remains poor.
+
+Forgot to take morning meds twice this week.
+
+Medications: Unchanged from prior visit
+
+Objective:
+Vitals: BP 154/94, HR 82, RR 18, Temp 98.2F, Wt 248 lbs (+6 lbs), SpO2 96% RA
+General: Appears fatigued, obese male
+CV: RRR, S1 S2 normal, ?faint S3, no murmurs
+Lungs: Few bibasilar crackles, no wheezes
+Ext: 1+ pitting edema bilateral ankles
+Neuro: A&Ox3
+
+Labs from 7/15 reviewed:
+- A1c: 7.6% (above goal)
+- Fasting glucose: 148
+- Cr: 1.3 (up from 1.1), eGFR 58
+- LDL: 122
+- BNP: 340 (new, elevated)
+
+Assessment/Plan:
+1. New dyspnea on exertion with LE edema - concerning for possible early heart failure
+   given risk factors and elevated BNP. Order echo, refer to cardiology for evaluation.
+2. Hypertension - poorly controlled. BP consistently >140/90. Add amlodipine 5mg daily.
+3. Type 2 diabetes - A1c 7.6%, not at goal. Increase metformin if tolerated.
+4. Hyperlipidemia - LDL still above goal. Will defer statin change pending cardiology input.
+5. Worsening renal function - Cr trending up, eGFR 58. Monitor closely. May need to
+   adjust meds. Consider nephrology if continues to decline.
+6. Weight gain - 6 lbs since March. Contributing to above issues. Strong counseling on
+   diet and exercise.
+7. Mood symptoms - reports feeling down, stressed. Screen PHQ-9 at next visit.
+
+Urgent cardiology referral placed. RTC 2 weeks for BP check, sooner if worsening symptoms.
+
+Electronically signed by Sarah Chen, MD  07/22/2024 4:12 PM

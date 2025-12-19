@@ -1,0 +1,56 @@
+PROGRESS NOTE
+Patient: Gloria Washington    DOB: 08/22/1962    MRN: 23456789
+Date: 2024-10-22       Provider: Dr. Marcus Williams, MD
+
+Chief Complaint: Follow-up sleep study results, chronic disease management
+
+Subjective:
+Pt returns to review sleep study results and ongoing management. Sleep study completed
+in August confirmed severe obstructive sleep apnea - AHI 42. She was fitted for CPAP
+in September and has been using it "most nights." Reports she feels "a little better"
+but still tired. "It takes some getting used to."
+
+HF - stable. No worsening SOB. Occasional ankle swelling. Checking weights as
+instructed - no sudden gains.
+
+Diabetes - still running high. Fasting 160-180. Admits diet has been poor with
+holidays coming up and family stress ongoing.
+
+Reports she sometimes skips her medications when money is tight at end of month.
+"The copays really add up." Has been rationing Eliquis - taking it once daily instead
+of twice when running low.
+
+This is extremely concerning - counseled extensively on stroke risk.
+
+Objective:
+Vitals: BP 144/88, HR 72 (irregular), RR 16, Temp 98.4F, Wt 198 lbs (-4 lbs), SpO2 94% RA
+General: Obese female, appears less fatigued than last visit
+CV: Irregularly irregular, rate controlled
+Lungs: Clear
+Ext: Trace edema
+
+Labs from 10/15:
+- A1c: 8.2% (worsening)
+- Cr: 1.9, eGFR 35
+- K: 5.1
+
+Assessment/Plan:
+1. Obstructive sleep apnea, severe (NEW DIAGNOSIS) - now on CPAP. Encourage nightly
+   use. Download compliance data at next visit. May improve fatigue, BP, and glucose.
+2. Heart failure - compensated. Continue current regimen.
+3. Atrial fibrillation - CRITICAL ISSUE: Patient admits to taking Eliquis once daily
+   instead of twice due to cost. This significantly increases stroke risk.
+   INTERVENTION: Contacted patient assistance program. Applied for manufacturer copay
+   card. Pharmacy to call with options. Emphasized MUST take BID as prescribed.
+4. Type 2 diabetes - A1c 8.2%, worsening. Maximum on oral agents. Discussed adding
+   basal insulin - patient resistant. Will try diet intervention first. Nutrition
+   referral placed.
+5. CKD stage 3b - eGFR 35, continuing slow decline. K slightly elevated at 5.1.
+   Reduce dietary potassium. Nephrology referral placed.
+6. Hypertension - still above goal. Limited by renal function and hyperkalemia risk.
+7. Medication cost concerns - significant barrier to compliance. SW consult for
+   assistance programs. Reviewed all medications for lower-cost alternatives.
+
+RTC 6 weeks. Sooner if any concerns. Strict instructions to take Eliquis twice daily.
+
+Electronically signed by Marcus Williams, MD  10/22/2024 2:18 PM

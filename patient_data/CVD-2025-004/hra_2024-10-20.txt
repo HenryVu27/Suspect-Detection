@@ -1,0 +1,181 @@
+HEALTH RISK ASSESSMENT
+Patient: Priya Sharma
+Date Completed: 2024-10-20
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+================================================================================
+How would you rate your overall health? Good
+Compared to one year ago, how would you rate your health now? Better
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+================================================================================
+[ ] Fatigue
+[ ] Shortness of breath
+[ ] Swelling in legs or feet
+[ ] Heart palpitations or irregular heartbeat
+[ ] Chest pain or pressure
+[ ] Frequent urination
+[ ] Increased thirst
+[ ] Unexplained weight loss
+[ ] Unexplained weight gain
+[ ] Dizziness or lightheadedness
+[ ] Numbness or tingling in hands/feet
+[ ] Blurred vision
+[ ] Difficulty sleeping
+[ ] Snoring
+[ ] Feeling sad or depressed
+[ ] Difficulty concentrating
+[X] Headaches - How often? Occasional, about once a week, much better than before
+
+================================================================================
+MEDICAL HISTORY
+================================================================================
+Have you ever been diagnosed with any of the following?
+[ ] High blood pressure
+[ ] Diabetes
+[X] Pre-diabetes - Borderline, being monitored
+[X] High cholesterol - Mild, on medication
+[ ] Heart disease/Heart failure
+[ ] Stroke or TIA
+[ ] Kidney disease
+[ ] Asthma or COPD
+[ ] Cancer
+[ ] Depression or anxiety
+[ ] Sleep apnea
+[X] Thyroid condition - Hypothyroidism, on medication
+[X] Other: History of gestational diabetes with both pregnancies
+
+================================================================================
+FAMILY HISTORY
+================================================================================
+Has anyone in your immediate family been diagnosed with:
+
+Diabetes: Yes
+  Who? Both parents
+  Age at diagnosis? Mother - 45, Father - 50
+
+Heart Disease: Yes
+  Who? Paternal grandfather
+  What happened? Heart attack
+  Age? 62
+
+Stroke: No
+
+High Blood Pressure: Yes
+  Who? Mother
+
+Kidney Disease: No
+
+Cancer: Yes
+  Type? Breast cancer
+  Who? Maternal aunt
+  Age at diagnosis? 58
+
+================================================================================
+LIFESTYLE - TOBACCO USE
+================================================================================
+Do you currently use tobacco? No
+
+Have you ever smoked? No
+
+================================================================================
+LIFESTYLE - ALCOHOL USE
+================================================================================
+Do you drink alcohol? Occasionally
+
+How often? Social events only, maybe 1-2 times per month
+
+How many drinks when you do drink? 1 glass of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+================================================================================
+How often do you exercise? 4-5 times per week
+
+What type of exercise?
+- Yoga (2x per week)
+- Spinning/cycling class (2x per week)
+- Walking (daily at lunch, 20-30 minutes)
+
+How long is a typical session? 45-60 minutes
+
+================================================================================
+LIFESTYLE - DIET
+================================================================================
+How would you describe your diet? Good - I try to eat healthy
+
+How often do you eat fast food? Rarely (maybe once a month)
+
+How would you rate your salt intake? Low to moderate
+
+Do you follow any special diet?
+[ ] Low sodium
+[ ] Diabetic diet
+[X] Other: Generally healthy eating, reduced carbs, lots of vegetables,
+    limited processed foods. Traditional Indian food with modifications
+    (less oil, less rice).
+
+================================================================================
+SLEEP
+================================================================================
+On average, how many hours do you sleep per night? 7-8 hours
+
+Do you have trouble falling asleep? No
+
+Do you wake up during the night? Occasionally
+
+Do you snore? No (per husband)
+
+Do you feel rested when you wake up? Yes, most days
+
+================================================================================
+MENTAL HEALTH
+================================================================================
+In the past 2 weeks, how often have you felt down, depressed, or hopeless?
+[X] Not at all
+[ ] Several days
+[ ] More than half the days
+[ ] Nearly every day
+
+In the past 2 weeks, how often have you had little interest or pleasure in things?
+[X] Not at all
+[ ] Several days
+[ ] More than half the days
+[ ] Nearly every day
+
+How is your stress level? Moderate - work can be stressful but I manage it
+
+What do you do to manage stress? Yoga, meditation, massage, spending time with family
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+================================================================================
+Do you ever worry about having enough food? No
+
+Is your housing situation stable? Yes
+
+Do you have reliable transportation? Yes
+
+Do you have concerns about affording your medications? No
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+================================================================================
+"I'm doing well overall. My main focus is preventing diabetes since both my parents
+have it and I had gestational diabetes with both of my pregnancies. I've been working
+hard on my diet and exercise and I feel like it's paying off - I've lost some weight
+and my doctor said my blood sugar numbers are improving.
+
+I do worry sometimes about my family history of diabetes and heart disease. I try to
+stay proactive with my health. I get my check-ups regularly and take my medications
+as prescribed.
+
+My occasional headaches are much better now that I'm managing stress better and
+getting regular massages.
+
+No other concerns at this time. I feel fortunate that I'm generally healthy and I
+want to keep it that way!"
+================================================================================

@@ -1,0 +1,136 @@
+SLEEP STUDY REPORT (POLYSOMNOGRAPHY)
+
+Patient: Gloria Washington    DOB: 08/22/1962    MRN: 23456789
+Date of Study: 2024-08-28
+Study Type: Diagnostic overnight polysomnography (in-lab)
+Ordering Provider: Dr. Marcus Williams, MD
+Interpreting Provider: Dr. Raymond Chen, MD (Sleep Medicine)
+
+================================================================================
+CLINICAL INDICATION
+================================================================================
+Excessive daytime sleepiness, loud snoring with witnessed apneas, morning headaches,
+unrefreshing sleep. Known history of heart failure, atrial fibrillation, hypertension,
+diabetes. High clinical suspicion for obstructive sleep apnea.
+
+Epworth Sleepiness Scale: 16/24 (significant daytime sleepiness)
+
+================================================================================
+STUDY CONDITIONS
+================================================================================
+Lights out: 22:15
+Lights on: 05:45
+Total recording time: 450 minutes
+Total sleep time: 342 minutes
+Sleep efficiency: 76% (low)
+Sleep latency: 8 minutes (normal)
+REM latency: 98 minutes (normal)
+
+Sleep Architecture:
+- Stage N1: 12% (increased)
+- Stage N2: 65%
+- Stage N3: 8% (reduced slow wave sleep)
+- Stage REM: 15% (slightly reduced)
+
+================================================================================
+RESPIRATORY EVENTS
+================================================================================
+Total obstructive apneas: 156
+Total central apneas: 8
+Total mixed apneas: 12
+Total hypopneas: 62
+
+Apnea-Hypopnea Index (AHI): 42.0 events/hour (SEVERE)
+- Supine AHI: 58.2 events/hour
+- Non-supine AHI: 28.4 events/hour
+
+Respiratory Disturbance Index (RDI): 48.5 events/hour
+
+Longest apnea duration: 52 seconds
+Mean apnea duration: 24 seconds
+
+Oxygen Saturation:
+- Baseline SpO2: 94%
+- Lowest SpO2: 72%
+- Mean SpO2: 89%
+- Time SpO2 <90%: 28% of total sleep time
+- Time SpO2 <80%: 8% of total sleep time (significant)
+
+================================================================================
+CARDIAC MONITORING
+================================================================================
+- Underlying atrial fibrillation throughout study (known)
+- Mean heart rate: 74 bpm (range 52-108 bpm)
+- Frequent heart rate variations associated with respiratory events
+- No significant arrhythmias beyond baseline AFib
+
+================================================================================
+LIMB MOVEMENTS
+================================================================================
+Periodic Limb Movement Index (PLMI): 8.2/hour (mildly elevated)
+- Not clinically significant
+
+================================================================================
+SNORING
+================================================================================
+Snoring noted throughout the night, loudest in supine position
+Snoring intensity: Severe (>60 dB recorded)
+
+================================================================================
+IMPRESSION
+================================================================================
+1. SEVERE OBSTRUCTIVE SLEEP APNEA (AHI 42)
+   - Significant positional component (worse supine)
+   - Associated with significant oxygen desaturation (nadir 72%)
+   - Moderate sleep fragmentation
+
+2. REDUCED SLEEP EFFICIENCY (76%)
+   - Likely secondary to frequent arousals from respiratory events
+
+3. SEVERE NOCTURNAL HYPOXEMIA
+   - 28% of sleep time spent with SpO2 <90%
+   - This is clinically significant and associated with increased
+     cardiovascular risk, especially in patient with existing heart
+     failure and atrial fibrillation
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+1. POSITIVE AIRWAY PRESSURE (PAP) THERAPY: Strongly recommended.
+   Patient is candidate for CPAP titration study, or auto-titrating CPAP
+   (APAP) with in-lab or home titration protocol.
+
+2. Given severity and comorbidities, in-lab CPAP titration preferred to
+   ensure adequate treatment and patient acclimation.
+
+3. IMPORTANT CARDIOVASCULAR CONSIDERATIONS:
+   - Untreated severe OSA significantly increases risk of:
+     * Heart failure exacerbation
+     * Atrial fibrillation burden
+     * Stroke (especially important given patient on anticoagulation)
+     * Uncontrolled hypertension
+     * Worsening diabetes control
+   - Treatment with CPAP may improve all of the above
+
+4. WEIGHT LOSS: Obesity is a major contributor. Even modest weight loss
+   (10%) can significantly reduce OSA severity.
+
+5. POSITIONAL THERAPY: Sleep position training to avoid supine position
+   may be helpful adjunct but is not sufficient as sole therapy given
+   severity.
+
+6. FOLLOW-UP: Recommend follow-up with sleep medicine after CPAP initiation
+   to assess compliance, efficacy, and symptom improvement.
+
+7. Recheck Epworth Sleepiness Scale after 4-6 weeks of treatment to assess
+   response.
+
+================================================================================
+
+Electronically signed by Raymond Chen, MD
+Board Certified Sleep Medicine
+08/30/2024 11:20 AM
+
+cc: Dr. Marcus Williams, MD (PCP)
+    Dr. Anita Patel, MD (Cardiology)
+================================================================================

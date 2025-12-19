@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Patient: Robert Thompson    DOB: 03/14/1958    MRN: 12345678
+Date: 2024-03-15       Provider: Dr. Sarah Chen, MD
+
+Chief Complaint: Annual wellness visit, medication refill
+
+Subjective:
+66 y/o M here for annual check-up. Overall doing well. Denies CP, SOB, palpitations.
+Reports good compliance with medications. Diet "could be better" - admits to eating out
+frequently due to work. Exercise limited - walks occasionally on weekends. Sleep is fair,
+wakes 1-2x nightly to urinate. Mood has been "okay" - some stress at work.
+
+PMH: HTN, DM2, HLD, obesity, CAD s/p PCI 2022
+PSH: Coronary stent placement 2022, appendectomy 1998
+Allergies: Sulfa drugs (rash)
+
+Current Medications:
+- Lisinopril 20mg daily
+- Metformin 1000mg BID
+- Atorvastatin 40mg QHS
+- ASA 81mg daily
+- Clopidogrel 75mg daily
+
+Objective:
+Vitals: BP 146/90, HR 76, RR 16, Temp 98.4F, Wt 242 lbs, Ht 70", BMI 34.7
+SpO2 97% RA
+General: Pleasant, obese male, NAD
+HEENT: PERRL, EOMI, TMs clear, oropharynx clear
+Neck: Supple, no LAD, no thyromegaly
+CV: RRR, S1 S2 normal, no murmurs/rubs/gallops
+Lungs: CTAB, no wheezes or crackles
+Abd: Soft, obese, NT, ND, +BS
+Ext: No edema, pulses 2+ bilaterally
+Neuro: A&Ox3, CN II-XII intact
+
+Assessment/Plan:
+1. Hypertension - not at goal today (>140/90). Will continue current regimen,
+   emphasize dietary sodium restriction. Recheck in 3 months.
+2. Type 2 diabetes - last A1c 7.4% (3 months ago). Due for repeat. Continue metformin.
+3. Hyperlipidemia - last LDL 118, above goal for CAD patient. Consider increasing
+   statin or adding ezetimibe if not improved.
+4. CAD s/p PCI - stable on DAPT. Continue ASA/Plavix. No anginal symptoms.
+5. Obesity - counseled on diet/exercise. Consider referral to nutrition if interested.
+6. Health maintenance - order labs (CMP, CBC, lipid panel, A1c, UA). Due for colonoscopy.
+
+RTC 3 months or PRN.
+
+Electronically signed by Sarah Chen, MD  03/15/2024 2:45 PM

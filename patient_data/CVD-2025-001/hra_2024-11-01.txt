@@ -1,0 +1,183 @@
+HEALTH RISK ASSESSMENT
+Patient: Robert Thompson
+Date Completed: 2024-11-01
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+================================================================================
+How would you rate your overall health? Fair
+Compared to one year ago, how would you rate your health now? Worse
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+================================================================================
+[X] Fatigue - How often? Often
+[X] Shortness of breath - When does it occur? With exertion (climbing stairs, walking)
+[X] Swelling in legs or feet - How severe? Mild to moderate, worse at night
+[ ] Chest pain or pressure
+[X] Frequent urination - How many times at night? 3-4 times
+[X] Increased thirst
+[ ] Unexplained weight loss
+[X] Unexplained weight gain - How much? About 10 lbs in past 6 months
+[ ] Dizziness or lightheadedness
+[X] Numbness or tingling in hands/feet - Where? Mostly feet
+[X] Blurred vision - How often? Sometimes, especially when tired
+[X] Difficulty sleeping - What type? Waking frequently, hard to fall back asleep
+[X] Feeling sad or depressed - How often? Often
+[X] Feeling anxious or worried - How often? Sometimes
+[X] Difficulty concentrating - At work, hard to focus
+
+================================================================================
+MEDICAL HISTORY
+================================================================================
+Have you ever been diagnosed with any of the following?
+[X] High blood pressure (Hypertension)
+[X] Diabetes
+[X] High cholesterol
+[X] Heart disease
+[ ] Heart failure
+[ ] Stroke or TIA
+[ ] Kidney disease
+[ ] Asthma or COPD
+[ ] Cancer (if yes, type: __________)
+[ ] Arthritis
+[X] Depression or anxiety - When? Had counseling after my heart procedure in 2022
+[ ] Other: __________
+
+================================================================================
+FAMILY HISTORY
+================================================================================
+Has anyone in your immediate family (parents, siblings) been diagnosed with:
+
+Diabetes: Yes
+  Who? Mother
+  Age at diagnosis? Around 52
+
+Heart Disease: Yes
+  Who? Father
+  Age at diagnosis? Had heart attack at 58, died from it
+
+Stroke: Yes
+  Who? Uncle (dad's side)
+  Age at diagnosis? 65
+
+High Blood Pressure: Yes
+  Who? Both parents
+
+Kidney Disease: No
+
+Cancer: No
+
+================================================================================
+LIFESTYLE - TOBACCO USE
+================================================================================
+Do you currently use tobacco? Yes
+
+What type?
+[X] Cigarettes
+[ ] Cigars
+[ ] Chewing tobacco
+[ ] Vaping/e-cigarettes
+
+How much do you smoke per day? About half a pack (10 cigarettes)
+
+How many years have you smoked? On and off for 30+ years
+
+Have you ever tried to quit? Yes, multiple times. Longest I quit was 2 years.
+
+Are you interested in quitting? Maybe, but it's hard with stress
+
+================================================================================
+LIFESTYLE - ALCOHOL USE
+================================================================================
+Do you drink alcohol? Yes
+
+How often? A few times a week
+
+How many drinks in a typical week? 4-6 drinks (beer mostly)
+
+Have you ever felt you should cut down? No
+
+================================================================================
+LIFESTYLE - EXERCISE
+================================================================================
+How often do you exercise? Rarely (1-2 times per month)
+
+What type of exercise? Walking occasionally
+
+How long is a typical session? 15-20 minutes
+
+What prevents you from exercising more?
+[X] Too tired
+[X] No time
+[X] Physical limitations (get short of breath)
+[ ] Not interested
+
+================================================================================
+LIFESTYLE - DIET
+================================================================================
+How would you describe your diet? Could be better
+
+How often do you eat fast food? 3-4 times per week
+
+How would you rate your salt intake? Probably high
+
+Do you follow any special diet?
+[ ] Low sodium
+[ ] Diabetic diet
+[ ] Low fat
+[X] None - I try but don't stick to it
+
+================================================================================
+SLEEP
+================================================================================
+On average, how many hours do you sleep per night? 5-6 hours
+
+Do you have trouble falling asleep? Sometimes
+
+Do you wake up during the night? Yes, frequently (3-4 times)
+
+Do you snore loudly? Wife says yes, very loud
+
+Has anyone noticed you stop breathing during sleep? Wife has mentioned this
+
+Do you feel rested when you wake up? Rarely
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+================================================================================
+In the past 2 weeks, how often have you felt down, depressed, or hopeless?
+[X] More than half the days
+
+In the past 2 weeks, how often have you had little interest or pleasure in things?
+[X] More than half the days
+
+Do you feel you have good social support? Yes, wife and family are supportive
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+================================================================================
+Do you ever worry about having enough food? No
+
+Is your housing situation stable? Yes
+
+Do you have reliable transportation? Yes
+
+Do you have concerns about affording your medications? Sometimes - lots of copays add up
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+================================================================================
+"I'm worried about my health. Ever since my heart procedure a couple years ago, I feel
+like things have been going downhill. I'm always tired, can't catch my breath doing
+simple things, my legs swell up. My doctor says my kidneys might be having problems too.
+
+I've been really stressed at work and at home. Some days I just don't want to get out
+of bed. I know I need to eat better and exercise but I just don't have the energy.
+
+My dad died of a heart attack at my age and that's always in the back of my mind.
+I don't want to leave my wife and kids like he did to us.
+
+I probably should quit smoking too but it's the only thing that helps me relax."
+================================================================================

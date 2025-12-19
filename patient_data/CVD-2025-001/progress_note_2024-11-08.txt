@@ -1,0 +1,62 @@
+PROGRESS NOTE
+Patient: Robert Thompson    DOB: 03/14/1958    MRN: 12345678
+Date: 2024-11-08       Provider: Dr. Sarah Chen, MD
+
+Chief Complaint: Follow-up after cardiology evaluation
+
+Subjective:
+Pt here for follow-up after seeing cardiology in August. Reports he was started on new
+medications by Dr. Torres including carvedilol and spironolactone. Furosemide was
+increased. States SOB has improved "maybe 50%" - can now do stairs without stopping but
+still gets winded. Edema much better. Denies CP. Reports he has been "trying harder"
+with diet - less fast food, watching salt. Still not exercising regularly.
+
+Also mentions he's been feeling "down" and "not like himself" for several months now.
+Trouble concentrating at work. Sleep still poor. "I just don't have energy for anything."
+
+Current Medications per pt (needs reconciliation):
+- Lisinopril 20mg daily
+- Metformin 1000mg BID
+- Atorvastatin 40mg QHS
+- ASA 81mg daily
+- Clopidogrel 75mg daily
+- Carvedilol 12.5mg BID (new per cardiology)
+- Spironolactone 25mg daily (new per cardiology)
+- Furosemide 40mg daily (increased per cardiology)
+- Amlodipine 5mg daily
+
+Objective:
+Vitals: BP 132/82, HR 68, RR 16, Temp 98.0F, Wt 240 lbs (-8 lbs from July), SpO2 97% RA
+General: Appears tired but less fatigued than July visit
+CV: RRR, rate controlled, S1 S2 present, no S3 today, no murmurs
+Lungs: Clear bilaterally, no crackles
+Ext: Trace edema bilateral ankles, improved
+Affect: Flat, makes poor eye contact
+
+Labs from 10/25:
+- Cr: 1.4, eGFR 52 (declining)
+- K: 4.9 (on spironolactone, will need to monitor)
+- A1c: 7.8%
+- BNP: 520 (still elevated but pt clinically improved)
+
+Cardiology note reviewed - Echo showed EF 40%, diagnosis of HFrEF.
+
+Assessment/Plan:
+1. Heart failure (HFrEF) - newly diagnosed per cardiology. Clinically improving on GDMT.
+   Will continue carvedilol, spironolactone, furosemide as prescribed. Patient counseled
+   on daily weights, sodium restriction, fluid limitation.
+2. Hypertension - MUCH better controlled today on current regimen! Continue.
+3. Type 2 diabetes - A1c 7.8%, worsening. Increase metformin to 1000mg BID if tolerating.
+   Consider adding SGLT2 inhibitor which would also benefit HF.
+4. Renal function declining - eGFR now 52, down from 72 one year ago. Likely combination
+   of diabetic nephropathy and cardiorenal syndrome. Defer nephrology referral for now
+   given recent HF diagnosis - reassess in 3 months.
+5. CAD - stable, no angina. Continue DAPT.
+6. Hyperlipidemia - defer statin intensification given multiple medication changes.
+7. Mood/possible depression - significant symptoms reported. PHQ-9 today: 14 (moderate).
+   Discussed options including counseling vs medication. Pt reluctant to add another pill.
+   Will consider at next visit. Provided crisis line number just in case.
+
+RTC 6-8 weeks. Sooner if SOB worsens, weight gain >3lbs/day or 5lbs/week.
+
+Electronically signed by Sarah Chen, MD  11/08/2024 3:28 PM

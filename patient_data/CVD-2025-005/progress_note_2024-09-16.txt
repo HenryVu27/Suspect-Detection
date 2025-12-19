@@ -1,0 +1,72 @@
+PROGRESS NOTE
+Patient: William O'Brien    DOB: 02/28/1950    MRN: 56789012
+Date: 2024-09-16       Provider: Dr. Thomas McCarthy, MD
+
+Chief Complaint: Annual wellness visit, fall at home
+
+Subjective:
+74 y/o M here for annual wellness. Main concern today is a fall last week -
+tripped over rug at home, fell forward, hit shoulder on doorframe. Mild pain
+but able to move arm. Did not hit head. No LOC. No dizziness or lightheadedness
+at time of fall - was just not watching where he was going.
+
+Otherwise feeling okay. Denies chest pain, SOB same as baseline. Occasional
+palpitations (baseline AFib). No fevers, no cough now.
+
+Wife reports cognitive status about the same - "good days and bad days." He
+managed the fall well, got up on his own, called her right away.
+
+Still taking all medications. No issues with compliance.
+
+Review of Systems:
+- Fall: as above
+- MSK: right shoulder mild pain
+- Otherwise negative
+
+Objective:
+Vitals: BP 128/72, HR 70 (irregular), RR 16, SpO2 95% RA, Wt 172 lbs (-2 lbs)
+General: NAD, pleasant
+HEENT: No scalp tenderness, no facial injuries
+Neck: Supple, carotid bruits present
+CV: Irregularly irregular, known murmur
+Lungs: Clear
+MSK: R shoulder - mild tenderness at AC joint, FROM limited by pain, no deformity,
+     neurovascularly intact distally
+Ext: No edema
+Neuro: A&Ox3, steady gait observed
+
+MMSE performed: 26/30 (lost points: delayed recall 2/3, orientation to date 1)
+This is consistent with mild cognitive impairment.
+
+Assessment/Plan:
+1. Fall - mechanical (tripped), not syncopal. No head injury. R shoulder contusion,
+   no fracture suspected clinically. X-ray if not improving in 1 week. Home safety
+   eval discussed - remove throw rugs, improve lighting.
+
+2. Mild cognitive impairment - MMSE 26/30 confirms MCI. Discussed with patient
+   and wife. Not dementia level at this time but warrants monitoring. Referral
+   to neurology for evaluation if interested. Patient declines at this time -
+   "I'm doing okay." Will repeat screening in 6-12 months.
+
+3. Atrial fibrillation - stable. Fall risk counseled given anticoagulation.
+   Continue warfarin with close monitoring.
+
+4. CAD, HTN, DM2 - all stable on current regimen.
+
+5. CKD stage 3b - stable. Last eGFR 45.
+
+6. Weight loss - 2 lbs since last visit. Patient states poor appetite some days.
+   Will monitor - if continues, further workup.
+
+7. Health maintenance:
+   - Flu shot: given today
+   - Pneumovax: up to date
+   - Tdap: up to date
+   - Shingrix: recommend completing series - patient had 1st dose, needs 2nd
+
+Advanced care planning: Discussed with patient and wife. Has healthcare proxy
+designated (wife). Full code status confirmed. Will discuss further at future visits.
+
+RTC 3 months or PRN for shoulder if not improving.
+
+Electronically signed by Thomas McCarthy, MD  09/16/2024 3:20 PM

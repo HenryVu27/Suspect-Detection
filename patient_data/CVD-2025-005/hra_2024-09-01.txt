@@ -1,0 +1,195 @@
+HEALTH RISK ASSESSMENT
+Patient: William O'Brien
+Date Completed: 2024-09-01
+Completed via: Phone interview with nurse (wife present)
+
+================================================================================
+GENERAL HEALTH
+================================================================================
+How would you rate your overall health? Fair
+Compared to one year ago, how would you rate your health now? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+================================================================================
+[X] Fatigue - How often? Sometimes, low energy
+[X] Shortness of breath - When? Walking up stairs or hills
+[ ] Swelling in legs or feet - Note: Trace edema per patient
+[X] Heart palpitations or irregular heartbeat - How often? Know I have AFib, feel it sometimes
+[ ] Chest pain or pressure
+[X] Frequent urination - How many times at night? 2-3 times (prostate issues)
+[ ] Increased thirst
+[ ] Unexplained weight loss
+[ ] Unexplained weight gain
+[X] Dizziness or lightheadedness - When? Used to be when standing, better now
+[ ] Numbness or tingling in hands/feet
+[X] Blurred vision - How often? Wear glasses, vision okay with them
+[X] Difficulty sleeping - What type? Wake up to urinate, hard to fall back asleep
+[ ] Snoring
+[X] Forgetfulness - Note: Trouble remembering names, where I put things
+[ ] Feeling sad or depressed
+[ ] Difficulty concentrating
+
+================================================================================
+MEDICAL HISTORY
+================================================================================
+Have you ever been diagnosed with any of the following?
+[X] High blood pressure - Since about 2000
+[X] Diabetes - Since about 2008
+[X] High cholesterol - Long time
+[X] Heart disease - Heart bypass surgery in 2015
+[X] Atrial fibrillation - Around the same time as surgery
+[ ] Heart failure
+[X] Stroke or TIA - Mini stroke in 2019
+[X] Kidney disease - Doctor says kidneys slowing down
+[ ] Asthma or COPD - Note: Was told have some emphysema from smoking
+[ ] Cancer
+[ ] Depression or anxiety
+[ ] Sleep apnea
+[X] Enlarged prostate - On medication for it
+[ ] Other: __________
+
+================================================================================
+FAMILY HISTORY
+================================================================================
+Has anyone in your immediate family been diagnosed with:
+
+Diabetes: No - Parents didn't have it
+
+Heart Disease: Yes
+  Who? Father
+  What happened? Heart attack
+  Age? Mid 60s
+
+Stroke: Yes
+  Who? Mother
+  Age? 75
+
+High Blood Pressure: Yes
+  Who? Both parents
+
+Kidney Disease: No
+
+Cancer: Yes
+  Type? Lung cancer
+  Who? Father
+  Age at diagnosis? 68 - he was a heavy smoker too
+
+================================================================================
+LIFESTYLE - TOBACCO USE
+================================================================================
+Do you currently use tobacco? No
+
+Have you ever smoked? Yes
+  How long ago did you quit? About 10 years ago (2014)
+  How long did you smoke? About 40 years, started as teenager
+  How much did you smoke? About a pack a day, sometimes more
+
+================================================================================
+LIFESTYLE - ALCOHOL USE
+================================================================================
+Do you drink alcohol? Occasionally
+
+How often? Maybe once a week, less than before
+
+How many drinks? 1-2 beers
+
+================================================================================
+LIFESTYLE - EXERCISE
+================================================================================
+How often do you exercise? Not much anymore
+
+What type of exercise? Walking around the house and yard
+
+What prevents you from exercising more?
+[X] Too tired
+[ ] No time
+[X] Physical limitations (get short of breath, joints hurt)
+[ ] Not interested
+
+================================================================================
+LIFESTYLE - DIET
+================================================================================
+How would you describe your diet? Okay, wife cooks healthy mostly
+
+How often do you eat fast food? Rarely
+
+How would you rate your salt intake? Try to keep it low
+
+Do you follow any special diet?
+[X] Low sodium - Trying to
+[X] Diabetic diet - Watch the sweets
+[ ] Low fat
+[ ] Other
+
+================================================================================
+SLEEP
+================================================================================
+On average, how many hours do you sleep per night? 6-7 hours, broken up
+
+Do you have trouble falling asleep? Sometimes
+
+Do you wake up during the night? Yes, 2-3 times to urinate
+
+Do you snore? Wife says not too bad
+
+Do you feel rested when you wake up? Not really
+
+================================================================================
+MENTAL HEALTH
+================================================================================
+In the past 2 weeks, how often have you felt down, depressed, or hopeless?
+[X] Not at all
+[ ] Several days
+[ ] More than half the days
+[ ] Nearly every day
+
+In the past 2 weeks, how often have you had little interest or pleasure in things?
+[ ] Not at all
+[X] Several days - Sometimes just don't feel like doing much
+[ ] More than half the days
+[ ] Nearly every day
+
+================================================================================
+FALLS ASSESSMENT
+================================================================================
+Have you fallen in the past year? Yes
+  How many times? Once, last week
+  Were you injured? Bruised my shoulder
+  What caused the fall? Tripped on a rug
+
+Do you feel unsteady when walking? Sometimes
+
+Do you use any assistive devices? Not yet, wife wants me to use a cane
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+================================================================================
+Do you ever worry about having enough food? No
+
+Is your housing situation stable? Yes, own our home 40+ years
+
+Do you have reliable transportation? Yes, wife drives mostly now
+
+Do you have concerns about affording your medications? Some are expensive but we manage
+
+Who helps you with your care? Wife does most of the medication organizing
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+================================================================================
+"I'm getting old, that's the main thing. Memory isn't what it used to be - I forget
+where I put my keys, can't remember names of people I've known for years. Wife
+helps me a lot with the medications - there's so many pills to keep track of.
+
+I worry about being a burden. After my heart surgery and the mini-stroke, I can't
+do as much as I used to. I used to be very active - worked at the docks for 35 years.
+Now I can barely walk up the stairs without getting winded.
+
+The fall last week scared me and my wife both. I need to be more careful. She wants
+me to use a cane but I'm not ready for that yet.
+
+I'm glad I quit smoking when I did. My father died of lung cancer - I saw what that
+was like and I don't want that for my family. I just hope it's not too late, all
+those years of smoking."
+================================================================================

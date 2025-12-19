@@ -1,0 +1,79 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Ohio Health Partners)
+Export Date: 2023-12-15
+Patient: Robert Thompson    DOB: 03/14/1958    MRN: 12345678
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Essential Hypertension (I10)
+   - First Documented: 2015-06-20
+   - Status: Active
+   - Managing Provider: Dr. Sarah Chen
+
+2. Type 2 Diabetes Mellitus without complications (E11.9)
+   - First Documented: 2018-02-14
+   - Status: Active
+   - Managing Provider: Dr. Sarah Chen
+
+3. Hyperlipidemia, unspecified (E78.5)
+   - First Documented: 2016-09-08
+   - Status: Active
+   - Managing Provider: Dr. Sarah Chen
+
+4. Obesity, unspecified (E66.9)
+   - First Documented: 2014-01-15
+   - Status: Active
+   - Managing Provider: Dr. Sarah Chen
+
+5. Coronary Artery Disease, native vessel (I25.10)
+   - First Documented: 2022-08-10
+   - Status: Active
+   - Managing Provider: Dr. James Morton (Cardiology)
+
+6. Major Depressive Disorder, single episode, moderate (F32.1)
+   - First Documented: 2022-09-15
+   - Status: Active
+   - Managing Provider: Dr. Sarah Chen
+   - Notes: Developed following cardiac event. Was on sertraline 50mg. Counseling completed.
+
+7. Tobacco Use Disorder (F17.210)
+   - First Documented: 2015-06-20
+   - Status: Active
+   - Notes: Patient reports continued smoking despite counseling. Previous quit attempts unsuccessful.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Acute bronchitis (J20.9)
+   - Onset: 2022-01-15
+   - Resolved: 2022-01-28
+
+2. Low back pain, unspecified (M54.5)
+   - Onset: 2021-03-10
+   - Resolved: 2021-04-15
+   - Notes: Resolved with physical therapy
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Percutaneous Coronary Intervention with stent placement (LAD)
+   - Date: 2022-08-10
+   - Hospital: Ohio State University Medical Center
+   - Surgeon: Dr. James Morton
+   - Complications: None
+
+2. Appendectomy
+   - Date: 1998-06-22
+   - Hospital: Grant Medical Center
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Sulfa drugs
+   - Reaction: Skin rash, hives
+   - Severity: Moderate
+   - Documented: 2010-04-15
+
+================================================================================

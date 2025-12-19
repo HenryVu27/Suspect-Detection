@@ -1,0 +1,53 @@
+PROGRESS NOTE
+Patient: William O'Brien    DOB: 02/28/1950    MRN: 56789012
+Date: 2024-02-15       Provider: Dr. Thomas McCarthy, MD
+
+Chief Complaint: Follow-up orthostasis, CT results
+
+Subjective:
+Pt returns for scheduled follow-up. Reports dizziness has improved somewhat since
+stopping amlodipine and increasing fluids. Still happens occasionally but no falls.
+Using compression stockings as recommended.
+
+Cough: Persists but maybe slightly better. Still dry. No hemoptysis.
+
+Otherwise stable. No chest pain, no worsening SOB. Edema about the same.
+
+CT CHEST RESULTS (performed 1/25/24):
+"Impression:
+1. No evidence of pulmonary mass or consolidation to explain cough.
+2. Mild emphysematous changes consistent with smoking history.
+3. Post-surgical changes from prior CABG.
+4. 8mm non-calcified nodule in right lower lobe, indeterminate. Given smoking
+   history, recommend follow-up CT in 3 months per Fleischner Society guidelines.
+5. Small bilateral pleural effusions, likely related to known cardiac disease."
+
+Objective:
+Vitals: BP 134/78 sitting, 126/72 standing (improved orthostasis), HR 72 (irr),
+       SpO2 95% RA, Wt 176 lbs
+General: NAD
+CV: Irregularly irregular, known murmur present
+Lungs: Diminished bases, no crackles, occasional cough
+
+Assessment/Plan:
+1. Orthostatic hypotension - improving. Continue current management without
+   amlodipine. BP controlled.
+
+2. Chronic cough with CT findings:
+   - No mass to explain cough, likely GERD or post-nasal drip. Continue PPI.
+   - NOTE: 8mm RLL nodule identified. Per radiology, needs f/u CT in 3 months.
+     Discussed with patient and wife - they understand need for repeat scan.
+     Will order for May timeframe.
+   - Mild emphysema consistent with smoking history, no treatment needed.
+
+3. Small pleural effusions - likely from cardiac disease. Will monitor clinically.
+   No intervention needed currently.
+
+4. Atrial fibrillation - rate controlled. INR today 2.6 (therapeutic).
+
+5. Other chronic conditions - stable. Continue current management.
+
+Repeat CT chest to be scheduled for ~May 2024. Will discuss results when available.
+RTC 2-3 months unless concerns.
+
+Electronically signed by Thomas McCarthy, MD  02/15/2024 2:30 PM

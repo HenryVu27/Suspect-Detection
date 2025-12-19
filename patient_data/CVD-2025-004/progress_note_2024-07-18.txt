@@ -1,0 +1,56 @@
+PROGRESS NOTE
+Patient: Priya Sharma    DOB: 05/18/1980    MRN: 45678901
+Date: 2024-07-18       Provider: Dr. Jennifer Park, MD
+
+Chief Complaint: Follow-up labs, headaches
+
+Subjective:
+Pt returns to discuss lab results and ongoing headaches. Reports headaches have
+been more frequent - 2-3x/week, mainly tension-type, frontal/temporal. Occur
+more often during work deadlines. No visual changes, no aura, no nausea/vomiting.
+Relieved with ibuprofen and rest.
+
+Otherwise feeling well. Exercise routine continues - added spinning class 1x/week.
+No concerns about medications. Taking as prescribed.
+
+Denies symptoms of thyroid dysfunction - no weight changes, no heat/cold intolerance,
+no palpitations, no hair changes.
+
+Labs from March reviewed with patient:
+- TSH: 1.8 (normal, well controlled)
+- HbA1c: 5.7% (prediabetes range - no change)
+- Total cholesterol: 188
+- LDL: 102
+- HDL: 58
+- Triglycerides: 140
+
+Objective:
+Vitals: BP 120/78, HR 68, RR 14, Wt 146 lbs
+General: Well-appearing, NAD
+HEENT: TMs clear, sinuses non-tender, no nuchal rigidity
+Neuro: CN II-XII intact, no focal deficits
+
+Assessment/Plan:
+1. Tension-type headaches - likely stress-related given correlation with work
+   deadlines. No red flags for secondary cause.
+   - Continue PRN ibuprofen (use sparingly to avoid MOH)
+   - Discussed stress management techniques
+   - Consider PT/massage therapy if persists
+   - Return if pattern changes or new symptoms develop
+
+2. Hypothyroidism - excellent control, TSH 1.8. Continue levothyroxine 75 mcg.
+
+3. Prediabetes (HbA1c 5.7%) - stable, not progressing. Continue lifestyle
+   modifications. Patient is doing well with diet and exercise. Will recheck
+   in 6-12 months.
+
+4. Hyperlipidemia - good control. LDL 102, slightly above optimal but appropriate
+   for her risk level. Continue atorvastatin 10 mg.
+
+5. Health maintenance:
+   - Mammogram completed 04/2024: BI-RADS 1, negative
+   - Pap smear at GYN 04/2024: normal
+
+RTC PRN or 6 months for prediabetes monitoring.
+
+Electronically signed by Jennifer Park, MD  07/18/2024 3:45 PM

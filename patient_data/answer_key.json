@@ -1,0 +1,259 @@
+{
+  "batch_info": {
+    "batch_number": 1,
+    "generated_date": "2024-12-16",
+    "description": "First batch of synthetic clinical documents for healthcare AI demo",
+    "patient_count": 5
+  },
+  "patients": [
+    {
+      "patient_id": "CVD-2025-001",
+      "patient_name": "Robert Thompson",
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "smoking_status_contradiction",
+          "severity": "medium",
+          "signal": "Smoking status differs between documents",
+          "document_a": "HRA (hra_2024-11-01.txt) reports current smoker, half pack per day, 30+ years",
+          "document_b": "Cardiology consult (cardiology_consult_2024-08-20.txt) states 'quit 15 years ago'",
+          "expected_finding": "Smoking status is contradictory - determine true smoking status for accurate risk assessment",
+          "evidence_locations": ["hra_2024-11-01.txt", "cardiology_consult_2024-08-20.txt"]
+        },
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "medium",
+          "signal": "Depression documented in prior year but not in current records",
+          "expected_finding": "Major Depressive Disorder (F32.1) was active in 2023 problem list but not mentioned in current intake documents. PHQ-9 of 14 in November 2024 note suggests depression is still present.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "progress_note_2024-11-08.txt"]
+        },
+        {
+          "type": "lab_diagnosis_gap",
+          "severity": "high",
+          "signal": "eGFR 52 indicates CKD Stage 3a",
+          "expected_finding": "Lab results show eGFR declining from 72 to 52 over 6 months, indicating Stage 3a CKD. CKD is not documented in the problem list.",
+          "evidence_locations": ["lab_results_2024-10-25.txt", "lab_results_2024-04-02.txt"]
+        },
+        {
+          "type": "new_diagnosis_undocumented",
+          "severity": "high",
+          "signal": "Cardiology diagnosed HFrEF (EF 40%)",
+          "expected_finding": "Heart failure with reduced ejection fraction (HFrEF) was newly diagnosed by cardiology on 08/20/2024 but may not be in official problem list yet",
+          "evidence_locations": ["cardiology_consult_2024-08-20.txt", "progress_note_2024-11-08.txt"]
+        },
+        {
+          "type": "medication_diagnosis_alignment",
+          "severity": "medium",
+          "signal": "HF medications prescribed without formal HF diagnosis in problem list",
+          "expected_finding": "Patient is on carvedilol, spironolactone, furosemide (GDMT for heart failure) - verify HFrEF is added to problem list",
+          "evidence_locations": ["progress_note_2024-11-08.txt", "cardiology_consult_2024-08-20.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "medium",
+          "signal": "Depression symptoms cluster in HRA",
+          "expected_finding": "HRA shows multiple depression indicators: feeling sad 'often', difficulty sleeping, fatigue, low energy, poor concentration. Combined with PHQ-9 of 14 - depression should be actively managed.",
+          "evidence_locations": ["hra_2024-11-01.txt", "progress_note_2024-11-08.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CVD-2025-002",
+      "patient_name": "Gloria Washington",
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "ckd_staging_update_needed",
+          "severity": "medium",
+          "signal": "CKD stage has progressed",
+          "expected_finding": "Prior year problem list shows 'CKD Stage 3' (N18.3) but latest labs show eGFR 35 which is Stage 3b (N18.32). Diagnosis staging should be updated.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "lab_results_2024-10-15.txt"]
+        },
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "medium",
+          "signal": "Anxiety disorder in prior year but not in current documentation",
+          "expected_finding": "Generalized Anxiety Disorder (F41.1) documented in 2023 problem list but not mentioned in any current progress notes or HRA",
+          "evidence_locations": ["prior_year_problems_2023.txt"]
+        },
+        {
+          "type": "new_diagnosis_undocumented",
+          "severity": "high",
+          "signal": "Sleep study diagnosed severe OSA",
+          "expected_finding": "Severe obstructive sleep apnea (AHI 42) diagnosed via sleep study on 08/28/2024. OSA diagnosis needs to be added to problem list.",
+          "evidence_locations": ["sleep_study_2024-08-28.txt", "progress_note_2024-10-22.txt"]
+        },
+        {
+          "type": "medication_adherence_concern",
+          "severity": "critical",
+          "signal": "Anticoagulation rationing due to cost",
+          "expected_finding": "Patient admits to taking Eliquis once daily instead of twice due to medication cost concerns. This is a critical stroke risk in patient with AFib (CHA2DS2-VASc = 5).",
+          "evidence_locations": ["progress_note_2024-10-22.txt", "hra_2024-10-01.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "medium",
+          "signal": "OSA symptoms in HRA before diagnosis",
+          "expected_finding": "HRA from October shows loud snoring, witnessed apneas, morning headaches, unrefreshing sleep, daytime sleepiness - classic OSA cluster that was later confirmed by sleep study",
+          "evidence_locations": ["hra_2024-10-01.txt", "sleep_study_2024-08-28.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CVD-2025-003",
+      "patient_name": "Miguel Fernandez",
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "Classic diabetes symptoms led to diagnosis",
+          "expected_finding": "Initial presentation in January 2024 showed classic diabetes symptoms (polyuria, polydipsia, fatigue, blurred vision) plus family history - appropriately led to diabetes diagnosis",
+          "evidence_locations": ["progress_note_2024-01-22.txt", "progress_note_2024-02-08.txt"]
+        },
+        {
+          "type": "lab_diagnosis_gap",
+          "severity": "medium",
+          "signal": "Microalbuminuria without formal nephropathy diagnosis",
+          "expected_finding": "Labs show ACR 44 mg/g (moderately increased albuminuria) indicating early diabetic nephropathy. 'Diabetic nephropathy' or 'CKD' should be documented as diagnosis.",
+          "evidence_locations": ["lab_results_2024-10-10.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "medium",
+          "signal": "OSA symptoms not yet evaluated",
+          "expected_finding": "HRA shows loud snoring, witnessed apneas (wife reports stopping breathing then gasping), morning fatigue, poor sleep quality in obese patient. OSA has not been evaluated.",
+          "evidence_locations": ["hra_2024-10-05.txt"]
+        },
+        {
+          "type": "new_diagnosis_documentation",
+          "severity": "low",
+          "signal": "Diabetic retinopathy mentioned but may not be in problem list",
+          "expected_finding": "October 2024 note mentions 'mild per ophthalmology' for diabetic eye changes. Verify diabetic retinopathy is documented in problem list.",
+          "evidence_locations": ["progress_note_2024-10-18.txt"]
+        },
+        {
+          "type": "cardiovascular_workup_pending",
+          "severity": "medium",
+          "signal": "New palpitations require workup",
+          "expected_finding": "Patient with DM, HTN, obesity, family history of early MI reports new palpitations. Holter monitor ordered - results should be followed up.",
+          "evidence_locations": ["progress_note_2024-10-18.txt"]
+        },
+        {
+          "type": "social_determinant_barrier",
+          "severity": "medium",
+          "signal": "Language barrier and medication cost concerns",
+          "expected_finding": "HRA reveals medication cost concerns and difficulty understanding health information even with interpreter. Health literacy and financial barriers should be addressed.",
+          "evidence_locations": ["hra_2024-10-05.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CVD-2025-004",
+      "patient_name": "Priya Sharma",
+      "complexity": "clean_baseline",
+      "expected_detections": [
+        {
+          "type": "diagnosis_status_update",
+          "severity": "low",
+          "signal": "Prediabetes may have resolved",
+          "expected_finding": "HbA1c improved from 5.7% (prediabetes) to 5.5% (normal). Consider updating diagnosis from 'prediabetes' to 'history of prediabetes, resolved' while continuing monitoring due to risk factors.",
+          "evidence_locations": ["lab_results_2024-10-28.txt", "prior_year_problems_2023.txt", "progress_note_2024-11-05.txt"]
+        }
+      ],
+      "notes": "This patient serves as a clean baseline with well-coordinated care. Only minor documentation improvement opportunity exists. Demonstrates what good care coordination looks like."
+    },
+    {
+      "patient_id": "CVD-2025-005",
+      "patient_name": "William O'Brien",
+      "complexity": "critical_finding",
+      "expected_detections": [
+        {
+          "type": "critical_follow_up_missed",
+          "severity": "critical",
+          "signal": "Lung nodule requiring surveillance not followed up",
+          "expected_finding": "8mm indeterminate RLL lung nodule found on CT chest 01/25/2024. Radiology recommended 3-month follow-up CT per Fleischner guidelines. February note mentioned ordering for May, but May and September notes show NO follow-up CT was performed. This is a CRITICAL PATIENT SAFETY ISSUE in a high-risk former smoker (40 pack-years) with family history of lung cancer.",
+          "evidence_locations": ["ct_chest_2024-01-25.txt", "progress_note_2024-02-15.txt", "progress_note_2024-05-22.txt", "progress_note_2024-09-16.txt"]
+        },
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "medium",
+          "signal": "Anxiety disorder not in current documentation",
+          "expected_finding": "Anxiety Disorder (F41.9) was documented in 2023 problem list (developed after cardiac surgery) but not mentioned in any 2024 notes",
+          "evidence_locations": ["prior_year_problems_2023.txt"]
+        },
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "medium",
+          "signal": "Peripheral vascular disease not mentioned",
+          "expected_finding": "Peripheral Vascular Disease (I73.9) with ABI 0.8 documented in 2023 but not mentioned in current year documentation",
+          "evidence_locations": ["prior_year_problems_2023.txt"]
+        },
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "medium",
+          "signal": "Carotid stenosis not mentioned",
+          "expected_finding": "Bilateral carotid artery stenosis (I65.23) - moderate stenosis on duplex - documented in 2023 but not mentioned in 2024 notes. Should have surveillance imaging.",
+          "evidence_locations": ["prior_year_problems_2023.txt"]
+        },
+        {
+          "type": "immunization_gap",
+          "severity": "low",
+          "signal": "Shingrix series incomplete",
+          "expected_finding": "Shingrix dose 1 given March 2023, dose 2 never administered. Series incomplete.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "progress_note_2024-09-16.txt"]
+        },
+        {
+          "type": "ckd_staging_update",
+          "severity": "low",
+          "signal": "CKD may need staging update",
+          "expected_finding": "Prior year shows CKD Stage 3 but labs show eGFR 45 which is Stage 3b",
+          "evidence_locations": ["prior_year_problems_2023.txt", "lab_results_2024-05-15.txt"]
+        },
+        {
+          "type": "cognitive_impairment_documentation",
+          "severity": "medium",
+          "signal": "MCI confirmed but may not be in problem list",
+          "expected_finding": "MMSE 26/30 in September 2024 confirms mild cognitive impairment. Should be added to problem list for tracking.",
+          "evidence_locations": ["progress_note_2024-09-16.txt"]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_detection_opportunities": 27,
+    "critical_findings": 2,
+    "high_severity": 6,
+    "medium_severity": 15,
+    "low_severity": 4,
+    "detection_types": {
+      "chronic_condition_dropoff": 6,
+      "lab_diagnosis_gap": 3,
+      "new_diagnosis_undocumented": 3,
+      "symptom_cluster_detection": 4,
+      "contradiction": 1,
+      "medication_adherence_concern": 1,
+      "critical_follow_up_missed": 1,
+      "ckd_staging_update": 2,
+      "immunization_gap": 1,
+      "other": 5
+    }
+  },
+  "validation_instructions": {
+    "purpose": "This answer key is for validating the agentic suspect detection system's accuracy",
+    "usage": [
+      "Run the detection agent on each patient's document bundle",
+      "Compare agent findings against expected_detections for each patient",
+      "Calculate precision: (correct detections) / (all agent detections)",
+      "Calculate recall: (correct detections) / (expected detections)",
+      "Pay special attention to critical findings (CVD-2025-005 lung nodule)",
+      "Note any false positives or novel true detections not in this key"
+    ],
+    "success_criteria": {
+      "minimum_recall_critical": 1.0,
+      "minimum_recall_high": 0.9,
+      "minimum_recall_overall": 0.8,
+      "maximum_false_positive_rate": 0.2
+    }
+  }
+}

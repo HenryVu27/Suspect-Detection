@@ -1,0 +1,79 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Stanford Health)
+Export Date: 2023-12-18
+Patient: Priya Sharma    DOB: 05/18/1980    MRN: 45678901
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Hypothyroidism (E03.9)
+   - First Documented: 2018-04-22
+   - Status: Active
+   - Managing Provider: Dr. Jennifer Park
+   - Notes: Hashimoto's thyroiditis confirmed by antibodies. Stable on replacement.
+
+2. Hyperlipidemia, unspecified (E78.5)
+   - First Documented: 2022-03-15
+   - Status: Active
+   - Managing Provider: Dr. Jennifer Park
+   - Notes: Mild elevation. Started low-dose statin for primary prevention given
+     strong family history of diabetes and CVD.
+
+3. Prediabetes (R73.03)
+   - First Documented: 2022-03-15
+   - Status: Active
+   - Managing Provider: Dr. Jennifer Park
+   - Notes: HbA1c 5.6-5.7%. History of GDM x 2. High risk for progression.
+     On lifestyle modification. Monitor annually.
+
+4. History of gestational diabetes mellitus (O24.419)
+   - First Documented: 2014-06-10
+   - Status: Resolved (historical)
+   - Notes: GDM with first pregnancy (2014), recurred with second pregnancy (2016).
+     Resolved postpartum both times. Remains at high risk for Type 2 DM.
+
+5. Tension-type headache (G44.209)
+   - First Documented: 2023-08-14
+   - Status: Active
+   - Managing Provider: Dr. Jennifer Park
+   - Notes: Episodic, stress-related. Managed with PRN NSAIDs and stress reduction.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Iron deficiency anemia (D50.9)
+   - Onset: 2016-08-15 (postpartum)
+   - Resolved: 2017-02-20
+   - Notes: Postpartum, resolved with supplementation
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Cesarean section, low transverse
+   - Date: 2014-09-22
+   - Hospital: Stanford University Hospital
+   - Indication: Failure to progress
+   - Complications: None
+
+2. Repeat cesarean section, low transverse
+   - Date: 2016-11-15
+   - Hospital: Stanford University Hospital
+   - Indication: Prior C-section, patient choice for repeat
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Codeine
+   - Reaction: Nausea, vomiting
+   - Severity: Moderate
+   - Documented: 2014-09-22 (post-surgical)
+
+================================================================================
+IMMUNIZATIONS (Recent)
+================================================================================
+- Influenza: 2023-10-15
+- Tdap: 2021-03-10
+- COVID-19: Primary series + boosters complete (most recent 2023-10-15)
+- HPV: Series completed (2008)
+================================================================================

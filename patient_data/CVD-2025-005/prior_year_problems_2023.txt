@@ -1,0 +1,119 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Massachusetts General Hospital)
+Export Date: 2023-12-22
+Patient: William O'Brien    DOB: 02/28/1950    MRN: 56789012
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Coronary Artery Disease, status post CABG (I25.10, Z95.1)
+   - First Documented: 2015-04-10
+   - Status: Active
+   - Notes: 3-vessel CABG (LIMA to LAD, SVG to OM1, SVG to RCA)
+
+2. Atrial Fibrillation, chronic (I48.2)
+   - First Documented: 2015-04-15
+   - Status: Active
+   - Managing Provider: Dr. Thomas McCarthy
+   - Notes: On warfarin anticoagulation
+
+3. Essential Hypertension (I10)
+   - First Documented: 2000-08-15
+   - Status: Active
+
+4. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2008-03-22
+   - Status: Active
+
+5. Hyperlipidemia (E78.5)
+   - First Documented: 2002-06-10
+   - Status: Active
+
+6. Chronic Kidney Disease, Stage 3 (N18.3)
+   - First Documented: 2020-05-18
+   - Status: Active
+
+7. History of Transient Ischemic Attack (Z86.73)
+   - First Documented: 2019-08-05
+   - Status: Resolved (historical)
+   - Notes: Single episode, no residual deficits
+
+8. Benign Prostatic Hyperplasia (N40.0)
+   - First Documented: 2018-02-14
+   - Status: Active
+
+9. Gastroesophageal Reflux Disease (K21.0)
+   - First Documented: 2016-09-22
+   - Status: Active
+
+10. Osteoarthritis, multiple sites (M15.9)
+    - First Documented: 2017-11-08
+    - Status: Active
+
+11. Tobacco Use Disorder, in remission (F17.210)
+    - First Documented: 2014-06-15
+    - Status: Active (in remission)
+    - Notes: Quit 2014. Prior 40 pack-year history.
+
+12. Carotid Artery Stenosis, bilateral (I65.23)
+    - First Documented: 2019-08-10
+    - Status: Active
+    - Notes: Moderate stenosis bilaterally on duplex ultrasound.
+      Being followed conservatively.
+
+13. Peripheral Vascular Disease (I73.9)
+    - First Documented: 2019-11-20
+    - Status: Active
+    - Notes: Claudication symptoms, ABI 0.8 bilaterally
+
+14. Anxiety Disorder, unspecified (F41.9)
+    - First Documented: 2015-05-20
+    - Status: Active
+    - Notes: Developed after cardiac surgery. Managed without medication.
+      Last documented as stable.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. ACE Inhibitor-Induced Cough (T46.4X5A)
+   - Onset: 2018-01-15
+   - Resolved: 2018-02-28
+   - Notes: Developed cough on lisinopril, switched to ARB
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Coronary Artery Bypass Grafting (CABG) x 3
+   - Date: 2015-04-10
+   - Hospital: Massachusetts General Hospital
+   - Surgeon: Dr. James Wilson
+   - Complications: Postoperative atrial fibrillation (now chronic)
+
+2. Right Inguinal Hernia Repair
+   - Date: 2005-03-22
+   - Hospital: Boston Medical Center
+   - Complications: None
+
+3. Appendectomy
+   - Date: 1975-06-15
+   - Hospital: South Boston Community Hospital
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Lisinopril (ACE Inhibitor)
+   - Reaction: Persistent dry cough
+   - Severity: Moderate
+   - Documented: 2018-02-28
+
+================================================================================
+IMMUNIZATIONS (Recent)
+================================================================================
+- Influenza: 2023-10-10
+- Pneumovax 23: 2019-04-15
+- Prevnar 20: 2022-08-20
+- Tdap: 2020-03-12
+- Shingrix: Dose 1 given 2023-03-15 (needs dose 2)
+- COVID-19: Up to date
+================================================================================

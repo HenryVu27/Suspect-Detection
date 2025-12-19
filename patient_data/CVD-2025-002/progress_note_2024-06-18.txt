@@ -1,0 +1,62 @@
+PROGRESS NOTE
+Patient: Gloria Washington    DOB: 08/22/1962    MRN: 23456789
+Date: 2024-06-18       Provider: Dr. Marcus Williams, MD
+
+Chief Complaint: F/U chronic conditions, fatigue
+
+Subjective:
+Pt returns for follow-up. Main complaint today is fatigue - "I'm tired all the time,
+doc." Reports she's been dragging for past several months. Goes to bed early but
+still feels exhausted. Daughter says she snores "like a freight train." Sometimes
+wakes up with headaches.
+
+HF symptoms stable - denies worsening SOB, no increase in edema. Sugars running
+slightly higher per home log, 150-190 fasting. Has been under stress - son lost his
+job, been helping with grandkids.
+
+Admits she's been inconsistent with taking her afternoon carvedilol dose. "By evening
+I just forget."
+
+Review of Systems:
+- Fatigue: severe, daily
+- Sleep: poor quality despite adequate hours, snores, ? apneic episodes per family
+- Mood: stressed but not depressed
+- Weight: stable
+- No fevers, chest pain, palpitations, leg pain
+
+Objective:
+Vitals: BP 148/90, HR 78 (irregular), RR 18, Temp 98.0F, Wt 202 lbs (+2), SpO2 93% RA
+General: Tired-appearing obese female, NAD
+HEENT: Oropharynx crowded, Mallampati class III
+Neck: Thick, no LAD
+CV: Irregularly irregular, no murmurs
+Lungs: Clear
+Ext: 1+ edema bilaterally
+
+Labs from 6/10:
+- A1c: 7.9% (up from 7.6)
+- Cr: 1.8 (up from 1.6), eGFR 38
+- K: 4.6
+- BNP: 380
+
+Assessment/Plan:
+1. Fatigue - multifactorial. Likely contributors include uncontrolled DM, worsening
+   renal function, possible OSA (snoring, witnessed apneas, daytime somnolence, AM
+   headaches, crowded airway). ORDER SLEEP STUDY.
+2. Possible obstructive sleep apnea - high clinical suspicion given above. Refer to
+   sleep medicine after study completed.
+3. Heart failure - stable clinically but BNP mildly elevated. Continue current
+   regimen. Emphasize medication compliance.
+4. Atrial fibrillation - rate controlled. Continue Eliquis.
+5. Type 2 diabetes - worsening control, A1c 7.9%. Increase Jardiance to 25mg daily.
+   Reinforce diet and glucose monitoring.
+6. CKD - concerning decline in eGFR from 42 to 38 over 4 months. Now stage 3b.
+   Avoid nephrotoxins. Will refer nephrology if continues to decline.
+7. Hypertension - still not at goal. Limited options given CKD and medication load.
+   Continue current regimen.
+
+Discussed importance of taking ALL medications as prescribed. Patient understands.
+
+Sleep study scheduled. RTC 6-8 weeks.
+
+Electronically signed by Marcus Williams, MD  06/18/2024 4:45 PM

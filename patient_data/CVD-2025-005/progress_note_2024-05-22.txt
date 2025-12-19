@@ -1,0 +1,61 @@
+PROGRESS NOTE
+Patient: William O'Brien    DOB: 02/28/1950    MRN: 56789012
+Date: 2024-05-22       Provider: Dr. Thomas McCarthy, MD
+
+Chief Complaint: Routine follow-up, medication refills
+
+Subjective:
+74 y/o M here for routine follow-up. Feeling well overall. Dizziness resolved
+since stopping amlodipine - has not recurred. Cough has improved - now only
+occasional, not bothersome.
+
+No chest pain, palpitations stable at baseline. Some mild DOE walking up hill
+to mailbox but same as usual. No worsening edema. Sleeping well.
+
+Wife accompanied, states he seems "about the same" cognitively. Still forgets
+names and where he puts things but managing okay.
+
+Taking all medications as prescribed. INR has been stable per coumadin clinic.
+
+Review of Systems: Otherwise negative
+
+Objective:
+Vitals: BP 132/74, HR 66 (irregular), RR 16, SpO2 96% RA, Wt 174 lbs
+General: Pleasant elderly male, NAD
+CV: Irregularly irregular, II/VI SEM at apex
+Lungs: Clear, no cough during exam today
+Ext: Trace edema
+
+Labs from 5/15:
+- Cr: 1.6 (slight increase from 1.5)
+- eGFR: 45
+- K: 4.8
+- A1c: 7.3%
+- INR: 2.3 (therapeutic)
+
+Assessment/Plan:
+1. Chronic cough - resolved. No further workup needed at this time.
+
+2. Atrial fibrillation - stable, rate controlled. Continue warfarin, metoprolol.
+   INR therapeutic.
+
+3. CAD s/p CABG - stable. Continue current regimen.
+
+4. Hypertension - well controlled off amlodipine. Continue losartan, metoprolol.
+
+5. Type 2 diabetes - A1c 7.3%, acceptable for age and comorbidities. Continue
+   metformin.
+
+6. CKD stage 3b - eGFR declined slightly to 45. Monitor closely. Avoid nephrotoxins.
+   Patient reminded to avoid NSAIDs.
+
+7. BPH - stable on tamsulosin.
+
+8. Mild cognitive impairment - stable per wife. Will perform MMSE at next visit.
+
+9. Health maintenance - Colonoscopy overdue but given age and comorbidities,
+   discussed risks/benefits. Patient declines at this time. Documented.
+
+Refills provided. RTC 3-4 months. Annual wellness visit due - will schedule.
+
+Electronically signed by Thomas McCarthy, MD  05/22/2024 11:15 AM

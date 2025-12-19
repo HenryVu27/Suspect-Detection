@@ -1,0 +1,86 @@
+PROGRESS NOTE
+Patient: William O'Brien    DOB: 02/28/1950    MRN: 56789012
+Date: 2024-01-18       Provider: Dr. Thomas McCarthy, MD
+
+Chief Complaint: Follow-up multiple chronic conditions
+
+Subjective:
+74 y/o M with extensive cardiac history here for routine follow-up. Overall feeling
+"not too bad for an old man." Main concerns today are occasional dizziness when
+standing up quickly and persistent cough x 2 months.
+
+Dizziness: Happens mainly when getting out of bed or chair quickly. No falls.
+No true vertigo. No syncope. Feels lightheaded for few seconds then resolves.
+
+Cough: Dry, non-productive, no hemoptysis. No fevers/chills. No dyspnea at rest.
+Some mild SOB with exertion but stable from baseline. Former smoker - quit 10 years
+ago after 40 pack-years.
+
+Cardiac: Denies chest pain. Occasional palpitations, same as usual (has afib).
+No worsening edema. Taking all medications.
+
+Reports mild forgetfulness - "can't remember names like I used to." Wife helps
+with medications. Mood okay.
+
+PMH: CAD s/p CABG (2015), AFib, HTN, HLD, DM2, CKD3, BPH, GERD, osteoarthritis,
+     h/o TIA (2019)
+Allergies: Lisinopril (cough)
+
+Current Medications:
+- Warfarin (dose varies per INR)
+- Metoprolol succinate 50mg daily
+- Losartan 50mg daily
+- Atorvastatin 80mg daily
+- Metformin 500mg BID
+- Omeprazole 20mg daily
+- Tamsulosin 0.4mg daily
+- Aspirin 81mg daily
+
+Objective:
+Vitals: BP 138/76 sitting, 122/68 standing (orthostatic drop), HR 68 (irregular),
+       RR 16, Temp 97.8F, Wt 178 lbs, SpO2 94% RA
+General: Elderly male, NAD, appears stated age
+HEENT: MMM, no pharyngeal erythema
+Neck: No LAD, carotid bruits present bilaterally
+CV: Irregularly irregular, II/VI systolic murmur at apex (known MR), no S3
+Lungs: Diminished at bases, no crackles, no wheezes. Occasional dry cough
+       during exam.
+Abd: Soft, NT
+Ext: Trace edema bilateral, DP pulses 1+
+Neuro: A&Ox3, slight delay in recall, MMSE not performed today
+
+Assessment/Plan:
+1. Orthostatic hypotension - symptomatic. Likely multifactorial: age, multiple
+   BP meds, autonomic dysfunction from DM. HOLD amlodipine (was on prior).
+   Increase fluids, compression stockings. Rise slowly from sitting/lying.
+   Recheck BP in 2 weeks.
+
+2. Chronic cough - 2 months duration in former heavy smoker. Concerning given
+   smoking history. Not on ACE-I (was stopped previously due to cough).
+   ORDER CT CHEST to evaluate for mass/nodule given smoking history.
+   If negative, consider GERD-related cough (on PPI), post-nasal drip.
+
+3. Atrial fibrillation - rate controlled on metoprolol. On warfarin for
+   anticoagulation (CHA2DS2-VASc = 6). Check INR today.
+
+4. CAD s/p CABG - stable, no angina. Continue ASA, statin.
+
+5. Hypertension - slightly above goal but with orthostatic symptoms. Do not
+   intensify therapy. May need to reduce BP meds if orthostasis persists.
+
+6. Type 2 diabetes - last A1c 7.1%, acceptable for age. Continue metformin.
+
+7. CKD stage 3 - last Cr 1.5, eGFR 48. Stable. Continue monitoring.
+
+8. Cognitive concerns - mild forgetfulness, likely age-related. No red flags.
+   Consider formal cognitive screening at next visit or annual wellness.
+
+9. BPH - stable on tamsulosin.
+
+10. Health maintenance - Flu shot today. Pneumovax up to date.
+
+INR today: 2.4 (therapeutic). Continue current warfarin dose.
+
+CT chest ordered. Will call with results. RTC 4 weeks.
+
+Electronically signed by Thomas McCarthy, MD  01/18/2024 3:45 PM

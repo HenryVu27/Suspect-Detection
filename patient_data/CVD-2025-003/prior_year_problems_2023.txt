@@ -1,0 +1,53 @@
+PROBLEM LIST EXPORT
+Source: No prior EHR records available
+Export Date: 2024-01-22
+Patient: Miguel Fernandez    DOB: 11/30/1975    MRN: 34567890
+
+================================================================================
+NOTES
+================================================================================
+Patient is new to this healthcare system as of January 2024. Reports no prior
+regular medical care in the United States. Moved from Mexico approximately 2 years
+ago. No medical records were transferred.
+
+Per patient interview at initial visit:
+- No known diagnoses prior to establishing care
+- No prior medications (except OTC ibuprofen for back pain)
+- No known allergies
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+None documented - patient new to care
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None reported by patient
+
+================================================================================
+ALLERGIES
+================================================================================
+No Known Drug Allergies (NKDA)
+
+================================================================================
+IMMUNIZATION STATUS (self-reported)
+================================================================================
+- Childhood immunizations: Unknown, likely received in Mexico
+- Tetanus: Unknown, >10 years ago per patient estimate
+- Influenza: Never
+- COVID-19: None
+- Hepatitis B: Unknown
+- Pneumococcal: None
+
+================================================================================
+NOTES FOR NEW PROVIDER
+================================================================================
+This patient presents with no documented medical history but has significant
+family history of diabetes (mother, brother) and premature cardiovascular death
+(father MI at age 55). Initial evaluation should include comprehensive screening
+for metabolic syndrome, diabetes, and cardiovascular risk factors.
+
+Patient has limited English proficiency - Spanish interpreter required for all
+visits. Health literacy may be a concern for complex disease management.
+================================================================================

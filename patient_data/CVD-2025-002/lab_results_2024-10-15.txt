@@ -1,0 +1,139 @@
+LABORATORY REPORT
+Patient: Gloria Washington    DOB: 08/22/1962    MRN: 23456789
+Collection Date: 2024-10-15 08:00 AM (Fasting)
+Ordering Provider: Dr. Marcus Williams, MD
+Performing Lab: LabCorp - Atlanta
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose, Fasting             172 mg/dL   70-100 mg/dL       HIGH
+BUN                          38 mg/dL    7-20 mg/dL         HIGH
+Creatinine, Serum            1.9 mg/dL   0.6-1.1 mg/dL      HIGH
+eGFR (African American)      35 mL/min   >60 mL/min         LOW
+Sodium                       136 mEq/L   136-145 mEq/L
+Potassium                    5.1 mEq/L   3.5-5.0 mEq/L      HIGH
+Chloride                     100 mEq/L   98-106 mEq/L
+CO2                          21 mEq/L    22-29 mEq/L        LOW
+Calcium                      9.0 mg/dL   8.5-10.5 mg/dL
+Total Protein                6.5 g/dL    6.0-8.3 g/dL
+Albumin                      3.4 g/dL    3.5-5.0 g/dL       LOW
+Bilirubin, Total             0.6 mg/dL   0.1-1.2 mg/dL
+Alkaline Phosphatase         88 U/L      44-147 U/L
+AST (SGOT)                   24 U/L      10-40 U/L
+ALT (SGPT)                   28 U/L      7-56 U/L
+
+================================================================================
+LIPID PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Total Cholesterol            195 mg/dL   <200 mg/dL
+LDL Cholesterol (calc)       108 mg/dL   <100 mg/dL         HIGH
+HDL Cholesterol              42 mg/dL    >50 mg/dL (F)      LOW
+Triglycerides                225 mg/dL   <150 mg/dL         HIGH
+
+================================================================================
+HEMOGLOBIN A1C
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Hemoglobin A1c               8.2%        <5.7%              HIGH
+
+Interpretation: Poor glycemic control. Indicates average blood glucose ~189 mg/dL.
+Well above goal of <7% for diabetic patients. Medication adjustment recommended.
+
+================================================================================
+CARDIAC MARKERS
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+BNP                          420 pg/mL   <100 pg/mL         HIGH
+
+Interpretation: Elevated. Consistent with known heart failure. Stable compared
+to prior level of 380 pg/mL.
+
+================================================================================
+COMPLETE BLOOD COUNT
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          6.8 K/uL    4.5-11.0 K/uL
+RBC                          3.9 M/uL    4.0-5.5 M/uL       LOW
+Hemoglobin                   11.2 g/dL   12.0-16.0 g/dL     LOW
+Hematocrit                   33.8%       36.0-46.0%         LOW
+MCV                          86.7 fL     80-100 fL
+MCH                          28.7 pg     27-33 pg
+MCHC                         33.1 g/dL   32-36 g/dL
+Platelet Count               198 K/uL    150-400 K/uL
+
+================================================================================
+IRON STUDIES
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Iron, Serum                  58 ug/dL    60-170 ug/dL       LOW
+TIBC                         320 ug/dL   250-400 ug/dL
+Ferritin                     85 ng/mL    12-150 ng/mL
+Iron Saturation              18%         20-50%             LOW
+
+================================================================================
+URINALYSIS
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Protein                      2+          Negative           ABNORMAL
+Glucose                      2+          Negative           ABNORMAL
+Blood                        Trace       Negative           ABNORMAL
+
+================================================================================
+URINE MICROALBUMIN
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Microalbumin, Urine          185 mg/L    <30 mg/L           HIGH
+Creatinine, Urine            92 mg/dL    20-275 mg/dL
+Albumin/Creatinine Ratio     201 mg/g    <30 mg/g           HIGH
+
+Interpretation: Severely increased albuminuria (macroalbuminuria, A3 stage).
+Indicates significant kidney damage likely from diabetic nephropathy.
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+================================================================================
+SIGNIFICANT FINDINGS:
+
+1. PROGRESSIVE CKD: eGFR has declined from 42 (Stage 3a) to 35 (Stage 3b) over
+   the past 8 months. This represents continued loss of renal function.
+   - CKD staging should be updated from Stage 3 to Stage 3b
+   - Cause is likely multifactorial: diabetic nephropathy (given severe
+     proteinuria), hypertensive nephrosclerosis
+   - Nephrology referral recommended if not already established
+
+2. SIGNIFICANT PROTEINURIA: ACR 201 mg/g represents macroalbuminuria (A3).
+   This is a strong predictor of CKD progression and cardiovascular events.
+   ACE-I or ARB therapy indicated (patient is on ARB).
+
+3. METABOLIC ACIDOSIS: Low CO2 of 21 suggests metabolic acidosis, likely from
+   CKD. May need bicarbonate supplementation.
+
+4. HYPERKALEMIA: Potassium 5.1 is elevated, concerning in patient on ARB.
+   Monitor closely. Dietary potassium restriction advised.
+
+5. ANEMIA OF CKD: Hemoglobin 11.2 with low iron saturation suggests anemia of
+   chronic kidney disease with possible functional iron deficiency. Consider
+   iron supplementation and EPO if Hgb continues to decline.
+
+6. WORSENING DIABETES: A1c 8.2% up from 7.6% six months ago. Patient may need
+   insulin initiation. Caution with metformin dose given declining renal function
+   (eGFR approaching threshold for dose reduction).
+
+7. HYPOALBUMINEMIA: Low albumin 3.4 suggests either poor nutrition or protein
+   losses (consistent with heavy proteinuria).
+
+================================================================================
+Report electronically signed by: Angela Thompson, MD, Laboratory Director
+10/15/2024 2:15 PM
+================================================================================

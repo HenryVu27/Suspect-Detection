@@ -1,0 +1,67 @@
+PROGRESS NOTE
+Patient: Miguel Fernandez    DOB: 11/30/1975    MRN: 34567890
+Date: 2024-06-12       Provider: Dr. Elena Rodriguez, MD
+Interpreter: Bilingual MA assisted
+
+Chief Complaint: DM follow-up, glucose control
+
+Subjective:
+Pt returns for diabetes management. Reports he has been "trying" with diet and
+medications. Home glucose log shows variable readings - fasting 140-200, some
+readings over 250 after meals. Admits he doesn't always remember to take his
+afternoon metformin dose. "Work is busy, I forget."
+
+Thirst and urination somewhat better than before but still present. Fatigue still
+significant. Feet tingling at night continues. Has not yet seen ophthalmology -
+"couldn't get time off work."
+
+Reports he cut back on sodas and tries to eat smaller portions. Still eating
+lunch from food trucks most days. Wife is cooking with less fat.
+
+No hypoglycemia symptoms. Denies chest pain, SOB.
+
+BP at home (checked at pharmacy): 130s-140s systolic
+
+Current Medications:
+- Metformin 1000mg BID
+- Atorvastatin 20mg daily
+- Lisinopril 10mg daily
+
+Objective:
+Vitals: BP 136/84, HR 76, RR 16, Wt 210 lbs (-4 lbs), BMI 32.9
+General: NAD, somewhat improved energy per patient
+CV: RRR
+Ext: No edema
+Feet: Dry skin, intact. Sensation diminished as before.
+
+Labs from 6/5:
+- HbA1c: 7.8% (up from 7.4%)
+- Fasting glucose: 162
+- Cr: 0.9, eGFR >60
+- LDL: 112 (improved)
+- Triglycerides: 198 (improved)
+
+Assessment/Plan:
+1. Type 2 Diabetes - not at goal. A1c worsened to 7.8% despite medication.
+   - Medication adherence is issue - missing afternoon doses
+   - CHANGE to Metformin ER 2000mg once daily (single dose for compliance)
+   - ADD Jardiance 10mg daily - will help with glucose and weight
+   - Reinforce diet education. Discussed carb counting basics.
+   - MUST complete eye exam - rescheduled with reminder
+
+2. Diabetic peripheral neuropathy - stable but persistent. Continue monitoring.
+   Will consider gabapentin if pain component worsens.
+
+3. Hyperlipidemia - LDL improved to 112 on statin. Still above goal <100.
+   Continue atorvastatin, may increase if not improved.
+
+4. Hypertension - at goal today. Continue lisinopril.
+
+5. Obesity - good progress! Lost 4 lbs. Encouraged to continue.
+
+Discussed importance of medication compliance at length. Offered pill organizer.
+Patient's wife was present today and will help remind him to take medications.
+
+RTC 3 months. Will call pharmacy to set up automatic refill reminders.
+
+Electronically signed by Elena Rodriguez, MD  06/12/2024 3:15 PM

@@ -1,0 +1,189 @@
+CARDIOLOGY CONSULTATION
+
+Patient: Robert Thompson    DOB: 03/14/1958    MRN: 12345678
+Date of Service: 2024-08-20
+Referring Provider: Dr. Sarah Chen, MD (Primary Care)
+Consulting Provider: Dr. Michael Torres, MD, FACC
+
+================================================================================
+REASON FOR CONSULTATION
+================================================================================
+Progressive dyspnea on exertion, lower extremity edema, elevated BNP. History of
+CAD s/p PCI. Evaluate for heart failure.
+
+================================================================================
+HISTORY OF PRESENT ILLNESS
+================================================================================
+Mr. Thompson is a 66-year-old gentleman with history of CAD status post LAD stent
+placement in 2022, hypertension, type 2 diabetes, hyperlipidemia, and obesity who
+presents for evaluation of progressive exertional dyspnea and lower extremity edema
+over the past 2-3 months.
+
+Patient reports he first noticed getting "winded" going up stairs about 2-3 months
+ago. This has progressively worsened - he now gets short of breath walking one block
+on flat ground. He has to stop and rest frequently. He also noticed bilateral ankle
+swelling that worsens throughout the day and improves overnight.
+
+He reports orthopnea - needs 2 pillows to sleep comfortably. No paroxysmal nocturnal
+dyspnea. No chest pain or palpitations. He has gained approximately 8-10 pounds over
+the past 2 months. Notes increased fatigue and decreased exercise tolerance.
+
+Denies fevers, chills, cough, or recent illness.
+
+Remote smoking history - quit 15 years ago. Previously smoked 1 PPD x 20 years.
+
+================================================================================
+PAST MEDICAL HISTORY
+================================================================================
+- Coronary artery disease, status post PCI with LAD stent (2022)
+- Hypertension (diagnosed 2015)
+- Type 2 diabetes mellitus (diagnosed 2018)
+- Hyperlipidemia (diagnosed 2016)
+- Obesity (BMI 35)
+- Sulfa allergy (rash)
+
+================================================================================
+PAST SURGICAL HISTORY
+================================================================================
+- Percutaneous coronary intervention with DES to LAD (08/2022)
+- Appendectomy (1998)
+
+================================================================================
+CURRENT MEDICATIONS
+================================================================================
+- Lisinopril 20 mg daily
+- Metformin 1000 mg twice daily
+- Atorvastatin 40 mg at bedtime
+- Aspirin 81 mg daily
+- Clopidogrel 75 mg daily
+- Amlodipine 5 mg daily (recently added)
+
+================================================================================
+FAMILY HISTORY
+================================================================================
+- Father: MI at age 58 (fatal)
+- Mother: Type 2 diabetes, hypertension
+- Paternal uncle: Stroke at age 65
+
+================================================================================
+SOCIAL HISTORY
+================================================================================
+- Former smoker (quit 15 years ago, previously 1 PPD x 20 years = 20 pack-years)
+- Occasional alcohol use (4-6 drinks/week)
+- Works as office manager
+- Married, lives with wife
+- Sedentary lifestyle
+
+================================================================================
+PHYSICAL EXAMINATION
+================================================================================
+Vitals: BP 142/88, HR 84 (regular), RR 20, SpO2 95% on room air, Weight 252 lbs
+
+General: Alert, obese male, appears mildly short of breath at rest
+HEENT: No JVD at 30 degrees; at 45 degrees, JVP elevated to approximately 12 cm
+Cardiac: Regular rate and rhythm, S1 and S2 present, S3 gallop appreciated,
+         no murmurs or rubs, PMI laterally displaced
+Lungs: Bibasilar crackles extending 1/3 up, no wheezes
+Abdomen: Obese, soft, non-tender, no hepatomegaly appreciated
+Extremities: 2+ pitting edema to mid-calf bilaterally, warm, pulses 2+
+Neurologic: Alert and oriented, no focal deficits
+
+================================================================================
+DIAGNOSTICS
+================================================================================
+ECG (today):
+- Normal sinus rhythm at 82 bpm
+- Left ventricular hypertrophy by voltage criteria
+- Non-specific ST-T wave changes in lateral leads
+- No acute ischemic changes
+- Q waves in V1-V2 (old, unchanged from prior)
+
+Labs (from referring physician):
+- BNP: 340 pg/mL (elevated)
+- Cr: 1.3 (baseline 1.1)
+- eGFR: 58
+
+ECHOCARDIOGRAM (performed today):
+- Left ventricular ejection fraction: 40% (reduced; prior echo 2022 showed EF 55%)
+- Moderate concentric left ventricular hypertrophy
+- Global hypokinesis with regional wall motion abnormality in LAD territory
+- Left atrial enlargement (mild)
+- Grade II diastolic dysfunction
+- Mild mitral regurgitation
+- Estimated PASP: 38 mmHg (mildly elevated)
+- No pericardial effusion
+- Patent LAD stent by color flow
+
+================================================================================
+IMPRESSION
+================================================================================
+1. NEW DIAGNOSIS: Heart failure with reduced ejection fraction (HFrEF)
+   - EF 40%, down from 55% in 2022
+   - Likely mixed etiology: ischemic cardiomyopathy from CAD plus hypertensive
+     heart disease
+   - NYHA Class II-III symptoms
+   - ACC/AHA Stage C heart failure
+
+2. Coronary artery disease, status post PCI
+   - Stent appears patent on echo
+   - However, given new HFrEF, will need stress testing to evaluate for
+     progressive ischemia vs new lesions
+
+3. Uncontrolled hypertension
+   - Contributing to LV remodeling and HF
+   - BP 142/88 today despite 2 agents
+
+4. Type 2 diabetes mellitus - additional risk factor for cardiomyopathy
+
+5. Obesity - contributing to symptoms and cardiac risk
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+1. INITIATE GUIDELINE-DIRECTED MEDICAL THERAPY (GDMT) FOR HFrEF:
+   a. Start Carvedilol 6.25 mg twice daily, titrate to target dose as tolerated
+      (will replace need for amlodipine for BP)
+   b. Start Spironolactone 25 mg daily (check potassium and creatinine in 1 week)
+   c. Increase Furosemide to 40 mg daily for volume management
+   d. Continue Lisinopril (ACE inhibitor is part of GDMT)
+
+2. STOP Amlodipine - beta blocker will provide better mortality benefit
+
+3. Consider adding SGLT2 inhibitor (empagliflozin or dapagliflozin) - benefits
+   for HFrEF independent of diabetes. Coordinate with PCP for diabetes management.
+
+4. LIFESTYLE MODIFICATIONS:
+   - Strict sodium restriction <2 grams daily
+   - Fluid restriction 1.5-2 liters daily
+   - Daily weight monitoring - call if gain >3 lbs in one day or >5 lbs in one week
+   - Smoking cessation if not already achieved (confirmed quit 15 years ago)
+   - Cardiac rehabilitation referral
+
+5. ORDER: Nuclear stress test (pharmacologic given deconditioning) to evaluate
+   for progressive CAD. If positive, will need cardiac catheterization.
+
+6. DEVICE EVALUATION: If EF remains <=35% on repeat echo after 3 months of GDMT,
+   patient may be candidate for ICD for primary prevention of sudden cardiac death.
+
+7. FOLLOW-UP:
+   - Return to cardiology in 4 weeks for medication titration
+   - Repeat echocardiogram in 3 months
+   - Labs (BMP, BNP) in 1 week to check potassium/creatinine on new medications
+
+8. COMMUNICATION: Discussed diagnosis, prognosis, and treatment plan with patient
+   at length. He understands heart failure is a serious chronic condition that will
+   require lifelong management and medication compliance. He expressed concern given
+   his father's cardiac history. I reassured him that with modern treatment, outcomes
+   have improved significantly. He is motivated to make lifestyle changes. Wife was
+   present and will help with diet modifications and medication reminders.
+
+   Patient was given my office number and instructions to call or go to ED if
+   experiencing worsening shortness of breath, chest pain, or rapid weight gain.
+
+================================================================================
+
+Electronically signed by Michael Torres, MD, FACC
+08/20/2024 4:15 PM
+
+cc: Dr. Sarah Chen, MD (PCP)
+================================================================================

@@ -1,0 +1,73 @@
+PROGRESS NOTE
+Patient: Priya Sharma    DOB: 05/18/1980    MRN: 45678901
+Date: 2024-03-12       Provider: Dr. Jennifer Park, MD
+
+Chief Complaint: Annual wellness visit
+
+Subjective:
+44 y/o South Asian F here for annual physical. Overall feeling well. No acute
+complaints. Works as software engineer - mostly sedentary desk job. Has been
+trying to exercise more - does yoga 2x/week and walks during lunch breaks.
+
+Reports occasional stress headaches but manages with relaxation techniques.
+Sleep is good - 7-8 hours/night. Energy level good. Mood stable.
+
+Taking all medications as prescribed. No side effects.
+
+Family planning: Not planning more children. Has 2 children, ages 8 and 10.
+
+PMH:
+- Gestational diabetes (2014, 2016) - resolved after pregnancies
+- Hypothyroidism (diagnosed 2018)
+- Mild hyperlipidemia (diagnosed 2022)
+- Family history significant for DM (mother dx age 45, father dx age 50)
+
+PSH: C-section x 2 (2014, 2016)
+
+Allergies: Codeine (nausea/vomiting)
+
+Current Medications:
+- Levothyroxine 75 mcg daily
+- Atorvastatin 10 mg daily
+
+Objective:
+Vitals: BP 118/76, HR 72, RR 14, Temp 98.2F, Wt 148 lbs, Ht 64", BMI 25.4
+General: Well-appearing, NAD
+HEENT: Normal
+Neck: No thyromegaly, no LAD
+CV: RRR, no murmurs
+Lungs: CTAB
+Abd: Soft, NT, ND
+Ext: No edema
+Skin: No lesions
+Breast: Deferred to separate visit
+Neuro: Grossly intact
+
+Assessment/Plan:
+1. Hypothyroidism - stable on levothyroxine. Patient reports no symptoms of
+   hypo- or hyperthyroidism. Check TSH today.
+
+2. Hyperlipidemia - on low-dose statin. Check lipid panel. Given family history
+   of diabetes and prior GDM, aggressive CV risk reduction appropriate.
+
+3. Diabetes prevention/screening - HIGH RISK given:
+   - History of gestational diabetes x 2
+   - Strong family history (both parents diabetic)
+   - South Asian ethnicity
+   Order HbA1c annually. Last was 5.6% (prediabetes range). Continue monitoring.
+   Discussed lifestyle modifications for diabetes prevention.
+
+4. Health maintenance:
+   - Mammogram: due, order today
+   - Pap smear: due, will do at GYN visit scheduled next month
+   - Colonoscopy: not yet due (age 44, average risk, start at 45)
+   - Immunizations: up to date including flu shot today
+
+5. Mental health: Occasional stress but coping well. No screening indicated.
+
+6. Diet/exercise: Counseled on continued healthy lifestyle. Doing well with yoga
+   and walking. Discussed South Asian diet modifications for CV health.
+
+Labs ordered. RTC 1 year for annual unless concerns arise.
+
+Electronically signed by Jennifer Park, MD  03/12/2024 2:15 PM

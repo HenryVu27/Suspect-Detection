@@ -1,0 +1,83 @@
+RADIOLOGY REPORT
+
+Patient: William O'Brien    DOB: 02/28/1950    MRN: 56789012
+Exam: CT Chest without contrast
+Date of Exam: 2024-01-25
+Ordering Provider: Dr. Thomas McCarthy, MD
+Interpreting Radiologist: Dr. Susan Lee, MD
+
+================================================================================
+CLINICAL INDICATION
+================================================================================
+74-year-old male with chronic cough for 2 months. History of 40 pack-year smoking,
+quit 10 years ago. Evaluate for pulmonary mass.
+
+================================================================================
+TECHNIQUE
+================================================================================
+Non-contrast CT of the chest was performed with thin-section imaging.
+Comparison: Chest X-ray 2022-03-15
+
+================================================================================
+FINDINGS
+================================================================================
+
+LUNGS AND AIRWAYS:
+- No pulmonary mass or consolidation identified to explain the patient's cough.
+- Mild centrilobular and paraseptal emphysematous changes in the upper lobes
+  bilaterally, consistent with smoking history.
+- 8mm non-calcified nodule in the right lower lobe (series 4, image 182),
+  subpleural location. This is indeterminate and new compared to chest X-ray
+  from 2022 (nodule not visualized on radiograph, likely below detection threshold).
+- No additional pulmonary nodules identified.
+- Airways are patent. No endobronchial lesion.
+
+PLEURA:
+- Small bilateral pleural effusions, right greater than left, estimated less than
+  100 mL each side. Likely related to patient's known cardiac disease.
+- No pneumothorax.
+
+MEDIASTINUM:
+- Post-surgical changes from prior CABG with sternotomy wires and mediastinal clips.
+- Heart size is mildly enlarged.
+- No pathological mediastinal or hilar lymphadenopathy (no nodes >1 cm short axis).
+- Calcified coronary arteries consistent with atherosclerotic disease.
+
+CHEST WALL:
+- Mild degenerative changes of the thoracic spine.
+- No suspicious osseous lesions.
+
+LIMITED UPPER ABDOMEN:
+- Liver, spleen, adrenal glands unremarkable on limited views.
+
+================================================================================
+IMPRESSION
+================================================================================
+1. No pulmonary mass or consolidation to explain patient's chronic cough.
+
+2. Mild emphysematous changes consistent with smoking history.
+
+3. Post-surgical changes from prior CABG.
+
+4. 8mm NON-CALCIFIED NODULE IN THE RIGHT LOWER LOBE. This is indeterminate
+   and represents a new finding. Given the patient's significant smoking history
+   (40 pack-years), this nodule carries a moderate risk of malignancy.
+
+   RECOMMENDATION: Per Fleischner Society guidelines for high-risk patients,
+   follow-up CT chest in 3 MONTHS is recommended to assess for interval growth.
+   If stable at 3 months, continued surveillance may be needed. Please ensure
+   timely follow-up imaging is scheduled.
+
+5. Small bilateral pleural effusions, likely cardiac-related.
+
+================================================================================
+
+Electronically signed by Susan Lee, MD
+01/25/2024 4:45 PM
+
+CRITICAL FINDING NOTIFICATION:
+This report contains an incidental finding requiring follow-up. Ordering provider
+was notified of lung nodule finding by telephone on 01/25/2024 at 5:02 PM by
+Dr. Lee. Discussed need for 3-month follow-up imaging.
+
+================================================================================

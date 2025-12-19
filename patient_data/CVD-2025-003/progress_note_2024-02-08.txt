@@ -1,0 +1,71 @@
+PROGRESS NOTE
+Patient: Miguel Fernandez    DOB: 11/30/1975    MRN: 34567890
+Date: 2024-02-08       Provider: Dr. Elena Rodriguez, MD
+Interpreter: Spanish medical interpreter (video)
+
+Chief Complaint: Lab review, follow-up symptoms
+
+Subjective:
+Pt returns to review lab results. Reports symptoms unchanged - still urinating
+frequently, thirsty all the time. Fatigue continues. Now mentions occasional
+numbness/tingling in his feet at night - "like pins and needles." This is new
+symptom he forgot to mention last time. Has had it for "a few months."
+
+Still drinking lots of water. Estimates 8-10 glasses per day plus coffee.
+Getting up 3-4 times at night to urinate which disrupts sleep.
+
+No chest pain, SOB, or changes in vision.
+
+Labs from 1/30/24:
+- Fasting glucose: 186 mg/dL (HIGH)
+- HbA1c: 7.4% (HIGH)
+- Creatinine: 0.9, eGFR >60
+- TSH: 2.1 (normal)
+- Total cholesterol: 234
+- LDL: 148
+- HDL: 36
+- Triglycerides: 250
+- UA: Glucose 2+, trace protein
+
+Objective:
+Vitals: BP 138/86, HR 78, RR 14, Temp 98.4F, Wt 214 lbs
+General: NAD, obese
+CV: RRR
+Lungs: Clear
+Ext: No edema
+Neuro: Monofilament testing - diminished sensation bilateral plantar surfaces,
+       worse at toes
+
+Assessment/Plan:
+1. NEW DIAGNOSIS - Type 2 Diabetes Mellitus:
+   - Fasting glucose 186, HbA1c 7.4% confirms diagnosis
+   - Symptomatic with classic triad (polyuria, polydipsia, fatigue)
+   - Also has peripheral neuropathy symptoms - start evaluation
+   - START Metformin 500mg BID, titrate to 1000mg BID as tolerated
+   - Diabetes education class scheduled (Spanish-speaking educator)
+   - Home glucose monitoring ordered - will teach today
+   - Nutrition referral placed
+   - Ophthalmology referral for diabetic eye exam
+
+2. Peripheral neuropathy - likely diabetic given above. Diminished monofilament
+   testing. B12 level ordered to rule out deficiency. Foot care education provided.
+
+3. Hyperlipidemia - LDL 148, HDL low. High ASCVD risk. START Atorvastatin 20mg
+   daily.
+
+4. Hypertension - BP improved but still borderline. Given new DM diagnosis and
+   high CV risk, will start Lisinopril 10mg daily (also provides renal protection).
+
+5. Obesity - BMI 33.7. Part of metabolic syndrome. Weight loss goal 5-10%.
+
+6. Tobacco - counseled again on cessation importance especially with new diagnoses.
+
+Spent considerable time educating patient about diabetes through interpreter.
+He was surprised by diagnosis - "but I don't feel that sick." Explained importance
+of controlling blood sugar to prevent complications. He understands and agrees to
+start medications and lifestyle changes.
+
+Prescriptions sent electronically. RTC 4 weeks. Sooner if any problems with
+medications or concerning symptoms.
+
+Electronically signed by Elena Rodriguez, MD  02/08/2024 5:30 PM

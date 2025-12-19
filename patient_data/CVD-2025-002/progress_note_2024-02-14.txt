@@ -1,0 +1,52 @@
+PROGRESS NOTE
+Patient: Gloria Washington    DOB: 08/22/1962    MRN: 23456789
+Date: 2024-02-14       Provider: Dr. Marcus Williams, MD
+
+Chief Complaint: Follow-up CHF, afib, DM
+
+Subjective:
+62 y/o F with HTN, HF, afib, DM2, CKD here for routine follow-up. Patient states she's
+"doing alright." Denies any worsening SOB or chest pain. Occasional palpitations but
+not frequent. Some ankle swelling by end of day - "normal for me." Checking blood sugars
+at home, mostly running 130-170. No hypoglycemia episodes. Denies dizziness, syncope.
+
+Compliant with medications. Denies any side effects. Notes she sometimes forgets the
+afternoon dose of carvedilol but tries to set reminders.
+
+Had cardiology appointment last month - no changes made.
+
+PMH: HTN, HF, AFib, DM2, CKD3, h/o hysterectomy
+Allergies: PCN (anaphylaxis), ACE-I (angioedema)
+
+Current Medications:
+- Losartan 100mg daily
+- Carvedilol 25mg BID
+- Furosemide 40mg daily
+- Eliquis 5mg BID
+- Metformin 500mg BID
+- Jardiance 10mg daily
+- Atorvastatin 20mg daily
+
+Objective:
+Vitals: BP 142/86, HR 74 (irregular), RR 16, Temp 98.2F, Wt 200 lbs, SpO2 95% RA
+General: Pleasant, obese AA female, NAD
+CV: Irregular rhythm, rate controlled, S1 S2, no S3, no murmurs
+Lungs: Clear, no crackles
+Ext: 1+ bilateral ankle edema
+Skin: No rashes or lesions
+
+Assessment/Plan:
+1. Heart failure - appears stable. Continue current regimen. Reinforce daily weights
+   and sodium restriction. Will check BNP.
+2. Atrial fibrillation - rate controlled on carvedilol. On Eliquis for anticoagulation.
+   CHA2DS2-VASc = 5 (high stroke risk). Continue current therapy.
+3. Type 2 diabetes - last A1c 7.6% (December). Continue metformin and Jardiance.
+   Recheck A1c today.
+4. Hypertension - not at goal (target <130/80 for HF/DM). Increase losartan to 100mg?
+   Already at max. Consider adding thiazide but CKD limits options.
+5. CKD stage 3 - stable. Continue to monitor. Avoid NSAIDs.
+6. Health maintenance - due for mammogram, colonoscopy.
+
+Labs ordered. RTC 3 months.
+
+Electronically signed by Marcus Williams, MD  02/14/2024 3:22 PM

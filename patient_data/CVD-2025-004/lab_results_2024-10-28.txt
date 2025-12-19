@@ -1,0 +1,124 @@
+LABORATORY REPORT
+Patient: Priya Sharma    DOB: 05/18/1980    MRN: 45678901
+Collection Date: 2024-10-28 07:45 AM (Fasting)
+Ordering Provider: Dr. Jennifer Park, MD
+Performing Lab: Quest Diagnostics - San Jose
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose, Fasting             96 mg/dL    70-100 mg/dL
+BUN                          14 mg/dL    7-20 mg/dL
+Creatinine, Serum            0.8 mg/dL   0.6-1.1 mg/dL
+eGFR                         >90 mL/min  >60 mL/min
+Sodium                       140 mEq/L   136-145 mEq/L
+Potassium                    4.1 mEq/L   3.5-5.0 mEq/L
+Chloride                     102 mEq/L   98-106 mEq/L
+CO2                          25 mEq/L    22-29 mEq/L
+Calcium                      9.5 mg/dL   8.5-10.5 mg/dL
+Total Protein                7.2 g/dL    6.0-8.3 g/dL
+Albumin                      4.4 g/dL    3.5-5.0 g/dL
+Bilirubin, Total             0.5 mg/dL   0.1-1.2 mg/dL
+Alkaline Phosphatase         58 U/L      44-147 U/L
+AST (SGOT)                   22 U/L      10-40 U/L
+ALT (SGPT)                   18 U/L      7-56 U/L
+
+================================================================================
+LIPID PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Total Cholesterol            175 mg/dL   <200 mg/dL
+LDL Cholesterol (calc)       98 mg/dL    <100 mg/dL
+HDL Cholesterol              62 mg/dL    >50 mg/dL (F)
+Triglycerides                75 mg/dL    <150 mg/dL
+
+================================================================================
+HEMOGLOBIN A1C
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Hemoglobin A1c               5.5%        <5.7%
+
+Interpretation: Normal. Improved from prior value of 5.7% (prediabetes range).
+Patient appears to have reversed prediabetes through lifestyle modifications.
+
+================================================================================
+THYROID PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+TSH                          2.0 mIU/L   0.45-4.5 mIU/L
+
+Interpretation: Normal. Hypothyroidism well controlled on current levothyroxine dose.
+
+================================================================================
+COMPLETE BLOOD COUNT
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          6.2 K/uL    4.5-11.0 K/uL
+RBC                          4.4 M/uL    4.0-5.5 M/uL
+Hemoglobin                   13.8 g/dL   12.0-16.0 g/dL
+Hematocrit                   41.2%       36.0-46.0%
+MCV                          93.6 fL     80-100 fL
+MCH                          31.4 pg     27-33 pg
+MCHC                         33.5 g/dL   32-36 g/dL
+Platelet Count               245 K/uL    150-400 K/uL
+
+================================================================================
+VITAMIN D
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+25-Hydroxyvitamin D          42 ng/mL    30-100 ng/mL
+
+Interpretation: Optimal vitamin D status.
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+================================================================================
+EXCELLENT RESULTS ACROSS ALL PARAMETERS:
+
+1. GLYCEMIC STATUS - NORMALIZED:
+   - HbA1c 5.5% is now in normal range (was 5.7%, prediabetes)
+   - Fasting glucose 96 mg/dL is normal
+   - Patient's lifestyle modifications appear effective
+   - Continue monitoring given risk factors (GDM history, family history)
+
+2. LIPID PANEL - OPTIMAL:
+   - All parameters within normal/goal range
+   - LDL 98 mg/dL at goal
+   - HDL 62 mg/dL excellent for female patient
+   - Triglycerides 75 mg/dL excellent
+   - Statin therapy effective; can consider discussing de-escalation
+
+3. THYROID FUNCTION - WELL CONTROLLED:
+   - TSH 2.0 mIU/L optimal on levothyroxine 75 mcg
+
+4. RENAL FUNCTION - NORMAL:
+   - eGFR >90, creatinine normal
+   - No evidence of kidney disease
+
+5. LIVER FUNCTION - NORMAL:
+   - All liver enzymes within normal limits
+   - No evidence of statin-related hepatotoxicity
+
+6. HEMATOLOGIC - NORMAL:
+   - No anemia (history of postpartum iron deficiency, now resolved)
+   - All cell lines normal
+
+7. VITAMIN D - OPTIMAL:
+   - 42 ng/mL is in optimal range
+   - No supplementation needed
+
+OVERALL: Excellent laboratory profile. Patient has made significant improvement
+in metabolic parameters through lifestyle modifications. Continue current
+management and preventive care.
+
+================================================================================
+Report electronically signed by: David Chen, MD, Laboratory Director
+10/28/2024 11:45 AM
+================================================================================

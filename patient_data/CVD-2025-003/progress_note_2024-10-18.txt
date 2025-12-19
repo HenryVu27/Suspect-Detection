@@ -1,0 +1,80 @@
+PROGRESS NOTE
+Patient: Miguel Fernandez    DOB: 11/30/1975    MRN: 34567890
+Date: 2024-10-18       Provider: Dr. Elena Rodriguez, MD
+Interpreter: Spanish interpreter (phone)
+
+Chief Complaint: DM f/u, fatigue, "heart racing"
+
+Subjective:
+Pt presents for routine follow-up. Main concern today is occasional episodes of
+"heart racing" and "pounding in chest" - started about 1 month ago. Happens 1-2x/week,
+lasts few minutes, then goes away. No chest pain with episodes. No syncope or near
+syncope. Not clearly related to activity.
+
+Also reports ongoing fatigue - "I thought it would get better with the diabetes
+medicine but I'm still so tired."
+
+Diabetes: Home glucoses "better" - fasting 120-150 mostly. Taking medications as
+prescribed now - wife puts them in pill organizer every week.
+
+Still has foot tingling at night.
+
+Completed eye exam in September - told "some early changes" but will repeat in 1 year.
+
+Tried to quit smoking - down to 1-2 cigarettes/week only.
+
+Review of Systems:
+- Palpitations: as above
+- Fatigue: persistent, daily
+- Sleep: disrupted by nocturia and foot discomfort
+- No CP, SOB at rest
+- Some DOE with heavy lifting at work
+
+Objective:
+Vitals: BP 128/82, HR 84 (regular), RR 16, Wt 206 lbs (-4 more lbs), BMI 32.3
+General: Appears tired but NAD
+CV: RRR, no murmurs, no irregular beats noted on exam
+Lungs: Clear
+Ext: No edema
+
+Labs from 10/10:
+- HbA1c: 7.2% (improved!)
+- Fasting glucose: 138
+- Cr: 1.0, eGFR >60
+- Potassium: 4.2
+- TSH: 2.4 (normal)
+
+Assessment/Plan:
+1. Type 2 Diabetes - IMPROVED! A1c down to 7.2% from 7.8%. Patient and wife's
+   efforts paying off. Continue current regimen.
+
+2. New onset palpitations - concerning symptom. Not clearly explained by current
+   conditions. Differential includes:
+   - Atrial fibrillation (risk factors: DM, HTN, obesity)
+   - PVCs/PACs
+   - Thyroid (TSH normal)
+   - Anxiety
+   ORDER: ECG today, Holter monitor 48 hours
+   If AFib detected, will need anticoagulation evaluation
+
+3. Diabetic peripheral neuropathy - stable. ADD Gabapentin 100mg TID for
+   symptomatic relief. Titrate as needed.
+
+4. Chronic fatigue - multifactorial. Diabetes improving but fatigue persists.
+   Consider: sleep quality (nocturia, discomfort), possible OSA (obese, snores
+   per wife), anemia, depression. Will screen at next visit if not improving.
+
+5. Hypertension - well controlled. Continue lisinopril.
+
+6. Obesity - great progress with weight loss! Total 9 lbs lost. Encourage continue.
+
+7. Diabetic retinopathy - mild per ophthalmology. Will need annual exams.
+
+8. Tobacco - nearly quit. Praised progress. Encouraged complete cessation.
+
+ECG performed today - shows normal sinus rhythm, no acute changes. Will await
+Holter results.
+
+RTC 6 weeks to review Holter and reassess symptoms.
+
+Electronically signed by Elena Rodriguez, MD  10/18/2024 4:48 PM

@@ -1,0 +1,117 @@
+LABORATORY REPORT
+Patient: Robert Thompson    DOB: 03/14/1958    MRN: 12345678
+Collection Date: 2024-10-25 08:15 AM (Fasting)
+Ordering Provider: Dr. Sarah Chen, MD
+Performing Lab: Quest Diagnostics - Columbus
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose, Fasting             156 mg/dL   70-100 mg/dL       HIGH
+BUN                          32 mg/dL    7-20 mg/dL         HIGH
+Creatinine, Serum            1.4 mg/dL   0.7-1.3 mg/dL      HIGH
+eGFR (non-African American)  52 mL/min   >60 mL/min         LOW
+Sodium                       138 mEq/L   136-145 mEq/L
+Potassium                    4.9 mEq/L   3.5-5.0 mEq/L
+Chloride                     101 mEq/L   98-106 mEq/L
+CO2                          22 mEq/L    22-29 mEq/L
+Calcium                      9.2 mg/dL   8.5-10.5 mg/dL
+Total Protein                6.8 g/dL    6.0-8.3 g/dL
+Albumin                      3.8 g/dL    3.5-5.0 g/dL
+Bilirubin, Total             0.9 mg/dL   0.1-1.2 mg/dL
+Alkaline Phosphatase         78 U/L      44-147 U/L
+AST (SGOT)                   32 U/L      10-40 U/L
+ALT (SGPT)                   38 U/L      7-56 U/L
+
+================================================================================
+LIPID PANEL
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Total Cholesterol            198 mg/dL   <200 mg/dL
+LDL Cholesterol (calc)       115 mg/dL   <100 mg/dL         HIGH
+HDL Cholesterol              38 mg/dL    >40 mg/dL          LOW
+Triglycerides                225 mg/dL   <150 mg/dL         HIGH
+
+================================================================================
+HEMOGLOBIN A1C
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Hemoglobin A1c               7.8%        <5.7%              HIGH
+
+Interpretation: Worsening glycemic control compared to prior (was 7.4%).
+Indicates average blood glucose ~177 mg/dL over past 2-3 months.
+
+================================================================================
+CARDIAC MARKERS
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+BNP                          520 pg/mL   <100 pg/mL         HIGH
+
+Interpretation: Significantly elevated. Consistent with heart failure.
+Clinical correlation recommended.
+
+================================================================================
+URINE MICROALBUMIN
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Microalbumin, Urine          68 mg/L     <30 mg/L           HIGH
+Creatinine, Urine            85 mg/dL    20-275 mg/dL
+Albumin/Creatinine Ratio     80 mg/g     <30 mg/g           HIGH
+
+Interpretation: Moderately increased albuminuria (microalbuminuria).
+Consistent with early diabetic nephropathy. A2 stage per KDIGO guidelines.
+
+================================================================================
+COMPLETE BLOOD COUNT
+================================================================================
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          8.2 K/uL    4.5-11.0 K/uL
+RBC                          4.6 M/uL    4.5-5.9 M/uL
+Hemoglobin                   13.8 g/dL   13.5-17.5 g/dL
+Hematocrit                   41.5%       38.3-48.6%
+Platelet Count               228 K/uL    150-400 K/uL
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+================================================================================
+SIGNIFICANT CHANGES FROM PRIOR LABS (04/02/2024):
+
+1. DECLINING RENAL FUNCTION: eGFR has dropped from 72 to 52 mL/min over 6 months.
+   This represents Stage 3a CKD (moderate reduction). Creatinine increased from
+   1.1 to 1.4. This decline warrants close monitoring and evaluation for causes.
+   Differential includes diabetic nephropathy, cardiorenal syndrome (given elevated
+   BNP), medication effects, or combination.
+
+2. WORSENING DIABETES CONTROL: A1c increased from 7.4% to 7.8%. Patient not at goal.
+   Medication adjustment or addition of second agent should be considered.
+
+3. ELEVATED BNP (520): New finding. Strongly suggests heart failure. If not
+   previously diagnosed, echocardiogram and cardiology evaluation recommended.
+
+4. MICROALBUMINURIA: Albumin/creatinine ratio 80 mg/g indicates kidney damage,
+   likely diabetic nephropathy. Combined with reduced eGFR, this is concerning
+   for progressive diabetic kidney disease.
+
+5. LIPIDS: LDL remains above goal (<70 mg/dL) for secondary prevention in patient
+   with established cardiovascular disease.
+
+6. POTASSIUM 4.9: Upper limit of normal. If patient is on ACE/ARB or spironolactone,
+   monitor closely for hyperkalemia.
+
+RECOMMENDATIONS:
+- Nephrology referral for CKD evaluation and management
+- Ensure cardiology has evaluated elevated BNP if not done
+- Review diabetes medications - consider SGLT2 inhibitor for renal/cardiac protection
+- Monitor potassium closely on current medications
+
+================================================================================
+Report electronically signed by: James Wong, MD, Laboratory Director
+10/25/2024 12:48 PM
+================================================================================

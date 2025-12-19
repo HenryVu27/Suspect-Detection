@@ -1,0 +1,59 @@
+PROGRESS NOTE
+Patient: Miguel Fernandez    DOB: 11/30/1975    MRN: 34567890
+Date: 2024-01-22       Provider: Dr. Elena Rodriguez, MD
+Interpreter: Spanish medical interpreter present (phone)
+
+Chief Complaint: New patient, establish care
+
+Subjective:
+49 y/o Hispanic M presents to establish care. Recently moved to area from Mexico
+2 years ago. Has not had regular medical care. Works in construction. Main concern
+is "always feeling tired." Also reports frequent thirst and urination - "I drink a
+lot of water and go to the bathroom all the time." States this has been going on
+for "maybe a year or more."
+
+Denies chest pain, shortness of breath, palpitations. Reports occasional headaches.
+No numbness/tingling. Vision "sometimes blurry but it comes and goes."
+
+No known medical history - has never been told he has any conditions. No regular
+medications. Takes ibuprofen for back pain from work.
+
+Family Hx (per patient): Mother has "sugar diabetes," father had heart attack at 55.
+Two siblings - one brother also has diabetes.
+
+Social: Works 6 days/week construction. Smokes occasionally - "only with friends,
+maybe 2-3 cigarettes on weekends." Drinks beer on weekends, 4-6 cervezas. Married,
+2 children. Lives with wife and kids in apartment. No regular exercise outside of work.
+Diet - wife cooks traditional Mexican food, also eats lunch from taco trucks at work.
+
+Allergies: NKDA
+
+Objective:
+Vitals: BP 142/88, HR 82, RR 16, Temp 98.6F, Wt 215 lbs, Ht 67", BMI 33.7
+General: Pleasant, appears stated age, obese male, NAD
+HEENT: PERRL, EOMI, oropharynx clear, poor dentition with multiple caries
+Neck: Supple, no LAD, no thyromegaly
+CV: RRR, S1 S2, no murmurs
+Lungs: CTAB
+Abd: Obese, soft, NT, no masses
+Ext: No edema, pulses 2+
+Skin: Acanthosis nigricans noted on neck and axillae
+Neuro: Grossly intact, sensation intact to light touch bilateral feet
+
+Assessment/Plan:
+1. Polyuria/polydipsia - concerning symptoms. Need to rule out diabetes given
+   strong family history, obesity, acanthosis nigricans. Order fasting glucose,
+   HbA1c, CMP, UA.
+2. Obesity - BMI 33.7. Discussed lifestyle modifications through interpreter.
+   Referral to nutrition.
+3. Possible hypertension - BP elevated today. Could be white coat. Will repeat
+   at next visit. If persistent, start treatment.
+4. Fatigue - likely related to above. Check TSH, CBC.
+5. Tobacco use - occasional social smoker. Counseled on cessation.
+6. Health maintenance - no prior care. Discussed importance of regular check-ups.
+   No immunizations documented. Will catch up.
+
+Labs ordered. RTC 2 weeks to review results. Provided Spanish language patient
+education materials on diabetes prevention.
+
+Electronically signed by Elena Rodriguez, MD  01/22/2024 4:45 PM

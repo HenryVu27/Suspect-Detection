@@ -1,0 +1,188 @@
+HEALTH RISK ASSESSMENT
+Patient: Gloria Washington
+Date Completed: 2024-10-01
+Completed via: Phone interview with MA
+
+================================================================================
+GENERAL HEALTH
+================================================================================
+How would you rate your overall health? Fair
+Compared to one year ago, how would you rate your health now? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+================================================================================
+[X] Fatigue - How often? Always, every day
+[X] Shortness of breath - When? Climbing stairs, walking long distances
+[X] Swelling in legs or feet - How severe? Mild, mostly at end of day
+[X] Heart palpitations or irregular heartbeat - How often? Sometimes
+[ ] Chest pain or pressure
+[X] Frequent urination - How many times at night? 2-3 times
+[X] Increased thirst
+[ ] Unexplained weight loss
+[ ] Unexplained weight gain
+[X] Dizziness or lightheadedness - When? Sometimes when standing up quickly
+[ ] Numbness or tingling in hands/feet
+[X] Blurred vision - How often? Sometimes
+[X] Difficulty sleeping - What type? Wake up frequently, don't feel rested
+[X] Snoring - Does anyone notice? Yes, my daughter says it's very loud
+[X] Feeling sad or depressed - How often? Sometimes, when stressed
+[ ] Difficulty concentrating
+[X] Headaches - When? Morning headaches
+
+================================================================================
+MEDICAL HISTORY
+================================================================================
+Have you ever been diagnosed with any of the following?
+[X] High blood pressure (Hypertension) - Since 2005
+[X] Diabetes - Since 2010
+[X] High cholesterol
+[X] Heart disease/Heart failure - Since 2021
+[X] Atrial fibrillation (irregular heartbeat) - Since 2021
+[ ] Stroke or TIA
+[X] Kidney disease - Was told kidneys "not working as well"
+[ ] Asthma or COPD
+[ ] Cancer
+[ ] Arthritis
+[ ] Depression or anxiety
+[ ] Sleep apnea
+[ ] Other: __________
+
+================================================================================
+FAMILY HISTORY
+================================================================================
+Has anyone in your immediate family been diagnosed with:
+
+Diabetes: Yes
+  Who? Father
+  Age at diagnosis? 50
+
+Heart Disease: No
+
+Stroke: Yes
+  Who? Mother
+  Age at diagnosis? 68
+
+High Blood Pressure: Yes
+  Who? Mother
+
+Kidney Disease: Yes
+  Who? Brother
+  Age at diagnosis? 58, now on dialysis
+
+Cancer: No
+
+================================================================================
+LIFESTYLE - TOBACCO USE
+================================================================================
+Do you currently use tobacco? No
+
+Have you ever smoked? Yes
+  How long ago did you quit? 15 years ago
+  How long did you smoke? About 10 years
+  How much? Half a pack a day
+
+================================================================================
+LIFESTYLE - ALCOHOL USE
+================================================================================
+Do you drink alcohol? Rarely
+
+How often? Maybe once a month at family gatherings
+
+How many drinks when you do drink? 1
+
+================================================================================
+LIFESTYLE - EXERCISE
+================================================================================
+How often do you exercise? Rarely
+
+What type of exercise? Walking around the house and to mailbox
+
+What prevents you from exercising more?
+[X] Too tired
+[ ] No time
+[X] Physical limitations (get short of breath)
+[ ] Not interested
+
+================================================================================
+LIFESTYLE - DIET
+================================================================================
+How would you describe your diet? Fair
+
+How often do you eat fast food? 1-2 times per week
+
+How would you rate your salt intake? Moderate - I try to watch it
+
+Do you follow any special diet?
+[ ] Low sodium - I try but it's hard
+[ ] Diabetic diet
+[ ] Low fat
+[ ] Other
+
+================================================================================
+SLEEP
+================================================================================
+On average, how many hours do you sleep per night? 7-8 hours in bed
+
+Do you have trouble falling asleep? No
+
+Do you wake up during the night? Yes, frequently
+
+Do you snore? Yes, very loud according to daughter
+
+Has anyone noticed you stop breathing during sleep? Daughter says sometimes I gasp
+
+Do you feel rested when you wake up? No, never
+
+Do you have morning headaches? Yes, sometimes
+
+Do you fall asleep during the day unintentionally? Yes, I doze off watching TV
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+================================================================================
+In the past 2 weeks, how often have you felt down, depressed, or hopeless?
+[ ] Not at all
+[X] Several days
+[ ] More than half the days
+[ ] Nearly every day
+
+In the past 2 weeks, how often have you had little interest or pleasure in things?
+[ ] Not at all
+[X] Several days
+[ ] More than half the days
+[ ] Nearly every day
+
+Do you feel you have good social support? Yes, family is supportive
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+================================================================================
+Do you ever worry about having enough food? No
+
+Is your housing situation stable? Yes
+
+Do you have reliable transportation? Yes, daughter helps
+
+Do you have concerns about affording your medications? Yes
+  Please explain: Copays are expensive. Sometimes I have to choose which ones to
+  buy. The blood thinner is the most expensive one.
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+================================================================================
+"I'm always so tired. I sleep all night but wake up feeling like I didn't sleep
+at all. My daughter says I snore so loud she can hear me from down the hall and
+sometimes I stop breathing. I've been meaning to ask the doctor about that.
+
+The medications are getting expensive. With my son out of work, I've been helping
+with groceries for him and the grandkids. Sometimes at the end of the month I have
+to wait a few days to refill my prescriptions. The Eliquis is the worst - over $60
+even with insurance.
+
+I know my kidneys aren't doing great. My brother is on dialysis and I really don't
+want that to happen to me. I try to drink lots of water and watch my diet but it's
+hard.
+
+I miss being able to do things I used to do. Just walking to church wears me out now."
+================================================================================
