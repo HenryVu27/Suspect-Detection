@@ -28,15 +28,8 @@ logger = logging.getLogger(__name__)
 def route_from_orchestrator(state: AgentState) -> Literal["list_patients", "analyze", "retrieve_info", "direct_reply"]:
     # Route based on orchestrator's intent classification
     next_step = state.get("next_step", "direct_reply")
-
-    if next_step == "list_patients":
-        return "list_patients"
-    elif next_step == "analyze":
-        return "analyze"
-    elif next_step == "retrieve_info":
-        return "retrieve_info"
-    else:
-        return "direct_reply"
+    valid_steps = {"list_patients", "analyze", "retrieve_info"}
+    return next_step if next_step in valid_steps else "direct_reply"
 
 
 def route_from_load_documents(state: AgentState) -> Literal["extraction", "direct_reply"]:
@@ -58,17 +51,8 @@ def route_from_supervisor(state: AgentState) -> Literal[
 ]:
     # Route based on supervisor's decision
     next_step = state.get("next_step", "aggregate")
-
-    if next_step == "cross_reference":
-        return "cross_reference"
-    elif next_step == "dropoff":
-        return "dropoff"
-    elif next_step == "symptom_cluster":
-        return "symptom_cluster"
-    elif next_step == "contradiction":
-        return "contradiction"
-    else:
-        return "aggregate"
+    valid_steps = {"cross_reference", "dropoff", "symptom_cluster", "contradiction"}
+    return next_step if next_step in valid_steps else "aggregate"
 
 
 def route_from_validation(state: AgentState) -> Literal["refine", "report"]:
