@@ -2,16 +2,18 @@ import re
 import hashlib
 from typing import Optional
 from core.models import Document, Chunk
+from config import (
+    MIN_CHUNK_SIZE,
+    MAX_CHUNK_SIZE,
+    CHUNK_OVERLAP,
+    MAX_CHUNK_TOKENS,
+    MIN_AVAILABLE_TOKENS,
+    SMALL_SECTION_THRESHOLD,
+    MIN_SPLIT_SIZE,
+    HEADER_MAX_LINES,
+)
 
-
-# Section delimiter
 SECTION_DELIMITER = "=" * 80
-
-# Min section size (smaller gets merged)
-SMALL_SECTION_THRESHOLD = 200
-
-# Min split content size
-MIN_SPLIT_CONTENT_SIZE = 50
 
 
 def _with_header(content: str, header: str) -> str:
@@ -22,10 +24,10 @@ def _with_header(content: str, header: str) -> str:
 class Chunker:
     def __init__(
         self,
-        min_chunk_size: int = 100,
-        max_chunk_size: int = 1500,
-        overlap_size: int = 100,
-        max_tokens: int = 480,  # Buffer for special tokens
+        min_chunk_size: int = MIN_CHUNK_SIZE,
+        max_chunk_size: int = MAX_CHUNK_SIZE,
+        overlap_size: int = CHUNK_OVERLAP,
+        max_tokens: int = MAX_CHUNK_TOKENS,
         embedding_model: str = "NeuML/pubmedbert-base-embeddings"
     ):
         self.min_chunk_size = min_chunk_size
@@ -67,7 +69,7 @@ class Chunker:
         header_tokens = self._count_tokens(header) if header else 0
         available_tokens = self.max_tokens - header_tokens - 10  # Buffer for newlines
 
-        if available_tokens < 50:
+        if available_tokens < MIN_AVAILABLE_TOKENS:
             # Header too large
             return [(section_name, content)]
 
@@ -94,7 +96,7 @@ class Chunker:
                 if current_sentences:
                     chunk_body = " ".join(current_sentences)
                     chunk_content = _with_header(chunk_body, header)
-                    if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE:
+                    if len(chunk_body) >= MIN_SPLIT_SIZE:
                         chunks.append((f"{section_name}_part{part_num}", chunk_content))
                         part_num += 1
                     current_sentences = []
@@ -109,7 +111,7 @@ class Chunker:
                     if word_tokens + wt > available_tokens and word_chunk:
                         chunk_body = " ".join(word_chunk)
                         chunk_content = _with_header(chunk_body, header)
-                        if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE:
+                        if len(chunk_body) >= MIN_SPLIT_SIZE:
                             chunks.append((f"{section_name}_part{part_num}", chunk_content))
                             part_num += 1
                         word_chunk = [word]
@@ -126,7 +128,7 @@ class Chunker:
             if current_tokens + sent_tokens > available_tokens and current_sentences:
                 chunk_body = " ".join(current_sentences)
                 chunk_content = _with_header(chunk_body, header)
-                if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE:
+                if len(chunk_body) >= MIN_SPLIT_SIZE:
                     chunks.append((f"{section_name}_part{part_num}", chunk_content))
                     part_num += 1
 
@@ -142,7 +144,7 @@ class Chunker:
         if current_sentences:
             chunk_body = " ".join(current_sentences)
             chunk_content = _with_header(chunk_body, header)
-            if len(chunk_body) >= MIN_SPLIT_CONTENT_SIZE or not chunks:
+            if len(chunk_body) >= MIN_SPLIT_SIZE or not chunks:
                 # Single chunk - use original name
                 final_name = section_name if part_num == 1 else f"{section_name}_part{part_num}"
                 chunks.append((final_name, chunk_content))
@@ -204,7 +206,7 @@ class Chunker:
                 body_start = i
                 break
             # Collect header lines
-            if i < 10:
+            if i < HEADER_MAX_LINES:
                 header_lines.append(line)
             else:
                 body_start = i

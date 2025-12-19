@@ -1,7 +1,19 @@
 import logging
-from typing import Any
 
 from agents.state import AgentState
+from config import (
+    LAB_HBA1C,
+    LAB_EGFR,
+    LAB_BNP,
+    LAB_NT_PROBNP,
+    LAB_CREATININE,
+    LAB_TSH,
+    LAB_LDL,
+    SLEEP_APNEA_MIN_MATCHES,
+    HEART_FAILURE_MIN_MATCHES,
+    DEPRESSION_MIN_MATCHES,
+    HYPOTHYROIDISM_MIN_MATCHES,
+)
 
 logger = logging.getLogger(__name__)
 
@@ -40,16 +52,16 @@ MED_CONDITION_MAP = {
 
 # Lab thresholds for detection
 LAB_THRESHOLDS = {
-    "hba1c": {"threshold": 6.5, "op": ">=", "condition": "diabetes"},
-    "a1c": {"threshold": 6.5, "op": ">=", "condition": "diabetes"},
-    "hemoglobin a1c": {"threshold": 6.5, "op": ">=", "condition": "diabetes"},
-    "egfr": {"threshold": 60, "op": "<", "condition": "chronic kidney disease"},
-    "gfr": {"threshold": 60, "op": "<", "condition": "chronic kidney disease"},
-    "bnp": {"threshold": 100, "op": ">", "condition": "heart failure"},
-    "nt-probnp": {"threshold": 300, "op": ">", "condition": "heart failure"},
-    "creatinine": {"threshold": 1.5, "op": ">", "condition": "kidney impairment"},
-    "tsh": {"threshold": 4.5, "op": ">", "condition": "hypothyroidism"},
-    "ldl": {"threshold": 190, "op": ">", "condition": "hyperlipidemia"},
+    "hba1c": {"threshold": LAB_HBA1C, "op": ">=", "condition": "diabetes"},
+    "a1c": {"threshold": LAB_HBA1C, "op": ">=", "condition": "diabetes"},
+    "hemoglobin a1c": {"threshold": LAB_HBA1C, "op": ">=", "condition": "diabetes"},
+    "egfr": {"threshold": LAB_EGFR, "op": "<", "condition": "chronic kidney disease"},
+    "gfr": {"threshold": LAB_EGFR, "op": "<", "condition": "chronic kidney disease"},
+    "bnp": {"threshold": LAB_BNP, "op": ">", "condition": "heart failure"},
+    "nt-probnp": {"threshold": LAB_NT_PROBNP, "op": ">", "condition": "heart failure"},
+    "creatinine": {"threshold": LAB_CREATININE, "op": ">", "condition": "kidney impairment"},
+    "tsh": {"threshold": LAB_TSH, "op": ">", "condition": "hypothyroidism"},
+    "ldl": {"threshold": LAB_LDL, "op": ">", "condition": "hyperlipidemia"},
 }
 
 # Chronic conditions
@@ -76,28 +88,28 @@ SYMPTOM_CLUSTERS = {
     "sleep_apnea": {
         "symptoms": ["snoring", "apnea", "gasping", "daytime sleepiness", "fatigue",
                     "morning headache", "drowsy", "tired", "excessive sleepiness"],
-        "min_matches": 3,
+        "min_matches": SLEEP_APNEA_MIN_MATCHES,
         "condition": "obstructive sleep apnea",
         "severity": "medium",
     },
     "heart_failure": {
         "symptoms": ["dyspnea", "shortness of breath", "edema", "swelling",
                     "fatigue", "orthopnea", "pnd", "paroxysmal nocturnal", "leg swelling"],
-        "min_matches": 3,
+        "min_matches": HEART_FAILURE_MIN_MATCHES,
         "condition": "heart failure",
         "severity": "high",
     },
     "depression": {
         "symptoms": ["sad", "depressed", "hopeless", "anhedonia", "sleep problems",
                     "insomnia", "fatigue", "appetite", "weight change", "concentration"],
-        "min_matches": 4,
+        "min_matches": DEPRESSION_MIN_MATCHES,
         "condition": "depression",
         "severity": "medium",
     },
     "hypothyroidism": {
         "symptoms": ["fatigue", "weight gain", "cold intolerance", "constipation",
                     "dry skin", "hair loss", "bradycardia"],
-        "min_matches": 3,
+        "min_matches": HYPOTHYROIDISM_MIN_MATCHES,
         "condition": "hypothyroidism",
         "severity": "medium",
     },

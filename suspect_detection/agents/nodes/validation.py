@@ -3,14 +3,19 @@ import logging
 from agents.state import AgentState
 from agents.models import FINDING_VALIDATION_SCHEMA
 from agents.gemini_client import get_gemini_client
-from config import GEMINI_FLASH_MODEL
+from config import (
+    GEMINI_FLASH_MODEL,
+    MAX_REFINEMENT_ATTEMPTS,
+    CONFIDENCE_THRESHOLD,
+    REFINEMENT_THRESHOLD,
+    VALIDATION_MAX_DOCS,
+    VALIDATION_MAX_CHARS,
+)
 
 logger = logging.getLogger(__name__)
 
-MAX_REFINEMENT_ATTEMPTS = 2
 
-
-def _build_doc_summary(documents: list, max_docs: int = 5, max_chars: int = 2000) -> str:
+def _build_doc_summary(documents: list, max_docs: int = VALIDATION_MAX_DOCS, max_chars: int = VALIDATION_MAX_CHARS) -> str:
     """Build a text summary of documents for LLM context."""
     summary = ""
     for doc in documents[:max_docs]:
@@ -92,9 +97,9 @@ Validate this finding against the source documents.""",
             confidence = validation.get("confidence", 0.5)
             issues = validation.get("issues", [])
 
-            if is_supported and not has_hallucination and confidence >= 0.6:
+            if is_supported and not has_hallucination and confidence >= CONFIDENCE_THRESHOLD:
                 validated.append({**finding, "confidence": confidence, "validated": True})
-            elif confidence >= 0.3 and refinement_attempts < MAX_REFINEMENT_ATTEMPTS:
+            elif confidence >= REFINEMENT_THRESHOLD and refinement_attempts < MAX_REFINEMENT_ATTEMPTS:
                 needs_refinement.append({
                     **finding,
                     "validation_issues": issues,

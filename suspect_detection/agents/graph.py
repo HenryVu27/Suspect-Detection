@@ -19,7 +19,7 @@ from agents.nodes.detection import (
 )
 from agents.nodes.supervisor import supervisor_node
 from agents.nodes.validation import self_reflect_node, refine_node
-from agents.nodes.report import report_node, quick_report_node
+from agents.nodes.report import report_node
 from agents.nodes.answer_query import answer_query_node
 
 logger = logging.getLogger(__name__)
@@ -70,7 +70,6 @@ def build_graph() -> StateGraph:
     # Nodes
     workflow.add_node("orchestrator", orchestrator_node)
     workflow.add_node("list_patients", list_patients_node)
-    workflow.add_node("direct_reply", quick_report_node)
 
     # Document retrieval (uses hybrid search)
     workflow.add_node("load_documents", load_documents_node)
@@ -107,13 +106,12 @@ def build_graph() -> StateGraph:
             "list_patients": "list_patients",
             "analyze": "load_documents",
             "retrieve_info": "load_documents",  # Same path, but info_request flag is set
-            "direct_reply": "direct_reply",
+            "direct_reply": END,
         },
     )
 
     # Terminal nodes for simple paths
     workflow.add_edge("list_patients", END)
-    workflow.add_edge("direct_reply", END)
 
     # Document retrieval with error handling
     workflow.add_conditional_edges(
@@ -121,7 +119,7 @@ def build_graph() -> StateGraph:
         route_from_load_documents,
         {
             "extraction": "extraction",
-            "direct_reply": "direct_reply",
+            "direct_reply": END,
         },
     )
 

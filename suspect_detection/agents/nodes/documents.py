@@ -2,7 +2,7 @@ import logging
 import os
 
 from agents.state import AgentState
-from config import INDEX_DIR, PATIENT_DATA_PATH
+from config import INDEX_DIR, PATIENT_DATA_PATH, CHUNKS_PER_QUERY, MAX_TOTAL_CHUNKS
 
 logger = logging.getLogger(__name__)
 
@@ -23,12 +23,6 @@ CLINICAL_SEARCH_QUERIES = [
     "symptoms complaints chief complaint presenting",
     "patient reports fatigue pain shortness of breath",
 ]
-
-# Chunks per query
-CHUNKS_PER_QUERY = 5
-
-# Max chunks
-MAX_TOTAL_CHUNKS = 20
 
 
 def load_documents_node(state: AgentState) -> dict:

@@ -20,7 +20,7 @@ from agents.nodes.detection import (
 )   
 from agents.nodes.supervisor import supervisor_node
 from agents.nodes.validation import self_reflect_node, refine_node
-from agents.nodes.report import report_node, quick_report_node
+from agents.nodes.report import report_node
 from agents.nodes.answer_query import answer_query_node
 
 logger = logging.getLogger(__name__)
