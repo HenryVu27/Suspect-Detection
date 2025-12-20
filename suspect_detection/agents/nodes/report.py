@@ -1,70 +1,20 @@
 import logging
 
 from agents.state import AgentState
-from agents.gemini_client import get_gemini_client
-from agents.utils import build_patient_context
-from config import GEMINI_FLASH_MODEL
 
 logger = logging.getLogger(__name__)
 
-INFO_RESPONSE_PROMPT = """You are a clinical assistant answering a specific question about a patient.
-Use the provided patient data to answer the user's question directly and completely.
-Format the response clearly with markdown. Include relevant details from the data.
-If data is missing or unavailable, say so clearly.
-"""
-
-REPORT_PROMPT = """You are a clinical assistant summarizing suspect detection findings for a physician.
-
-Format the findings clearly:
-1. Start with a brief summary (1-2 sentences)
-2. Group findings by severity (Critical > High > Medium > Low)
-3. For each finding, include:
-   - The clinical signal (what was detected)
-   - Why it matters
-   - Suggested action
-
-Use markdown formatting for readability.
-Be concise but thorough.
-Do not add findings that weren't detected.
-"""
-
-
-def _generate_info_response(state: dict, original_query: str) -> dict:
-    context = build_patient_context(state)
-
-    # Use LLM to generate a natural response to the specific question
-    try:
-        client = get_gemini_client()
-        response = client.generate(
-            prompt=f"Patient data:\n{context}\n\nUser question: {original_query}",
-            model=GEMINI_FLASH_MODEL,
-            system_instruction=INFO_RESPONSE_PROMPT,
-        )
-        return {
-            "response": response,
-            "next_step": "end",
-        }
-    except Exception as e:
-        logger.error(f"Failed to generate info response: {e}")
-        # Fallback to just showing the context
-        return {
-            "response": context,
-            "next_step": "end",
-        }
-
 
 def report_node(state: AgentState) -> dict:
+    """Generate analysis report from validated findings.
+
+    This node is only reached via the analysis path (orchestrator -> load_documents
+    -> extraction -> supervisor -> detection -> aggregate -> self_reflect -> report).
+    Info requests are handled by answer_query_node via a separate path.
+    """
     patient_id = state.get("patient_id", "Unknown")
     validated_findings = state.get("validated_findings", [])
-    original_query = state.get("original_query", "")
     error = state.get("error")
-
-    # Check if user asked for specific info (not detection)
-    query_lower = original_query.lower()
-    wants_info = any(kw in query_lower for kw in [
-        "medication", "condition", "lab", "symptom", "history",
-        "tell me about", "what are", "show me", "list", "summarize"
-    ])
 
     # Handle error case
     if error and not validated_findings:
@@ -73,11 +23,7 @@ def report_node(state: AgentState) -> dict:
             "next_step": "end",
         }
 
-    # If user wanted specific info, generate info response
-    if wants_info:
-        return _generate_info_response(state, original_query)
-
-    # Handle no findings (standard detection report)
+    # Handle no findings
     if not validated_findings:
         return {
             "response": f"**Patient Analysis: {patient_id}**\n\nNo suspect conditions or gaps were detected. The patient's documentation appears consistent.",

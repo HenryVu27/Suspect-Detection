@@ -6,7 +6,7 @@ from langgraph.checkpoint.memory import MemorySaver
 from langgraph.types import Send
 
 from agents.state import AgentState, create_initial_state
-
+from config import MAX_REFINEMENT_ATTEMPTS
 # Import all node functions
 from agents.nodes.orchestrator import orchestrator_node, list_patients_node
 from agents.nodes.documents import load_documents_node
@@ -45,7 +45,7 @@ def route_from_supervisor(state: AgentState) -> Literal["cross_reference", "drop
 def route_from_validation(state: AgentState) -> Literal["refine", "report"]:
     findings_to_refine = state.get("findings_to_refine", [])
     refinement_attempts = state.get("refinement_attempts", 0)
-    if findings_to_refine and refinement_attempts < 2:
+    if findings_to_refine and refinement_attempts < MAX_REFINEMENT_ATTEMPTS:
         return "refine"
     return "report"
 

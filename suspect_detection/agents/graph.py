@@ -21,7 +21,7 @@ from agents.nodes.supervisor import supervisor_node
 from agents.nodes.validation import self_reflect_node, refine_node
 from agents.nodes.report import report_node
 from agents.nodes.answer_query import answer_query_node
-
+from config import MAX_REFINEMENT_ATTEMPTS
 logger = logging.getLogger(__name__)
 
 
@@ -51,7 +51,7 @@ def route_from_validation(state: AgentState) -> Literal["refine", "report"]:
     findings_to_refine = state.get("findings_to_refine", [])
     refinement_attempts = state.get("refinement_attempts", 0)
 
-    if findings_to_refine and refinement_attempts < 2:
+    if findings_to_refine and refinement_attempts < MAX_REFINEMENT_ATTEMPTS:
         return "refine"
     return "report"
 
