@@ -4,7 +4,6 @@ from difflib import SequenceMatcher
 from agents.state import AgentState
 from agents.models import INTENT_SCHEMA
 from agents.gemini_client import get_gemini_client
-from agents.utils import build_patient_context
 from config import GEMINI_FLASH_MODEL, PATIENT_DATA_PATH
 from retrieval.search import get_search_index
 from retrieval.loader import DocumentLoader
@@ -43,11 +42,8 @@ INTENT_PROMPT = """You are a clinical suspect detection assistant. Classify the 
 6. **medical_question**: User asks about medical concepts, conditions, medications, or clinical knowledge
    - Examples: "What is type 1 diabetes?", "Explain HbA1c", "What does metformin treat?"
 
-7. **system_help**: User asks about what this system can do or how to use it
-   - Examples: "What can you do?", "Help", "How does this work?"
-
-8. **greeting**: Simple greeting or casual conversation
-   - Examples: "Hi", "Hello", "How are you?"
+7. **greeting**: Simple greeting, casual conversation, OR asking about system capabilities/help
+   - Examples: "Hi", "Hello", "How are you?", "What can you do?", "Help", "How does this work?"
 
 **CRITICAL DISTINCTION:**
 - "Analyze patient CVD-2025-001" -> analyze_patient (run detection)
@@ -61,52 +57,11 @@ INTENT_PROMPT = """You are a clinical suspect detection assistant. Classify the 
 - Use followup_question when user wants info WITHOUT specifying a patient ID
 """
 
-MEDICAL_QA_PROMPT = """You are a knowledgeable clinical assistant helping healthcare professionals.
-
-Provide accurate, concise medical information. Include:
-- Clear definition/explanation
-- Clinical relevance
-- Key points a clinician should know
-
-Keep responses focused and professional. Use medical terminology appropriately.
-If the question is outside your knowledge or requires patient-specific advice, say so.
-"""
-
-SYSTEM_HELP_RESPONSE = """**Clinical Suspect Detection System**
-
-I can help you with:
-
-1. **Analyze a patient** - Detect gaps and suspect conditions
-   - Example: "Analyze patient CVD-2025-001"
-
-2. **List available patients**
-   - Example: "List patients"
-
-3. **Answer medical questions**
-   - Example: "What is HbA1c?"
-
-**What I detect:**
-- Medications without documented diagnoses
-- Abnormal labs without corresponding conditions
-- Chronic conditions missing from current records
-- Symptom patterns suggesting undiagnosed conditions
-- Contradictions in clinical documentation
-
-Try: "Analyze patient CVD-2025-001" to get started.
-"""
-
 
 def orchestrator_node(state: AgentState) -> dict:
     user_message = state.get("user_message", "").strip()
-    if not user_message:
-        return {
-            "next_step": "direct_reply",
-            "response": "Please enter a message. Try 'List patients' or 'Analyze patient CVD-2025-001'.",
-        }
-
     logger.info(f"Orchestrator processing: {user_message[:50]}...")
 
-    # Get available patients
     available_patients = _get_available_patients()
 
     # Intent classification
@@ -130,7 +85,6 @@ def orchestrator_node(state: AgentState) -> dict:
         if intent == "analyze_patient" and patient_id:
             patient_id, error = _validate_patient_exists(patient_id, available_patients)
             if error:
-                # Add action hint for analyze intent
                 suggestion = _find_similar_patient(patient_id, available_patients)
                 if suggestion:
                     error["response"] += f"\n\nTry: `Analyze patient {suggestion}`"
@@ -141,8 +95,11 @@ def orchestrator_node(state: AgentState) -> dict:
                 "original_query": user_message,
             }
 
+        elif intent == "analyze_patient" and not patient_id:
+            # User wants to analyze but didn't specify which patient
+            return _handle_patient_clarification("", available_patients)
+
         elif intent == "clarify_patient" or needs_clarification:
-            # User mentioned patient but ID is incomplete
             return _handle_patient_clarification(partial_patient_id or patient_id, available_patients)
 
         elif intent == "list_patients":
@@ -158,18 +115,11 @@ def orchestrator_node(state: AgentState) -> dict:
             has_data = state.get("medications") or state.get("labs") or state.get("conditions")
 
             if existing_patient_id == patient_id and has_data:
-                # Answer directly
-                context = build_patient_context(state)
-                response = client.generate(
-                    prompt=f"Patient data:\n{context}\n\nUser question: {user_message}",
-                    model=GEMINI_FLASH_MODEL,
-                    system_instruction="You are a clinical assistant. Answer the user's specific question based on the patient data provided. "
-                                       "Be concise and directly address what they asked. Reference specific data points.",
-                )
+                # Route to answer_query
                 return {
-                    "next_step": "direct_reply",
-                    "response": response,
+                    "next_step": "answer_query",
                     "patient_id": patient_id,
+                    "original_query": user_message,
                 }
             else:
                 # Retrieve data first
@@ -177,84 +127,34 @@ def orchestrator_node(state: AgentState) -> dict:
                     "next_step": "retrieve_info",
                     "patient_id": patient_id,
                     "original_query": user_message,
-                    "info_request": True,  # Flag to skip detection strategies
+                    "info_request": True,  # Flag to skip detection
                 }
 
         elif intent == "followup_question":
-            # Follow-up question
-            existing_patient_id = state.get("patient_id")
-
-            if not existing_patient_id:
-                return {
-                    "next_step": "direct_reply",
-                    "response": "No patient has been analyzed yet in this session.\n\n"
-                               "Please analyze a patient first:\n"
-                               "- `Analyze patient CVD-2025-001`\n"
-                               "- `List patients` to see available patients",
-                }
-
-            # Build response
-            context = build_patient_context(state)
-            response = client.generate(
-                prompt=f"Patient context:\n{context}\n\nUser question: {user_message}",
-                model=GEMINI_FLASH_MODEL,
-                system_instruction="You are a clinical assistant. Answer the question based on the patient context provided. "
-                                   "Be specific and reference the actual patient data. If you need more information, say so.",
-            )
+            # Route to answer_query
             return {
-                "next_step": "direct_reply",
-                "response": response,
-                "patient_id": existing_patient_id,  # Preserve context
+                "next_step": "answer_query",
+                "patient_id": state.get("patient_id"),
+                "original_query": user_message,
             }
 
         elif intent == "medical_question":
-            # Medical question
-            response = client.generate(
-                prompt=f"Question: {user_message}",
-                model=GEMINI_FLASH_MODEL,
-                system_instruction=MEDICAL_QA_PROMPT,
-            )
-            return {
-                "next_step": "direct_reply",
-                "response": response,
-            }
-
-        elif intent == "system_help":
-            return {
-                "next_step": "direct_reply",
-                "response": SYSTEM_HELP_RESPONSE,
-            }
+            # Route to dedicated medical QA node
+            return {"next_step": "medical_qa"}
 
         elif intent == "greeting":
-            return {
-                "next_step": "direct_reply",
-                "response": "Hello! I'm a clinical suspect detection assistant. "
-                           "I can analyze patient records for gaps and potential issues.\n\n"
-                           "Try: `Analyze patient CVD-2025-001`",
-            }
+            # Handles greetings, help requests, and system capability questions
+            return {"next_step": "general_response", "response_type": "greeting"}
 
         else:
-            # Fallback
-            response = client.generate(
-                prompt=user_message,
-                model=GEMINI_FLASH_MODEL,
-                system_instruction="You are a clinical assistant. Answer helpfully and briefly. "
-                                   "If the user seems to want patient analysis, guide them to use "
-                                   "'Analyze patient <ID>' format.",
-            )
-            return {
-                "next_step": "direct_reply",
-                "response": response,
-            }
+            # Fallback - route to general response node
+            return {"next_step": "general_response", "response_type": "fallback"}
 
     except Exception as e:
         logger.error(f"Intent classification failed: {e}")
         return {
-            "next_step": "direct_reply",
-            "response": "I encountered an issue processing your request.\n\n"
-                       "Try:\n- `List patients` - see available patients\n"
-                       "- `Analyze patient CVD-2025-001` - analyze a specific patient\n"
-                       "- `What is diabetes?` - ask a medical question",
+            "next_step": "general_response",
+            "response_type": "error",
             "error": str(e),
         }
 
@@ -282,11 +182,13 @@ def _validate_patient_exists(patient_id: str, available_patients: list[str]) -> 
     suggestion = _find_similar_patient(patient_id, available_patients)
     if suggestion:
         return patient_id, {
-            "next_step": "direct_reply",
+            "next_step": "general_response",
+            "response_type": "patient_not_found",
             "response": f"Patient '{patient_id}' not found. Did you mean **{suggestion}**?",
         }
     return patient_id, {
-        "next_step": "direct_reply",
+        "next_step": "general_response",
+        "response_type": "patient_not_found",
         "response": f"Patient '{patient_id}' not found.\n\nAvailable patients:\n"
                     + "\n".join(f"- {p}" for p in available_patients[:5]),
     }
@@ -318,11 +220,13 @@ def _handle_patient_clarification(partial_id: str, available_patients: list[str]
         if available_patients:
             patient_list = "\n".join(f"- {p}" for p in available_patients[:10])
             return {
-                "next_step": "direct_reply",
+                "next_step": "general_response",
+                "response_type": "patient_clarification",
                 "response": f"Which patient would you like to analyze?\n\n**Available patients:**\n{patient_list}",
             }
         return {
-            "next_step": "direct_reply",
+            "next_step": "general_response",
+            "response_type": "patient_clarification",
             "response": "Please specify a patient ID in the format XXX-YYYY-NNN (e.g., CVD-2025-001).",
         }
 
@@ -336,24 +240,28 @@ def _handle_patient_clarification(partial_id: str, available_patients: list[str]
 
     if len(matches) == 1:
         return {
-            "next_step": "direct_reply",
+            "next_step": "general_response",
+            "response_type": "patient_clarification",
             "response": f"Did you mean **{matches[0]}**?\n\nTry: `Analyze patient {matches[0]}`",
         }
     elif len(matches) > 1:
         match_list = "\n".join(f"- {p}" for p in matches[:5])
         return {
-            "next_step": "direct_reply",
+            "next_step": "general_response",
+            "response_type": "patient_clarification",
             "response": f"Multiple patients match '{partial_id}':\n{match_list}\n\nPlease specify the full patient ID.",
         }
     else:
         if available_patients:
             patient_list = "\n".join(f"- {p}" for p in available_patients[:5])
             return {
-                "next_step": "direct_reply",
+                "next_step": "general_response",
+                "response_type": "patient_clarification",
                 "response": f"No patient found matching '{partial_id}'.\n\n**Available patients:**\n{patient_list}",
             }
         return {
-            "next_step": "direct_reply",
+            "next_step": "general_response",
+            "response_type": "patient_clarification",
             "response": f"Patient '{partial_id}' not found. Please check the ID format (XXX-YYYY-NNN).",
         }
 

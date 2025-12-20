@@ -1,6 +1,4 @@
-#med
 import logging
-from re import M
 
 from agents.state import AgentState
 from agents.gemini_client import get_gemini_client
@@ -39,4 +37,5 @@ def medical_qa_node(state: AgentState) -> dict:
             "error": str(e),    
             "next_step": "end"
         }
-        
+    
+    

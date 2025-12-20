@@ -32,8 +32,20 @@ Just present the requested data clearly and concisely.
 
 
 def answer_query_node(state: AgentState) -> dict:
-    patient_id = state.get("patient_id", "Unknown")
+    patient_id = state.get("patient_id")
     original_query = state.get("original_query", "")
+
+    # Check if we have patient context
+    if not patient_id:
+        return {
+            "response": (
+                "No patient has been analyzed yet in this session.\n\n"
+                "Please analyze a patient first:\n"
+                "- `Analyze patient CVD-2025-001`\n"
+                "- `List patients` to see available patients"
+            ),
+            "next_step": "end",
+        }
 
     logger.info(f"Answering info query for patient {patient_id}: {original_query[:50]}...")
 

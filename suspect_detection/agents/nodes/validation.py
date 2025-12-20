@@ -14,16 +14,6 @@ from config import (
 
 logger = logging.getLogger(__name__)
 
-
-def _build_doc_summary(documents: list, max_docs: int = VALIDATION_MAX_DOCS, max_chars: int = VALIDATION_MAX_CHARS) -> str:
-    """Build a text summary of documents for LLM context."""
-    summary = ""
-    for doc in documents[:max_docs]:
-        doc_type = doc.get("type", "document")
-        content = doc.get("content", "")[:max_chars]
-        summary += f"\n=== {doc_type} ===\n{content}\n"
-    return summary
-
 VALIDATION_PROMPT = """You are a clinical validation expert. Your job is to verify that clinical findings are supported by the source documents.
 
 For each finding, evaluate:
@@ -36,6 +26,15 @@ For each finding, evaluate:
 Be rigorous but fair. A finding can be valid even if the exact wording differs from the source.
 Focus on factual accuracy, not stylistic concerns.
 """
+
+def _build_doc_summary(documents: list, max_docs: int = VALIDATION_MAX_DOCS, max_chars: int = VALIDATION_MAX_CHARS) -> str:
+    """Build a text summary of documents for LLM context."""
+    summary = ""
+    for doc in documents[:max_docs]:
+        doc_type = doc.get("type", "document")
+        content = doc.get("content", "")[:max_chars]
+        summary += f"\n=== {doc_type} ===\n{content}\n"
+    return summary
 
 
 def self_reflect_node(state: AgentState) -> dict:

@@ -21,12 +21,16 @@ from agents.nodes.supervisor import supervisor_node
 from agents.nodes.validation import self_reflect_node, refine_node
 from agents.nodes.report import report_node
 from agents.nodes.answer_query import answer_query_node
+from agents.nodes.medical_qa import medical_qa_node
+from agents.nodes.general_question import general_question_node
 from config import MAX_REFINEMENT_ATTEMPTS
 logger = logging.getLogger(__name__)
 
 
-def route_from_orchestrator(state: AgentState) -> Literal["list_patients", "analyze", "retrieve_info", "direct_reply"]:
-    return state.get("next_step", "direct_reply")
+def route_from_orchestrator(state: AgentState) -> Literal[
+    "list_patients", "analyze", "retrieve_info", "answer_query", "medical_qa", "general_response"
+]:
+    return state.get("next_step", "general_response")
 
 
 def route_from_load_documents(state: AgentState) -> Literal["extraction", "direct_reply"]:
@@ -77,6 +81,12 @@ def build_graph() -> StateGraph:
     # Answer query (for info requests - bypasses detection)
     workflow.add_node("answer_query", answer_query_node)
 
+    # Medical QA (for general medical questions)
+    workflow.add_node("medical_qa", medical_qa_node)
+
+    # General response (for greetings, help, fallback, errors)
+    workflow.add_node("general_response", general_question_node)
+
     # Detection (Supervisor pattern)
     workflow.add_node("supervisor", supervisor_node)
     workflow.add_node("cross_reference", cross_reference_node)
@@ -103,7 +113,9 @@ def build_graph() -> StateGraph:
             "list_patients": "list_patients",
             "analyze": "load_documents",
             "retrieve_info": "load_documents",  # Same path, but info_request flag is set
-            "direct_reply": END,
+            "answer_query": "answer_query",     # For followups with cached patient data
+            "medical_qa": "medical_qa",         # For general medical questions
+            "general_response": "general_response",  # For greetings, help, fallback, errors
         },
     )
 
@@ -130,8 +142,10 @@ def build_graph() -> StateGraph:
         },
     )
 
-    # Answer query terminal
+    # Terminal nodes for response paths
     workflow.add_edge("answer_query", END)
+    workflow.add_edge("medical_qa", END)
+    workflow.add_edge("general_response", END)
 
     # Supervisor routing to detection agents
     workflow.add_conditional_edges(

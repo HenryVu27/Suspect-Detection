@@ -69,7 +69,6 @@ INTENT_SCHEMA = {
                 "clarify_patient",
                 "followup_question",
                 "medical_question",
-                "system_help",
                 "greeting",
             ],
         },
