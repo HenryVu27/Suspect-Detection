@@ -174,7 +174,3 @@ def report_node(state: AgentState) -> dict:
         "response": response,
         "next_step": "end",
     }
-
-
-def quick_report_node(_state: AgentState) -> dict:
-    return {}

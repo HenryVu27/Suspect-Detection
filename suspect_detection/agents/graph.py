@@ -19,31 +19,18 @@ from agents.nodes.detection import (
 )
 from agents.nodes.supervisor import supervisor_node
 from agents.nodes.validation import self_reflect_node, refine_node
-from agents.nodes.report import report_node, quick_report_node
+from agents.nodes.report import report_node
 from agents.nodes.answer_query import answer_query_node
 
 logger = logging.getLogger(__name__)
 
 
 def route_from_orchestrator(state: AgentState) -> Literal["list_patients", "analyze", "retrieve_info", "direct_reply"]:
-    # Route based on orchestrator's intent classification
-    next_step = state.get("next_step", "direct_reply")
-
-    if next_step == "list_patients":
-        return "list_patients"
-    elif next_step == "analyze":
-        return "analyze"
-    elif next_step == "retrieve_info":
-        return "retrieve_info"
-    else:
-        return "direct_reply"
+    return state.get("next_step", "direct_reply")
 
 
 def route_from_load_documents(state: AgentState) -> Literal["extraction", "direct_reply"]:
-    # Route based on document retrieval result
-    if state.get("error") or not state.get("documents"):
-        return "direct_reply"
-    return "extraction"
+    return state.get("next_step", "direct_reply")
 
 
 def route_from_extraction(state: AgentState) -> Literal["supervisor", "answer_query"]:
@@ -56,19 +43,7 @@ def route_from_extraction(state: AgentState) -> Literal["supervisor", "answer_qu
 def route_from_supervisor(state: AgentState) -> Literal[
     "cross_reference", "dropoff", "symptom_cluster", "contradiction", "aggregate"
 ]:
-    # Route based on supervisor's decision
-    next_step = state.get("next_step", "aggregate")
-
-    if next_step == "cross_reference":
-        return "cross_reference"
-    elif next_step == "dropoff":
-        return "dropoff"
-    elif next_step == "symptom_cluster":
-        return "symptom_cluster"
-    elif next_step == "contradiction":
-        return "contradiction"
-    else:
-        return "aggregate"
+    return state.get("next_step", "aggregate")
 
 
 def route_from_validation(state: AgentState) -> Literal["refine", "report"]:
@@ -92,7 +67,6 @@ def build_graph() -> StateGraph:
     # Nodes
     workflow.add_node("orchestrator", orchestrator_node)
     workflow.add_node("list_patients", list_patients_node)
-    workflow.add_node("direct_reply", quick_report_node)
 
     # Document retrieval (uses hybrid search)
     workflow.add_node("load_documents", load_documents_node)
@@ -129,13 +103,12 @@ def build_graph() -> StateGraph:
             "list_patients": "list_patients",
             "analyze": "load_documents",
             "retrieve_info": "load_documents",  # Same path, but info_request flag is set
-            "direct_reply": "direct_reply",
+            "direct_reply": END,
         },
     )
 
     # Terminal nodes for simple paths
     workflow.add_edge("list_patients", END)
-    workflow.add_edge("direct_reply", END)
 
     # Document retrieval with error handling
     workflow.add_conditional_edges(
@@ -143,7 +116,7 @@ def build_graph() -> StateGraph:
         route_from_load_documents,
         {
             "extraction": "extraction",
-            "direct_reply": "direct_reply",
+            "direct_reply": END,
         },
     )
 

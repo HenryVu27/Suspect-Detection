@@ -128,22 +128,13 @@ def orchestrator_node(state: AgentState) -> dict:
 
         # Handle intents
         if intent == "analyze_patient" and patient_id:
-            # Validate patient exists
-            patient_id = patient_id.upper()
-            if available_patients and patient_id not in available_patients:
-                # Fuzzy match
+            patient_id, error = _validate_patient_exists(patient_id, available_patients)
+            if error:
+                # Add action hint for analyze intent
                 suggestion = _find_similar_patient(patient_id, available_patients)
                 if suggestion:
-                    return {
-                        "next_step": "direct_reply",
-                        "response": f"Patient '{patient_id}' not found. Did you mean **{suggestion}**?\n\nTry: `Analyze patient {suggestion}`",
-                    }
-                else:
-                    return {
-                        "next_step": "direct_reply",
-                        "response": f"Patient '{patient_id}' not found.\n\nAvailable patients:\n"
-                                    + "\n".join(f"- {p}" for p in available_patients[:5]),
-                    }
+                    error["response"] += f"\n\nTry: `Analyze patient {suggestion}`"
+                return error
             return {
                 "next_step": "analyze",
                 "patient_id": patient_id,
@@ -158,21 +149,9 @@ def orchestrator_node(state: AgentState) -> dict:
             return {"next_step": "list_patients"}
 
         elif intent == "patient_info_request" and patient_id:
-            # Info request (not full analysis)
-            patient_id = patient_id.upper()
-
-            # Validate patient exists
-            if available_patients and patient_id not in available_patients:
-                suggestion = _find_similar_patient(patient_id, available_patients)
-                if suggestion:
-                    return {
-                        "next_step": "direct_reply",
-                        "response": f"Patient '{patient_id}' not found. Did you mean **{suggestion}**?",
-                    }
-                return {
-                    "next_step": "direct_reply",
-                    "response": f"Patient '{patient_id}' not found.",
-                }
+            patient_id, error = _validate_patient_exists(patient_id, available_patients)
+            if error:
+                return error
 
             # Check existing data
             existing_patient_id = state.get("patient_id")
@@ -287,6 +266,30 @@ def _get_available_patients() -> list[str]:
     except Exception as e:
         logger.warning(f"Could not load patient list: {e}")
         return []
+
+
+def _validate_patient_exists(patient_id: str, available_patients: list[str]) -> tuple[str, dict | None]:
+    """Validate patient ID exists and return (upper_id, error_response).
+
+    Returns:
+        (patient_id_upper, None) if valid
+        (patient_id_upper, error_dict) if invalid
+    """
+    patient_id = patient_id.upper()
+    if not available_patients or patient_id in available_patients:
+        return patient_id, None
+
+    suggestion = _find_similar_patient(patient_id, available_patients)
+    if suggestion:
+        return patient_id, {
+            "next_step": "direct_reply",
+            "response": f"Patient '{patient_id}' not found. Did you mean **{suggestion}**?",
+        }
+    return patient_id, {
+        "next_step": "direct_reply",
+        "response": f"Patient '{patient_id}' not found.\n\nAvailable patients:\n"
+                    + "\n".join(f"- {p}" for p in available_patients[:5]),
+    }
 
 
 def _find_similar_patient(query: str, available: list[str], threshold: float = 0.6) -> str | None:

@@ -1,4 +1,5 @@
 import os
+import re
 from glob import glob
 from typing import Optional
 from core.models import Document
@@ -53,8 +54,6 @@ class DocumentLoader:
 
     def _extract_date(self, file_path: str) -> Optional[str]:
         filename = os.path.basename(file_path)
-        # Look for date pattern
-        import re
         match = re.search(r"(\d{4}-\d{2}-\d{2})", filename)
         if match:
             return match.group(1)
