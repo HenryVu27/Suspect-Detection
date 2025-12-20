@@ -158,7 +158,7 @@ def reset_orchestrator(session_id: str = None):
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
-
+    # For testing the orchestrator
     orchestrator = Orchestrator()
 
     test_messages = [

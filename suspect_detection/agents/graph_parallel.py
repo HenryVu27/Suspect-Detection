@@ -50,3 +50,16 @@ def route_from_validation(state: AgentState) -> Literal["refine", "report"]:
     return "report"
 
 def build_graph() -> StateGraph:
+    workflow = StateGraph(AgentState)
+
+    workflow.add_node("orchestrator", orchestrator_node)
+    workflow.add_node("list_patients", list_patients_node)
+    workflow.add_node("load_documents", load_documents_node)
+    workflow.add_node("extraction", extraction_node)
+    workflow.add_node("supervisor", supervisor_node)
+    workflow.add_node("cross_reference", cross_reference_node)
+    workflow.add_node("dropoff", dropoff_node)
+    workflow.add_node("symptom_cluster", symptom_cluster_node)
+    workflow.add_node("contradiction", contradiction_node)
+    workflow.add_node("aggregate", aggregate_findings_node)
+    return workflow
