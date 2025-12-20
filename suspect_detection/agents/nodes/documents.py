@@ -62,7 +62,7 @@ def load_documents_node(state: AgentState) -> dict:
             f"({total_chars:,} chars) from {len(retrieved_chunks)} chunks"
         )
 
-        return {"documents": documents}
+        return {"documents": documents, "next_step": "extraction"}
 
     except Exception as e:
         logger.error(f"Failed to retrieve documents: {e}")
@@ -153,7 +153,7 @@ def _load_documents_fallback(patient_id: str) -> dict:
         ]
 
         logger.info(f"Loaded {len(documents)} documents via fallback")
-        return {"documents": documents}
+        return {"documents": documents, "next_step": "extraction"}
 
     except Exception as e:
         logger.error(f"Fallback document load failed: {e}")

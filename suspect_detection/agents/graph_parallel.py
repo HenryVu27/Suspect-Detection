@@ -27,9 +27,26 @@ logger = logging.getLogger(__name__)
 
 def route_from_orchestrator(state: AgentState) -> Literal["list_patients", "analyze", "retrieve_info", "direct_reply"]:
     # Route based on user intent
-    next_step = state.get("next_step", "direct_reply")
-    if next_step == "list_patients":
-        return ["list_patients"]
-    elif next_step == "analyze":
-        return "analyze"
-    
+    return state.get("next_step", "direct_reply")
+
+def route_from_load_documents(state: AgentState) -> Literal["extraction", "direct_reply"]:
+    if state.get("error") or not state.get("documents"):
+        return "direct_reply"
+    return "extraction"
+
+def route_from_extraction(state: AgentState) -> Literal["supervisor", "answer_query"]:
+    if state.get("info_request"):
+        return "answer_query"
+    return "supervisor"
+
+def route_from_supervisor(state: AgentState) -> Literal["cross_reference", "dropoff", "symptom_cluster", "contradiction", "aggregate"]:
+    return state.get("next_step", "aggregate")
+
+def route_from_validation(state: AgentState) -> Literal["refine", "report"]:
+    findings_to_refine = state.get("findings_to_refine", [])
+    refinement_attempts = state.get("refinement_attempts", 0)
+    if findings_to_refine and refinement_attempts < 2:
+        return "refine"
+    return "report"
+
+def build_graph() -> StateGraph:

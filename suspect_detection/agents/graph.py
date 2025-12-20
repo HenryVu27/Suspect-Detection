@@ -30,10 +30,7 @@ def route_from_orchestrator(state: AgentState) -> Literal["list_patients", "anal
 
 
 def route_from_load_documents(state: AgentState) -> Literal["extraction", "direct_reply"]:
-    # Route based on document retrieval result
-    if state.get("error") or not state.get("documents"):
-        return "direct_reply"
-    return "extraction"
+    return state.get("next_step", "direct_reply")
 
 
 def route_from_extraction(state: AgentState) -> Literal["supervisor", "answer_query"]:
