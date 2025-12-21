@@ -116,14 +116,15 @@ def normalize_medications(meds: list[dict]) -> list[dict]:
     seen = set()
 
     for med in meds:
-        name = med.get("name", "").strip().lower()
-        if not name or name in seen:
+        name_original = med.get("name", "").strip()
+        name_lower = name_original.lower()
+        if not name_lower or name_lower in seen:
             continue
 
-        seen.add(name)
+        seen.add(name_lower)
         normalized.append({
-            "name": med.get("name", "").strip(),
-            "name_lower": name,
+            "name": name_original,
+            "name_lower": name_lower,
             "dose": med.get("dose", ""),
             "frequency": med.get("frequency", ""),
         })
@@ -170,14 +171,15 @@ def normalize_conditions(conditions: list[dict]) -> list[dict]:
     seen = set()
 
     for cond in conditions:
-        name = cond.get("name", "").strip().lower()
-        if not name or name in seen:
+        name_original = cond.get("name", "").strip()
+        name_lower = name_original.lower()
+        if not name_lower or name_lower in seen:
             continue
 
-        seen.add(name)
+        seen.add(name_lower)
         normalized.append({
-            "name": cond.get("name", "").strip(),
-            "name_lower": name,
+            "name": name_original,
+            "name_lower": name_lower,
             "icd10": cond.get("icd10", ""),
             "status": cond.get("status", "active"),
             "year": cond.get("year"),

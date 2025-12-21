@@ -110,11 +110,9 @@ Which detection agent should run next?""",
 
         logger.info(f"Supervisor decided: {next_agent} ({reasoning})")
 
-        if next_agent == "FINISH":
+        if next_agent in ("FINISH", "aggregate"):
             return {"next_step": "aggregate"}
-        elif next_agent == "aggregate":
-            return {"next_step": "aggregate"}
-        elif next_agent in DETECTION_STRATEGIES and next_agent not in completed:
+        if next_agent in DETECTION_STRATEGIES and next_agent not in completed:
             return {
                 "next_step": next_agent,
                 "current_strategy": next_agent,

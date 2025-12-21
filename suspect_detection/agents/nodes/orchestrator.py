@@ -15,46 +15,49 @@ INTENT_PROMPT = """You are a clinical suspect detection assistant. Classify the 
 
 **Available Intents:**
 
-1. **analyze_patient**: User explicitly wants to RUN ANALYSIS / DETECT ISSUES for a patient
+1. **analyze_patient**: User wants to RUN ANALYSIS / DETECT ISSUES for a patient
    - Keywords: "analyze", "check for issues", "detect", "find gaps", "run detection"
    - Examples: "Analyze CVD-2025-001", "Run detection on patient CVD-2025-001"
-   - NOT for general information requests about a patient
+   - ALSO includes follow-up questions requiring detection:
+     - "Are there any undocumented conditions?"
+     - "What conditions might be missing?"
+     - "Are there any gaps in the documentation?"
+     - "Are there conditions that might be present but not documented?"
+   - If user asks about POTENTIAL/SUSPECTED/UNDOCUMENTED conditions -> analyze_patient
 
-2. **patient_info_request**: User wants INFORMATION about a patient (NOT a new analysis)
+2. **patient_info_request**: User wants INFORMATION about EXISTING/DOCUMENTED data
    - User asks about specific aspects: medications, labs, conditions, history, symptoms
-   - User asks what to focus on, prioritize, or summarize
-   - Examples: "Tell me about CVD-2025-001's medications", "What are the lab results for CVD-2025-001?",
-     "What should I focus on for patient CVD-2025-001?", "Summarize CVD-2025-001's conditions"
-   - This is different from analyze_patient - it's asking for info, not running detection
+   - Examples: "Tell me about CVD-2025-001's medications", "What are the lab results?"
+   - This is for viewing existing documented data, NOT detecting missing issues
 
 3. **list_patients**: User wants to see available patients
    - Examples: "List patients", "What patients are available?", "Show patients"
 
-4. **clarify_patient**: User mentions a patient but ID is incomplete, ambiguous, or invalid
-   - Examples: "Tell me about patient CVD", "Analyze patient 2025", "Check CVD-2025"
+4. **clarify_patient**: User mentions a patient but ID is incomplete or invalid
+   - Examples: "Tell me about patient CVD", "Analyze patient 2025"
    - Set needs_clarification=true and include partial_patient_id
 
-5. **followup_question**: User asks a follow-up question WITHOUT mentioning a specific patient ID
-   - Refers to "this patient", "the patient", or asks about previously discussed data
-   - Examples: "What medications is this patient on?", "What do the lab results suggest?",
-     "Are there any gaps?", "Tell me more about the findings"
+5. **followup_question**: User asks a follow-up about EXISTING DATA (not detection)
+   - Examples: "What medications is this patient on?", "Tell me more about the conditions"
+   - NOT for questions about missing/undocumented conditions (use analyze_patient)
 
-6. **medical_question**: User asks about medical concepts, conditions, medications, or clinical knowledge
+6. **medical_question**: User asks about medical concepts or clinical knowledge
    - Examples: "What is type 1 diabetes?", "Explain HbA1c", "What does metformin treat?"
 
-7. **greeting**: Simple greeting, casual conversation, OR asking about system capabilities/help
-   - Examples: "Hi", "Hello", "How are you?", "What can you do?", "Help", "How does this work?"
+7. **greeting**: Simple greeting or asking about system capabilities
+   - Examples: "Hi", "Hello", "What can you do?", "Help"
 
 **CRITICAL DISTINCTION:**
-- "Analyze patient CVD-2025-001" -> analyze_patient (run detection)
-- "Tell me about CVD-2025-001's medications" -> patient_info_request (get info)
-- "What should I focus on for CVD-2025-001?" -> patient_info_request (get info)
-- "What medications is this patient on?" -> followup_question (no patient ID mentioned)
+- "Analyze patient CVD-2025-001" -> analyze_patient
+- "Are there any undocumented conditions?" -> analyze_patient (detection needed!)
+- "What conditions might be missing?" -> analyze_patient (detection needed!)
+- "Tell me about CVD-2025-001's medications" -> patient_info_request
+- "What medications is this patient on?" -> followup_question
 
 **Important:**
 - Extract patient_id if it matches format XXX-YYYY-NNN
-- Use patient_info_request when user wants specific info WITH a patient ID
-- Use followup_question when user wants info WITHOUT specifying a patient ID
+- Questions about MISSING/POTENTIAL/UNDOCUMENTED data require analyze_patient
+- Questions about EXISTING/DOCUMENTED data use patient_info_request or followup_question
 """
 
 
@@ -81,22 +84,22 @@ def orchestrator_node(state: AgentState) -> dict:
 
         logger.info(f"Intent: {intent}, patient_id: {patient_id}, partial: {partial_patient_id}")
 
-        # Handle intents
-        if intent == "analyze_patient" and patient_id:
-            patient_id, error = _validate_patient_exists(patient_id, available_patients)
-            if error:
-                suggestion = _find_similar_patient(patient_id, available_patients)
-                if suggestion:
-                    error["response"] += f"\n\nTry: `Analyze patient {suggestion}`"
-                return error
-            return {
-                "next_step": "analyze",
-                "patient_id": patient_id,
-                "original_query": user_message,
-            }
+        if intent == "analyze_patient":
+            # Fallback to state for follow-up analysis requests
+            effective_patient_id = patient_id or state.get("patient_id")
 
-        elif intent == "analyze_patient" and not patient_id:
-            # User wants to analyze but didn't specify which patient
+            if effective_patient_id:
+                effective_patient_id, error = _validate_patient_exists(effective_patient_id, available_patients)
+                if error:
+                    suggestion = _find_similar_patient(effective_patient_id, available_patients)
+                    if suggestion:
+                        error["response"] += f"\n\nTry: `Analyze patient {suggestion}`"
+                    return error
+                return {
+                    "next_step": "analyze",
+                    "patient_id": effective_patient_id,
+                    "original_query": user_message,
+                }
             return _handle_patient_clarification("", available_patients)
 
         elif intent == "clarify_patient" or needs_clarification:
