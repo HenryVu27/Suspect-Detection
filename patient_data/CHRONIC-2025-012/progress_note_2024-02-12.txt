@@ -1,0 +1,76 @@
+PROGRESS NOTE
+Patient: Nguyen Tran    DOB: 02/14/1965    MRN: 56789345
+Date: 2024-02-12       Provider: Dr. David Chen, MD (Nephrology)
+
+Chief Complaint: CKD Stage 4 management
+
+Subjective:
+58 yo M with advanced diabetic nephropathy here for routine nephrology follow-up.
+eGFR has been slowly declining - now 20 (was 22 in October). Understanding that
+dialysis is likely within next 1-2 years.
+
+AV fistula placed last August is maturing well per vascular. Thrill and bruit present.
+Glad he got it done early - "Want to be ready when the time comes."
+
+No uremic symptoms currently - no nausea, no metallic taste, no severe fatigue.
+Appetite okay. Some mild ankle swelling.
+
+Taking medications but admits missing evening insulin doses occasionally - "I'm
+tired by evening and sometimes forget."
+
+Darbepoetin injection last month. Feeling okay energy-wise.
+
+Current Medications:
+- Lantus 45 units QHS
+- Lispro 15 units TID with meals
+- Losartan 50mg daily
+- Amlodipine 10mg daily
+- Carvedilol 12.5mg BID
+- Rosuvastatin 40mg QHS
+- Gabapentin 300mg BID (renally dosed)
+- Calcitriol 0.25mcg daily
+- Calcium carbonate 1000mg TID with meals
+- Darbepoetin 40mcg SQ monthly
+- Sevelamer 800mg TID with meals
+- Sodium bicarbonate 650mg TID
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 142/82, HR 68, RR 16, Wt 178 lbs (+3), BMI 27.8
+General: Well-appearing, no pallor
+CV: RRR
+Lungs: Clear
+Ext: 1+ edema bilateral ankles
+Fistula: Left forearm - thrill palpable, bruit auscultated, no signs of infection
+
+Labs from 02/05:
+- Cr: 3.2 (up from 2.9), eGFR 20
+- K: 5.1
+- CO2: 20 (low, metabolic acidosis from CKD)
+- Calcium: 8.8 (low normal)
+- Phosphorus: 5.2 (H)
+- PTH: 285 pg/mL (H)
+- Hgb: 10.8
+- A1c: 8.8% (H)
+
+Assessment/Plan:
+1. CKD Stage 4, progressing - eGFR 20, down from 22. Trajectory suggests dialysis
+   likely within 12-18 months. AV fistula maturing well. Discussed modalities:
+   - Referred to transplant clinic for evaluation (living donor preferred if family available)
+   - Discussed hemodialysis vs peritoneal dialysis - patient prefers HD given fistula
+   - Continue conservative management to delay as long as safely possible
+2. Diabetic nephropathy - primary cause. BP control important. Losartan at 50mg,
+   not maximized due to K and eGFR concerns.
+3. Metabolic acidosis - bicarbonate low at 20. Increase sodium bicarbonate to 1300mg TID.
+4. Secondary hyperparathyroidism - PTH 285, phosphorus 5.2. Increase sevelamer to
+   1600mg TID with meals. Continue calcitriol.
+5. Anemia of CKD - Hgb 10.8, stable. Continue darbepoetin monthly.
+6. Type 2 Diabetes - A1c 8.8%, not at goal. Patient admits missing doses. Discussed
+   importance of adherence. Consider simplifying regimen.
+7. Hypertension - fair control. Continue current agents.
+8. Edema - mild, likely volume from CKD. Watch salt intake. Could consider increasing
+   furosemide (currently not on diuretic).
+
+Transplant referral placed. RTC 6-8 weeks.
+
+Electronically signed by David Chen, MD  02/12/2024 4:15 PM

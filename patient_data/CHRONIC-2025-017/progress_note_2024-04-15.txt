@@ -1,0 +1,55 @@
+PROGRESS NOTE
+Patient: Maria Gonzalez    DOB: 03/15/1990    MRN: 12345901
+Date: 2024-04-15       Provider: Dr. Jennifer Adams, MD (Psychiatry)
+
+Chief Complaint: PTSD follow-up, medication management
+
+Subjective:
+34 yo F OEF veteran with combat-related PTSD here for routine follow-up. Reports
+symptoms "manageable but still there." Nightmares 2-3x/week - better since prazosin
+increase. Hypervigilance continues - scans rooms for exits, startles easily.
+Avoids crowds, fireworks, certain movies.
+
+Working as EMT - finds it meaningful but sometimes triggering. Has good support
+from supervisor who is also a veteran. Using grounding techniques from therapy
+when triggered at work.
+
+Mood "okay most days." Some days harder than others. Low energy. Not isolating
+as much - goes to VA gym 3x/week, joined women veterans' support group.
+
+Migraines 2-3x/month - managed with sumatriptan. Back pain chronic but stable.
+
+In weekly individual therapy (CPT) - finding it helpful but difficult. "Digging
+up old stuff is hard."
+
+No SI/HI. "I have too much to live for."
+
+Current Medications:
+- Sertraline 150mg daily
+- Prazosin 5mg QHS
+- Topiramate 50mg BID
+- Gabapentin 300mg TID
+- Sumatriptan 50mg PRN migraine
+
+Objective:
+Vitals: BP 122/78, HR 74, Wt 145 lbs (stable)
+General: Alert, guarded but engaged, makes intermittent eye contact
+Psych: Mood "managing", affect constricted but reactive, hypervigilant (scanned
+       room on entry), no psychomotor changes, thought process linear, no SI/HI
+
+PCL-5: 42 (moderate PTSD symptoms)
+PHQ-9: 10 (moderate depression)
+
+Assessment/Plan:
+1. PTSD - moderate symptoms, improved with current regimen and therapy. Nightmares
+   reduced on prazosin 5mg. Continue current medications. Continue CPT.
+2. Major Depressive Disorder - PHQ-9 10, stable. Associated with PTSD. Continue
+   sertraline 150mg.
+3. Chronic migraine - stable frequency on topiramate. Continue.
+4. Chronic low back pain - stable on gabapentin. Continue.
+5. Occupational functioning - working as EMT, meaningful but some triggers.
+   Discussed self-care importance.
+
+Stable overall. Continue current treatment. RTC 8 weeks.
+
+Electronically signed by Jennifer Adams, MD  04/15/2024 2:30 PM

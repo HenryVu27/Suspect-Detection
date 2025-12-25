@@ -1,0 +1,62 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Kaiser Permanente)
+Export Date: 2023-12-12
+Patient: Marcus Johnson    DOB: 11/03/1978    MRN: 56789123
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Morbid Obesity (E66.01)
+   - First Documented: 2018-04-15
+   - Status: Active
+   - Managing Provider: Dr. Kevin Park
+   - Notes: BMI 42.5. Multiple weight loss attempts. Considering bariatric referral.
+
+2. Prediabetes (R73.03)
+   - First Documented: 2022-06-20
+   - Status: Active
+   - Notes: A1c 6.2%. Lifestyle modifications counseled.
+
+3. Essential Hypertension (I10)
+   - First Documented: 2020-03-10
+   - Status: Active
+   - Notes: On lisinopril 10mg
+
+4. Hyperlipidemia, mixed (E78.2)
+   - First Documented: 2021-08-15
+   - Status: Active
+   - Notes: Elevated TG, low HDL. Lifestyle emphasized, declined statin.
+
+5. Obstructive Sleep Apnea, moderate (G47.33)
+   - First Documented: 2022-11-28
+   - Status: Active
+   - Notes: AHI 22. CPAP prescribed but patient reports poor tolerance.
+
+6. Fatty Liver Disease (K76.0)
+   - First Documented: 2023-02-14
+   - Status: Active
+   - Notes: Elevated ALT on labs. Ultrasound showed hepatic steatosis.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Plantar fasciitis, right (M72.2)
+   - Onset: 2022-08-10
+   - Resolved: 2023-01-15
+   - Notes: Resolved with orthotics and PT
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Arthroscopic knee surgery, right
+   - Date: 2019-05-22
+   - Hospital: Kaiser South Bay
+   - Complications: None
+   - Notes: Meniscal repair
+
+================================================================================
+ALLERGIES
+================================================================================
+NKDA (No Known Drug Allergies)
+
+================================================================================

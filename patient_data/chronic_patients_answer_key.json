@@ -1,0 +1,854 @@
+{
+  "batch_info": {
+    "batch_number": 2,
+    "generated_date": "2024-12-24",
+    "description": "Diverse chronic disease synthetic clinical documents for healthcare AI evaluation",
+    "patient_count": 30,
+    "disease_domains": ["metabolic/endocrine", "respiratory", "renal", "mental_health", "musculoskeletal", "neurological", "gi", "autoimmune", "cardiovascular", "geriatric/multi-morbidity"]
+  },
+  "patients": [
+    {
+      "patient_id": "CHRONIC-2025-001",
+      "patient_name": "Patricia Williams",
+      "primary_conditions": ["Type 2 Diabetes", "CKD", "Diabetic Neuropathy", "Hypertension", "Obesity"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "high",
+          "signal": "Depression documented in prior year but not addressed in current records",
+          "expected_finding": "Major Depressive Disorder (F33.1) was active in 2023, patient self-discontinued sertraline. PHQ-9 of 16 in July 2024 indicates ongoing depression requiring treatment.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "progress_note_2024-03-12.txt", "progress_note_2024-07-18.txt"]
+        },
+        {
+          "type": "ckd_staging_update_needed",
+          "severity": "medium",
+          "signal": "CKD has progressed from Stage 2 to Stage 3b",
+          "expected_finding": "Prior year shows CKD Stage 2 (eGFR 78), current labs show eGFR 45 which is Stage 3b. Problem list staging should be updated.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "lab_results_2024-11-08.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "Classic OSA symptoms not yet diagnosed",
+          "expected_finding": "HRA and progress notes document loud snoring, witnessed apneas, morning headaches, daytime fatigue in obese patient. Sleep study ordered but never completed. OSA highly likely.",
+          "evidence_locations": ["hra_2024-10-15.txt", "progress_note_2024-07-18.txt", "progress_note_2024-11-14.txt"]
+        },
+        {
+          "type": "lab_diagnosis_gap",
+          "severity": "medium",
+          "signal": "Anemia of CKD not formally documented",
+          "expected_finding": "Hemoglobin 11.8 g/dL in context of CKD Stage 3b indicates anemia of chronic kidney disease. Should be added to problem list.",
+          "evidence_locations": ["lab_results_2024-11-08.txt"]
+        },
+        {
+          "type": "social_determinant_barrier",
+          "severity": "medium",
+          "signal": "Medication cost concerns affecting adherence",
+          "expected_finding": "HRA reveals medication cost concerns and difficulty affording Jardiance ($50/month). Should trigger medication assistance evaluation.",
+          "evidence_locations": ["hra_2024-10-15.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-002",
+      "patient_name": "Jennifer Martinez",
+      "primary_conditions": ["Hypothyroidism", "Iron Deficiency Anemia", "Vitamin D Deficiency"],
+      "complexity": "low",
+      "expected_detections": [
+        {
+          "type": "medication_interaction",
+          "severity": "medium",
+          "signal": "Calcium interfering with levothyroxine absorption",
+          "expected_finding": "Patient taking calcium at same time as levothyroxine causing drug interaction and hypothyroid symptoms. TSH rose from 2.4 to 12.8 due to absorption issue.",
+          "evidence_locations": ["progress_note_2024-10-30.txt", "lab_results_2024-10-30.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-003",
+      "patient_name": "Marcus Johnson",
+      "primary_conditions": ["Morbid Obesity", "Type 2 Diabetes", "OSA", "NAFLD", "Metabolic Syndrome"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "diagnosis_documentation_needed",
+          "severity": "medium",
+          "signal": "Prediabetes progressed to diabetes but diagnosis timing unclear",
+          "expected_finding": "A1c progressed from 6.2% (prediabetes) to 6.5% (diabetes) in June 2024. Diagnosis was appropriately made and documented.",
+          "evidence_locations": ["progress_note_2024-06-15.txt", "prior_year_problems_2023.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-004",
+      "patient_name": "David Chen",
+      "primary_conditions": ["Type 2 Diabetes (new)", "Hypertension", "Hyperlipidemia", "Adjustment Disorder"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "new_diagnosis_documentation",
+          "severity": "medium",
+          "signal": "Adjustment disorder with anxiety/depression diagnosed but may not be in problem list",
+          "expected_finding": "October 2024 note documents PHQ-9 of 12 and GAD-7 of 14 with diagnosis of adjustment disorder. Verify this is added to official problem list.",
+          "evidence_locations": ["progress_note_2024-10-22.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "medium",
+          "signal": "Depression/anxiety symptoms in HRA require clinical correlation",
+          "expected_finding": "HRA shows several days of feeling down, difficulty concentrating, anxiety - confirmed by PHQ-9/GAD-7 in subsequent visit.",
+          "evidence_locations": ["hra_2024-10-01.txt", "progress_note_2024-10-22.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-005",
+      "patient_name": "Aisha Hassan",
+      "primary_conditions": ["Graves Disease", "Hypothyroidism (post-thyroidectomy)", "History of AFib", "Anxiety"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "diagnosis_status_update",
+          "severity": "low",
+          "signal": "Graves disease resolved after thyroidectomy",
+          "expected_finding": "Patient had thyroidectomy for Graves disease. Problem list should be updated to reflect status post and add iatrogenic hypothyroidism.",
+          "evidence_locations": ["progress_note_2024-10-18.txt", "prior_year_problems_2023.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-006",
+      "patient_name": "Darnell Washington",
+      "primary_conditions": ["Type 2 Diabetes with complications", "CKD Stage 4-5", "Diabetic Retinopathy", "Neuropathy", "Depression"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "critical_medication_nonadherence",
+          "severity": "critical",
+          "signal": "Insulin rationing due to cost - life threatening",
+          "expected_finding": "Patient was taking half-doses of insulin due to inability to afford medications. A1c rose to 11.2% with DKA risk. CRITICAL PATIENT SAFETY ISSUE.",
+          "evidence_locations": ["progress_note_2024-02-15.txt", "hra_2024-10-01.txt"]
+        },
+        {
+          "type": "chronic_condition_dropoff",
+          "severity": "high",
+          "signal": "Depression not treated after medication self-discontinuation",
+          "expected_finding": "Patient stopped sertraline due to cost. PHQ-9 was 18 (moderately severe). Depression should remain on active problem list.",
+          "evidence_locations": ["progress_note_2024-02-15.txt", "prior_year_problems_2023.txt"]
+        },
+        {
+          "type": "ckd_staging_update_needed",
+          "severity": "high",
+          "signal": "CKD progressed to Stage 5",
+          "expected_finding": "Prior year shows CKD Stage 3, now eGFR 15 which is Stage 5/ESKD. Dialysis imminent.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "lab_results_2024-10-15.txt"]
+        },
+        {
+          "type": "social_determinant_barrier",
+          "severity": "critical",
+          "signal": "Food insecurity and medication cost barriers",
+          "expected_finding": "HRA reveals difficulty affording healthy food and medication cost concerns.",
+          "evidence_locations": ["hra_2024-10-01.txt", "progress_note_2024-02-15.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-007",
+      "patient_name": "Frank Morrison",
+      "primary_conditions": ["COPD severe", "CAD", "Osteoporosis", "Former tobacco use", "Anxiety"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "new_diagnosis_undocumented",
+          "severity": "medium",
+          "signal": "Osteoarthritis found on exam but not in problem list",
+          "expected_finding": "October 2024 note documents Heberden's nodes, joint stiffness, and crepitus consistent with osteoarthritis.",
+          "evidence_locations": ["progress_note_2024-10-15.txt"]
+        },
+        {
+          "type": "tobacco_status_update",
+          "severity": "low",
+          "signal": "Tobacco use disorder now in remission",
+          "expected_finding": "Patient quit smoking in April 2024. Problem list should be updated to 'in remission'.",
+          "evidence_locations": ["progress_note_2024-10-15.txt", "hra_2024-09-25.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-008",
+      "patient_name": "Emily Nakamura",
+      "primary_conditions": ["Asthma mild persistent", "Allergic Rhinitis", "Eczema"],
+      "complexity": "low",
+      "expected_detections": [],
+      "notes": "Clean baseline with well-controlled atopic disease."
+    },
+    {
+      "patient_id": "CHRONIC-2025-009",
+      "patient_name": "Raymond Brooks",
+      "primary_conditions": ["Severe OSA (new)", "Hypertension", "Obesity", "Prediabetes"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "Classic OSA symptom cluster in HRA before diagnosis",
+          "expected_finding": "February 2024 HRA documents loud snoring, witnessed apneas, morning headaches, daytime sleepiness - classic OSA cluster. Subsequently confirmed.",
+          "evidence_locations": ["hra_2024-02-01.txt", "sleep_study_2024-03-10.txt"]
+        },
+        {
+          "type": "new_diagnosis_documentation",
+          "severity": "high",
+          "signal": "Severe OSA diagnosed - requires problem list update",
+          "expected_finding": "Sleep study confirmed severe OSA (AHI 38). OSA must be added to problem list.",
+          "evidence_locations": ["sleep_study_2024-03-10.txt", "progress_note_2024-03-25.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-010",
+      "patient_name": "Harold Peterson",
+      "primary_conditions": ["COPD moderate", "Severe OSA (Overlap Syndrome)", "Type 2 Diabetes", "PTSD"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "new_diagnosis_documentation",
+          "severity": "high",
+          "signal": "Overlap syndrome (COPD-OSA) diagnosed - critical finding",
+          "expected_finding": "Sleep study confirmed severe OSA in patient with COPD. Overlap syndrome carries significantly increased mortality.",
+          "evidence_locations": ["sleep_study_2024-03-05.txt", "progress_note_2024-03-15.txt"]
+        },
+        {
+          "type": "lab_diagnosis_gap",
+          "severity": "medium",
+          "signal": "Secondary polycythemia from chronic hypoxemia",
+          "expected_finding": "Initial labs showed Hgb 16.8, Hct 50.2 - secondary polycythemia from nocturnal hypoxemia.",
+          "evidence_locations": ["progress_note_2024-03-15.txt", "lab_results_2024-10-10.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-011",
+      "patient_name": "Barbara Jackson",
+      "primary_conditions": ["CKD Stage 3b", "Hypertension", "Type 2 Diabetes", "Hyperlipidemia"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "ckd_staging_update_needed",
+          "severity": "medium",
+          "signal": "CKD has progressed from Stage 3a to 3b",
+          "expected_finding": "Prior year shows CKD Stage 3a, current eGFR 42 indicates Stage 3b. ICD code should be updated.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "lab_results_2024-10-07.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-012",
+      "patient_name": "Nguyen Tran",
+      "primary_conditions": ["CKD Stage 5/ESKD", "Type 2 Diabetes with complications", "Diabetic Retinopathy", "Anemia of CKD"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "ckd_staging_update_needed",
+          "severity": "critical",
+          "signal": "CKD has progressed to Stage 5 - ESKD",
+          "expected_finding": "eGFR 15 indicates Stage 5 CKD. Patient has uremic symptoms and dialysis initiation is imminent.",
+          "evidence_locations": ["lab_results_2024-10-14.txt", "progress_note_2024-10-21.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "Uremic symptoms indicating need for dialysis",
+          "expected_finding": "Nausea, anorexia, metallic taste, fatigue - uremic symptom cluster indicating dialysis is needed.",
+          "evidence_locations": ["progress_note_2024-10-21.txt", "hra_2024-09-15.txt"]
+        },
+        {
+          "type": "mental_health_screen",
+          "severity": "medium",
+          "signal": "Depression/anxiety symptoms in patient facing dialysis",
+          "expected_finding": "HRA shows feeling down/hopeless and anxious about dialysis. May warrant formal depression screening.",
+          "evidence_locations": ["hra_2024-09-15.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-013",
+      "patient_name": "Sandra Mitchell",
+      "primary_conditions": ["CKD Stage 3b", "Resistant Hypertension", "LVH", "Obesity"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "ckd_staging_update_needed",
+          "severity": "medium",
+          "signal": "CKD progressed from 3a to 3b",
+          "expected_finding": "eGFR declined from 52 to 42. Now Stage 3b.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "lab_results_2024-10-21.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-014",
+      "patient_name": "Jessica Romano",
+      "primary_conditions": ["Major Depressive Disorder recurrent", "Generalized Anxiety Disorder", "Insomnia", "IBS"],
+      "complexity": "moderate",
+      "expected_detections": [],
+      "notes": "Demonstrates good mental health care coordination. Serves as positive example."
+    },
+    {
+      "patient_id": "CHRONIC-2025-015",
+      "patient_name": "Michael Anderson",
+      "primary_conditions": ["Generalized Anxiety Disorder", "Panic Disorder", "Hypertension", "GERD"],
+      "complexity": "low",
+      "expected_detections": [],
+      "notes": "Well-controlled anxiety disorder. Clean baseline."
+    },
+    {
+      "patient_id": "CHRONIC-2025-016",
+      "patient_name": "Anthony Delgado",
+      "primary_conditions": ["Bipolar I Disorder", "Generalized Anxiety Disorder", "Obesity", "Hypothyroidism (lithium-induced)"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "medication_side_effect_monitoring",
+          "severity": "medium",
+          "signal": "Lithium-induced hypothyroidism requires ongoing monitoring",
+          "expected_finding": "Patient developed hypothyroidism from lithium therapy. TSH monitoring and levothyroxine adjustment needed.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "progress_note_2024-04-08.txt"]
+        },
+        {
+          "type": "metabolic_monitoring",
+          "severity": "medium",
+          "signal": "Weight gain on mood stabilizers affecting metabolic health",
+          "expected_finding": "Obesity (BMI 32) and hyperlipidemia as metabolic effects of psychiatric medications. Requires monitoring.",
+          "evidence_locations": ["prior_year_problems_2023.txt", "progress_note_2024-10-14.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-017",
+      "patient_name": "Maria Gonzalez",
+      "primary_conditions": ["PTSD (combat-related)", "Major Depressive Disorder", "Chronic Migraine", "TBI history"],
+      "complexity": "moderate",
+      "expected_detections": [],
+      "notes": "Positive outcome case - demonstrates successful PTSD treatment with CPT. PCL-5 dropped from 42 to 28. Serves as example of treatment response."
+    },
+    {
+      "patient_id": "CHRONIC-2025-018",
+      "patient_name": "Patricia O'Brien",
+      "primary_conditions": ["Rheumatoid Arthritis", "Osteoporosis", "Type 2 Diabetes", "Hypertension"],
+      "complexity": "moderate",
+      "expected_detections": [
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "Secondary Sjogren's syndrome symptoms in RA patient",
+          "expected_finding": "Patient with seropositive RA now has dry eyes and dry mouth. SSA/SSB antibodies ordered. Secondary Sjogren's syndrome likely.",
+          "evidence_locations": ["progress_note_2024-09-25.txt", "hra_2024-08-10.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "medium",
+          "signal": "Bilateral carpal tunnel syndrome",
+          "expected_finding": "Fingertip numbness at night, positive Phalen's and Tinel's bilaterally. Clinical carpal tunnel diagnosis.",
+          "evidence_locations": ["progress_note_2024-03-18.txt", "progress_note_2024-09-25.txt"]
+        },
+        {
+          "type": "social_determinant_barrier",
+          "severity": "medium",
+          "signal": "Biologic medication affordability concern",
+          "expected_finding": "HRA notes adalimumab copay is $400/month and husband retired. Financial stress affecting care.",
+          "evidence_locations": ["hra_2024-08-10.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-019",
+      "patient_name": "Dorothy Chen",
+      "primary_conditions": ["Severe Osteoporosis with fractures", "Hypothyroidism", "Hypertension", "CKD Stage 3a"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "treatment_failure",
+          "severity": "high",
+          "signal": "Bisphosphonate failure - worsening DEXA despite 5+ years therapy",
+          "expected_finding": "T-scores worsening at all sites despite alendronate. CTX elevated indicating inadequate suppression. Transition to anabolic therapy (romosozumab) required.",
+          "evidence_locations": ["progress_note_2024-02-14.txt", "lab_results_2024-02-12.txt"]
+        },
+        {
+          "type": "medication_safety_concern",
+          "severity": "high",
+          "signal": "New cardiac symptoms on romosozumab",
+          "expected_finding": "Exertional chest tightness and new systolic murmur while on romosozumab (has cardiovascular warnings). Requires cardiac workup.",
+          "evidence_locations": ["progress_note_2024-08-20.txt"]
+        },
+        {
+          "type": "mental_health_screen",
+          "severity": "medium",
+          "signal": "Depression symptoms in elderly patient",
+          "expected_finding": "HRA shows 'several days' of feeling down, missing independence. Subclinical depression in elderly needs monitoring.",
+          "evidence_locations": ["hra_2024-01-15.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-020",
+      "patient_name": "Marcus Johnson",
+      "primary_conditions": ["Chronic Low Back Pain with Radiculopathy", "Failed Back Surgery Syndrome", "Depression", "Obesity"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "critical_symptom_cluster",
+          "severity": "critical",
+          "signal": "Cauda equina syndrome symptoms - surgical emergency",
+          "expected_finding": "Progressive bilateral leg weakness, urinary hesitancy, decreased rectal tone, expanded sensory loss. MRI confirmed cauda equina compression requiring emergent surgery.",
+          "evidence_locations": ["progress_note_2024-10-07.txt", "imaging_report_2024-10-07.txt", "hra_2024-03-20.txt"]
+        },
+        {
+          "type": "depression_worsening",
+          "severity": "high",
+          "signal": "Depression worsening - PHQ-9 increased",
+          "expected_finding": "PHQ-9 increased from 14 to 16 (moderately severe). Patient expresses hopelessness. Duloxetine increased.",
+          "evidence_locations": ["progress_note_2024-04-08.txt", "progress_note_2024-10-07.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "HRA foreshadows neurological progression",
+          "expected_finding": "HRA documented leg weakness and increased numbness months before cauda equina presentation.",
+          "evidence_locations": ["hra_2024-03-20.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-021",
+      "patient_name": "Harold Nakamura",
+      "primary_conditions": ["Alzheimer's Disease", "Type 2 Diabetes", "Hypertension", "BPH"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "rapid_cognitive_decline",
+          "severity": "high",
+          "signal": "MoCA dropped 6 points in 6 months - faster than expected",
+          "expected_finding": "MoCA 20 -> 18 -> 12 in less than 1 year. Rapid decline concerning for secondary causes (NPH, CVA, infection).",
+          "evidence_locations": ["progress_note_2024-03-11.txt", "progress_note_2024-09-16.txt"]
+        },
+        {
+          "type": "new_symptom_cluster",
+          "severity": "high",
+          "signal": "New gait changes and neuropsychiatric symptoms",
+          "expected_finding": "New shuffling gait, paranoia, irritability, incontinence - progression to moderate stage with concerning features.",
+          "evidence_locations": ["progress_note_2024-09-16.txt"]
+        },
+        {
+          "type": "caregiver_burnout",
+          "severity": "high",
+          "signal": "Caregiver wife exhausted and tearful",
+          "expected_finding": "Wife providing all care, not sleeping, tearful. Major concern requiring support services.",
+          "evidence_locations": ["progress_note_2024-09-16.txt", "hra_2024-02-10.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-022",
+      "patient_name": "Walter Thompson",
+      "primary_conditions": ["Parkinson's Disease", "REM Sleep Behavior Disorder", "Depression", "Orthostatic Hypotension"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "critical_symptom_emergence",
+          "severity": "critical",
+          "signal": "Visual hallucinations - PD psychosis",
+          "expected_finding": "New visual hallucinations in PD patient on dopamine agonist. Concerning for PD psychosis. Pramipexole reduction needed.",
+          "evidence_locations": ["progress_note_2024-09-09.txt"]
+        },
+        {
+          "type": "aspiration_risk",
+          "severity": "high",
+          "signal": "Dysphagia with coughing on liquids",
+          "expected_finding": "Coughing with liquids concerning for aspiration. Requires urgent swallow evaluation.",
+          "evidence_locations": ["progress_note_2024-09-09.txt"]
+        },
+        {
+          "type": "cognitive_decline",
+          "severity": "high",
+          "signal": "MoCA dropped from 27 to 23",
+          "expected_finding": "4-point MoCA decline concerning for PD dementia development.",
+          "evidence_locations": ["progress_note_2024-02-28.txt", "progress_note_2024-09-09.txt"]
+        },
+        {
+          "type": "disease_stage_progression",
+          "severity": "high",
+          "signal": "EDSS/Hoehn-Yahr progression with motor fluctuations",
+          "expected_finding": "Advancing to Stage 3 with dyskinesias, freezing, falls. UPDRS worsened 20->34.",
+          "evidence_locations": ["progress_note_2024-09-09.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-023",
+      "patient_name": "Rachel Steinberg",
+      "primary_conditions": ["Chronic Migraine", "Idiopathic Intracranial Hypertension (new)", "Anxiety", "IBS"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "critical_new_diagnosis",
+          "severity": "critical",
+          "signal": "Idiopathic intracranial hypertension - vision-threatening",
+          "expected_finding": "Papilledema on exam, positional headaches, pulsatile tinnitus, weight gain - IIH confirmed on imaging. Requires urgent LP and treatment.",
+          "evidence_locations": ["progress_note_2024-09-23.txt", "imaging_report_2024-09-23.txt"]
+        },
+        {
+          "type": "red_flag_headache_symptoms",
+          "severity": "critical",
+          "signal": "Headache red flags requiring immediate workup",
+          "expected_finding": "New headache features: positional, worse with Valsalva, visual changes. Papilledema found on exam.",
+          "evidence_locations": ["progress_note_2024-09-23.txt"]
+        },
+        {
+          "type": "medication_overuse",
+          "severity": "high",
+          "signal": "Medication overuse headache",
+          "expected_finding": "Sumatriptan use 14x/month exceeds 9/month limit. Rebound headache pattern.",
+          "evidence_locations": ["progress_note_2024-09-23.txt"]
+        },
+        {
+          "type": "social_determinant_barrier",
+          "severity": "high",
+          "signal": "Job loss affecting care access",
+          "expected_finding": "Lost job, stopped therapy, stopped OC (cost), missed Botox. Multiple care gaps from social stressors.",
+          "evidence_locations": ["progress_note_2024-09-23.txt"]
+        },
+        {
+          "type": "depression_worsening",
+          "severity": "high",
+          "signal": "Depression worsening with job loss",
+          "expected_finding": "PHQ-9 15 (moderately severe) in context of unemployment. Buspirone increased.",
+          "evidence_locations": ["progress_note_2024-09-23.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-024",
+      "patient_name": "Frank Moretti",
+      "primary_conditions": ["Barrett's Esophagus with dysplasia", "GERD", "Type 2 Diabetes", "Obesity"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "disease_progression",
+          "severity": "critical",
+          "signal": "Barrett's esophagus progressed to low-grade dysplasia",
+          "expected_finding": "Previously non-dysplastic Barrett's now shows LGD on surveillance EGD. Nodular lesion found. Requires RFA.",
+          "evidence_locations": ["progress_note_2024-05-06.txt", "endoscopy_report_2024-05-02.txt"]
+        },
+        {
+          "type": "barrett_segment_increase",
+          "severity": "high",
+          "signal": "Barrett's segment length increased",
+          "expected_finding": "Barrett's segment grew from 4cm to 5-6cm indicating disease progression.",
+          "evidence_locations": ["endoscopy_report_2024-05-02.txt"]
+        },
+        {
+          "type": "symptom_cluster_detection",
+          "severity": "high",
+          "signal": "New dysphagia in Barrett's patient",
+          "expected_finding": "New solid food dysphagia concerning for stricture or dysplasia progression. Expedited EGD appropriately ordered.",
+          "evidence_locations": ["progress_note_2024-04-22.txt", "hra_2024-03-10.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-025",
+      "patient_name": "Aiden Kowalski",
+      "primary_conditions": ["Ulcerative Colitis (pancolitis)", "Primary Sclerosing Cholangitis", "Colitis-associated dysplasia"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "critical_dysplasia_detection",
+          "severity": "critical",
+          "signal": "Colitis-associated dysplasia in highest-risk patient",
+          "expected_finding": "Low-grade dysplasia in raised sigmoid lesion in patient with UC + PSC (highest cancer risk category). Colectomy discussion needed.",
+          "evidence_locations": ["progress_note_2024-10-14.txt", "colonoscopy_report_2024-10-10.txt"]
+        },
+        {
+          "type": "biologic_failure",
+          "severity": "high",
+          "signal": "Secondary loss of response to vedolizumab",
+          "expected_finding": "Was in remission on vedolizumab, now flaring with active inflammation. Calprotectin rose from 45 to 380.",
+          "evidence_locations": ["progress_note_2024-03-18.txt", "progress_note_2024-10-14.txt"]
+        },
+        {
+          "type": "anemia_recurrence",
+          "severity": "medium",
+          "signal": "Anemia returning with disease flare",
+          "expected_finding": "Hemoglobin dropped from 13.8 to 11.8 with active inflammation.",
+          "evidence_locations": ["progress_note_2024-10-14.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-026",
+      "patient_name": "Vincent Rossi",
+      "primary_conditions": ["NASH Cirrhosis (decompensated)", "Hepatocellular Carcinoma (suspected)", "Type 2 Diabetes", "OSA"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "critical_decompensation",
+          "severity": "critical",
+          "signal": "Hepatic decompensation - first episode",
+          "expected_finding": "New ascites, jaundice (bili 3.2), coagulopathy (INR 1.6), encephalopathy (asterixis). MELD 8->18.",
+          "evidence_locations": ["progress_note_2024-09-30.txt", "lab_results_2024-09-30.txt"]
+        },
+        {
+          "type": "critical_lesion_detection",
+          "severity": "critical",
+          "signal": "New liver lesion concerning for HCC",
+          "expected_finding": "New 2.8cm hypervascular lesion on ultrasound with AFP nearly doubled (4.2->8.4). HCC highly likely. MRI urgently needed.",
+          "evidence_locations": ["progress_note_2024-09-30.txt"]
+        },
+        {
+          "type": "hepatic_encephalopathy",
+          "severity": "high",
+          "signal": "Subtle encephalopathy with asterixis",
+          "expected_finding": "Asterixis present, wife notes confusion/irritability, ammonia 85. HE requiring lactulose and rifaximin.",
+          "evidence_locations": ["progress_note_2024-09-30.txt", "lab_results_2024-09-30.txt"]
+        },
+        {
+          "type": "medication_safety",
+          "severity": "high",
+          "signal": "Metformin now contraindicated",
+          "expected_finding": "With hepatic decompensation, metformin must be stopped (lactic acidosis risk). Needs insulin.",
+          "evidence_locations": ["progress_note_2024-09-30.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-027",
+      "patient_name": "Jasmine Washington",
+      "primary_conditions": ["Systemic Lupus Erythematosus", "Lupus Nephritis", "Antiphospholipid Syndrome", "CKD"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "lupus_nephritis_flare",
+          "severity": "critical",
+          "signal": "Active lupus nephritis with RBC casts",
+          "expected_finding": "Rising creatinine (1.0->1.4), proteinuria worsening (UPCR 0.3->1.8), RBC casts present. Active nephritis requiring biopsy.",
+          "evidence_locations": ["progress_note_2024-10-21.txt", "lab_results_2024-10-21.txt"]
+        },
+        {
+          "type": "sledai_increase",
+          "severity": "high",
+          "signal": "Major SLEDAI increase indicating severe flare",
+          "expected_finding": "SLEDAI-2K increased from 2 to 16. Multi-organ flare (skin, joints, hematologic, renal).",
+          "evidence_locations": ["progress_note_2024-10-21.txt"]
+        },
+        {
+          "type": "complement_consumption",
+          "severity": "high",
+          "signal": "Complements markedly decreased",
+          "expected_finding": "C3 88->52, C4 18->8. Complement consumption with rising anti-dsDNA (1:40->1:320).",
+          "evidence_locations": ["lab_results_2024-10-21.txt"]
+        },
+        {
+          "type": "trigger_identification",
+          "severity": "medium",
+          "signal": "UV exposure as flare trigger",
+          "expected_finding": "Patient attended outdoor wedding without adequate sun protection 2 weeks before flare.",
+          "evidence_locations": ["progress_note_2024-10-21.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-028",
+      "patient_name": "Christopher Martinez",
+      "primary_conditions": ["Multiple Sclerosis (relapsing-remitting)", "Neurogenic Bladder", "Depression", "Fatigue"],
+      "complexity": "high",
+      "expected_detections": [
+        {
+          "type": "breakthrough_disease",
+          "severity": "critical",
+          "signal": "MS breakthrough on highly effective therapy",
+          "expected_finding": "5+ new T2 lesions, 2 enhancing lesions, new spinal cord lesion despite ocrelizumab. Possible transition to SPMS.",
+          "evidence_locations": ["progress_note_2024-10-28.txt", "imaging_report_2024-10-28.txt"]
+        },
+        {
+          "type": "edss_worsening",
+          "severity": "critical",
+          "signal": "Significant disability progression",
+          "expected_finding": "EDSS worsened from 2.5 to 4.5 in 6 months. Major functional decline.",
+          "evidence_locations": ["progress_note_2024-03-25.txt", "progress_note_2024-10-28.txt"]
+        },
+        {
+          "type": "cognitive_decline",
+          "severity": "high",
+          "signal": "New cognitive symptoms in MS patient",
+          "expected_finding": "Word-finding difficulty, forgetting things, MoCA 24/30 (not tested before but impaired). Possible MS-related cognitive impairment.",
+          "evidence_locations": ["progress_note_2024-10-28.txt"]
+        },
+        {
+          "type": "fall_risk",
+          "severity": "high",
+          "signal": "High fall risk from gait worsening",
+          "expected_finding": "Can barely walk, tripping, leg weakness. Needs rollator. Safety concern.",
+          "evidence_locations": ["progress_note_2024-10-28.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-029",
+      "patient_name": "George Williams",
+      "primary_conditions": ["HFrEF", "CAD s/p MI", "Atrial Fibrillation", "Type 2 Diabetes", "CKD Stage 3b"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "acute_hf_exacerbation",
+          "severity": "critical",
+          "signal": "Severe HF decompensation requiring admission",
+          "expected_finding": "8 lb weight gain, orthopnea, PND, edema to knees, BNP 2450 (from 450). Admission for IV diuresis.",
+          "evidence_locations": ["progress_note_2024-10-07.txt", "lab_results_2024-10-07.txt"]
+        },
+        {
+          "type": "critical_medication_nonadherence",
+          "severity": "critical",
+          "signal": "SGLT2 inhibitor nonadherence contributing to decompensation",
+          "expected_finding": "Ran out of dapagliflozin 2 weeks ago and forgot to refill. Critical GDMT medication for HFrEF.",
+          "evidence_locations": ["progress_note_2024-10-07.txt"]
+        },
+        {
+          "type": "icd_therapy",
+          "severity": "high",
+          "signal": "Appropriate ICD shock for VT",
+          "expected_finding": "ICD delivered appropriate shock for VT 3 days before admission. May need VT ablation evaluation.",
+          "evidence_locations": ["progress_note_2024-10-07.txt"]
+        },
+        {
+          "type": "aki_on_ckd",
+          "severity": "high",
+          "signal": "Acute kidney injury in cardiorenal syndrome",
+          "expected_finding": "Creatinine 1.8->2.4, eGFR 38->24. Cardiorenal syndrome with worsening on decompensation.",
+          "evidence_locations": ["lab_results_2024-10-07.txt"]
+        },
+        {
+          "type": "afib_rvr",
+          "severity": "high",
+          "signal": "Afib with rapid ventricular response",
+          "expected_finding": "HR 105-115, rate uncontrolled on metoprolol alone. Contributing to decompensation. Adding digoxin.",
+          "evidence_locations": ["progress_note_2024-10-07.txt"]
+        }
+      ]
+    },
+    {
+      "patient_id": "CHRONIC-2025-030",
+      "patient_name": "Eleanor Patterson",
+      "primary_conditions": ["Multi-morbidity (8+ conditions)", "Polypharmacy", "Mild Cognitive Impairment", "Falls risk"],
+      "complexity": "critical",
+      "expected_detections": [
+        {
+          "type": "delirium_detection",
+          "severity": "critical",
+          "signal": "Delirium superimposed on MCI",
+          "expected_finding": "Acute confusion, disorientation (thinks year is 2020), fluctuating. Triggered by infection and dehydration.",
+          "evidence_locations": ["progress_note_2024-10-21.txt"]
+        },
+        {
+          "type": "infection_detection",
+          "severity": "critical",
+          "signal": "Community-acquired pneumonia causing decompensation",
+          "expected_finding": "RLL consolidation, WBC 14.8, fever, procalcitonin 0.8. Pneumonia causing delirium cascade.",
+          "evidence_locations": ["progress_note_2024-10-21.txt", "lab_results_2024-10-21.txt"]
+        },
+        {
+          "type": "medication_nonadherence",
+          "severity": "critical",
+          "signal": "Missed medications including anticoagulation",
+          "expected_finding": "Aide found pill organizer untouched. Missed apixaban puts patient at stroke risk (CHA2DS2-VASc 6).",
+          "evidence_locations": ["progress_note_2024-10-21.txt"]
+        },
+        {
+          "type": "aki_dehydration",
+          "severity": "high",
+          "signal": "AKI from dehydration",
+          "expected_finding": "Creatinine 1.4->2.1, Na 148 (hypernatremia). Prerenal AKI from poor intake.",
+          "evidence_locations": ["lab_results_2024-10-21.txt"]
+        },
+        {
+          "type": "functional_decline",
+          "severity": "high",
+          "signal": "Major functional decline over 2 months",
+          "expected_finding": "Getting lost, declining hygiene, burning pots, missed meds. Cannot safely live alone.",
+          "evidence_locations": ["progress_note_2024-10-21.txt"]
+        },
+        {
+          "type": "disposition_concern",
+          "severity": "high",
+          "signal": "Cannot return to independent living safely",
+          "expected_finding": "Discharge planning needs to address inability to live alone. May need memory care.",
+          "evidence_locations": ["progress_note_2024-10-21.txt"]
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_detection_opportunities": 82,
+    "critical_findings": 18,
+    "high_severity": 38,
+    "medium_severity": 20,
+    "low_severity": 6,
+    "detection_types": {
+      "chronic_condition_dropoff": 3,
+      "ckd_staging_update_needed": 5,
+      "symptom_cluster_detection": 10,
+      "lab_diagnosis_gap": 4,
+      "new_diagnosis_documentation": 5,
+      "medication_nonadherence": 4,
+      "social_determinant_barrier": 5,
+      "disease_progression": 8,
+      "cognitive_decline": 4,
+      "delirium_detection": 1,
+      "infection_detection": 1,
+      "treatment_failure": 2,
+      "medication_safety_concern": 3,
+      "fall_risk": 3,
+      "caregiver_burnout": 1,
+      "mental_health_screen": 4,
+      "biologic_failure": 1,
+      "dysplasia_detection": 2,
+      "hepatic_decompensation": 1,
+      "lupus_nephritis_flare": 1,
+      "breakthrough_ms_disease": 1,
+      "hf_exacerbation": 1,
+      "other": 12
+    },
+    "complexity_distribution": {
+      "low": 3,
+      "moderate": 10,
+      "high": 11,
+      "critical": 6
+    }
+  },
+  "validation_instructions": {
+    "purpose": "This answer key validates the agentic detection system's accuracy across diverse chronic disease domains",
+    "usage": [
+      "Run the detection agent on each patient's document bundle",
+      "Compare agent findings against expected_detections for each patient",
+      "Calculate precision: (correct detections) / (all agent detections)",
+      "Calculate recall: (correct detections) / (expected detections)",
+      "Pay special attention to critical findings",
+      "Note any false positives or novel true detections not in this key"
+    ],
+    "success_criteria": {
+      "minimum_recall_critical": 1.0,
+      "minimum_recall_high": 0.9,
+      "minimum_recall_overall": 0.8,
+      "maximum_false_positive_rate": 0.2
+    },
+    "key_test_cases": [
+      "CHRONIC-2025-006: Must detect insulin rationing as critical safety issue",
+      "CHRONIC-2025-020: Must detect cauda equina syndrome symptoms",
+      "CHRONIC-2025-023: Must detect IIH with papilledema",
+      "CHRONIC-2025-025: Must detect colitis-associated dysplasia in high-risk patient",
+      "CHRONIC-2025-026: Must detect hepatic decompensation and HCC concern",
+      "CHRONIC-2025-029: Must detect HF decompensation and SGLT2i nonadherence",
+      "CHRONIC-2025-030: Must detect delirium, pneumonia, and medication nonadherence"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+PROGRESS NOTE
+Patient: Frank Morrison    DOB: 09/25/1952    MRN: 91234567
+Date: 2024-02-02       Provider: Dr. Susan Taylor, MD (Pulmonology)
+
+Chief Complaint: Follow-up COPD exacerbation
+
+Subjective:
+Pt returns after completing prednisone and azithromycin. Reports SOB "much better"
+but still not back to baseline. Walking to mailbox now okay, can do one flight of
+stairs with rest. Cough resolved, sputum now clear. No fever.
+
+Started bupropion - tolerating well. Has cut down to 5 cigarettes per day. "Trying
+hard, doc."
+
+Still using rescue inhaler 3x/day.
+
+Current Medications:
+- Trelegy Ellipta 100/62.5/25 one puff daily
+- Albuterol HFA PRN
+- Bupropion SR 150mg daily (just started, to increase to BID)
+- Lisinopril 20mg daily
+- Simvastatin 40mg QHS
+- Aspirin 81mg daily
+- Clopidogrel 75mg daily
+- Omeprazole 20mg daily
+- Alendronate 70mg weekly
+- Buspirone 10mg BID
+- Home O2 2L with activity
+
+Objective:
+Vitals: BP 132/78, HR 84, RR 18, SpO2 91% RA, 95% on 2L
+General: Appears better, less labored breathing
+Lungs: Decreased breath sounds, end-expiratory wheezes, improved from last week
+CV: RRR
+
+PFTs (performed today):
+- FEV1: 0.95 L (35% predicted) - down from 38% baseline
+- FEV1/FVC: 0.48
+- TLC: increased (air trapping)
+- DLCO: 40% predicted
+
+Assessment/Plan:
+1. COPD exacerbation - resolving but PFTs show persistent decline. FEV1 now 35%
+   (was 38%). This is 2nd exacerbation in 12 months. Consider:
+   - Roflumilast for exacerbation prevention - starting 500mcg daily
+   - Pulmonary rehabilitation referral
+   - Annual flu and Prevnar vaccines updated
+2. Tobacco use disorder - improved on bupropion! Continue and increase to BID.
+   Encouraged continued efforts. Even reduction helps.
+3. COPD chronic management - already on triple therapy. Consider azithromycin
+   prophylaxis (250mg 3x/week) if another exacerbation occurs.
+4. Oxygen - continue current prescription. Will need reassessment.
+
+RTC 6 weeks. Pulm rehab referral placed. Roflumilast started.
+
+Electronically signed by Susan Taylor, MD  02/02/2024 10:45 AM

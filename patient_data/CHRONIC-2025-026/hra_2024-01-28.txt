@@ -1,0 +1,148 @@
+HEALTH RISK ASSESSMENT
+Patient: Vincent Rossi
+Date Completed: 2024-01-28
+Completed via: Paper form at annual wellness visit
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - always feel tired
+[ ] Difficulty sleeping - use CPAP
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - with exertion
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[X] Loud snoring - that's why I use CPAP
+[X] Daytime sleepiness - still tired even with CPAP
+[ ] Abdominal swelling
+[ ] Leg swelling
+[ ] Confusion
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - type 2, about 15 years
+[X] High blood pressure
+[X] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[X] Liver disease - cirrhosis from fatty liver
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[X] Sleep apnea - use CPAP machine
+
+================================================================================
+FAMILY HISTORY
+
+Diabetes: Yes
+    Who? Mother, father, two brothers
+    Notes: Strong family history
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? 55
+
+Liver Disease: No
+
+Cancer: Yes
+    Who? Mother
+    Type: Breast cancer
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2005
+    How much did you smoke? Half pack a day for 20 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? No - never really drank
+    Notes: Doctor said absolutely none with liver disease
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3 times per week
+What type of exercise? Walking 20-30 minutes
+What barriers prevent you from exercising more?
+    [X] Fatigue
+    [X] Shortness of breath
+    [X] Knee pain from weight
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Fair - trying to improve
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 2
+How often do you eat fast food? Once a week
+Notes: Italian family - hard to avoid pasta and bread. Wife cooks most meals.
+       Trying to cut back on carbs for diabetes and liver.
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Do you feel you have adequate emotional support? Yes - married 35 years,
+    three adult children, close family
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes - own home
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? No, retired (was electrician)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I never thought I could get cirrhosis without drinking. I always thought that
+was a drinker's disease. Turns out all those years of being overweight and
+having diabetes damaged my liver. Now I have NASH cirrhosis - 'nonalcoholic'
+they call it.
+
+The doctor says my liver disease is 'compensated' which means it's stable for
+now. But I know it can get worse. I have to get ultrasounds and blood tests
+regularly to watch for complications. The worst would be liver cancer - they
+screen for that every 6 months.
+
+I'm trying to lose weight because they say that's the best thing for fatty
+liver. I've lost about 8 pounds this year. It's hard at my age - 61, retired,
+not as active as I used to be. But I'm motivated because I want to see my
+grandkids grow up.
+
+The diabetes doesn't help. Runs in my family - both parents had it, two of my
+three brothers have it. I'm trying to control my blood sugar better. The
+metformin seems to help both the diabetes and maybe the liver too.
+
+My biggest fear is needing a liver transplant someday. I've read about that
+and it sounds terrifying. The doctor says we're not there yet and hopefully
+never will be if I take care of myself. That's what keeps me walking every
+day and trying to eat better."
+
+================================================================================

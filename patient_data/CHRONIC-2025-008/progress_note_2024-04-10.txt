@@ -1,0 +1,49 @@
+PROGRESS NOTE
+Patient: Emily Nakamura    DOB: 11/14/1992    MRN: 12345891
+Date: 2024-04-10       Provider: Dr. Jennifer Liu, MD
+
+Chief Complaint: Asthma follow-up, annual exam
+
+Subjective:
+31 yo F with mild persistent asthma here for annual check. Asthma well controlled.
+Using rescue inhaler maybe 1x/week, mostly before exercise. No nocturnal symptoms.
+No ER visits, no steroids needed since 2022 wildfire season.
+
+Allergies okay - takes cetirizine daily, fluticasone nasal spray. Spring pollen
+season starting so expecting some increase in symptoms. No new cat exposures.
+
+Eczema minimal - small patch on hands occasionally with weather changes.
+
+General health good. Works as software developer, runs 3x/week, does yoga.
+Nonsmoker. No new concerns.
+
+Current Medications:
+- Flovent HFA 44mcg 2 puffs BID
+- Albuterol HFA PRN (1x/week)
+- Cetirizine 10mg daily
+- Fluticasone nasal spray 2 sprays each nostril daily
+- Hydrocortisone 1% cream PRN
+
+Objective:
+Vitals: BP 110/68, HR 64, RR 14, Temp 98.2F, Wt 128 lbs (stable), BMI 21.3, SpO2 99% RA
+General: Healthy appearing young woman
+HEENT: Nasal turbinates mildly swollen, no polyps
+Lungs: Clear, no wheezes, good air movement
+Skin: Small patch of dry skin on dorsal right hand
+
+Peak flow today: 450 L/min (personal best 460)
+
+Assessment/Plan:
+1. Asthma, mild persistent - well controlled on low-dose ICS. Rescue inhaler use
+   <2x/week. ACT score 23/25 (well controlled). Continue current regimen.
+   Remind patient to use albuterol 15 min before exercise.
+2. Allergic rhinitis - controlled on current therapy. Continue.
+3. Eczema - mild, managed with OTC hydrocortisone. Continue PRN.
+4. Health maintenance:
+   - Flu shot - declined, prefers to get in fall
+   - HPV vaccine series - completed
+   - Tdap up to date
+
+RTC 1 year unless problems. Refills sent.
+
+Electronically signed by Jennifer Liu, MD  04/10/2024 10:00 AM

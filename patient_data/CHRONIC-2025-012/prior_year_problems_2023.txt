@@ -1,0 +1,84 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (UT Southwestern)
+Export Date: 2023-12-18
+Patient: Nguyen Tran    DOB: 02/14/1965    MRN: 56789345
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Type 2 Diabetes Mellitus with diabetic chronic kidney disease (E11.22)
+   - First Documented: 2008-05-15
+   - Status: Active
+   - Managing Provider: Dr. Patricia Green
+   - Notes: A1c 8.5%. On insulin and metformin.
+
+2. Chronic Kidney Disease, Stage 4 (N18.4)
+   - First Documented: 2022-01-10
+   - Status: Active
+   - Managing Provider: Dr. David Chen (Nephrology)
+   - Notes: eGFR 22. Progressive diabetic nephropathy.
+
+3. Diabetic Retinopathy, proliferative (E11.351)
+   - First Documented: 2020-08-22
+   - Status: Active
+   - Notes: Status post laser treatment. Annual ophthalmology follow-up.
+
+4. Diabetic Peripheral Neuropathy (E11.42)
+   - First Documented: 2015-06-18
+   - Status: Active
+   - Notes: Bilateral feet. On gabapentin.
+
+5. Essential Hypertension (I10)
+   - First Documented: 2006-03-12
+   - Status: Active
+   - Notes: On multiple agents including losartan (for proteinuria)
+
+6. Hyperlipidemia (E78.5)
+   - First Documented: 2010-09-25
+   - Status: Active
+   - Notes: On high-dose rosuvastatin
+
+7. Anemia of Chronic Kidney Disease (D63.1)
+   - First Documented: 2022-06-15
+   - Status: Active
+   - Notes: On darbepoetin monthly
+
+8. Secondary Hyperparathyroidism (E21.1)
+   - First Documented: 2023-02-20
+   - Status: Active
+   - Notes: On calcitriol and calcium supplementation
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. AV fistula placement
+   - Date: 2023-08-15
+   - Notes: Left forearm fistula for dialysis access when needed
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. AV Fistula creation, left forearm
+   - Date: 2023-08-15
+   - Hospital: UT Southwestern
+   - Surgeon: Dr. Robert Martinez (Vascular Surgery)
+   - Complications: None - maturing well
+
+2. Laser photocoagulation, bilateral eyes
+   - Date: 2020-09-10
+   - Notes: For proliferative diabetic retinopathy
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Contrast dye (iodinated)
+   - Reaction: Contrast-induced nephropathy (prior episode)
+   - Severity: Severe
+   - Notes: AVOID - high risk given CKD
+
+2. Lisinopril
+   - Reaction: Angioedema
+   - Severity: Severe
+   - Notes: On losartan instead - tolerated
+
+================================================================================

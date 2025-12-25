@@ -1,0 +1,58 @@
+PROGRESS NOTE
+Patient: Patricia Williams    DOB: 08/22/1962    MRN: 34567891
+Date: 2024-03-12       Provider: Dr. Michael Roberts, MD
+
+Chief Complaint: Routine diabetes follow-up
+
+Subjective:
+62 yo F here for DM management. Reports glucose readings "all over the place" - fasting
+140-180, post-meal sometimes over 250. Admits diet has slipped lately - stress eating,
+more carbs. Feet still bothering her - burning, tingling worse at night. "Can't sleep
+because of my feet." Also reports increased fatigue, up 3-4x/night to urinate.
+
+Denies chest pain, SOB, vision changes. States she stopped taking sertraline about
+6 months ago because she "felt fine" and didn't think she needed it anymore.
+
+Social: Retired school teacher. Lives with husband. Daughter recently diagnosed with
+breast cancer - significant stressor. Denies tobacco. Reports 1-2 glasses wine with
+dinner most nights.
+
+Current Medications per pt:
+- Metformin 1000mg BID
+- Glipizide 10mg BID
+- Lisinopril 20mg daily
+- Amlodipine 10mg daily
+- Atorvastatin 40mg QHS
+- Gabapentin 300mg TID
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 148/92, HR 82, RR 16, Temp 98.4F, Wt 234 lbs (+6 lbs), BMI 38.9, SpO2 97% RA
+General: Obese female, appears fatigued, somewhat flat affect
+HEENT: Anicteric, MMM
+CV: RRR, no murmurs
+Lungs: CTA bilaterally
+Abdomen: Obese, soft, NT, no masses
+Ext: No edema, decreased sensation to monofilament bilateral feet (4/10 sites), pulses 2+
+Skin: Dry, no ulcers
+
+Labs from today (fasting):
+- Glucose: 186 mg/dL (H)
+- HbA1c: 8.2% (H) - was 7.4% in 2023
+- Cr: 1.2 (eGFR 52)
+- K: 4.1
+- Lipid panel: TC 198, LDL 112, HDL 42, TG 220
+
+Assessment/Plan:
+1. T2DM - poorly controlled, A1c 8.2%. Increase glipizide to 10mg BID (already max).
+   Discussed adding third agent - will start Jardiance 10mg daily for cardiorenal
+   protection. Reinforced diet, referred to diabetes educator.
+2. HTN - not at goal. Increase lisinopril to 40mg daily.
+3. Diabetic neuropathy - symptoms worsening. Increase gabapentin to 400mg TID.
+4. Obesity - discussed weight loss. Patient interested but feels overwhelmed currently.
+5. CKD - eGFR 52, has declined from 78. Now Stage 3a. Will monitor closely.
+6. Hyperlipidemia - LDL not at goal. Increase atorvastatin to 80mg.
+
+RTC 3 months for recheck labs and A1c.
+
+Electronically signed by Michael Roberts, MD  03/12/2024 4:45 PM

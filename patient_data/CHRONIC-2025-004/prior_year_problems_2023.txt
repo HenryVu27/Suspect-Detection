@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Cleveland Clinic)
+Export Date: 2023-12-08
+Patient: David Chen    DOB: 02/15/1969    MRN: 67891234
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Essential Hypertension (I10)
+   - First Documented: 2018-05-22
+   - Status: Active
+   - Managing Provider: Dr. Richard Thompson
+   - Notes: Well controlled on lisinopril 10mg
+
+2. Hyperlipidemia (E78.5)
+   - First Documented: 2019-08-14
+   - Status: Active
+   - Notes: Declined statin, managing with diet
+
+3. Prediabetes (R73.03)
+   - First Documented: 2021-11-10
+   - Status: Active
+   - Notes: A1c 5.8%, lifestyle modifications
+
+4. Gastroesophageal Reflux Disease (K21.0)
+   - First Documented: 2020-02-28
+   - Status: Active
+   - Notes: On omeprazole PRN
+
+5. Benign Prostatic Hyperplasia (N40.0)
+   - First Documented: 2023-04-15
+   - Status: Active
+   - Notes: Mild symptoms, watchful waiting
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Tennis elbow, right (M77.11)
+   - Onset: 2022-06-15
+   - Resolved: 2022-10-20
+   - Notes: Resolved with PT and rest
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Inguinal hernia repair, right
+   - Date: 2015-03-18
+   - Hospital: Cleveland Clinic
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Codeine
+   - Reaction: Nausea and vomiting
+   - Severity: Moderate
+   - Documented: 2010-06-22
+
+================================================================================

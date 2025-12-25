@@ -1,0 +1,52 @@
+PROGRESS NOTE
+Patient: Aisha Hassan    DOB: 07/28/1982    MRN: 78912345
+Date: 2024-10-18       Provider: Dr. Lisa Wong, MD (Endocrinology)
+
+Chief Complaint: Post-thyroidectomy follow-up
+
+Subjective:
+Patient s/p total thyroidectomy 09/25/2024 for Graves' disease (Dr. Anderson).
+Surgery went well per operative note - no complications, parathyroids preserved.
+Started levothyroxine 100mcg immediately post-op.
+
+Reports feeling "okay" - some fatigue but improving. Voice returned to normal after
+initial hoarseness. Taking levothyroxine every morning on empty stomach.
+
+Eager to start trying to conceive. Last menstrual period 10/05. Wants to know if
+thyroid replacement is optimized.
+
+No palpitations since surgery. Cardiologist weaned metoprolol and stopped it last week.
+
+Current Medications:
+- Levothyroxine 100mcg daily
+- Calcium carbonate 500mg TID (post-op for hypocalcemia risk)
+- Buspirone 10mg BID
+- Vitamin D3 2000 IU daily
+- Prenatal vitamin
+
+Objective:
+Vitals: BP 114/72, HR 68 (NSR), Wt 145 lbs (+2)
+Neck: Surgical scar healing well, no swelling
+CV: RRR
+
+Labs from 10/10 (2 weeks post-op):
+- TSH: 4.8 mIU/L (slightly elevated)
+- Free T4: 0.9 ng/dL (low normal)
+- Calcium: 9.2 (normal)
+- PTH: 35 pg/mL (normal)
+
+Assessment/Plan:
+1. Hypothyroidism, post-thyroidectomy - TSH 4.8 slightly elevated, Free T4 low normal.
+   For pregnancy planning, want TSH <2.5. Increase levothyroxine to 112mcg daily.
+   Recheck in 6 weeks.
+2. Post-surgical hypoparathyroidism risk - calcium and PTH normal! Can taper calcium
+   supplementation. Continue vitamin D.
+3. Preconception - once TSH optimized (<2.5), can proceed with conception. Will need
+   close monitoring during pregnancy - levothyroxine requirements typically increase.
+4. History of paroxysmal AFib - no episodes since thyroidectomy. Off metoprolol.
+   If hyperthyroidism was the trigger, may not recur.
+5. Anxiety - stable on buspirone.
+
+Recheck TSH/FT4 in 6 weeks. Once optimized, cleared to try to conceive.
+
+Electronically signed by Lisa Wong, MD  10/18/2024 11:00 AM

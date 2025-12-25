@@ -1,0 +1,60 @@
+PROGRESS NOTE
+Patient: Barbara Jackson    DOB: 06/18/1958    MRN: 45678234
+Date: 2024-03-18       Provider: Dr. William Carter, MD
+
+Chief Complaint: CKD follow-up, BP check
+
+Subjective:
+65 yo F with CKD Stage 3a secondary to longstanding HTN here for routine follow-up.
+Reports feeling well overall. No swelling, no urinary symptoms, no nausea. Energy
+adequate.
+
+Taking medications as prescribed. Checking BP at home - running 145-155/85-90.
+Knows it's not at goal. Admits salt intake "could be better" - loves pickles and
+chips.
+
+Diabetes stable. No hypoglycemia.
+
+No new joint pains - avoiding NSAIDs as advised.
+
+Current Medications:
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Metformin 1000mg BID
+- Atorvastatin 20mg QHS
+- Vitamin D3 2000 IU daily
+
+Objective:
+Vitals: BP 152/88, HR 74, RR 14, Wt 172 lbs (stable), BMI 28.6
+General: Well-appearing
+CV: RRR
+Ext: No edema, pulses 2+
+
+Labs from 03/11:
+- Cr: 1.3 (stable), eGFR 48 (was 55 last year - declining)
+- K: 4.8
+- A1c: 7.1%
+- Urine ACR: 85 mg/g (moderately increased albuminuria)
+- CBC: Hgb 11.8 (slightly low)
+
+Assessment/Plan:
+1. CKD Stage 3a - eGFR has declined from 55 to 48 over past year. Now technically
+   Stage 3b. Proteinuria present (ACR 85). Progression concerning.
+   - Already on max dose ACEi
+   - BP control critical but suboptimal
+   - Consider adding SGLT2 inhibitor for renal protection. Discussed empagliflozin
+     10mg - has CKD indication and would help both DM and kidney.
+   - Starting empagliflozin 10mg daily
+   - Low sodium diet reinforced (<2g/day)
+2. Hypertension - NOT at goal despite 2 agents. Adding chlorthalidone 12.5mg daily.
+   Target BP <130/80 given CKD and DM.
+3. Type 2 Diabetes - A1c 7.1%, acceptable. SGLT2i will also help. Continue metformin
+   (eGFR still >45).
+4. Anemia - Hgb 11.8, early anemia of CKD. Check iron studies, B12, folate.
+5. CKD education - discussed diet (low sodium, moderate protein), avoiding NSAIDs,
+   avoiding contrast if possible.
+
+Labs: iron studies, B12, folate
+RTC 3 months with labs 1 week prior.
+
+Electronically signed by William Carter, MD  03/18/2024 4:00 PM

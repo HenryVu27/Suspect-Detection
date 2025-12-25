@@ -1,0 +1,49 @@
+PROGRESS NOTE
+Patient: David Chen    DOB: 02/15/1969    MRN: 67891234
+Date: 2024-02-05       Provider: Dr. Richard Thompson, MD
+
+Chief Complaint: New diabetes diagnosis follow-up
+
+Subjective:
+Pt returns following new diagnosis of Type 2 DM. States he's been "shocked" by
+diagnosis. "My mother had diabetes and lost toes. I don't want that." Has already
+made diet changes - cut out soda, trying to eat more vegetables. Bought a glucometer
+and has been checking fasting sugars - 120-150s.
+
+Reviewed family history in more detail:
+- Mother: T2DM since age 50, had multiple complications (neuropathy, partial toe
+  amputation), died of MI at 72
+- Father: HTN, died of stroke at 68
+- Brother: T2DM diagnosed at 52
+
+Denies blurred vision, numbness, chest pain. Urinating "maybe a little more often
+than before" but not excessive.
+
+Current Medications:
+- Lisinopril 10mg daily
+- Omeprazole 20mg PRN
+
+Objective:
+Vitals: BP 130/84, HR 72, RR 14, Wt 194 lbs (-4 lbs), BMI 27.9
+General: Anxious, engaged in discussion
+Feet exam: Pulses 2+, sensation intact, no lesions
+
+Assessment/Plan:
+1. NEW: Type 2 Diabetes Mellitus (E11.9) - A1c 7.1% at diagnosis. Strong family history
+   with complications. Given this and patient motivation, will start pharmacotherapy:
+   - Metformin 500mg daily, increase to 500mg BID in one week if tolerating
+   - Ordered: DM education, MNT counseling, podiatry referral, dilated eye exam
+   - Reviewed glucose goals, hypoglycemia symptoms, foot care
+   - Discussed importance of statin given DM - patient now agrees. Starting atorvastatin 40mg.
+2. HTN - stable, continue lisinopril.
+3. Hyperlipidemia - starting atorvastatin 40mg QHS given DM and high LDL.
+4. Overweight - weight already coming down with diet changes. Encouraged continued efforts.
+5. Referrals placed: diabetes education, ophthalmology, podiatry
+
+NEW MEDICATIONS:
+- Metformin 500mg daily x1 week, then 500mg BID
+- Atorvastatin 40mg QHS
+
+RTC 3 months with A1c.
+
+Electronically signed by Richard Thompson, MD  02/05/2024 4:30 PM

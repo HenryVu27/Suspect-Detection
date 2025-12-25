@@ -1,0 +1,86 @@
+PROGRESS NOTE
+Patient: Jasmine Washington    DOB: 05/22/1988    MRN: 23456012
+Date: 2024-04-08       Provider: Dr. Karen Mitchell, MD (Rheumatology)
+
+Chief Complaint: SLE follow-up, doing well
+
+Subjective:
+35 yo F with SLE (ANA+, dsDNA+, history of lupus nephritis Class III, APS) here
+for routine follow-up. Reports doing well on current regimen.
+
+No joint pain, no rash, no mouth ulcers, no hair loss. No chest pain or
+shortness of breath. No fever.
+
+Kidneys: No edema, normal urine output. Last nephrology visit was stable.
+
+APS/anticoagulation: No bleeding or clotting symptoms. INR checks at warfarin
+clinic - mostly therapeutic.
+
+Sun protection: "I'm religious about it. SPF 50 every day, hat when outside."
+
+Pregnancy: Not currently trying. On long-acting contraception (IUD). Has
+discussed future pregnancy planning - will need to switch medications.
+
+Work: Full-time as hospital social worker. Managing well. "The fatigue is
+always there but I've learned to pace myself."
+
+Current Medications:
+- Hydroxychloroquine 400mg daily
+- Mycophenolate mofetil 1000mg BID
+- Prednisone 5mg daily
+- Lisinopril 10mg daily
+- Warfarin (per INR)
+- Calcium/Vitamin D 600/400 BID
+- Folic acid 1mg daily
+
+Objective:
+Vitals: BP 124/78, HR 72, Wt 145 lbs
+General: Well-appearing, no distress
+Skin: No malar rash, no discoid lesions, no alopecia
+Oral: No ulcers
+Joints: No synovitis, full ROM
+Lungs: Clear
+Cardiac: RRR, no rub
+Extremities: No edema
+
+Labs (last week):
+- CBC: WBC 5.2, Hgb 12.4, Plt 185
+- CMP: Cr 1.0 (eGFR 78), normal LFTs
+- Urinalysis: Trace protein (stable), no RBCs, no casts
+- UPCR: 0.3 (stable - remission)
+- C3: 88 (normal), C4: 18 (normal)
+- dsDNA: 1:40 (low positive, stable)
+- ESR: 18, CRP: 0.4
+
+Ophthalmology note: Annual HCQ screening - no maculopathy, continue.
+
+Assessment/Plan:
+1. SLE - STABLE, in remission. SLEDAI-2K: 2 (minimal activity).
+   - Continue hydroxychloroquine 400mg (neuroprotective, prevents flares)
+   - Continue mycophenolate 1000mg BID for nephritis maintenance
+   - Continue low-dose prednisone 5mg - may attempt taper to 2.5mg in 3 months
+     if continues stable
+   - Complements normal, dsDNA stable
+
+2. Lupus Nephritis Class III - in remission. UPCR 0.3, stable creatinine.
+   - Continue current immunosuppression
+   - Nephrology co-management
+
+3. CKD Stage 2 - stable eGFR 78. Continue monitoring.
+
+4. Antiphospholipid syndrome - on warfarin, no clotting events since 2016.
+   - Continue lifelong anticoagulation
+   - Target INR 2.5-3.5 (venous event)
+
+5. HTN - controlled on lisinopril.
+
+6. Bone health - on chronic prednisone. Continue calcium/vitamin D. DEXA due
+   this year.
+
+7. Future pregnancy counseling - discussed again. Will need to transition off
+   MMF (teratogenic) well before conception, switch to azathioprine. Warfarin
+   also teratogenic - will need to transition to heparin.
+
+Continue current regimen. Labs in 2 months. RTC 4 months.
+
+Electronically signed by Karen Mitchell, MD  04/08/2024 2:45 PM

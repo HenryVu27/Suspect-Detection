@@ -1,0 +1,40 @@
+PROGRESS NOTE
+Patient: Michael Anderson    DOB: 08/15/1972    MRN: 89123678
+Date: 2024-10-28       Provider: Dr. Robert Lee, MD
+
+Chief Complaint: Routine follow-up
+
+Subjective:
+Pt returns for follow-up. Anxiety continues to be well controlled. Had one minor
+panic attack during a flight last month - used lorazepam and it resolved quickly.
+Otherwise doing well.
+
+Completed colonoscopy - "one small polyp removed, benign."
+
+BP at home better on increased lisinopril - now 125-135 systolic.
+
+No new concerns.
+
+Current Medications:
+- Venlafaxine XR 150mg daily
+- Lorazepam 0.5mg PRN (used once in past 6 months)
+- Lisinopril 20mg daily
+- Pantoprazole 40mg daily
+
+Objective:
+Vitals: BP 128/82, HR 70, Wt 184 lbs
+General: Well-appearing
+Psych: Euthymic, calm
+
+GAD-7: 5 (mild)
+
+Assessment/Plan:
+1. GAD - stable, well controlled. Continue venlafaxine.
+2. Panic disorder - rare episodes, managed appropriately. Continue PRN lorazepam.
+3. HTN - improved on increased lisinopril. At goal.
+4. GERD - controlled.
+5. Colonoscopy - benign polyp, repeat in 5 years per GI.
+
+Doing well. RTC 6 months.
+
+Electronically signed by Robert Lee, MD  10/28/2024 3:15 PM

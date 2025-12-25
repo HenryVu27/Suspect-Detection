@@ -1,0 +1,87 @@
+PROGRESS NOTE
+Patient: Harold Nakamura    DOB: 04/12/1941    MRN: 67890456
+Date: 2024-09-16       Provider: Dr. Lisa Chen, MD (Neurology)
+
+Chief Complaint: Dementia follow-up, concerning changes per wife
+
+Subjective:
+Pt returns for routine follow-up but wife called ahead with concerns. Helen
+appears stressed today.
+
+Per wife: "Things have gotten worse the last month or two." Reports:
+- Increased confusion - doesn't recognize neighborhood anymore
+- Getting day/night mixed up - found him dressed at 3am thinking it was morning
+- New behavior: Accusing wife of moving his things, hiding things
+- Increased irritability - "He snapped at our grandson last week, never done that"
+- One episode of urinary incontinence last week
+- Needing more help with dressing - buttons and zippers are hard
+
+Wife tearfully: "I don't know how much longer I can do this. I'm not sleeping."
+
+Per patient: Seems unaware of changes. "I'm fine. She worries too much."
+
+Tolerating memantine and donepezil - titrated to full dose per instructions.
+
+No falls. Eating well though wife has to supervise meals now.
+
+Current Medications:
+- Donepezil 10mg QHS
+- Memantine 10mg BID
+- Lisinopril 10mg daily
+- Metformin 1000mg BID
+- Atorvastatin 20mg daily
+- Tamsulosin 0.4mg QHS
+- Aspirin 81mg daily
+
+Objective:
+Vitals: BP 128/74, HR 72, Wt 165 lbs (down 3 lbs)
+General: Slightly disheveled (mismatched buttons), pleasant but less engaged
+Neuro:
+  - Alert, oriented to person only (did not know place, date, or season)
+  - Speech: More hesitant, circumlocutory
+  - Attention: Cannot spell WORLD backwards at all
+  - Memory: 0/3 objects at 5 minutes, did not recall task
+  - Language: Word-finding difficulty increased, paraphasic errors
+  - Visuospatial: Clock draw 1/5 (very disorganized)
+  - Gait: Slightly shuffling (new finding)
+  - No tremor at rest
+
+MoCA today: 12/30 (was 18/30 six months ago) - SIGNIFICANT DECLINE
+
+Assessment/Plan:
+1. Alzheimer's Disease - PROGRESSING TO MODERATE STAGE. MoCA dropped from 18 to
+   12 in 6 months - faster than expected. New neuropsychiatric symptoms (paranoia,
+   irritability). New functional decline (incontinence, dressing difficulty).
+   New gait changes concerning.
+   - Given rapid decline, must rule out other causes:
+     * ORDER MRI brain with contrast - rule out stroke, NPH, subdural
+     * Labs: CBC, CMP, B12, TSH, UA (r/o UTI as cause of delirium)
+     * RPR if not done
+   - Continue current dementia medications at full dose
+   - For behavioral symptoms: Start low-dose risperidone 0.25mg QHS - discuss
+     black box warning for mortality in elderly dementia. Benefits vs risks
+     explained to wife.
+
+2. Caregiver burnout - MAJOR CONCERN. Wife is exhausted and tearful. Strongly
+   encouraged in-home caregiver support. Provided social work referral. Discussed
+   adult day programs. Wife agreed to explore options.
+
+3. Incontinence - new. Check UA. May need urology consult if not infection.
+
+4. Weight loss - 3 lbs in 6 months. Appetite affected? Ensure adequate nutrition.
+   Consider dietary consult.
+
+5. Gait change - shuffling concerning. If MRI unremarkable, consider Lewy body
+   pathology contribution. No tremor or REM sleep behavior disorder per wife.
+
+6. Safety - Increased supervision needed. Discussed that patient should never be
+   left alone. Consider GPS tracking device.
+
+7. DM2, HTN, HLD - continue current regimen.
+
+Called wife this evening to check in. She found local support group meeting
+tomorrow and will attend. Social work to follow up this week.
+
+RTC 4-6 weeks after MRI completed, sooner if acute changes.
+
+Electronically signed by Lisa Chen, MD  09/16/2024 5:30 PM

@@ -1,0 +1,99 @@
+LABORATORY REPORT
+Patient: Nguyen Tran    DOB: 02/14/1965    MRN: 56789345
+Collection Date: 2024-10-14 07:30 AM (Fasting)
+Ordering Provider: Dr. David Chen (Nephrology)
+Performing Lab: UT Southwestern Clinical Laboratory
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose                      142         70-100 mg/dL        HIGH
+BUN                          68          7-20 mg/dL          HIGH
+Creatinine                   4.2         0.7-1.3 mg/dL       HIGH
+eGFR                         15          >60 mL/min          LOW (Stage 5)
+Sodium                       138         136-145 mEq/L
+Potassium                    5.3         3.5-5.0 mEq/L       HIGH
+Chloride                     105         98-106 mEq/L
+CO2                          18          23-29 mEq/L         LOW
+Calcium                      8.6         8.5-10.5 mg/dL
+Phosphorus                   5.8         2.5-4.5 mg/dL       HIGH
+Magnesium                    2.4         1.7-2.2 mg/dL       HIGH
+Total Protein                6.8         6.0-8.3 g/dL
+Albumin                      3.5         3.5-5.0 g/dL
+Bilirubin, Total             0.5         0.1-1.2 mg/dL
+Alkaline Phosphatase         125         44-147 U/L
+AST                          22          10-40 U/L
+ALT                          24          7-56 U/L
+
+================================================================================
+HEMOGLOBIN A1C
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Hemoglobin A1c               8.2         <5.7% (normal)      HIGH
+
+================================================================================
+COMPLETE BLOOD COUNT
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          6.2         4.5-11.0 K/uL
+RBC                          3.4         4.5-5.5 M/uL        LOW
+Hemoglobin                   9.8         13.5-17.5 g/dL      LOW
+Hematocrit                   29.8        38-50%              LOW
+MCV                          88          80-100 fL
+MCH                          28.8        27-33 pg
+MCHC                         32.9        32-36 g/dL
+Platelet Count               185         150-400 K/uL
+
+================================================================================
+PARATHYROID AND BONE
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+PTH, Intact                  342         15-65 pg/mL         HIGH
+Vitamin D, 25-OH             28          30-100 ng/mL        LOW
+
+================================================================================
+IRON STUDIES
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Iron                         42          60-170 mcg/dL       LOW
+TIBC                         280         250-370 mcg/dL
+Iron Saturation              15          20-50%              LOW
+Ferritin                     88          12-300 ng/mL
+
+================================================================================
+URINE STUDIES
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Urine Protein (24hr)         3.8 g/day   <0.15 g/day         HIGH
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+
+CRITICAL CKD STAGE 5 (ESKD) PARAMETERS:
+
+1. eGFR 15 mL/min - CKD Stage 5 (End Stage Kidney Disease)
+2. BUN 68 mg/dL - elevated, uremia developing
+3. Metabolic acidosis (CO2 18) - CKD-related
+4. Hyperkalemia (K 5.3) - needs monitoring
+5. Hyperphosphatemia (Phos 5.8) - CKD-MBD
+6. Secondary hyperparathyroidism (PTH 342)
+7. Anemia (Hgb 9.8) despite ESA therapy - functional iron deficiency noted
+8. Nephrotic-range proteinuria (3.8 g/day)
+
+URGENT RECOMMENDATIONS:
+- Dialysis initiation indicated given eGFR and uremic symptoms
+- IV iron supplementation recommended
+- Phosphate binder optimization
+- Close electrolyte monitoring
+
+Report electronically signed by: Linda Park, MD, Laboratory Director
+2024-10-14 12:00 PM
+
+*** CRITICAL VALUES REPORTED: eGFR 15 (Stage 5 CKD) ***

@@ -1,0 +1,88 @@
+PROGRESS NOTE
+Patient: George Williams    DOB: 11/18/1950    MRN: 45678234
+Date: 2024-04-15       Provider: Dr. Robert Kim, MD (Cardiology/Heart Failure)
+
+Chief Complaint: Heart failure follow-up
+
+Subjective:
+73 yo M with ischemic cardiomyopathy (EF 30%), s/p LAD stent (2019), ICD (2020),
+afib on anticoagulation, CKD Stage 3b, here for routine HF follow-up.
+
+Reports doing "pretty well." Able to walk around house without difficulty.
+Can climb stairs (12 steps to bedroom) but needs to rest halfway up. Can walk
+about 200 yards on flat ground. NYHA Class II-III.
+
+Weight: Checking daily. "Pretty stable." Gained 2 lbs over past week - ate
+salty foods at granddaughter's birthday party.
+
+Edema: Mild ankle swelling by evening, resolved by morning.
+
+Dyspnea: None at rest. Moderate exertion (walking uphill, stairs) causes
+shortness of breath. Sleeps on 2 pillows (chronic). No PND.
+
+Medications: Taking all as prescribed. Denies missing doses.
+
+Diet: "Trying to stay low-salt but it's hard." Admitted to ham at the party.
+
+ICD: No shocks. No symptoms.
+
+Blood sugars: Running 140-180 fasting. "Could be better."
+
+Current Medications:
+- Sacubitril-valsartan 97/103mg BID
+- Carvedilol 25mg BID
+- Dapagliflozin 10mg daily
+- Spironolactone 25mg daily
+- Furosemide 40mg BID
+- Apixaban 5mg BID
+- Aspirin 81mg daily
+- Atorvastatin 80mg daily
+- Insulin glargine 24 units QHS
+- Insulin lispro sliding scale
+
+Objective:
+Vitals: BP 108/68, HR 62 (irregular), Wt 198 lbs (up 2 lbs from last visit)
+General: Well-appearing, NAD
+JVP: 8cm (slightly elevated)
+Cardiac: Irregularly irregular, no murmurs, no S3
+Lungs: Clear bilaterally
+Extremities: Trace edema bilateral ankles
+
+ICD Interrogation (today):
+- Device function normal
+- No therapies delivered
+- AF burden: 85% (persistent)
+- Battery adequate
+
+Labs (last week):
+- BNP: 450 (elevated, stable)
+- CMP: Na 138, K 4.5, Cr 1.8 (eGFR 38), glucose 162
+- HbA1c: 7.8%
+
+Echo (02/2024):
+- EF 28-30% (stable)
+- Moderate LV dilation
+- Mild MR
+- Normal RV function
+
+Assessment/Plan:
+1. HFrEF - NYHA II-III, stable. On optimal GDMT (ARNi, BB, MRA, SGLT2i).
+   - Weight up 2 lbs with dietary indiscretion - increase furosemide to
+     60mg AM and 40mg PM for 3-5 days, then return to baseline
+   - Reinforce 2g sodium diet
+   - Daily weights - call if >3 lbs gain in 1 week
+
+2. Atrial Fibrillation - rate-controlled on carvedilol. Continue apixaban.
+
+3. CAD - stable, s/p PCI. Continue ASA/statin.
+
+4. CKD Stage 3b - stable at eGFR 38. Cardiorenal syndrome. Dapagliflozin
+   cardio and renoprotective.
+
+5. DM2 - HbA1c 7.8%, reasonable for age/comorbidities. Continue insulin regimen.
+
+6. ICD - functioning well, no events.
+
+Continue current regimen. RTC 3 months.
+
+Electronically signed by Robert Kim, MD  04/15/2024 2:30 PM

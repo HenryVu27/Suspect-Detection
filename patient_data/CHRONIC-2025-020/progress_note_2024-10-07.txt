@@ -1,0 +1,77 @@
+PROGRESS NOTE
+Patient: Marcus Johnson    DOB: 09/10/1972    MRN: 56789345
+Date: 2024-10-07       Provider: Dr. Robert Hayes, MD (Pain Management)
+
+Chief Complaint: Chronic pain management follow-up, concerning symptoms
+
+Subjective:
+Pt returns for routine follow-up. Reports overall pain similar 6-7/10. However,
+notes some new and concerning symptoms.
+
+"My legs have been feeling weak lately. Sometimes they buckle when I'm walking."
+States this started about 2 months ago and is getting worse. Also reports increased
+numbness extending to both thighs now - "used to just be my feet."
+
+New symptom: urinary hesitancy. "Takes a while to get started, and sometimes I
+feel like I can't fully empty." Denies incontinence. Denies saddle numbness.
+No fecal incontinence.
+
+Also reports increased constipation despite MiraLAX - "haven't gone in 5 days."
+
+Pain is more centralized in low back rather than radiating. "Different than usual."
+
+Taking medications as prescribed. Working less due to difficulty sitting.
+
+Mood remains low. PHQ-9 today: 16 (moderately severe, worse than before).
+States he feels "hopeless" about pain ever improving.
+
+Current Medications:
+- Oxycodone ER 40mg BID
+- Oxycodone IR 10mg Q6H PRN breakthrough
+- Duloxetine 60mg daily
+- Gabapentin 600mg TID
+- Trazodone 100mg QHS
+- Polyethylene glycol daily
+- Docusate 100mg BID
+
+Objective:
+Vitals: BP 144/92, HR 82, Wt 242 lbs
+General: Appears uncomfortable, fatigued
+Lumbar spine: Diffuse tenderness, muscle spasm
+Lower extremities:
+  - Strength: Hip flexors 4/5 bilateral (stable), knee extension 4-/5 bilateral
+    (WORSE), ankle dorsiflexion 4/5 bilateral (WORSE)
+  - Reflexes: Absent at ankles and knees (was 1+ at ankles before)
+  - Sensation: Diminished to light touch bilateral thighs, legs, feet (EXPANDED)
+Gait: Wide-based, unsteady, nearly fell during exam
+Rectal exam: Decreased sphincter tone (NEW)
+
+PDMP: Consistent. UDS: Positive oxycodone only.
+
+Assessment/Plan:
+1. ***RED FLAG SYMPTOMS*** - NEW progressive bilateral leg weakness, expanded
+   sensory loss, urinary symptoms, decreased rectal tone. CONCERN FOR CAUDA EQUINA
+   SYNDROME vs progressive neurological compromise.
+   - URGENT MRI lumbar spine with and without contrast ordered TODAY
+   - Called radiology - will perform this afternoon
+   - If MRI shows compression, will need emergent surgical referral
+   - Discussed with patient - must go to ER if develops urinary retention,
+     fecal incontinence, or saddle anesthesia before MRI
+
+2. Chronic Low Back Pain - concerning for new pathology. Hold any interventions
+   pending MRI.
+
+3. Chronic Opioid Therapy - continue current regimen. This is NOT opioid-induced
+   hyperalgesia - there is objective neurological decline.
+
+4. Depression - worsening PHQ-9 16. Increase duloxetine to 90mg. Consider
+   psychiatry referral.
+
+5. Constipation - could be medication-related but concerning given bowel symptoms.
+   Add lactulose, may need disimpaction.
+
+CALLED PATIENT AT HOME 6:30 PM - MRI shows severe central canal stenosis L3-L4
+with cauda equina compression. Spoke with spine surgery on call. Patient instructed
+to go to ER for admission. Will likely need urgent decompression surgery.
+
+Electronically signed by Robert Hayes, MD  10/07/2024 7:15 PM

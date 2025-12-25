@@ -1,0 +1,63 @@
+PROGRESS NOTE
+Patient: Harold Peterson    DOB: 12/05/1950    MRN: 34567891
+Date: 2024-03-15       Provider: Dr. Robert Kim, MD (Pulmonology)
+
+Chief Complaint: Sleep study results, overlap syndrome
+
+Subjective:
+Pt returns to review sleep study and echocardiogram results. Symptoms unchanged -
+fatigue, snoring, witnessed apneas. Leg swelling stable.
+
+POLYSOMNOGRAM RESULTS (03/05/2024):
+- Total sleep time: 5.8 hours
+- Sleep efficiency: 72%
+- AHI: 45 events/hour (SEVERE OSA)
+- Lowest SpO2: 68%
+- Mean SpO2: 84%
+- Time SpO2 <88%: 3.2 hours
+- Time SpO2 <80%: 45 minutes
+- Predominant obstructive events
+- REM-related worsening (AHI 72 in REM)
+- Sleep architecture disrupted with reduced REM and slow-wave sleep
+
+ECHOCARDIOGRAM (02/28/2024):
+- LV EF 55-60% (normal)
+- Mild tricuspid regurgitation
+- Estimated RVSP 48 mmHg (mildly elevated, suggesting pulmonary HTN)
+- RV mildly dilated
+- RA mildly dilated
+
+Current Medications: unchanged
+
+Objective:
+Vitals: BP 145/90, HR 80, SpO2 90% RA
+General: Obese, fatigued
+Lungs: Decreased BS, end-exp wheezes
+Ext: 2+ LE edema
+
+Labs from 02/15:
+- BNP: 285 pg/mL (elevated)
+- A1c: 7.4%
+- Hgb: 16.8 (elevated - polycythemia from chronic hypoxia)
+- Hct: 50.2
+
+Assessment/Plan:
+1. OVERLAP SYNDROME CONFIRMED - Severe OSA (AHI 45) + COPD. This is a HIGH-RISK
+   condition associated with increased mortality, pulmonary hypertension, and
+   heart failure. Patient has significant nocturnal hypoxemia (SpO2 to 68%).
+   - Initiate BiPAP (not CPAP) with supplemental O2 given COPD component
+   - BiPAP ST mode at 14/8 with 2L O2, titrate per download data
+   - Urgent DME setup
+2. Early pulmonary hypertension/right heart strain - RVSP 48, mild RV/RA dilation,
+   elevated BNP 285, TR. This is consequence of chronic hypoxemia. Should improve
+   with BiPAP + O2 treatment.
+3. Secondary polycythemia (Hgb 16.8, Hct 50.2) - from chronic hypoxemia. May need
+   phlebotomy if persists after treatment. Avoid phlebotomy if possible.
+4. COPD - stable. Continue Symbicort.
+5. Type 2 Diabetes - A1c 7.4%, slightly above goal. Continue metformin. May add
+   agent later.
+6. PTSD - stable.
+
+BiPAP ordered. Critical to ensure compliance. Follow-up in 4-6 weeks with download.
+
+Electronically signed by Robert Kim, MD  03/15/2024 4:00 PM

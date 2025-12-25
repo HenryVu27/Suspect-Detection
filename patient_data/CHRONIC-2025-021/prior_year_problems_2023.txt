@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (UCSF Memory Center)
+Export Date: 2023-12-15
+Patient: Harold Nakamura    DOB: 04/12/1941    MRN: 67890456
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Major Neurocognitive Disorder due to Alzheimer's Disease, mild (F02.81)
+   - First Documented: 2022-05-18
+   - Status: Active
+   - Managing Provider: Dr. Lisa Chen (Neurology)
+   - Notes: MoCA 20/30. On donepezil. Wife is primary caregiver.
+
+2. Hypertension (I10)
+   - First Documented: 2008-03-22
+   - Status: Active
+   - Notes: Well-controlled on lisinopril.
+
+3. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2015-06-10
+   - Status: Active
+   - Notes: On metformin, well-controlled.
+
+4. Benign Prostatic Hyperplasia (N40.1)
+   - First Documented: 2018-09-14
+   - Status: Active
+   - Notes: On tamsulosin.
+
+5. Hyperlipidemia (E78.5)
+   - First Documented: 2010-11-20
+   - Status: Active
+   - Notes: On atorvastatin.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Urinary Tract Infection (N39.0)
+   - Episode: 2023-02-08 to 2023-02-18
+   - Notes: Presented with confusion, treated with Bactrim
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Cataract Surgery, bilateral
+   - Date: 2019-04-15 (right), 2019-05-20 (left)
+   - Hospital: UCSF
+   - Notes: Successful
+
+2. Appendectomy
+   - Date: 1975
+   - Hospital: Unknown
+
+================================================================================
+ALLERGIES
+================================================================================
+NKDA
+
+================================================================================

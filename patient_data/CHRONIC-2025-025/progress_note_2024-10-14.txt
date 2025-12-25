@@ -1,0 +1,97 @@
+PROGRESS NOTE
+Patient: Aiden Kowalski    DOB: 02/19/1992    MRN: 01234890
+Date: 2024-10-14       Provider: Dr. Maria Fernandez, MD (Gastroenterology/IBD)
+
+Chief Complaint: Surveillance colonoscopy results, concerning symptoms
+
+Subjective:
+Pt returns for surveillance colonoscopy results and discussion of new symptoms.
+
+NEW SYMPTOMS over past 6 weeks:
+- Increased stool frequency: Now 5-6/day (was 2-3)
+- Blood in stool: Returned - streaks of blood on toilet paper and in bowl
+- Nocturnal stools: Waking 1-2x/night to use bathroom (never had before)
+- Mild crampy abdominal pain, especially before bowel movements
+- Fatigue returning
+- "I thought I was in remission. This feels like a flare starting."
+
+Denies fever, weight loss, joint pain, eye symptoms.
+
+Still getting vedolizumab infusions on schedule. No missed doses.
+
+No recent antibiotics, travel, or sick contacts.
+
+Current Medications:
+- Vedolizumab 300mg IV q8 weeks (last infusion 10/02)
+- Ursodiol 500mg BID
+- Iron polysaccharide 150mg daily
+- Vitamin D3 2000 IU daily
+- Calcium 600mg daily
+
+Objective:
+Vitals: BP 122/78, HR 76, Wt 171 lbs (down 4 lbs)
+General: Appears mildly fatigued
+Abdomen: Soft, mild tenderness LLQ, no rebound, normoactive bowel sounds
+
+COLONOSCOPY RESULTS (performed 10/10/2024):
+
+Procedure findings:
+- LOSS OF REMISSION: Active inflammation throughout colon
+- Mayo endoscopic score: 2 (moderate disease) - was 0 in 2022
+- Erythema, friability, and erosions from rectum to hepatic flexure
+- Several areas of raised, irregular mucosa in sigmoid and descending colon
+
+PATHOLOGY (critical findings):
+- Sigmoid colon (raised lesion): ***LOW-GRADE DYSPLASIA (LGD)***
+- Descending colon (raised lesion): Indefinite for dysplasia
+- Multiple random biopsies: Active colitis, no dysplasia
+
+Labs today:
+- CRP: 2.8 (elevated, was 0.3)
+- Fecal calprotectin: 380 (elevated, was 45)
+- Hgb: 11.8 (dropping, was 13.8)
+- LFTs: ALT 45, AST 38, Alk phos 115 (all slightly up)
+
+Assessment/Plan:
+***CRITICAL FINDINGS - DUAL CONCERNS***
+
+1. UC Flare - loss of remission on vedolizumab after 2 years. Secondary loss
+   of response to biologic. Concerning biochemically and endoscopically.
+   - Initiate bridge therapy with budesonide MMX 9mg daily
+   - Stool studies: C. diff, culture, ova/parasites - must rule out infection
+   - Consider therapy change if steroids needed long-term:
+     * Ustekinumab (different mechanism)
+     * Tofacitinib (JAK inhibitor)
+   - Discuss at IBD multidisciplinary conference
+
+2. ***COLITIS-ASSOCIATED DYSPLASIA - LOW-GRADE*** - This is a major finding.
+   In patient with pancolitis + PSC (highest risk category), LGD in a raised
+   lesion is very concerning.
+   - Options discussed extensively with patient:
+     A) Repeat colonoscopy in 3-6 months with attempt at endoscopic resection
+        if lesion is visible and appears resectable
+     B) Colectomy - definitive treatment, eliminates cancer risk
+   - URGENT colorectal surgery referral placed
+   - Patient is understandably anxious. Discussed that PSC+UC+dysplasia puts
+     him in highest risk category for colorectal cancer.
+   - Patient wants to discuss with family before deciding on surgery
+
+3. PSC - LFTs slightly up. Could be progression vs. related to inflammation.
+   - Hepatology consult for co-management
+   - Will need MRCP to assess for changes
+
+4. Anemia returning - Hgb 11.8 (was 13.8). Likely due to active inflammation
+   and blood loss. May need iron infusion again.
+
+PATIENT COUNSELING:
+- Explained the significance of dysplasia in his high-risk setting
+- Discussed that while colectomy is major surgery, it eliminates both UC
+  symptoms AND colorectal cancer risk (though PSC cancer risk remains)
+- Emphasized that delay in addressing dysplasia can lead to cancer development
+- Patient tearful but understanding. Will discuss with partner.
+
+Urgent colorectal surgery consult this week.
+Will call with stool study results.
+RTC 2 weeks or sooner after surgery consultation.
+
+Electronically signed by Maria Fernandez, MD  10/14/2024 5:15 PM

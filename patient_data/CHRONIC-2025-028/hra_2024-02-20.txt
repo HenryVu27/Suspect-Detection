@@ -1,0 +1,154 @@
+HEALTH RISK ASSESSMENT
+Patient: Christopher Martinez
+Date Completed: 2024-02-20
+Completed via: Patient portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - my biggest daily challenge
+[X] Difficulty sleeping - bladder wakes me up
+[X] Frequent urination - neurogenic bladder from MS
+[ ] Numbness/tingling in hands or feet - not currently
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[X] Feeling sad or hopeless - sometimes, part of MS
+[X] Difficulty concentrating - when fatigued
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[X] Daytime sleepiness - related to fatigue
+[X] Balance problems - mild, especially when tired
+[X] Walking difficulty - can walk but limited distance
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - MS-related
+[ ] Anxiety
+[ ] Sleep apnea
+[X] Multiple Sclerosis - diagnosed 2012
+
+================================================================================
+FAMILY HISTORY
+
+Multiple Sclerosis: No - I'm the first in my family
+Autoimmune Disease: Yes
+    Who? Aunt has thyroid disease
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? 62
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2012 (when diagnosed)
+    How much? Social smoker, weekends only
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Occasionally
+    How often? 1-2 times per month
+    How many drinks per occasion? 1-2 beers
+    Notes: Alcohol makes fatigue worse so I limit it
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 2-3 times per week
+What type of exercise? Stationary bike, resistance bands, pool walking
+What barriers prevent you from exercising more?
+    [X] Fatigue
+    [X] Balance concerns
+    [X] Walking difficulty
+    Notes: Exercise actually helps my symptoms but I have to be careful not to
+           overdo it - overheating makes MS symptoms worse
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Good
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? Once a week
+Notes: Following anti-inflammatory diet, trying to maintain healthy weight
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Several days
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days - always worried about next relapse
+
+Do you feel you have adequate emotional support?
+    Yes - married, two kids (teenagers), good friends, MS support group
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments?
+    Yes - wife drives when I'm too fatigued
+In the past 12 months, have you had difficulty affording your medications?
+    No - insurance covers Ocrevus, specialty pharmacy handles it
+Are you currently employed? Yes, accountant (full-time)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"MS has been my constant challenge for the past 12 years. I was diagnosed at 33 -
+I was otherwise healthy, just had some numbness in my leg that didn't go away.
+Then came the MRI and the diagnosis that changed everything.
+
+I've been through a lot of treatments. Started with Avonex (interferon) but
+couldn't tolerate the side effects. Then Tecfidera, which worked for a while.
+Now I'm on Ocrevus (ocrelizumab), which has been the best so far. I get an
+infusion every 6 months and haven't had a relapse in over 2 years.
+
+The fatigue is the hardest part. People don't see it - I look healthy. But by
+mid-afternoon I'm running on empty. I've had to adjust my work schedule - I do
+the important stuff in the morning when I have energy. My boss has been
+understanding.
+
+I worry about the future. MS is unpredictable. I could be stable for years or
+I could progress. The not knowing is hard. I've read about people in wheelchairs,
+people who can't work. I try not to go there but sometimes it keeps me up at night.
+
+I'm grateful for my family. My wife is amazing - she takes on extra when I'm
+having a bad day. My kids are old enough to understand now. They've been
+researching MS for school projects. It's touching.
+
+I stay active because studies show it helps MS. Swimming is great because the
+pool is cool (heat makes symptoms worse). I do what I can when I can.
+
+The depression is real. Hard to stay positive when you have a chronic disease.
+The bupropion helps and so does therapy. I've learned to take it day by day."
+
+================================================================================

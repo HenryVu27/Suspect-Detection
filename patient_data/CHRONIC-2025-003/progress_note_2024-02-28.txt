@@ -1,0 +1,62 @@
+PROGRESS NOTE
+Patient: Marcus Johnson    DOB: 11/03/1978    MRN: 56789123
+Date: 2024-02-28       Provider: Dr. Kevin Park, MD
+
+Chief Complaint: Weight management, metabolic syndrome follow-up
+
+Subjective:
+46 yo M here for metabolic syndrome management. Weight has been "creeping up" -
+attributes to stress at work (recently promoted to management, more sedentary).
+Admits not using CPAP regularly - "mask is uncomfortable, feel claustrophobic."
+Uses it maybe 2x/week. Still snoring loudly per wife, daytime fatigue significant.
+
+Diet has been poor - eating out frequently due to work demands, portion control
+difficult. Exercise minimal - occasional weekend walks with family.
+
+Denies CP, SOB at rest. Does get winded easily with stairs. No polyuria/polydipsia.
+Reports occasional right upper quadrant discomfort after fatty meals.
+
+Current Medications:
+- Lisinopril 10mg daily
+- Omeprazole 20mg daily
+
+Previously declined:
+- Statin
+- Metformin for prediabetes
+
+Objective:
+Vitals: BP 142/88, HR 78, RR 16, Temp 98.6F, Wt 298 lbs (+12 lbs from last year),
+       BMI 44.1, SpO2 94% RA, Neck circumference 18.5 inches
+General: Morbidly obese male, appears tired, truncal obesity
+HEENT: Neck thick, no thyromegaly
+CV: RRR, distant heart sounds
+Lungs: Clear but diminished at bases
+Abdomen: Obese, mild RUQ tenderness, no hepatomegaly palpable
+Ext: Trace edema bilateral LE
+
+Labs from 02/20:
+- A1c: 6.4% (up from 6.2%)
+- Fasting glucose: 118
+- ALT: 68 (H), AST: 52 (H)
+- TG: 245 (H), HDL: 32 (L), LDL: 142
+- Cr: 1.0, eGFR 92
+
+Assessment/Plan:
+1. Morbid obesity - BMI 44.1, weight gain despite counseling. Discussed bariatric
+   surgery referral again - patient now interested given weight trajectory. Placing
+   referral to bariatric program. Continue dietary counseling. Consider GLP-1 agonist.
+2. Prediabetes - A1c 6.4%, approaching diabetes threshold. Reconsidered metformin -
+   patient still declines, wants to "try harder with diet first." Will give 3 months.
+   If A1c >=6.5% at next check, will strongly recommend medication.
+3. HTN - not controlled. Increase lisinopril to 20mg daily.
+4. Hyperlipidemia - LDL elevated, TG very high, HDL very low. Classic metabolic pattern.
+   Again discussed statin - patient concerned about side effects. Will revisit after
+   weight loss attempts.
+5. OSA - poorly controlled due to CPAP non-adherence. Referred to sleep medicine for
+   mask refit and alternatives discussion. Emphasized importance.
+6. NAFLD - transaminases remain elevated. Weight loss is primary treatment. If
+   bariatric surgery proceeds, liver biopsy likely will be done.
+
+RTC 3 months with labs. Bariatric referral placed.
+
+Electronically signed by Kevin Park, MD  02/28/2024 4:30 PM

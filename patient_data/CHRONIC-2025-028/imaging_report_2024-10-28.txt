@@ -1,0 +1,118 @@
+IMAGING REPORT - MRI BRAIN AND SPINE
+
+Patient: Christopher Martinez    DOB: 03/30/1979    MRN: 34567123
+Exam Date: 2024-10-28 14:30
+Ordering Provider: Dr. Amy Nguyen, MD
+Reading Radiologist: Dr. Jennifer Wilson, MD (Neuroradiology)
+
+================================================================================
+EXAMINATION: MRI Brain with and without contrast, MRI Cervical Spine with and
+without contrast, MRI Thoracic Spine with and without contrast
+
+CLINICAL INDICATION: Multiple sclerosis on ocrelizumab with new progressive
+right-sided weakness, gait worsening, cognitive changes. Rule out progression
+vs. PML vs. new relapse.
+
+COMPARISON: MRI Brain 02/15/2024
+
+TECHNIQUE: 3T MRI with multiplanar T1, T2, FLAIR, DWI sequences, pre and post
+gadolinium.
+
+================================================================================
+BRAIN FINDINGS:
+
+WHITE MATTER LESIONS:
+- Previously seen periventricular T2/FLAIR hyperintense lesions (>15)
+- ***5+ NEW T2 hyperintense lesions*** identified since February 2024:
+  * New 12mm lesion right centrum semiovale
+  * New 8mm lesion left periventricular region
+  * New 7mm lesion right corona radiata (corticospinal tract involvement -
+    correlates with left weakness)
+  * New 6mm lesion left frontal subcortical white matter
+  * New 5mm lesion right parietal subcortical region
+- Several previously seen lesions appear slightly larger
+
+GADOLINIUM ENHANCEMENT:
+- ***Two lesions show gadolinium enhancement:***
+  * Right corona radiata lesion - ring enhancement
+  * Left frontal subcortical lesion - nodular enhancement
+- Enhancement indicates active/recent demyelination
+
+DAWSON'S FINGERS: Present periventricularly - classic MS pattern
+
+CORPUS CALLOSUM: Multiple T2 hyperintensities at calloso-septal interface -
+typical MS pattern
+
+INFRATENTORIAL: No new brainstem or cerebellar lesions
+
+GRAY MATTER: Possible subtle cortical/juxtacortical involvement
+
+ATROPHY:
+- ***Progressive brain volume loss*** compared to 2024
+- Evans ratio mildly increased (0.31)
+- Sulcal widening more prominent
+
+BLACK HOLES (T1 hypointense): Several chronic lesions show T1 hypointensity -
+represent axonal loss/gliosis
+
+PML EVALUATION:
+- NO involvement of subcortical U-fibers in typical PML distribution
+- No asymmetric, confluent frontal or parieto-occipital lesions
+- No "leading edge" pattern
+- Enhancement pattern atypical for PML
+- ***Imaging does NOT suggest PML***
+
+================================================================================
+CERVICAL SPINE FINDINGS:
+
+***NEW CERVICAL CORD LESION:***
+- T2 hyperintense lesion at C3-C4 level, posterolateral cord
+- Measures approximately 8mm craniocaudal
+- Mild cord expansion at this level
+- Gadolinium enhancement present - ACTIVE LESION
+- This lesion correlates with patient's right-sided symptoms (left lateral
+  corticospinal tract)
+
+No other spinal cord lesions identified in cervical region.
+
+================================================================================
+THORACIC SPINE FINDINGS:
+
+- T2 hyperintense lesion at T6 level, posterior cord - stable from prior, no
+  enhancement (chronic)
+- No new thoracic lesions
+
+================================================================================
+IMPRESSION:
+
+1. ***ACTIVE MULTIPLE SCLEROSIS WITH NEW DISEASE ACTIVITY despite highly
+   effective therapy:***
+   - 5+ new brain lesions since February 2024
+   - 2 gadolinium-enhancing lesions (active inflammation)
+   - New enhancing cervical cord lesion at C3-C4 (explains right-sided symptoms)
+   - Progressive brain volume loss
+
+2. ***NO EVIDENCE OF PML:***
+   - Lesion pattern typical for MS, not PML
+   - No subcortical U-fiber involvement
+   - Enhancement pattern inconsistent with PML
+
+3. Progressive brain atrophy - concerning for possible transition to
+   secondary progressive MS
+
+4. Chronic T2 lesion thoracic spine - stable, inactive
+
+================================================================================
+CLINICAL CORRELATION:
+
+Findings indicate breakthrough MS disease activity on ocrelizumab with both
+new lesions and active enhancement. The C3-C4 spinal cord lesion explains
+the patient's right-sided weakness. New brain lesions may explain cognitive
+changes. Progressive atrophy is concerning for transition toward secondary
+progressive disease phase.
+
+Recommend clinical correlation and consideration of treatment intensification
+or modification.
+
+================================================================================
+Electronically signed by Jennifer Wilson, MD  10/28/2024 16:45

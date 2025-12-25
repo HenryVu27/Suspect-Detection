@@ -1,0 +1,51 @@
+PROGRESS NOTE
+Patient: Marcus Johnson    DOB: 11/03/1978    MRN: 56789123
+Date: 2024-06-15       Provider: Dr. Kevin Park, MD
+
+Chief Complaint: Follow-up labs, bariatric surgery eval update
+
+Subjective:
+Pt returns for metabolic follow-up. Reports he went to bariatric surgery consultation
+and has been approved pending 6-month supervised weight loss program. Started seeing
+their dietitian monthly. Has made some diet changes - less fast food, trying to
+meal prep. Lost about 5 lbs so far.
+
+Got CPAP mask refit - now using nasal pillows which are more comfortable. Using
+CPAP 4-5 nights per week. Feels "a little more rested" but still tired.
+
+No CP, less SOB than before. Still some RUQ discomfort occasionally.
+
+Current Medications:
+- Lisinopril 20mg daily
+- Omeprazole 20mg daily
+
+Objective:
+Vitals: BP 138/84, HR 74, RR 16, Wt 293 lbs (-5 lbs), BMI 43.4, SpO2 95% RA
+General: Morbidly obese male, slightly better energy
+Abdomen: Obese, non-tender today
+
+Labs from 06/08:
+- A1c: 6.5%
+- Fasting glucose: 126
+- ALT: 58, AST: 45
+- TG: 218, HDL: 34, LDL: 138
+
+Assessment/Plan:
+1. Obesity - some progress with bariatric program. Encourage continued efforts.
+2. NEW: Type 2 Diabetes Mellitus - A1c now 6.5%, meets diagnostic criteria. Discussed
+   with patient. Given bariatric surgery is planned and A1c borderline, will start
+   metformin 500mg BID. If surgery successful, may be able to discontinue. DM education
+   ordered.
+3. HTN - slightly improved. Continue current dose.
+4. Hyperlipidemia - still concerning pattern. With new DM diagnosis, statin now more
+   strongly indicated. Patient agrees to try atorvastatin 20mg.
+5. OSA - improved compliance with new mask. Encourage continued use every night.
+6. NAFLD - transaminases stable/improving. Continue weight loss efforts.
+
+Start:
+- Metformin 500mg BID
+- Atorvastatin 20mg QHS
+
+RTC 3 months. Continue bariatric program.
+
+Electronically signed by Kevin Park, MD  06/15/2024 2:15 PM

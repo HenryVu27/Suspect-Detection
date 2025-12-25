@@ -1,0 +1,136 @@
+COLONOSCOPY REPORT
+
+Patient: Aiden Kowalski    DOB: 02/19/1992    MRN: 01234890
+Procedure Date: 2024-10-10
+Procedure: Colonoscopy with biopsies (surveillance for dysplasia)
+Endoscopist: Dr. Maria Fernandez, MD
+Anesthesia: Propofol (monitored anesthesia care)
+
+================================================================================
+INDICATION:
+Ulcerative colitis (pancolitis) with primary sclerosing cholangitis - annual
+surveillance colonoscopy for colorectal cancer screening (HIGH RISK category)
+
+================================================================================
+PROCEDURE DETAILS:
+
+Informed consent obtained. Excellent bowel preparation (Boston Bowel Prep Score 9).
+Colonoscope advanced to cecum with photo documentation. Chromoendoscopy with
+0.1% methylene blue applied for enhanced dysplasia detection.
+
+================================================================================
+FINDINGS:
+
+RECTUM:
+- Erythema, friability, loss of vascular pattern
+- Petechial hemorrhages on contact
+- Mayo score: 2
+
+SIGMOID COLON:
+- Active inflammation with erythema and erosions
+- ***RAISED LESION at 25cm: 12mm, irregular borders, nodular surface***
+  Non-polypoid, Paris classification 0-IIa+IIc
+  Concerning for dysplasia - biopsied extensively
+- Additional satellite lesion at 22cm: 6mm, similar appearance
+- Mayo score: 2
+
+DESCENDING COLON:
+- Continuous inflammation, erythema, friability
+- ***RAISED LESION at 45cm: 8mm, slightly raised, irregular***
+  Paris classification 0-IIa
+  Biopsied
+- Mayo score: 2
+
+TRANSVERSE COLON:
+- Moderate erythema and friability
+- No masses or polyps
+- Mayo score: 1-2
+
+ASCENDING COLON:
+- Mild erythema, better preserved vascular pattern
+- No masses
+- Mayo score: 1
+
+CECUM:
+- Mild erythema only
+- Appendiceal orifice normal
+- Mayo score: 1
+
+TERMINAL ILEUM:
+- Intubated, normal appearing (no backwash ileitis)
+
+================================================================================
+BIOPSIES OBTAINED:
+
+Surveillance biopsies (random, every 10cm):
+- Rectum x 4
+- Sigmoid 15cm x 4
+- Sigmoid 25cm x 4 (around lesion)
+- Descending 35cm x 4
+- Descending 45cm x 4 (around lesion)
+- Transverse 55cm x 4
+- Transverse 70cm x 4
+- Ascending 85cm x 4
+- Cecum x 4
+
+Targeted biopsies:
+- Sigmoid lesion 25cm x 6 (extensive sampling)
+- Sigmoid satellite lesion 22cm x 2
+- Descending lesion 45cm x 4
+
+Total: 44 biopsies
+
+================================================================================
+PATHOLOGY RESULTS (Reported 10/12/2024):
+
+SIGMOID LESION 25cm:
+- ***LOW-GRADE DYSPLASIA (LGD)*** - confirmed on expert review
+- Tubular architecture with nuclear hyperchromasia, stratification
+- Raised lesion morphology (DALM - dysplasia-associated lesion or mass)
+
+SIGMOID SATELLITE LESION 22cm:
+- Inflammatory changes with reactive atypia
+- No definite dysplasia
+
+DESCENDING LESION 45cm:
+- ***INDEFINITE FOR DYSPLASIA***
+- Recommend close follow-up and rebiopsy
+
+RANDOM SURVEILLANCE BIOPSIES:
+- Active colitis throughout (rectum through ascending)
+- No flat dysplasia identified
+- No invasive carcinoma
+
+================================================================================
+IMPRESSION:
+
+1. ***LOSS OF REMISSION: Active ulcerative colitis, Mayo score 2, involving
+   rectum through transverse colon***
+   - Previous colonoscopy (2022) showed Mayo 0 (remission)
+
+2. ***LOW-GRADE DYSPLASIA in raised sigmoid lesion (25cm)***
+   - In patient with UC + PSC, this is HIGH-RISK finding
+   - Lesion morphology (raised, irregular) concerning for DALM
+
+3. ***SECOND LESION (descending 45cm) indefinite for dysplasia***
+   - Cannot exclude dysplasia
+
+4. Lesions not amenable to simple polypectomy due to inflammation and multifocal
+   nature
+
+================================================================================
+RECOMMENDATIONS:
+
+1. URGENT COLORECTAL SURGERY REFERRAL - Given UC + PSC + LGD in raised lesion,
+   strong consideration for proctocolectomy
+
+2. If surgery declined/delayed, repeat colonoscopy in 3 months with attempted
+   endoscopic mucosal resection if inflammation controlled
+
+3. Address UC flare - optimize medical therapy
+
+4. Multidisciplinary discussion recommended (IBD conference)
+
+================================================================================
+Electronically signed by Maria Fernandez, MD  10/10/2024 16:00
+Pathology addendum signed by Jennifer Wu, MD (GI Pathology)  10/12/2024 11:00

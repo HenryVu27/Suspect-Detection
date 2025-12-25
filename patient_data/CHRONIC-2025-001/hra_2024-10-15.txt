@@ -1,0 +1,147 @@
+HEALTH RISK ASSESSMENT
+Patient: Patricia Williams
+Date Completed: 2024-10-15
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - daily, moderate
+[X] Difficulty sleeping - most nights, 4-5 hours
+[X] Frequent urination - 3-4 times per night
+[X] Numbness/tingling in hands or feet - constant in feet, worse at night
+[X] Headaches - morning headaches, 4-5x per week
+[X] Excessive thirst - sometimes
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[X] Dizziness - occasionally when standing up quickly
+[X] Feeling sad or hopeless - sometimes
+[X] Difficulty concentrating - often
+[ ] Unintentional weight loss
+[X] Loud snoring - per husband, very loud
+[X] Daytime sleepiness - fall asleep during TV, reading
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - Type 2, since 2016
+[X] High blood pressure - since about 2012
+[X] High cholesterol - yes
+[X] Heart disease - no
+[ ] Stroke
+[X] Kidney disease - my doctor says my kidneys aren't working as well
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - diagnosed several years ago but I stopped my medication
+[ ] Anxiety
+[X] Sleep apnea - not diagnosed but husband says I stop breathing at night
+
+================================================================================
+FAMILY HISTORY
+
+Diabetes: Yes
+    Who? Mother, brother
+    Age at diagnosis? Mother was 55, brother was 48
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? Had heart attack at 62
+
+High Blood Pressure: Yes
+    Who? Both parents
+
+Stroke: No
+
+Cancer: Yes
+    Who? Daughter (breast cancer, currently in treatment)
+    Age at diagnosis? 38
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2010
+    How much did you smoke? About half a pack per day for 15 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Yes
+    How often? Most days
+    How many drinks per occasion? 2-3 glasses of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Rarely
+What type of exercise? Walking occasionally
+What barriers prevent you from exercising more?
+    [X] Tired/low energy
+    [X] Foot pain
+    [X] Too busy with family obligations
+    [ ] Don't enjoy it
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Could be better
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 2-3
+How often do you eat fast food? 1-2 times per week
+Do you follow any special diet?
+    [X] Trying to limit carbs and sugar for diabetes
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Several days
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days
+
+Do you feel you have adequate emotional support? Yes, from husband
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food?
+    No
+
+Do you have stable housing? Yes
+
+Do you have reliable transportation to medical appointments? Yes
+
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - the diabetes medications are expensive even with insurance
+
+Are you currently employed? Part-time (library assistant)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I'm worried about my kidneys. My doctor says they're getting worse and I don't
+understand why since I'm trying to take care of my diabetes. I know I should lose
+weight but it's so hard. I'm also exhausted all the time. My husband says I snore
+really loud and sometimes stop breathing - he's been sleeping in the other room
+because of it. I was supposed to get a sleep test but I haven't had time with
+everything going on with my daughter's cancer treatment. She's doing better now
+thank God but it's been such a stressful year.
+
+I stopped taking my depression medicine last year because I felt fine and I hate
+taking so many pills. Sometimes I wonder if I should start it again because I've
+been pretty down lately. The cost of all my medications is also getting hard -
+I'm on so many pills now. The Jardiance alone is $50 a month after insurance."
+
+================================================================================

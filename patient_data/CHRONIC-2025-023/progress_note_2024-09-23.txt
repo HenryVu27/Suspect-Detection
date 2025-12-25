@@ -1,0 +1,101 @@
+PROGRESS NOTE
+Patient: Rachel Steinberg    DOB: 11/03/1985    MRN: 89012678
+Date: 2024-09-23       Provider: Dr. Michelle Park, MD (Neurology/Headache)
+
+Chief Complaint: Migraine worsening, new symptoms
+
+Subjective:
+Pt returns with concerning escalation. "It's been a terrible few months."
+
+Headache diary: Past 30 days - 22 headache days (up from 12). Severe: 10.
+Sumatriptan use: 14 times (OVERUSE - exceeds 9/month limit).
+
+New symptoms per patient:
+- Migraines changed character: "Different than before. More pressure-like."
+- New: Worse when lying down, waking her from sleep
+- New: Brief vision changes - "like camera flashes" in right eye x 2 weeks
+- New: Pulsatile tinnitus right ear - "whooshing sound with heartbeat"
+- New: Worse with coughing, straining, or bending over
+
+Stressors: Job loss 2 months ago. "Laid off in restructuring." Financial stress.
+Stopped seeing therapist - "Can't afford it." Not sleeping well. Started drinking
+more wine "to cope."
+
+Stopped oral contraceptives 6 weeks ago - "Couldn't afford prescription."
+
+Denies fever, neck stiffness, worst headache of life, weakness, numbness.
+
+Current Medications:
+- Topiramate 100mg BID
+- Buspirone 15mg BID
+- Sumatriptan 50mg PRN (overusing)
+- Melatonin 5mg QHS
+- (Stopped: OC, Botox missed due to cost)
+
+Objective:
+Vitals: BP 142/88 (elevated), HR 78, Wt 145 lbs (up 7 lbs)
+General: Appears anxious, tearful at times
+Head/Eyes: Papilledema bilateral on fundoscopic exam (NEW - CRITICAL FINDING)
+           Pulsatile quality to right eye vessels noted
+Neuro: CN II-XII intact, visual fields full to confrontation, normal strength
+       and sensation, negative Brudzinski/Kernig
+
+Assessment/Plan:
+***RED FLAG SYMPTOMS - URGENT WORKUP REQUIRED***
+
+1. New headache features with papilledema - MUST RULE OUT SECONDARY CAUSE:
+   - Papilledema = increased intracranial pressure
+   - Concerning symptoms: Worse lying down, worse with Valsalva, pulsatile
+     tinnitus, visual phenomena
+   - Differential: Idiopathic intracranial hypertension (IIH), cerebral venous
+     thrombosis (CVT), mass lesion
+   - Risk factors present: Recent OC use, weight gain, female
+   - ACTION:
+     * URGENT MRI brain with contrast AND MRV (venogram) - ordered STAT
+     * Called radiology - will be performed TODAY
+     * If negative for mass/CVT, will need lumbar puncture with opening pressure
+     * Ophthalmology referral for formal visual field testing
+
+2. Medication overuse headache - rebound pattern likely contributing. However,
+   secondary cause must be ruled out FIRST before addressing this.
+
+3. Chronic migraine - baseline, but current symptoms suggest new pathology.
+   Hold Botox until workup complete.
+
+4. Depression/anxiety - worsening in context of job loss. PHQ-9 today: 15
+   (moderately severe). Increase buspirone to 20mg BID. Discussed low-cost
+   therapy options, community mental health resources.
+
+5. Social stressors - unemployment, financial strain, uninsured. Social work
+   referral placed for assistance programs, medication assistance programs.
+
+6. Alcohol use - increased. Counseled regarding migraine trigger and interaction
+   with medications.
+
+CRITICAL COMMUNICATION:
+- Explained to patient these symptoms require immediate investigation
+- If MRI shows mass or clot, will need hospitalization
+- Even if imaging normal, LP needed for opening pressure
+- Discussed going to ER if severe headache, vision loss, or neurological symptoms
+
+Patient understands severity. Husband driving her to imaging center now.
+
+Will call patient this evening with imaging results.
+
+Electronically signed by Michelle Park, MD  09/23/2024 2:45 PM
+
+ADDENDUM 09/23/2024 7:30 PM:
+MRI brain with contrast and MRV completed. RESULTS:
+- No mass lesion
+- No cerebral venous thrombosis
+- Partially empty sella (consistent with IIH)
+- Mild flattening of posterior globes (consistent with IIH)
+- Prominent optic nerve sheaths
+
+IMPRESSION: Imaging findings consistent with IDIOPATHIC INTRACRANIAL HYPERTENSION.
+
+Called patient - discussed findings. Scheduled for lumbar puncture tomorrow
+with opening pressure measurement. Likely will need acetazolamide. Discussed
+importance of weight loss.
+
+Electronically signed by Michelle Park, MD  09/23/2024 7:35 PM

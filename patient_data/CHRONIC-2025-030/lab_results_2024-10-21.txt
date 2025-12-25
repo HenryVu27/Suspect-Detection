@@ -1,0 +1,114 @@
+LABORATORY RESULTS
+Patient: Eleanor Patterson    DOB: 08/05/1940    MRN: 56789345
+Collection Date: 2024-10-21 14:45    Reported: 2024-10-21 16:30
+
+================================================================================
+COMPLETE BLOOD COUNT
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+WBC                     14.8        K/uL        4.0-11.0            H
+RBC                     3.6         M/uL        3.8-5.2             L
+Hemoglobin              10.8        g/dL        12.0-16.0           L
+Hematocrit              32.4        %           36.0-46.0           L
+MCV                     90          fL          80-100
+Platelet Count          148         K/uL        150-400             L
+
+WBC Differential:
+Neutrophils             82          %           40-70               H
+Lymphocytes             12          %           20-40               L
+Monocytes               5           %           2-8
+Eosinophils             1           %           1-4
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+Glucose                 220         mg/dL       70-100              H
+BUN                     45          mg/dL       7-20                H
+Creatinine              2.1         mg/dL       0.6-1.2             H
+eGFR                    22          mL/min      >60                 L
+Sodium                  148         mEq/L       136-145             H
+Potassium               3.8         mEq/L       3.5-5.0
+Chloride                112         mEq/L       98-106              H
+CO2                     20          mEq/L       22-29               L
+
+================================================================================
+INFECTION MARKERS
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+Procalcitonin           0.8         ng/mL       <0.1                H
+Lactate                 2.2         mmol/L      0.5-2.0             H
+
+================================================================================
+URINALYSIS
+================================================================================
+Test                    Result      Reference
+------------------------------------------------------------------------------
+Color                   Amber (concentrated)
+Specific Gravity        1.030       1.005-1.030
+Protein                 Trace       Negative
+Blood                   Negative    Negative
+WBC                     0-2         0-5         /hpf
+Bacteria                None        None
+
+================================================================================
+COMPARISON TO PRIOR (March 2024)
+================================================================================
+Parameter               March 2024      October 2024    Change
+------------------------------------------------------------------------------
+Creatinine              1.4             2.1             +50%
+eGFR                    42              22              -48%
+Sodium                  140             148             +8
+WBC                     6.2             14.8            +139%
+Hemoglobin              11.2            10.8            -4%
+
+================================================================================
+INTERPRETATION
+================================================================================
+ACUTE ILLNESS WITH MULTIPLE ABNORMALITIES:
+
+1. Leukocytosis (WBC 14.8) with neutrophilia (82%):
+   - Consistent with acute bacterial infection
+   - Left shift suggests active infection
+
+2. Elevated Procalcitonin (0.8 ng/mL):
+   - Supports bacterial infection
+   - Pneumonia likely given clinical picture
+
+3. Hypernatremia (148 mEq/L):
+   - Consistent with dehydration
+   - Free water deficit
+   - Contributing to altered mental status
+
+4. Acute Kidney Injury on CKD:
+   - Creatinine 1.4 → 2.1 (50% increase)
+   - eGFR 42 → 22 (now Stage 4 range)
+   - Prerenal etiology from dehydration
+   - May improve with hydration
+
+5. Hyperglycemia (220 mg/dL):
+   - Stress hyperglycemia from infection
+   - Possible medication nonadherence
+
+6. Mild Metabolic Acidosis (CO2 20):
+   - Consistent with infection/poor perfusion
+
+7. Mild Lactic Acidosis (2.2 mmol/L):
+   - Early sepsis marker
+   - Requires monitoring
+
+8. Anemia (Hgb 10.8) and Thrombocytopenia (148):
+   - Chronic anemia, slightly worse
+   - Platelets borderline - monitor for DIC if sepsis progresses
+
+================================================================================
+CRITICAL VALUES NOTIFICATION:
+Sodium 148 and Creatinine 2.1 called to Dr. Harris at 16:35. Acknowledged.
+Admission orders placed.
+
+================================================================================
+Resulted by: Laboratory Information System
+Reviewed by: William Harris, MD

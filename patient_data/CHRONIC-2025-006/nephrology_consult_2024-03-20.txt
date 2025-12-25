@@ -1,0 +1,152 @@
+NEPHROLOGY CONSULTATION
+
+Patient: Darnell Washington    DOB: 04/12/1968    MRN: 89123456
+Date of Service: 2024-03-20
+Referring Provider: Dr. Maria Santos (Primary Care)
+Consulting Provider: Dr. James Okonkwo, MD, FASN
+
+================================================================================
+REASON FOR CONSULTATION
+
+Chronic kidney disease Stage 3b in setting of diabetic nephropathy. Recent worsening
+of renal function and proteinuria. Also hyperkalemia on ACE inhibitor.
+
+================================================================================
+HISTORY OF PRESENT ILLNESS
+
+56 yo M with longstanding Type 2 DM (12 years) referred for CKD management. Has
+history of poor glycemic control with recent A1c 11.2% - attributed to insulin
+rationing due to lack of insurance. Now on Medicaid and back on full insulin doses.
+
+Renal function has declined over past year: eGFR was 55 in 2022, 45 in 2023, and
+38 in February 2024 (now 42 on repeat). Proteinuria has been persistent - most
+recent ACR 320 mg/g. Has been on lisinopril 40mg.
+
+Recent hyperkalemia (K 5.4) was noted in February. Patient was not on diuretic.
+
+Patient reports family history significant for mother currently on dialysis for
+diabetic kidney disease.
+
+================================================================================
+PAST MEDICAL HISTORY
+
+1. Type 2 Diabetes Mellitus - 12 years, on basal-bolus insulin, A1c recently 11.2%
+   (insulin rationing), now improving
+2. Diabetic nephropathy - CKD Stage 3b, G3bA3
+3. Diabetic peripheral neuropathy
+4. Diabetic retinopathy - severe NPDR, on injections
+5. Essential hypertension
+6. Hyperlipidemia
+7. Obesity
+8. Major depressive disorder - recent decompensation, now on fluoxetine
+9. Gout
+10. Obstructive sleep apnea - untreated
+11. History of diabetic foot ulcer with right 2nd toe amputation
+
+================================================================================
+MEDICATIONS (current)
+
+- Lantus 50 units QHS
+- Novolog 15 units TID with meals
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Atorvastatin 40mg QHS
+- Gabapentin 300mg TID
+- Allopurinol 300mg daily
+- Fluoxetine 20mg daily
+
+================================================================================
+ALLERGIES
+
+Metformin - severe GI intolerance
+
+================================================================================
+SOCIAL HISTORY
+
+Former smoker (quit 2010, 20 pack-year history). No alcohol. Lives with daughter.
+Recently obtained Medicaid after period without insurance. Part-time security guard.
+
+================================================================================
+FAMILY HISTORY
+
+Mother - T2DM, CKD5 on hemodialysis
+Father - T2DM, died of MI at 60
+Strong family history of diabetes in multiple relatives
+
+================================================================================
+PHYSICAL EXAMINATION
+
+Vitals: BP 146/88, HR 78, Wt 238 lbs
+General: Obese male, appears fatigued but pleasant
+CV: RRR, no murmurs
+Lungs: Clear
+Abdomen: Obese, soft
+Ext: Trace edema, right foot with healed amputation site, sensation decreased
+
+================================================================================
+LABORATORY REVIEW
+
+02/08/2024:
+- Cr 1.8, eGFR 38
+- K 5.4
+- ACR 320 mg/g
+- Hgb 11.2
+- A1c 11.2%
+
+03/15/2024:
+- Cr 1.65, eGFR 42
+- K 4.8
+- Already improved with improved glycemic control
+
+================================================================================
+ASSESSMENT
+
+1. Chronic Kidney Disease Stage 3b (G3bA3) - diabetic nephropathy
+   - eGFR 42, ACR 320 mg/g
+   - High risk for progression to ESKD given severity of proteinuria, family history,
+     and poor glycemic control
+   - Some improvement in eGFR with glucose control - may have had component of
+     hyperfiltration injury during severely uncontrolled diabetes
+
+2. Hyperkalemia - resolved with improved glucose control, no longer in diabetic
+   ketoacidosis range
+
+3. Anemia of CKD - Hgb 11.2, likely will need monitoring and possible EPO
+   supplementation if continues to decline
+
+4. Type 2 Diabetes - improving control will be key to slowing CKD progression
+
+================================================================================
+RECOMMENDATIONS
+
+1. CONTINUE ACE inhibitor - lisinopril 40mg is appropriate for proteinuria reduction.
+   Tolerable now that K normalized.
+
+2. ADD low-dose thiazide - HCTZ 12.5mg daily to help with BP control and K management.
+   Monitor for gout flares.
+
+3. GLUCOSE CONTROL - cannot emphasize enough. Goal A1c <8% at minimum. Consider SGLT2
+   inhibitor if eGFR remains >30. Would provide significant renal protection.
+   Currently eGFR 42 so would be appropriate, but defer to PCP given complexity.
+
+4. AVOID nephrotoxins - NSAIDs, contrast if possible, adjust medication doses for
+   eGFR as indicated
+
+5. MONITORING:
+   - Renal function and electrolytes every 3 months
+   - ACR every 6 months
+   - CBC every 6 months for anemia surveillance
+   - If eGFR <30 or anemia worsens, consider EPO referral
+
+6. CKD EDUCATION - patient and family. Discussed possibility of dialysis in future
+   if disease progresses. Mother on HD so patient familiar. Reviewed modalities
+   including home dialysis options and transplant evaluation when appropriate.
+
+7. DIET - low sodium, moderate protein. Will have renal dietitian see patient.
+
+8. Follow-up in nephrology in 3-4 months with labs 1 week prior.
+
+Thank you for this referral. I will continue to co-manage with you.
+
+Electronically signed by James Okonkwo, MD, FASN
+2024-03-20 2:30 PM

@@ -1,0 +1,72 @@
+PROGRESS NOTE
+Patient: Aiden Kowalski    DOB: 02/19/1992    MRN: 01234890
+Date: 2024-03-18       Provider: Dr. Maria Fernandez, MD (Gastroenterology/IBD)
+
+Chief Complaint: UC follow-up, doing well
+
+Subjective:
+32 yo M with ulcerative colitis (pancolitis, diagnosed 2016) and PSC here for
+routine follow-up. On vedolizumab since 2022 flare.
+
+Reports doing well overall. "Best I've felt in years." Stools 2-3 formed/day,
+no blood, no urgency. Able to eat without fear. Working full-time as graphic
+designer, no missed days.
+
+No abdominal pain, no joint pain, no eye symptoms, no skin lesions.
+
+PSC: No new symptoms. No RUQ pain, no jaundice, no itching.
+
+Energy good. "Iron infusions make a huge difference."
+
+Tolerating vedolizumab well. Getting infusions every 8 weeks at infusion center.
+
+Current Medications:
+- Vedolizumab 300mg IV q8 weeks
+- Ursodiol 500mg BID
+- Iron polysaccharide 150mg daily
+- Vitamin D3 2000 IU daily
+- Calcium 600mg daily
+
+Objective:
+Vitals: BP 118/72, HR 68, Wt 175 lbs (stable)
+General: Well-appearing, appropriate affect
+Abdomen: Soft, non-tender, no hepatosplenomegaly
+Skin: No erythema nodosum, no pyoderma gangrenosum
+Eyes: White, no injection
+
+Labs from last week:
+- CBC: Hgb 13.8 (normalized!), MCV 86, WBC 6.2, Plt 245
+- CMP: Normal, ALT 32, AST 28, Alk phos 95
+- CRP: 0.3 (normal)
+- Fecal calprotectin: 45 (normal <50) - EXCELLENT
+- Ferritin: 65 (improved from 12)
+- Vitamin D: 42 (optimal)
+
+Assessment/Plan:
+1. Ulcerative Colitis - IN REMISSION! Clinical, biochemical (calprotectin 45,
+   CRP 0.3), and likely endoscopic remission (colonoscopy due for confirmation).
+   - Continue vedolizumab every 8 weeks - do not change what's working
+   - Schedule surveillance colonoscopy (due - last was 2022)
+   - Given PSC + pancolitis, needs annual surveillance colonoscopy for
+     dysplasia screening
+
+2. Primary Sclerosing Cholangitis - stable. LFTs mildly elevated but stable.
+   - Continue ursodiol
+   - Annual MRCP due - order for 6 months
+   - Annual surveillance colonoscopy (above) also for PSC-IBD cancer screening
+
+3. Iron deficiency anemia - RESOLVED with infusions. Ferritin 65, Hgb 13.8.
+   Continue oral iron for maintenance. May need periodic infusions if drops.
+
+4. Vitamin D - optimal at 42. Continue supplementation.
+
+5. Colorectal cancer risk - HIGH due to pancolitis + PSC. Emphasized importance
+   of annual surveillance. Patient understands.
+
+6. Bone health - on chronic therapy, history of steroids. DEXA ordered.
+
+Patient doing exceptionally well. Continue current regimen.
+
+RTC 3 months. Colonoscopy scheduling in process.
+
+Electronically signed by Maria Fernandez, MD  03/18/2024 2:30 PM

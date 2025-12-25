@@ -1,0 +1,53 @@
+PROGRESS NOTE
+Patient: Aisha Hassan    DOB: 07/28/1982    MRN: 78912345
+Date: 2024-03-08       Provider: Dr. Lisa Wong, MD (Endocrinology)
+
+Chief Complaint: Hyperthyroidism follow-up
+
+Subjective:
+42 yo F with Graves' disease here for routine follow-up. On methimazole 10mg daily.
+Reports feeling "pretty good" - better than a year ago. Weight stable, no more
+palpitations. Heart racing episodes resolved. No tremor. Energy good.
+
+Occasional loose stools but attributes to IBS which she's had for years. Denies
+heat intolerance, excessive sweating. Sleep okay. Mood stable - anxiety improved
+since thyroid controlled.
+
+Plans to get pregnant in next year - wants to discuss implications for treatment.
+
+Current Medications:
+- Methimazole 10mg daily
+- Metoprolol 25mg BID
+- Buspirone 10mg BID
+- Vitamin D3 2000 IU daily
+
+Objective:
+Vitals: BP 118/72, HR 76 (NSR per ECG), RR 14, Temp 98.4F, Wt 142 lbs (stable)
+General: Well-appearing, no lid lag, no proptosis
+Thyroid: Mildly enlarged, no nodules, no bruit
+CV: RRR, no murmurs
+Neuro: No tremor, reflexes normal
+Skin: Warm, dry, no pretibial myxedema
+
+Labs from 02/28:
+- TSH: 1.8 mIU/L (normal)
+- Free T4: 1.2 ng/dL (normal)
+- Free T3: 3.0 pg/mL (normal)
+- CBC: normal
+- LFTs: normal
+
+Assessment/Plan:
+1. Graves' disease - euthyroid on methimazole 10mg. Well controlled for past 8 months.
+   Continue current dose.
+2. Atrial fibrillation - no episodes since thyroid controlled. Will defer to cardiology
+   regarding continuing rate control. May be able to wean off metoprolol.
+3. Preconception counseling - discussed Graves' and pregnancy. Options include:
+   - Continue methimazole (risks of birth defects in 1st trimester)
+   - Radioactive iodine ablation (must delay pregnancy 6 months after)
+   - Thyroidectomy (definitive treatment, would need replacement therapy)
+   Patient wants to discuss with husband. Will schedule dedicated visit to plan.
+4. Anxiety - stable on buspirone. Continue.
+
+RTC 3 months. Consider preconception planning visit.
+
+Electronically signed by Lisa Wong, MD  03/08/2024 10:30 AM

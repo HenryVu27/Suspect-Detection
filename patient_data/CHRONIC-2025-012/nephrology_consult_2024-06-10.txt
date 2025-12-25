@@ -1,0 +1,131 @@
+NEPHROLOGY CONSULTATION - TRANSPLANT EVALUATION
+
+Patient: Nguyen Tran    DOB: 02/14/1965    MRN: 56789345
+Date of Service: 2024-06-10
+Consulting Provider: Dr. Sarah Kim, MD (Transplant Nephrology)
+
+================================================================================
+REASON FOR CONSULTATION
+
+Kidney transplant evaluation for patient with CKD Stage 4-5 secondary to diabetic
+nephropathy.
+
+================================================================================
+HISTORY OF PRESENT ILLNESS
+
+59 yo Vietnamese male with Type 2 Diabetes x 16 years complicated by CKD Stage 4
+(eGFR 18), proliferative diabetic retinopathy (s/p laser), and diabetic neuropathy.
+Referred for transplant evaluation.
+
+CKD has been progressive:
+- 2020: eGFR 45
+- 2022: eGFR 28
+- 2024: eGFR 18 (declining ~5 mL/min/year)
+
+AV fistula placed August 2023 and is maturing well.
+
+No prior transplants. Blood type: B positive.
+
+================================================================================
+MEDICAL HISTORY
+
+1. Type 2 Diabetes Mellitus with:
+   - Diabetic nephropathy (CKD Stage 4)
+   - Proliferative diabetic retinopathy (s/p laser)
+   - Diabetic neuropathy
+2. Chronic Kidney Disease Stage 4
+3. Hypertension
+4. Hyperlipidemia
+5. Anemia of CKD (on darbepoetin)
+6. Secondary hyperparathyroidism
+
+================================================================================
+SURGICAL HISTORY
+
+- AV fistula creation 2023
+- Bilateral retinal laser photocoagulation 2020
+
+================================================================================
+ALLERGIES
+
+- Iodinated contrast (contrast-induced nephropathy)
+- Lisinopril (angioedema)
+
+================================================================================
+SOCIAL HISTORY
+
+- Former smoker, quit 2008
+- No alcohol since kidney disease diagnosis
+- Married, two adult children
+- Son willing to be evaluated as potential living donor
+- On disability, former restaurant owner
+
+================================================================================
+PHYSICAL EXAMINATION
+
+Vitals: BP 138/82, HR 70, Wt 176 lbs
+General: Pleasant, well-appearing male
+CV: RRR, no murmurs
+Lungs: Clear
+Abdomen: Soft, non-tender, no surgical scars on abdomen
+Ext: 1+ edema bilateral, left forearm AV fistula with good thrill/bruit
+Neuro: Decreased sensation bilateral feet (neuropathy)
+
+================================================================================
+LABORATORY REVIEW
+
+eGFR: 18 mL/min (CKD Stage 4)
+A1c: 8.5%
+Hgb: 10.2 (on ESA)
+Albumin: 3.6 g/dL
+PTH: 298 pg/mL
+Hepatitis B: negative
+Hepatitis C: negative
+HIV: negative
+CMV: positive (prior exposure)
+EBV: positive (prior exposure)
+
+================================================================================
+CARDIAC EVALUATION
+
+Stress echo (2024-05-28): No inducible ischemia, EF 55%
+Risk: Intermediate given diabetes, acceptable for transplant
+
+================================================================================
+ASSESSMENT
+
+59 yo M with ESKD secondary to diabetic nephropathy, appropriate candidate for
+kidney transplant evaluation.
+
+Favorable factors:
+- Motivated patient with good family support
+- Potential living donor (son)
+- Adequate cardiac function
+- No active infections or malignancy
+- Adequate surgical abdomen
+
+Concerns:
+- Diabetes control needs optimization (A1c 8.5%)
+- Will need close monitoring post-transplant for diabetic complications
+- Contrast allergy limits certain studies
+
+================================================================================
+RECOMMENDATIONS
+
+1. APPROVE for kidney transplant waiting list
+2. Add to deceased donor list - Blood type B, estimated wait 4-5 years in this region
+3. Living donor evaluation for son - expedite given declining function
+4. Optimize diabetes control - target A1c <8% pre-transplant if possible
+5. Complete immunization update (Hepatitis B, Pneumovax, Shingrix)
+6. Dental clearance
+7. Continue current nephrology care with Dr. Chen
+8. Transplant coordinator will provide education on listing process
+
+Patient understands:
+- Living donor transplant preferred if available
+- May need dialysis bridge if function declines before transplant available
+- Risks and benefits of transplantation discussed
+- Immunosuppression requirements discussed
+
+Electronically signed by Sarah Kim, MD
+2024-06-10 2:30 PM

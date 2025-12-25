@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (MS Center)
+Export Date: 2023-12-20
+Patient: Christopher Martinez    DOB: 03/30/1979    MRN: 34567123
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Multiple Sclerosis, Relapsing-Remitting (G35)
+   - First Documented: 2012-06-18
+   - Status: Active
+   - Managing Provider: Dr. Amy Nguyen (Neurology/MS)
+   - Notes: On ocrelizumab (Ocrevus). EDSS 2.5. 2 relapses in past 5 years.
+
+2. Neurogenic Bladder (N31.9)
+   - First Documented: 2018-04-22
+   - Status: Active
+   - Notes: Urinary urgency/frequency. On oxybutynin.
+
+3. Fatigue, MS-related (G35)
+   - First Documented: 2013-08-15
+   - Status: Active
+   - Notes: On modafinil PRN.
+
+4. Depression (F32.1)
+   - First Documented: 2015-11-10
+   - Status: Active
+   - Notes: MS-associated. On bupropion.
+
+5. Vitamin D Deficiency (E55.9)
+   - First Documented: 2012-06-18
+   - Status: Active
+   - Notes: On high-dose supplementation.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. MS Relapse - Optic Neuritis, left (H46.10)
+   - Episode: 2020-08-15 to 2020-09-20
+   - Notes: IV steroids. Vision mostly recovered.
+
+2. MS Relapse - Sensory (G35)
+   - Episode: 2022-01-10 to 2022-02-15
+   - Notes: Left-sided numbness. IV steroids. Resolved.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Interferon beta-1a (Avonex)
+   - Reaction: Severe flu-like symptoms, depression worsening
+   - Severity: Moderate
+   - Notes: Tried early in disease, switched therapies
+
+================================================================================

@@ -1,0 +1,56 @@
+LABORATORY REPORT
+Patient: Jennifer Martinez    DOB: 05/18/1975    MRN: 45678912
+Collection Date: 2024-10-30 03:45 PM
+Ordering Provider: Dr. Amanda Lewis
+Performing Lab: Banner Health Laboratory
+
+================================================================================
+THYROID FUNCTION PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+TSH                          12.8        0.4-4.0 mIU/L       HIGH
+Free T4                      0.6         0.8-1.8 ng/dL       LOW
+Free T3                      1.8         2.3-4.2 pg/mL       LOW
+
+================================================================================
+COMPLETE BLOOD COUNT
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          6.8         4.5-11.0 K/uL
+RBC                          4.2         4.0-5.5 M/uL
+Hemoglobin                   11.8        12.0-16.0 g/dL      LOW
+Hematocrit                   35.5        36-46%              LOW
+MCV                          84          80-100 fL
+MCH                          28.1        27-33 pg
+MCHC                         33.2        32-36 g/dL
+RDW                          13.8        11.5-14.5%
+Platelet Count               268         150-400 K/uL
+
+================================================================================
+IRON STUDIES
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Iron                         72          60-170 mcg/dL
+TIBC                         320         250-370 mcg/dL
+Iron Saturation              22          20-50%
+Ferritin                     52          12-150 ng/mL
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+
+SIGNIFICANT FINDINGS:
+1. TSH markedly elevated at 12.8 mIU/L with low Free T4 (0.6) and low Free T3 (1.8)
+   - Indicates hypothyroid state/undertreatment
+   - Possible causes: medication non-adherence, absorption issues, dose inadequacy
+2. Mild anemia persists (Hgb 11.8) though iron studies improved
+
+RECOMMENDATIONS:
+- Clinical correlation for hypothyroid symptoms
+- Review levothyroxine adherence and absorption factors
+- Consider dose adjustment
+
+Report electronically signed by: Maria Chen, MD, Laboratory Director
+2024-10-31 08:15 AM

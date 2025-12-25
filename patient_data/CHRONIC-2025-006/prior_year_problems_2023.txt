@@ -1,0 +1,85 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Grady Health System)
+Export Date: 2023-12-10
+Patient: Darnell Washington    DOB: 04/12/1968    MRN: 89123456
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Type 2 Diabetes Mellitus with chronic kidney disease (E11.22)
+   - First Documented: 2012-08-15
+   - Status: Active
+   - Managing Provider: Dr. Maria Santos
+   - Notes: On basal-bolus insulin. A1c 8.5%.
+
+2. Chronic Kidney Disease, Stage 3 (N18.3)
+   - First Documented: 2020-03-10
+   - Status: Active
+   - Notes: eGFR 45. Secondary to diabetes and hypertension.
+
+3. Diabetic Peripheral Neuropathy (E11.42)
+   - First Documented: 2018-06-22
+   - Status: Active
+   - Notes: Bilateral feet. On gabapentin.
+
+4. Diabetic Retinopathy, moderate nonproliferative (E11.339)
+   - First Documented: 2021-11-15
+   - Status: Active
+   - Notes: Per ophthalmology. Annual exams.
+
+5. Essential Hypertension (I10)
+   - First Documented: 2008-02-28
+   - Status: Active
+   - Notes: On lisinopril and amlodipine
+
+6. Hyperlipidemia (E78.5)
+   - First Documented: 2010-05-15
+   - Status: Active
+   - Notes: On atorvastatin
+
+7. Obesity (E66.9)
+   - First Documented: 2005-01-10
+   - Status: Active
+   - BMI 35.2
+
+8. Major Depressive Disorder, recurrent (F33.1)
+   - First Documented: 2019-05-22
+   - Status: Active
+   - Notes: On sertraline. History of medication non-adherence during low periods.
+
+9. Gout (M10.9)
+   - First Documented: 2017-08-14
+   - Status: Active
+   - Notes: On allopurinol
+
+10. Obstructive Sleep Apnea (G47.33)
+    - First Documented: 2019-02-28
+    - Status: Active
+    - Notes: Moderate OSA. CPAP prescribed but inconsistent use.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Diabetic foot ulcer, right heel (L97.419)
+   - Onset: 2022-05-10
+   - Resolved: 2022-08-15
+   - Notes: Healed with wound care. Podiatry follow-up.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Right toe amputation (2nd toe)
+   - Date: 2021-04-22
+   - Hospital: Grady Memorial Hospital
+   - Reason: Osteomyelitis secondary to diabetic foot ulcer
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Metformin
+   - Reaction: Severe GI intolerance, lactic acidosis precaution given CKD
+   - Severity: Moderate
+   - Documented: 2015-06-15
+
+================================================================================

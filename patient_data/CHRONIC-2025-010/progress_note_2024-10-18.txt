@@ -1,0 +1,74 @@
+PROGRESS NOTE
+Patient: Harold Peterson    DOB: 12/05/1950    MRN: 34567891
+Date: 2024-10-18       Provider: Dr. Robert Kim, MD (Pulmonology)
+
+Chief Complaint: Overlap syndrome follow-up
+
+Subjective:
+73 yo M with COPD-OSA overlap syndrome here for follow-up. Started BiPAP in April.
+Initial struggles with mask fit and getting used to pressure. Now using BiPAP ST
+with 2L O2 every night.
+
+BiPAP download data reviewed:
+- Average use: 7.2 hours/night (excellent!)
+- Residual AHI: 4.2 (controlled)
+- Mean leak: acceptable
+- 90% pressure 16/10 cmH2O
+
+Reports feeling "much better than last year." Energy improved significantly. Wife
+says snoring resolved, no more apneas. Morning headaches gone. Leg swelling improved.
+Can walk further before getting winded - now doing 1/2 mile.
+
+Denies CP, syncope. Mood stable - PTSD symptoms unchanged, well controlled.
+
+Current Medications:
+- Symbicort 160/4.5 2 puffs BID
+- Albuterol HFA PRN (using 1x/day or less)
+- BiPAP ST with O2 2L nightly
+- Metformin 1000mg BID
+- Lisinopril 20mg daily
+- HCTZ 25mg daily
+- Atorvastatin 40mg QHS
+- Tamsulosin 0.4mg QHS
+- Sertraline 100mg daily
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 132/78, HR 74, RR 16, Wt 242 lbs (-6), BMI 34.3, SpO2 94% RA (improved!)
+General: Appears more alert, less fatigued than prior visits
+Lungs: Decreased BS, minimal wheezes
+CV: RRR
+Ext: Trace LE edema (much improved!)
+
+Labs from 10/10:
+- BNP: 125 pg/mL (down from 285!)
+- Hgb: 15.5 (normalizing)
+- Hct: 46.2 (normalizing)
+- A1c: 7.1%
+
+PFTs (performed 10/15):
+- FEV1: 1.58 L (62% predicted, improved from 58%!)
+- FEV1/FVC: 0.58
+- DLCO: 55% predicted
+
+Assessment/Plan:
+1. COPD-OSA overlap syndrome - EXCELLENT RESPONSE to BiPAP therapy! Compliance
+   superb. AHI well controlled. Symptoms dramatically improved.
+   - Continue BiPAP ST 14/10 with O2 2L
+   - Daytime SpO2 improved to 94% (was 91%)
+2. Pulmonary hypertension/RV strain - BNP normalized (125, was 285). Edema resolved.
+   Treatment of hypoxemia has improved hemodynamics. Consider repeat echo in 6 months.
+3. Secondary polycythemia - RESOLVING! Hgb 15.5, Hct 46.2 (was 16.8/50.2). No
+   phlebotomy needed.
+4. COPD - stable, actually slight improvement in FEV1 (62%, was 58%). Better sleep
+   and oxygenation likely contributing.
+5. Type 2 Diabetes - A1c 7.1%, improved. Continue metformin.
+6. HTN - improved on current regimen with OSA treatment.
+7. PTSD - stable. Continue sertraline.
+
+This case demonstrates the critical importance of recognizing and treating overlap
+syndrome. Patient had significantly improved outcomes with BiPAP + O2 therapy.
+
+RTC 4 months. Continue excellent BiPAP compliance.
+
+Electronically signed by Robert Kim, MD  10/18/2024 2:30 PM

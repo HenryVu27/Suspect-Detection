@@ -1,0 +1,71 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Cleveland Clinic)
+Export Date: 2023-12-18
+Patient: Marcus Johnson    DOB: 09/10/1972    MRN: 56789345
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Chronic Low Back Pain with Radiculopathy (M54.41)
+   - First Documented: 2016-08-22
+   - Status: Active
+   - Managing Provider: Dr. Robert Hayes (Pain Management)
+   - Notes: L4-L5, L5-S1 disc herniations. Failed back surgery syndrome.
+
+2. Lumbar Degenerative Disc Disease (M51.36)
+   - First Documented: 2014-03-15
+   - Status: Active
+   - Notes: Multilevel. S/p laminectomy 2017.
+
+3. Chronic Opioid Use (F11.20)
+   - First Documented: 2017-09-10
+   - Status: Active
+   - Notes: On chronic opioid therapy. Pain agreement in place.
+
+4. Major Depressive Disorder (F33.1)
+   - First Documented: 2018-04-20
+   - Status: Active
+   - Notes: Associated with chronic pain. On duloxetine.
+
+5. Insomnia (G47.00)
+   - First Documented: 2017-11-15
+   - Status: Active
+   - Notes: Pain-related.
+
+6. Obesity (E66.9)
+   - First Documented: 2019-06-12
+   - Status: Active
+   - Notes: Limited exercise due to pain. BMI 33.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Acute on chronic low back pain exacerbation
+   - Episode: 2023-03-15 to 2023-04-20
+   - Notes: Required ER visit, brief opioid dose increase. Resolved.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Lumbar Laminectomy L4-L5
+   - Date: 2017-05-22
+   - Hospital: Cleveland Clinic
+   - Notes: Partial relief initially, pain recurred
+
+2. Spinal Cord Stimulator Trial
+   - Date: 2020-08-15
+   - Hospital: Cleveland Clinic
+   - Notes: Trial unsuccessful - inadequate coverage
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Codeine
+   - Reaction: Severe nausea/vomiting
+   - Severity: Moderate
+
+2. NSAIDs
+   - Reaction: GI bleeding (hospitalized)
+   - Severity: Severe
+
+================================================================================

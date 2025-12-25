@@ -1,0 +1,108 @@
+ENDOSCOPY REPORT
+
+Patient: Frank Moretti    DOB: 06/14/1958    MRN: 90123789
+Procedure Date: 2024-05-02
+Procedure: Esophagogastroduodenoscopy (EGD) with biopsy
+Endoscopist: Dr. Sarah Goldman, MD
+Anesthesia: Moderate sedation (fentanyl, midazolam)
+
+================================================================================
+INDICATION:
+Barrett's esophagus surveillance, new-onset dysphagia, worsening GERD symptoms
+
+================================================================================
+PROCEDURE DETAILS:
+
+Informed consent obtained. Patient NPO > 8 hours. Moderate sedation achieved.
+Olympus GIF-H190 gastroscope advanced to second portion of duodenum.
+
+FINDINGS:
+
+ESOPHAGUS:
+- Barrett's segment identified extending from 34cm to 39-40cm from incisors
+  (approximately 5-6cm segment, Prague classification C4M6)
+- INCREASED LENGTH compared to 2018/2021 (was 4cm, now 5-6cm)
+- Salmon-colored, velvety mucosa consistent with intestinal metaplasia
+- ***NODULAR AREA*** identified at 36cm on right lateral wall, approximately
+  8mm, raised, slightly irregular surface (NEW FINDING)
+- No ulceration
+- No stricture (scope passed easily)
+- GE junction at 40cm with small sliding hiatal hernia
+
+STOMACH:
+- Mild antral gastritis with patchy erythema
+- No ulcers or masses
+- Pylorus normal
+
+DUODENUM:
+- Normal first and second portions
+- No masses or ulceration
+
+================================================================================
+BIOPSIES OBTAINED (Seattle Protocol plus targeted):
+
+1. Nodular area 36cm - 4 quadrant biopsies of nodule (targeted)
+2. 35cm - 4 quadrant biopsies
+3. 36cm - 4 quadrant biopsies
+4. 37cm - 4 quadrant biopsies
+5. 38cm - 4 quadrant biopsies
+6. Antral gastritis - 2 biopsies for H. pylori
+
+Total: 22 biopsies
+
+================================================================================
+IMPRESSION:
+
+1. BARRETT'S ESOPHAGUS - INCREASED SEGMENT LENGTH (4cm to 5-6cm) with NEW
+   NODULAR AREA requiring pathological evaluation. Concerning for dysplasia.
+
+2. Small sliding hiatal hernia (stable)
+
+3. Mild antral gastritis
+
+4. No esophageal stricture to explain dysphagia (may be Barrett's-related)
+
+================================================================================
+PATHOLOGY RESULTS (Reported 05/05/2024):
+
+SPECIMEN A (Nodular area 36cm):
+- Barrett's esophagus with LOW-GRADE DYSPLASIA
+- Intestinal metaplasia with goblet cells
+- Nuclear enlargement, hyperchromasia, and stratification consistent with LGD
+- No high-grade dysplasia or invasive carcinoma
+- Diagnosis confirmed on expert GI pathology review
+
+SPECIMENS B-E (Random quadrant biopsies):
+- Barrett's esophagus with intestinal metaplasia
+- Low-grade dysplasia also identified in specimen C (36cm)
+- No high-grade dysplasia
+
+SPECIMEN F (Antral biopsies):
+- Mild chronic gastritis
+- Negative for H. pylori
+- Negative for intestinal metaplasia
+
+================================================================================
+FINAL DIAGNOSIS:
+
+1. BARRETT'S ESOPHAGUS WITH LOW-GRADE DYSPLASIA (LGD) - confirmed by expert
+   pathology review
+   - Progression from previously non-dysplastic Barrett's
+   - Recommend endoscopic eradication therapy (RFA) given visible nodularity
+     and confirmed dysplasia
+
+2. Stable hiatal hernia
+
+3. Mild chronic gastritis, H. pylori negative
+
+================================================================================
+RECOMMENDATIONS:
+
+1. Continue high-dose PPI therapy
+2. Refer to Barrett's Esophagus Center for radiofrequency ablation (RFA)
+3. Repeat surveillance EGD in 6 months if RFA not performed
+4. Weight loss, lifestyle modifications for GERD
+
+================================================================================
+Electronically signed by Sarah Goldman, MD  05/02/2024 14:30
+Pathology addendum signed by David Lee, MD (GI Pathology)  05/05/2024 16:00

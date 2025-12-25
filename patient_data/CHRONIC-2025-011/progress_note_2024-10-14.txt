@@ -1,0 +1,67 @@
+PROGRESS NOTE
+Patient: Barbara Jackson    DOB: 06/18/1958    MRN: 45678234
+Date: 2024-10-14       Provider: Dr. William Carter, MD
+
+Chief Complaint: CKD follow-up
+
+Subjective:
+66 yo F with CKD Stage 3b returns for follow-up. Started empagliflozin and
+chlorthalidone in March. Reports feeling "much better" on new regimen. BP at home
+now running 125-135/75-82 - much improved.
+
+Had some urinary frequency when started empagliflozin - "peeing a lot more" - but
+adjusted. No yeast infections. Denies dizziness or dehydration symptoms.
+
+Watching salt intake more carefully. Avoiding pickles and chips.
+
+No swelling, no SOB, no nausea. Energy good.
+
+Asking about seeing a kidney specialist - "Am I going to need dialysis someday?"
+
+Current Medications:
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Chlorthalidone 12.5mg daily
+- Empagliflozin 10mg daily
+- Metformin 1000mg BID
+- Atorvastatin 20mg QHS
+- Vitamin D3 2000 IU daily
+
+Objective:
+Vitals: BP 128/78, HR 70, RR 14, Wt 168 lbs (-4), BMI 27.9
+General: Well-appearing
+CV: RRR
+Ext: No edema
+
+Labs from 10/07:
+- Cr: 1.35 (stable), eGFR 46
+- K: 4.5
+- A1c: 6.8% (improved!)
+- Urine ACR: 55 mg/g (improved from 85!)
+- Hgb: 12.0 (improved)
+- Iron studies: Ferritin 85, TIBC normal - adequate iron stores
+
+Assessment/Plan:
+1. CKD Stage 3b - eGFR 46, STABLE since starting SGLT2i and better BP control!
+   ACR improved from 85 to 55. This is excellent - SGLT2i providing renal protection.
+   Continue empagliflozin. Continue ACEi.
+2. Hypertension - NOW AT GOAL! BP 128/78 today, home readings consistent. Addition
+   of chlorthalidone was key. Continue current regimen.
+3. Type 2 Diabetes - A1c 6.8%, improved on empagliflozin. Excellent control.
+   Continue metformin (still appropriate at eGFR 46).
+4. Anemia - Hgb normalized at 12.0. Iron stores adequate. Continue monitoring.
+5. Nephrology referral - discussed. Given current stability, can continue primary
+   care management. Would refer if:
+   - eGFR drops below 30
+   - Rapid decline (>5 mL/min/year)
+   - Difficult-to-control electrolytes or anemia
+   - Patient preference
+   Patient prefers to continue with me for now. Reassured that we caught this
+   early and are managing well.
+
+Weight loss of 4 lbs - partly SGLT2i effect (glycosuria, diuresis), partly diet.
+Continue lifestyle efforts.
+
+RTC 3-4 months. Stable and doing well.
+
+Electronically signed by William Carter, MD  10/14/2024 3:30 PM

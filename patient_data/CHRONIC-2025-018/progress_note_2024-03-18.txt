@@ -1,0 +1,67 @@
+PROGRESS NOTE
+Patient: Patricia O'Brien    DOB: 07/18/1965    MRN: 34567123
+Date: 2024-03-18       Provider: Dr. Sandra Kim, MD (Rheumatology)
+
+Chief Complaint: RA follow-up, medication management
+
+Subjective:
+58 yo F with seropositive RA since 2015 here for routine follow-up. Reports good
+disease control overall. Morning stiffness about 15 minutes - improved from before.
+Occasional mild flares in hands with weather changes but manageable.
+
+No new joint swelling or warmth. Able to do daily activities without difficulty.
+Working as elementary school teacher, no missed days due to RA this year.
+
+Tolerating methotrexate well. No mouth sores, no hair loss. Adalimumab injections
+going well - husband helps with thigh injections.
+
+Reports increased fatigue lately - "more tired than usual." Attributes to busy
+schedule but wonders if anemia related.
+
+Also notes some numbness in fingertips bilaterally - occasional, mostly at night.
+"Probably sleeping on my hands wrong."
+
+GERD controlled. Blood sugars running 120-140s fasting per home monitoring.
+
+Current Medications:
+- Methotrexate 20mg weekly (with folic acid 1mg daily)
+- Adalimumab 40mg SQ every 2 weeks
+- Prednisone 5mg daily
+- Alendronate 70mg weekly
+- Lisinopril 10mg daily
+- Metformin 1000mg BID
+- Omeprazole 20mg daily
+- Calcium/Vitamin D 600/400 BID
+
+Objective:
+Vitals: BP 128/78, HR 72, Wt 158 lbs
+General: Well-appearing, no acute distress
+Hands: No synovitis, minimal bony enlargement DIPs/PIPs bilaterally, grip strength
+       symmetric and normal
+Wrists: No swelling or tenderness, full ROM
+Elbows: No nodules, full extension
+Knees: Left TKA well-healed, right - small effusion, no warmth
+Feet: No synovitis, mild hallux valgus bilaterally
+
+Labs from last week:
+- CBC: Hgb 10.8 (L), MCV 78 (L), WBC 5.2, Plt 245
+- CMP: Normal except glucose 142
+- CRP: 0.4 (normal)
+- ESR: 18 (normal)
+- LFTs: Normal
+- HbA1c: 7.2%
+
+Assessment/Plan:
+1. Rheumatoid Arthritis - well-controlled on current biologic regimen. CRP/ESR
+   normal. No active synovitis. Continue methotrexate and adalimumab. Attempt
+   prednisone taper to 4mg next month.
+2. Microcytic anemia - new finding. Hgb 10.8, MCV 78. Check iron studies, consider
+   GI evaluation given chronic NSAID use history and omeprazole (malabsorption).
+3. Fingertip numbness - likely carpal tunnel vs early RA neuropathy. Watch for now.
+4. Type 2 DM - HbA1c 7.2%, at goal. Continue metformin.
+5. Osteoporosis - continue alendronate. DEXA due this year.
+6. Right knee effusion - mild, asymptomatic. Monitor.
+
+RTC 3 months. Labs in 6 weeks to recheck CBC.
+
+Electronically signed by Sandra Kim, MD  03/18/2024 4:15 PM

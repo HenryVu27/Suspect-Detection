@@ -1,0 +1,133 @@
+POLYSOMNOGRAPHY REPORT
+
+Patient: Harold Peterson    DOB: 12/05/1950    MRN: 34567891
+Study Date: 2024-03-05 (overnight in-lab)
+Ordering Provider: Dr. Robert Kim
+Interpreting Provider: Dr. Sarah Chen, MD, Sleep Medicine
+
+================================================================================
+CLINICAL INDICATION
+
+Known moderate COPD with symptoms concerning for obstructive sleep apnea (snoring,
+witnessed apneas, daytime somnolence, morning headaches). Evaluation for overlap
+syndrome.
+
+================================================================================
+STUDY TYPE
+
+Full attended in-laboratory polysomnography (Type I)
+No supplemental oxygen during diagnostic portion
+Lights out: 22:15
+Lights on: 06:00
+
+================================================================================
+SLEEP ARCHITECTURE
+
+                                Result          Normal
+--------------------------------------------------------------------------------
+Total Recording Time (TRT)      465 min
+Total Sleep Time (TST)          348 min
+Sleep Efficiency                74.8%           >85%            LOW
+Sleep Latency                   12 min          <30 min
+REM Latency                     98 min          70-120 min
+
+Stage N1                        18%             2-5%            HIGH
+Stage N2                        55%             45-55%
+Stage N3                        8%              15-25%          LOW
+Stage REM                       19%             20-25%          LOW
+
+Arousal Index                   48/hr           <15/hr          HIGH
+
+================================================================================
+RESPIRATORY ANALYSIS
+
+                                Result          Normal
+--------------------------------------------------------------------------------
+Apnea-Hypopnea Index (AHI)     45.2/hr         <5/hr           SEVERE
+Obstructive Apnea Index         32.4/hr
+Central Apnea Index             3.8/hr
+Mixed Apnea Index               2.2/hr
+Hypopnea Index                  6.8/hr
+
+AHI supine                      58.2/hr
+AHI non-supine                  32.4/hr
+AHI NREM                        38.5/hr
+AHI REM                         72.1/hr                         SEVERE
+
+Mean Apnea Duration             24.6 seconds
+Longest Apnea Duration          58 seconds
+
+Respiratory Effort Related Arousals (RERA): 8.2/hr
+
+================================================================================
+OXIMETRY ANALYSIS
+
+                                Result          Normal
+--------------------------------------------------------------------------------
+Baseline SpO2 (awake)           92%             >95%            LOW
+Mean SpO2 (sleep)               84%             >90%            LOW
+Minimum SpO2                    68%             >88%            CRITICAL
+Time SpO2 <90%                  245 min (70%)
+Time SpO2 <88%                  192 min (55%)
+Time SpO2 <80%                  45 min (13%)
+Oxygen Desaturation Index       52.4/hr
+
+================================================================================
+CARDIAC ANALYSIS
+
+Mean Heart Rate (sleep)         76 bpm
+Heart Rate Range                58-112 bpm
+PVCs                            Occasional
+PACs                            Occasional
+No significant arrhythmias
+
+================================================================================
+LEG MOVEMENTS
+
+PLM Index                       12.4/hr         <15/hr
+PLMA Index                      4.2/hr
+(Periodic limb movements of borderline significance)
+
+================================================================================
+EEG/EMG FINDINGS
+
+Multiple respiratory-related arousals
+Sleep fragmentation with frequent stage transitions
+No epileptiform activity
+Elevated chin EMG during REM (possible REM behavior disorder features)
+
+================================================================================
+INTERPRETATION
+
+FINDINGS:
+1. SEVERE Obstructive Sleep Apnea with AHI of 45.2 events/hour
+2. CRITICAL nocturnal hypoxemia with minimum SpO2 of 68%, mean SpO2 84%,
+   and 70% of sleep time with SpO2 <90%
+3. Significant REM-predominant OSA (AHI 72 in REM)
+4. Baseline hypoxemia (SpO2 92% awake) consistent with underlying COPD
+5. Poor sleep architecture with reduced slow-wave and REM sleep
+6. Elevated arousal index (48/hr) due to respiratory events
+
+DIAGNOSIS: OVERLAP SYNDROME (Obstructive Sleep Apnea + COPD)
+
+SEVERITY: Severe - this is a HIGH-RISK condition
+
+================================================================================
+RECOMMENDATIONS
+
+1. BiPAP ST therapy is STRONGLY recommended (not CPAP due to COPD and severe
+   hypoxemia). Starting pressures suggested: IPAP 14 cmH2O, EPAP 8 cmH2O.
+2. SUPPLEMENTAL OXYGEN with PAP therapy - start at 2L via BiPAP
+3. Follow-up with download data and reassessment in 4-6 weeks
+4. Consider formal CPAP titration study if not responding adequately
+5. Evaluate for pulmonary hypertension and cor pulmonale given degree of
+   nocturnal hypoxemia
+6. Optimize COPD management
+7. Weight loss counseling - even modest weight loss may improve OSA
+8. Avoid sedatives, alcohol, and supine sleep position
+
+CRITICAL: Overlap syndrome carries significantly increased cardiovascular
+mortality compared to COPD or OSA alone. Treatment is urgent.
+
+Report electronically signed by: Sarah Chen, MD, DABSM
+2024-03-08 11:30 AM

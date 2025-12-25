@@ -1,0 +1,80 @@
+PROGRESS NOTE
+Patient: Nguyen Tran    DOB: 02/14/1965    MRN: 56789345
+Date: 2024-10-21       Provider: Dr. David Chen, MD (Nephrology)
+
+Chief Complaint: CKD management, approaching ESKD
+
+Subjective:
+59 yo M with CKD Stage 4/5 returns for follow-up. Labs show eGFR has declined to 15.
+Discussing timing of dialysis initiation.
+
+Reports new symptom: nausea in mornings, worse with certain foods. Appetite decreased
+over past month - "Just not hungry like before." Lost about 5 lbs. Some metallic
+taste occasionally. Energy level declining - tired by afternoon.
+
+These are early uremic symptoms - discussed with patient that dialysis is approaching.
+
+Completed transplant evaluation - LISTED for deceased donor kidney. Son is being
+evaluated as potential living donor (awaiting results).
+
+AV fistula continues to mature well. Vascular pleased with access.
+
+Mood okay but anxious about dialysis. "I knew it was coming but still scary."
+
+Current Medications:
+- Lantus 45 units QHS
+- Lispro 15 units TID with meals
+- Losartan 50mg daily
+- Amlodipine 10mg daily
+- Carvedilol 12.5mg BID
+- Rosuvastatin 40mg QHS
+- Gabapentin 200mg BID (reduced for eGFR)
+- Calcitriol 0.25mcg daily
+- Calcium carbonate 1000mg TID
+- Darbepoetin 60mcg SQ monthly (increased)
+- Sevelamer 1600mg TID
+- Sodium bicarbonate 1300mg TID
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 148/86, HR 72, Wt 173 lbs (-5), BMI 27.0
+General: Appears fatigued, mild pallor
+CV: RRR, S4 present
+Lungs: Clear
+Ext: 1+ edema
+Fistula: Excellent thrill and bruit, mature
+
+Labs from 10/14:
+- Cr: 4.2, eGFR 15 (now Stage 5)
+- BUN: 68
+- K: 5.3
+- CO2: 18
+- Calcium: 8.6
+- Phosphorus: 5.8
+- PTH: 342
+- Hgb: 9.8 (despite EPO increase)
+- A1c: 8.2%
+
+Assessment/Plan:
+1. CKD Stage 5 (ESKD) - eGFR 15, now Stage 5. Patient having uremic symptoms
+   (nausea, anorexia, fatigue, metallic taste). These are indications for
+   dialysis initiation. Discussed with patient:
+   - Recommend starting dialysis within next 4-6 weeks
+   - Access is ready - fistula mature
+   - Will coordinate with dialysis center for training and scheduling
+   - Continue to hope for living donor - son's evaluation pending
+2. Metabolic acidosis - worsening (CO2 18). Dialysis will correct.
+3. Secondary hyperparathyroidism - worsening (PTH 342, phos 5.8). Difficult to
+   control without dialysis. Add cinacalcet 30mg daily.
+4. Anemia of CKD - worsening despite EPO. Hgb 9.8. Iron studies show low ferritin.
+   Add IV iron at dialysis initiation.
+5. Type 2 Diabetes - A1c 8.2%, slightly improved. Insulin requirements may decrease
+   on dialysis.
+6. Hypertension - will likely improve with dialysis and volume removal.
+7. Anxiety about dialysis - offered CKD education class and peer support. Will have
+   social worker check in.
+
+Dialysis center referral placed. Target start date within 6 weeks.
+Transplant listing: continue on deceased donor list, living donor evaluation ongoing.
+
+Electronically signed by David Chen, MD  10/21/2024 3:45 PM

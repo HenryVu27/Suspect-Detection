@@ -1,0 +1,81 @@
+IMAGING REPORT - MRI BRAIN AND MRV
+
+Patient: Rachel Steinberg    DOB: 11/03/1985    MRN: 89012678
+Exam Date: 2024-09-23 16:30
+Ordering Provider: Dr. Michelle Park, MD
+Reading Radiologist: Dr. Kevin Walsh, MD
+
+================================================================================
+EXAMINATION: MRI Brain with and without contrast, MR Venography
+
+CLINICAL INDICATION: New-onset positional headaches, papilledema, pulsatile
+tinnitus. Rule out cerebral venous thrombosis, mass lesion.
+
+COMPARISON: MRI brain 2019-08-22 (normal)
+
+TECHNIQUE: Multiplanar, multisequence MRI of the brain performed without and
+with IV gadolinium contrast. MR venography performed.
+
+================================================================================
+FINDINGS:
+
+BRAIN PARENCHYMA:
+- No mass lesion
+- No acute infarct
+- No parenchymal hemorrhage
+- No abnormal enhancement
+- No white matter lesions
+- Ventricles normal in size and configuration
+
+SELLA:
+- Partially empty sella with flattening of pituitary gland
+- Height of pituitary: 3mm (reduced)
+- Consistent with raised intracranial pressure
+
+ORBITS:
+- Bilateral flattening of posterior globes (new compared to 2019)
+- Prominent perioptic subarachnoid spaces bilaterally
+- Mild tortuosity of optic nerves bilaterally
+- Findings consistent with raised intracranial pressure
+
+VENTRICLES/CSF SPACES:
+- No hydrocephalus
+- Mildly prominent CSF spaces
+
+DURAL VENOUS SINUSES (MRV):
+- Superior sagittal sinus: Patent, no thrombosis
+- Transverse sinuses: Patent bilaterally, no thrombosis
+- Sigmoid sinuses: Patent bilaterally
+- Internal jugular veins: Patent
+- No evidence of cerebral venous thrombosis
+
+INCIDENTAL FINDINGS:
+- Mild mucosal thickening in bilateral maxillary sinuses
+- Otherwise unremarkable
+
+================================================================================
+IMPRESSION:
+
+1. NO CEREBRAL VENOUS THROMBOSIS. MRV demonstrates patent dural venous sinuses.
+
+2. NO MASS LESION OR HYDROCEPHALUS.
+
+3. IMAGING FINDINGS CONSISTENT WITH IDIOPATHIC INTRACRANIAL HYPERTENSION (IIH):
+   - Partially empty sella
+   - Bilateral flattening of posterior globes (new)
+   - Prominent perioptic subarachnoid spaces
+   - Optic nerve tortuosity
+
+   These findings, in conjunction with papilledema and clinical symptoms,
+   are highly suggestive of raised intracranial pressure. Recommend lumbar
+   puncture with opening pressure measurement for confirmation.
+
+================================================================================
+CRITICAL FINDING COMMUNICATION:
+
+Not applicable - findings discussed with ordering provider via routine
+communication as no acute intervention required. Recommend LP for diagnosis
+confirmation.
+
+================================================================================
+Electronically signed by Kevin Walsh, MD  09/23/2024 18:45

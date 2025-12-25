@@ -1,0 +1,61 @@
+PROGRESS NOTE
+Patient: Raymond Brooks    DOB: 03/08/1971    MRN: 23456789
+Date: 2024-02-22       Provider: Dr. Angela Richardson, MD
+
+Chief Complaint: Fatigue, trouble concentrating
+
+Subjective:
+53 yo M here because he's "tired all the time." Reports feeling exhausted despite
+getting "enough sleep" - in bed 8 hours but never feels rested. Wife complains he
+snores "like a freight train" and sometimes seems to "choke or gasp" at night.
+
+Falling asleep at his desk at work (accountant). Almost fell asleep driving last
+week - had to pull over. Very concerning. Having trouble concentrating on spreadsheets.
+Memory seems worse.
+
+Headaches in morning more frequent - dull, goes away after being up for an hour.
+Takes ibuprofen most mornings.
+
+Blood pressure has been running high - home readings 145-155/90-95 despite medications.
+"Not sure why it's not controlled - I take my pills."
+
+Weight up about 15 lbs over past 2 years. Knows he needs to lose weight but too
+tired to exercise.
+
+Mood okay but frustrated with fatigue. Not depressed. No appetite changes.
+
+Current Medications:
+- Lisinopril 20mg daily
+- Amlodipine 5mg daily
+- Omeprazole 20mg daily
+- Ibuprofen PRN (using 3-4x/week for headaches)
+
+Objective:
+Vitals: BP 152/94, HR 78, RR 16, Temp 98.4F, Wt 268 lbs (+8 from last year), BMI 37.4
+       SpO2 95% RA
+General: Obese male, appears fatigued, yawning during visit
+HEENT: Crowded oropharynx, Mallampati class IV, neck circumference 18 inches
+CV: RRR, no murmurs
+Lungs: Clear
+Ext: Trace edema bilateral ankles
+
+Epworth Sleepiness Scale: 16/24 (excessive daytime sleepiness)
+
+Assessment/Plan:
+1. Excessive daytime sleepiness, loud snoring, witnessed apneas - HIGH SUSPICION
+   for obstructive sleep apnea. Order home sleep study (HST). Classic presentation.
+   Counseled on sleep hygiene while awaiting results. Avoid driving if drowsy.
+2. Resistant hypertension - not controlled on 2 agents. OSA is likely contributing
+   factor. Will hold adding third agent until sleep study results. If OSA confirmed
+   and treated, may see BP improvement.
+3. Obesity - contributes to OSA and HTN. Discussed weight loss but patient reports
+   too fatigued. May improve once OSA treated.
+4. Morning headaches - likely secondary to OSA (nocturnal hypoxia, hypercapnia).
+   Should improve with CPAP if indicated.
+5. NSAID use concerning given HTN - counsel to reduce ibuprofen use. May worsen
+   BP control. Switch to acetaminophen.
+6. GERD - continue omeprazole. GERD can be worse with OSA.
+
+Home sleep test ordered. RTC 4 weeks for results review.
+
+Electronically signed by Angela Richardson, MD  02/22/2024 4:00 PM

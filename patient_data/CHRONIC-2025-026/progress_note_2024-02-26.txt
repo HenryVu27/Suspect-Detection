@@ -1,0 +1,77 @@
+PROGRESS NOTE
+Patient: Vincent Rossi    DOB: 12/08/1962    MRN: 12345901
+Date: 2024-02-26       Provider: Dr. Thomas Chen, MD (Hepatology)
+
+Chief Complaint: NASH cirrhosis surveillance
+
+Subjective:
+61 yo M with NASH cirrhosis (compensated, MELD 8) here for routine follow-up.
+Reports feeling "okay overall." No new symptoms.
+
+No abdominal distension or swelling. No leg edema. No confusion or memory issues.
+No blood in stool or vomit. No fever.
+
+Diet: "Trying to eat better." Lost 8 lbs over past 6 months with effort.
+Still eating some processed foods. Admits to occasional sweets.
+
+Exercise: Walking 20-30 minutes 3x/week. "Doctor said it helps the liver."
+
+Sleep apnea: Using CPAP every night. "Wife makes sure I do."
+
+Diabetes: Checking fingersticks occasionally - running 130-160 fasting.
+
+Current Medications:
+- Metformin 1000mg BID
+- Glipizide 10mg BID
+- Lisinopril 20mg daily
+- Atorvastatin 40mg daily
+- Omeprazole 20mg daily (for portal gastropathy prophylaxis)
+
+Objective:
+Vitals: BP 132/82, HR 70, Wt 268 lbs (down from 276), BMI 35
+General: Obese male, no acute distress
+Skin: No jaundice, no spider angiomata, no palmar erythema
+Abdomen: Obese, soft, no ascites (negative fluid wave), liver not palpable,
+         spleen tip palpable
+Extremities: No peripheral edema
+
+Labs (drawn today):
+- CBC: WBC 5.8, Hgb 13.2, Plt 118 (low - thrombocytopenia)
+- CMP: Cr 1.0, Na 140, K 4.2, glucose 152, albumin 3.6
+- LFTs: AST 48, ALT 52, Alk phos 95, T bili 1.1, D bili 0.3
+- INR: 1.2
+- HbA1c: 7.2% (improved from 7.5%)
+
+Calculated MELD-Na: 8 (stable)
+
+FibroScan (today): 18.2 kPa (consistent with cirrhosis, stable from 17.8)
+
+Ultrasound (last month): Cirrhotic liver morphology, no focal lesions, patent
+portal vein, small spleen, no ascites.
+
+Assessment/Plan:
+1. NASH Cirrhosis - compensated, stable. MELD 8. No evidence of decompensation.
+   - Continue HCC surveillance: Ultrasound every 6 months (next August)
+   - Consider AFP at each visit
+   - Continue lifestyle modifications - weight loss helping
+   - FibroScan stable
+
+2. Thrombocytopenia - platelets 118, stable. Consistent with hypersplenism from
+   portal hypertension. No intervention needed.
+
+3. Type 2 DM - improved HbA1c 7.2% (was 7.5%). Continue current regimen.
+   Weight loss helping. Note: Metformin safe in compensated cirrhosis.
+
+4. Obesity - BMI 35, down from 36.5. Weight loss 8 lbs - excellent. Continue
+   efforts. Discussed that 10% weight loss can improve/stabilize NASH.
+
+5. HTN - controlled on lisinopril.
+
+6. OSA - compliant with CPAP.
+
+7. Esophageal varices - EGD done 2022 showed small varices. Due for repeat EGD
+   for surveillance (schedule).
+
+Continue current regimen. RTC 6 months. Sooner if new symptoms.
+
+Electronically signed by Thomas Chen, MD  02/26/2024 3:00 PM

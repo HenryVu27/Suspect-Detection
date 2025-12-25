@@ -1,0 +1,42 @@
+PROGRESS NOTE
+Patient: Michael Anderson    DOB: 08/15/1972    MRN: 89123678
+Date: 2024-05-20       Provider: Dr. Robert Lee, MD
+
+Chief Complaint: Anxiety medication refill, annual check
+
+Subjective:
+52 yo M with GAD and panic disorder here for routine follow-up. Reports anxiety
+"under control" on current regimen. No panic attacks in past 6 months. Able to
+manage work stress (software engineer) without significant impairment.
+
+Uses lorazepam rarely - maybe once every 2-3 months for "really bad days."
+Concerned about becoming dependent - uses CBT techniques instead when possible.
+
+BP running slightly high at home - 135-140/85-90.
+
+Sleep okay. Reflux controlled.
+
+Current Medications:
+- Venlafaxine XR 150mg daily
+- Lorazepam 0.5mg PRN (rarely uses)
+- Lisinopril 10mg daily
+- Pantoprazole 40mg daily
+
+Objective:
+Vitals: BP 142/88, HR 74, RR 14, Wt 185 lbs (stable), BMI 26.8
+General: Well-appearing, calm, appropriate affect
+Psych: Mood "good", no anxiety behaviors noted
+
+GAD-7: 6 (mild anxiety - stable)
+PHQ-9: 4 (minimal)
+
+Assessment/Plan:
+1. GAD - well controlled on venlafaxine 150mg. Continue.
+2. Panic disorder - in remission. Minimal PRN benzo use is appropriate. Continue.
+3. Hypertension - slightly above goal. Increase lisinopril to 20mg daily.
+4. GERD - controlled. Continue pantoprazole.
+5. Health maintenance - due for colonoscopy at 52. Ordered.
+
+RTC 6 months. Refills sent.
+
+Electronically signed by Robert Lee, MD  05/20/2024 2:00 PM

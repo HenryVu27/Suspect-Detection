@@ -1,0 +1,68 @@
+PROGRESS NOTE
+Patient: Frank Moretti    DOB: 06/14/1958    MRN: 90123789
+Date: 2024-04-22       Provider: Dr. Sarah Goldman, MD (Gastroenterology)
+
+Chief Complaint: Barrett's esophagus surveillance, GERD symptoms
+
+Subjective:
+65 yo M with Barrett's esophagus (diagnosed 2018, 4cm segment, no dysplasia) and
+chronic GERD here for surveillance EGD scheduling and symptom check.
+
+Reports increased heartburn over past 3 months. "The omeprazole doesn't work as
+well as it used to." Heartburn 4-5 nights/week despite omeprazole 40mg daily.
+Regurgitation 2-3x/week, especially after dinner or when bending over.
+
+Diet: Admits to eating late at night. "I know I shouldn't but I get home late
+from work." Still drinking 2-3 cups of coffee daily, occasional beer with dinner.
+Spicy foods are a trigger.
+
+Weight: Gained 10 lbs over past year. "Stress eating."
+
+Dysphagia: Reports occasional food "sticking" in chest, especially with bread
+and meat. "I have to drink water to wash it down." This is NEW symptom.
+
+Odynophagia: Denies painful swallowing.
+
+No hematemesis, melena, or unintentional weight loss.
+
+Last EGD 2021 showed stable 4cm Barrett's without dysplasia.
+
+Current Medications:
+- Omeprazole 40mg daily (breakfast)
+- Metformin 1000mg BID
+- Lisinopril 20mg daily
+- Aspirin 81mg daily
+
+Objective:
+Vitals: BP 138/86, HR 72, Wt 248 lbs (up 10 lbs), BMI 34.5
+General: Obese male, appears well
+Abdomen: Soft, obese, non-tender, no masses
+
+Assessment/Plan:
+1. Barrett's Esophagus - due for surveillance EGD per guidelines (last 2021).
+   NEW CONCERNING SYMPTOM: Dysphagia to solids raises concern for stricture
+   or progression to dysplasia/malignancy. EXPEDITE EGD.
+   - Schedule EGD within 2 weeks (sooner than routine surveillance)
+   - Will biopsy per Seattle protocol
+   - If stricture found, may need dilation
+
+2. GERD - poorly controlled on omeprazole 40mg daily. Contributing factors:
+   obesity, late eating, coffee, hiatal hernia.
+   - Increase to omeprazole 40mg BID
+   - Lifestyle counseling: No eating 3 hours before bed, elevate head of bed,
+     limit coffee, weight loss
+   - If symptoms persist, may consider fundoplication referral
+
+3. Obesity - BMI 34.5, contributing to GERD. Discussed weight loss urgently.
+   Referred to weight management program.
+
+4. Type 2 DM - check HbA1c today. Last was 7.4%.
+
+5. HTN - BP 138/86, borderline. Continue lisinopril. Weight loss may help.
+
+Patient understands importance of expedited EGD given new dysphagia. Will call
+with scheduling.
+
+RTC after EGD for results discussion.
+
+Electronically signed by Sarah Goldman, MD  04/22/2024 3:15 PM

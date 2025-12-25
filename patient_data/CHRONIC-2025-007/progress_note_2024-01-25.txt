@@ -1,0 +1,67 @@
+PROGRESS NOTE
+Patient: Frank Morrison    DOB: 09/25/1952    MRN: 91234567
+Date: 2024-01-25       Provider: Dr. Susan Taylor, MD (Pulmonology)
+
+Chief Complaint: COPD follow-up, increased dyspnea
+
+Subjective:
+71 yo M with severe COPD here for routine follow-up. Reports increased SOB over
+past month - now getting winded walking to mailbox (~50 yards). Using rescue
+inhaler 4-5x/day (was 2x). Has had to sleep in recliner last 2 nights due to
+orthopnea.
+
+Still smoking - admits "down to 10 cigarettes but can't seem to quit completely."
+Used nicotine patch for a week but "it made my skin itch." Not interested in
+Chantix - "tried it before, gave me bad dreams."
+
+Productive cough - yellow-green sputum x3 days. No fever, no chills. No hemoptysis.
+Some wheezing at night.
+
+No chest pain, no leg swelling. Takes medications as prescribed. Uses home O2
+at 2L with activity.
+
+Current Medications:
+- Trelegy Ellipta 100/62.5/25 one puff daily
+- Albuterol HFA PRN (using frequently)
+- Lisinopril 20mg daily
+- Simvastatin 40mg QHS
+- Aspirin 81mg daily
+- Clopidogrel 75mg daily
+- Omeprazole 20mg daily
+- Alendronate 70mg weekly
+- Buspirone 10mg BID
+- Home oxygen 2L with activity
+
+Objective:
+Vitals: BP 138/82, HR 92, RR 22, Temp 98.8F, Wt 168 lbs (stable), SpO2 88% RA,
+       93% on 2L NC
+General: Thin male, appears dyspneic at rest, speaking in short sentences
+Lungs: Decreased breath sounds throughout, scattered expiratory wheezes, prolonged
+       expiratory phase, no crackles
+CV: Tachycardic, regular
+Ext: No edema, no cyanosis
+
+Assessment/Plan:
+1. COPD severe (GOLD III) - acute exacerbation, likely infectious component given
+   productive cough with purulent sputum. Not severe enough for hospitalization
+   currently but concerning.
+   - Start prednisone 40mg daily x5 days
+   - Start azithromycin 250mg: 500mg day 1, then 250mg x4 days
+   - Increase albuterol frequency - okay to use every 4 hours while symptomatic
+   - Continue Trelegy
+   - Close follow-up in 1 week
+   - ACTION plan reviewed: ED if worsening SOB, fever, confusion
+   - Home pulse ox provided - instructions to call if <88% at rest on 2L
+2. Tobacco use disorder - still smoking despite severe COPD. Cannot emphasize enough
+   importance of cessation. Offered varenicline again - declined. Will try Wellbutrin
+   as it may help anxiety as well. Start bupropion SR 150mg daily, increase to BID
+   after 1 week.
+3. CAD - stable. Continue DAPT.
+4. Hyperlipidemia - continue statin.
+5. Osteoporosis - steroids again. Continue alendronate. May need to consider
+   alternative if recurrent exacerbations requiring steroids.
+6. Anxiety - stable. Bupropion may help; continue buspirone.
+
+RTC 1 week. Sooner if worsening.
+
+Electronically signed by Susan Taylor, MD  01/25/2024 3:30 PM

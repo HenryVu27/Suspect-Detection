@@ -1,0 +1,56 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Massachusetts General Hospital)
+Export Date: 2023-12-15
+Patient: Jessica Romano    DOB: 04/22/1985    MRN: 78912567
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Major Depressive Disorder, recurrent, moderate (F33.1)
+   - First Documented: 2018-03-15
+   - Status: Active
+   - Managing Provider: Dr. Sarah Mitchell
+   - Notes: On sertraline 100mg. Multiple episodes since 2018.
+
+2. Generalized Anxiety Disorder (F41.1)
+   - First Documented: 2018-03-15
+   - Status: Active
+   - Notes: Comorbid with depression. On buspirone.
+
+3. Insomnia (G47.00)
+   - First Documented: 2019-06-10
+   - Status: Active
+   - Notes: Related to anxiety/depression. Uses trazodone PRN.
+
+4. Irritable Bowel Syndrome, diarrhea-predominant (K58.0)
+   - First Documented: 2016-09-22
+   - Status: Active
+   - Notes: Stress-related exacerbations
+
+5. Tension-type headaches (G44.209)
+   - First Documented: 2017-11-08
+   - Status: Active
+   - Notes: Frequent, stress-related
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Adjustment disorder with depressed mood (F43.21)
+   - Onset: 2015-08-15
+   - Resolved: 2016-02-28
+   - Notes: Following divorce. Resolved with therapy.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Fluoxetine
+   - Reaction: Severe anxiety, agitation
+   - Severity: Moderate
+   - Notes: Paradoxical reaction - switched to sertraline
+
+================================================================================

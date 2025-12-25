@@ -1,0 +1,50 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Duke Health)
+Export Date: 2023-12-15
+Patient: Raymond Brooks    DOB: 03/08/1971    MRN: 23456789
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Essential Hypertension (I10)
+   - First Documented: 2018-06-22
+   - Status: Active
+   - Managing Provider: Dr. Angela Richardson
+   - Notes: On lisinopril 20mg, amlodipine 5mg. Not at goal.
+
+2. Obesity (E66.9)
+   - First Documented: 2015-03-10
+   - Status: Active
+   - Notes: BMI 36.8
+
+3. Gastroesophageal Reflux Disease (K21.0)
+   - First Documented: 2019-11-15
+   - Status: Active
+   - Notes: On omeprazole 20mg daily
+
+4. Tension headaches (G44.209)
+   - First Documented: 2020-08-22
+   - Status: Active
+   - Notes: Occasional, uses OTC analgesics
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Acute bronchitis (J20.9)
+   - Onset: 2023-01-10
+   - Resolved: 2023-01-25
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Appendectomy
+   - Date: 1995-07-18
+   - Hospital: Duke University Hospital
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+NKDA (No Known Drug Allergies)
+
+================================================================================

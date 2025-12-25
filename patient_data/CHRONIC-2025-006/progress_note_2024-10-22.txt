@@ -1,0 +1,67 @@
+PROGRESS NOTE
+Patient: Darnell Washington    DOB: 04/12/1968    MRN: 89123456
+Date: 2024-10-22       Provider: Dr. Maria Santos, MD
+
+Chief Complaint: Chronic disease management
+
+Subjective:
+56 yo M returns for routine follow-up. "Doing okay, doc." Has been on Medicaid
+since March, able to afford medications. Taking insulin as prescribed. Found
+part-time work as security guard - "sitting job, not too hard on my feet."
+
+Glucose readings at home: fasting 130-160, post-meal 160-200. Says he's been
+"pretty good" with diet but admits fast food sometimes when working.
+
+Mood improved - fluoxetine helpful. Sleeping better. Daughter moved in to help
+which has improved his outlook.
+
+Completed several rounds of eye injections - vision "about the same, not worse."
+Saw nephrology - "they want to keep watching my kidneys."
+
+Still not using CPAP. "I can't sleep with that thing on."
+
+Feet have been okay - no new wounds. Sees podiatrist every 2 months.
+
+Current Medications:
+- Lantus 50 units QHS
+- Novolog 15 units TID with meals
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- HCTZ 12.5mg daily (started by nephrology)
+- Atorvastatin 40mg QHS
+- Gabapentin 300mg TID
+- Allopurinol 300mg daily
+- Fluoxetine 20mg daily
+
+Objective:
+Vitals: BP 138/82, HR 76, Wt 235 lbs (-7 from Feb), BMI 35.2
+General: Better spirits, engaged, smiles occasionally
+CV: RRR
+Ext: No edema, feet with chronic changes, no ulcers, sensation impaired
+
+Labs from 10/15:
+- HbA1c: 8.1% (down from 11.2%!)
+- Fasting glucose: 152
+- Cr: 1.6 (improved!), eGFR 44
+- K: 4.4 (normalized with HCTZ)
+- Urine ACR: 280 mg/g
+
+Assessment/Plan:
+1. T2DM - MUCH IMPROVED! A1c 8.1%, down from 11.2%. Still not at goal but significant
+   progress. Continue current insulin. Goal A1c <8% given comorbidities and history.
+   Consider adding SGLT2 inhibitor for renal protection though need to discuss with
+   nephrology given CKD stage.
+2. CKD Stage 3b - eGFR 44, slight improvement. K normalized. Proteinuria persists.
+   Continue ACE/ARB at current dose. Nephrology to manage.
+3. Severe NPDR - ongoing injections with ophthalmology. Vision stable.
+4. Diabetic neuropathy - stable symptoms. Continue gabapentin.
+5. Depression - remission on fluoxetine! Continue.
+6. HTN - improved with HCTZ addition. At goal.
+7. OSA - STILL UNTREATED. Encouraged CPAP use. Patient very resistant. Discussed
+   risks including worsening HTN, cardiac events, daytime somnolence. Working as
+   security guard, fatigue could be safety issue. Will try to arrange CPAP refit.
+8. Weight - trending down with improved DM control. Encourage continued efforts.
+
+RTC 3 months. Labs prior. Podiatry and ophthalmology continuing.
+
+Electronically signed by Maria Santos, MD  10/22/2024 2:45 PM

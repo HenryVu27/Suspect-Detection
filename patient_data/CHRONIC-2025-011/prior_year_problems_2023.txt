@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Emory Healthcare)
+Export Date: 2023-12-15
+Patient: Barbara Jackson    DOB: 06/18/1958    MRN: 45678234
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Chronic Kidney Disease, Stage 3a (N18.31)
+   - First Documented: 2020-05-15
+   - Status: Active
+   - Managing Provider: Dr. William Carter
+   - Notes: eGFR 55. Etiology: hypertensive nephrosclerosis
+
+2. Essential Hypertension (I10)
+   - First Documented: 2005-03-22
+   - Status: Active
+   - Notes: On lisinopril 40mg, amlodipine 10mg. Longstanding, difficult control.
+
+3. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2015-08-10
+   - Status: Active
+   - Notes: On metformin 1000mg BID. A1c 7.0%.
+
+4. Hyperlipidemia (E78.5)
+   - First Documented: 2010-04-28
+   - Status: Active
+   - Notes: On atorvastatin 20mg
+
+5. Overweight (E66.3)
+   - First Documented: 2012-01-15
+   - Status: Active
+   - Notes: BMI 28.5
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. UTI (N39.0)
+   - Onset: 2023-07-10
+   - Resolved: 2023-07-20
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Hysterectomy (for fibroids)
+   - Date: 2008-04-22
+   - Hospital: Emory University Hospital
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Ibuprofen
+   - Reaction: GI bleeding
+   - Severity: Moderate
+   - Documented: 2018-05-15
+   - Notes: Avoid all NSAIDs
+
+================================================================================

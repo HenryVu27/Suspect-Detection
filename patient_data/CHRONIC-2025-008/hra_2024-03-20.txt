@@ -1,0 +1,129 @@
+HEALTH RISK ASSESSMENT
+Patient: Emily Nakamura
+Date Completed: 2024-03-20
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Very Good
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath (only with exercise if don't use inhaler first)
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+[X] Asthma - since childhood, well controlled
+
+================================================================================
+FAMILY HISTORY
+
+Asthma: Yes
+    Who? Mother, brother both have asthma
+
+Allergies: Yes
+    Who? Both parents, brother (we're all atopic)
+
+Heart Disease: Yes
+    Who? Grandfather
+    Age at diagnosis? 70s
+
+Diabetes: Yes
+    Who? Grandmother
+    Age at diagnosis? 65
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Occasionally
+    How often? 1-2 times per week
+    How many drinks per occasion? 1-2 glasses of wine or cocktails
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 4-5 times per week
+What type of exercise? Running 3x/week, yoga 2x/week
+What barriers prevent you from exercising more?
+    [ ] None really - I enjoy it
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 5+
+How often do you eat fast food? Rarely (maybe once a month)
+Do you follow any special diet?
+    [ ] None, just try to eat balanced
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Not at all
+
+Do you feel you have adequate emotional support? Yes
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes (renting apartment)
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, full-time (software developer)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"No major concerns! My asthma has been well controlled for years. I just make
+sure to use my inhaler before running and avoid cats. I love to run and do yoga
+and want to keep being active.
+
+I'm thinking about training for a half marathon next year - any concerns with
+my asthma? Also wondering if I should get allergy shots since my seasonal
+allergies seem to be getting worse."
+
+================================================================================

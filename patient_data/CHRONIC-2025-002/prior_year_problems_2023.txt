@@ -1,0 +1,45 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Banner Health)
+Export Date: 2023-12-20
+Patient: Jennifer Martinez    DOB: 05/18/1975    MRN: 45678912
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Hypothyroidism, unspecified (E03.9)
+   - First Documented: 2019-08-14
+   - Status: Active
+   - Managing Provider: Dr. Amanda Lewis
+   - Notes: Hashimoto's thyroiditis confirmed by TPO antibodies. On levothyroxine 75mcg.
+
+2. Iron deficiency anemia (D50.9)
+   - First Documented: 2022-03-10
+   - Status: Active
+   - Notes: Heavy menstrual bleeding. On iron supplementation.
+
+3. Vitamin D deficiency (E55.9)
+   - First Documented: 2021-06-22
+   - Status: Active
+   - Notes: On vitamin D3 2000 IU daily
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Acute pharyngitis (J02.9)
+   - Onset: 2023-02-15
+   - Resolved: 2023-02-22
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Latex
+   - Reaction: Contact dermatitis
+   - Severity: Mild
+   - Documented: 2015-04-20
+
+================================================================================

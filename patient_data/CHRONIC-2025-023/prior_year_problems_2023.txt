@@ -1,0 +1,58 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Headache Center)
+Export Date: 2023-12-18
+Patient: Rachel Steinberg    DOB: 11/03/1985    MRN: 89012678
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Chronic Migraine without aura (G43.709)
+   - First Documented: 2015-04-22
+   - Status: Active
+   - Managing Provider: Dr. Michelle Park (Neurology/Headache)
+   - Notes: 15+ headache days/month. On topiramate, botox injections q3mo.
+
+2. Medication Overuse Headache (G44.41)
+   - First Documented: 2019-08-15
+   - Status: Active
+   - Notes: History of triptan overuse. Now controlled.
+
+3. Generalized Anxiety Disorder (F41.1)
+   - First Documented: 2016-02-10
+   - Status: Active
+   - Notes: On buspirone.
+
+4. Irritable Bowel Syndrome (K58.9)
+   - First Documented: 2014-06-20
+   - Status: Active
+   - Notes: Triggers include stress, certain foods.
+
+5. Insomnia (G47.00)
+   - First Documented: 2018-11-05
+   - Status: Active
+   - Notes: Sleep often disrupted by headaches.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Status migrainosus (G43.901)
+   - Episode: 2022-05-18 to 2022-05-22
+   - Notes: Required ER visit and IV treatment
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Valproic acid (Depakote)
+   - Reaction: Severe weight gain, hair loss
+   - Severity: Moderate
+
+2. Propranolol
+   - Reaction: Severe fatigue, depression
+   - Severity: Moderate
+
+================================================================================

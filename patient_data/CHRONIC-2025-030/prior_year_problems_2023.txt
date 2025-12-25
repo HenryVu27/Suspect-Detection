@@ -1,0 +1,78 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Geriatric Medicine Clinic)
+Export Date: 2023-12-20
+Patient: Eleanor Patterson    DOB: 08/05/1940    MRN: 56789345
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Atrial Fibrillation, persistent (I48.1)
+   - First Documented: 2018-04-15
+   - Status: Active
+   - Managing Provider: Dr. William Harris (Internal Medicine/Geriatrics)
+   - Notes: Rate-controlled. On anticoagulation.
+
+2. Hypertension (I10)
+   - First Documented: 1995-06-20
+   - Status: Active
+   - Notes: On multiple agents.
+
+3. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2005-03-18
+   - Status: Active
+   - Notes: On oral agents.
+
+4. Chronic Kidney Disease Stage 3b (N18.32)
+   - First Documented: 2020-08-12
+   - Status: Active
+   - Notes: eGFR 42.
+
+5. Osteoarthritis, generalized (M15.9)
+   - First Documented: 2008-11-22
+   - Status: Active
+   - Notes: Knees, hips, hands. Limited mobility.
+
+6. Osteoporosis (M81.0)
+   - First Documented: 2015-04-10
+   - Status: Active
+   - Notes: Spine and hip. On bisphosphonate.
+
+7. Hearing Loss, bilateral (H90.3)
+   - First Documented: 2017-06-15
+   - Status: Active
+   - Notes: Uses hearing aids.
+
+8. Hypothyroidism (E03.9)
+   - First Documented: 2010-02-28
+   - Status: Active
+   - Notes: On levothyroxine.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Hip Fracture, right (S72.001A)
+   - Episode: 2022-09-15
+   - Notes: Fall. ORIF performed. Rehab x 6 weeks.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Right hip ORIF
+   - Date: 2022-09-16
+   - Hospital: Community Hospital
+
+2. Total Knee Replacement, bilateral
+   - Date: 2016-03-10 (left), 2017-04-18 (right)
+   - Hospital: University Hospital
+
+3. Cataract Surgery, bilateral
+   - Date: 2018-10-15 (right), 2018-11-20 (left)
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Metformin
+   - Reaction: Severe GI intolerance (diarrhea)
+   - Severity: Moderate
+
+================================================================================

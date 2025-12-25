@@ -1,0 +1,141 @@
+HEALTH RISK ASSESSMENT
+Patient: Raymond Brooks
+Date Completed: 2024-02-01
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Worse (more tired)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - severe, daily
+[X] Difficulty sleeping - don't feel rested no matter how much I sleep
+[X] Frequent urination - wake up once or twice at night
+[ ] Numbness/tingling in hands or feet
+[X] Headaches - every morning, dull
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[X] Difficulty concentrating - big problem at work
+[ ] Unintentional weight loss
+[X] Loud snoring - wife says I'm extremely loud
+[X] Daytime sleepiness - falling asleep at work, almost crashed car
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[X] High blood pressure - yes, hard to control
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea - NO, but wife thinks I might have it
+
+================================================================================
+FAMILY HISTORY
+
+High Blood Pressure: Yes
+    Who? Father, mother
+    Age at diagnosis? Both in their 40s
+
+Heart Disease: Yes
+    Who? Father (had bypass at 62)
+
+Diabetes: Yes
+    Who? Father
+    Age at diagnosis? 55
+
+Sleep Apnea: Yes
+    Who? Brother (uses a CPAP machine)
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2015
+    How much did you smoke? Half pack per day for about 10 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Yes
+    How often? 2-3 times per week
+    How many drinks per occasion? 2-3 beers
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Rarely
+What type of exercise? None currently
+What barriers prevent you from exercising more?
+    [X] Too tired
+    [X] Don't have energy
+    [X] Work demands
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Could be better
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 1-2
+How often do you eat fast food? 3-4 times per week
+Do you follow any special diet?
+    [ ] None
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all (just tired)
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days (too tired to do anything)
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (worried about falling asleep driving)
+
+Do you feel you have adequate emotional support? Yes - wife is supportive
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, full-time (CPA at accounting firm)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I am exhausted all the time. I don't understand it because I get 7-8 hours of
+sleep but I wake up feeling like I didn't sleep at all. My wife says I snore
+incredibly loud and sometimes she says I stop breathing and then gasp. It scares
+her. She's been making me sleep in the guest room because she can't sleep with
+my snoring.
+
+I've been having headaches every morning for months. I've also been falling asleep
+at my desk at work which is embarrassing. Last week I almost fell asleep while
+driving on the highway - that really scared me. I had to pull over and nap.
+
+My blood pressure is also high even though I take two medications. I don't know
+why it won't go down.
+
+My brother was recently diagnosed with sleep apnea and uses one of those breathing
+machines. My wife wonders if I have the same thing. I'm hoping to find out what's
+causing all my fatigue because it's really affecting my quality of life."
+
+================================================================================

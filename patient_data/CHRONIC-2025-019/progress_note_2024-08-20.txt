@@ -1,0 +1,68 @@
+PROGRESS NOTE
+Patient: Dorothy Chen    DOB: 02/28/1945    MRN: 45678234
+Date: 2024-08-20       Provider: Dr. Michael Torres, MD (Endocrinology)
+
+Chief Complaint: Osteoporosis management, romosozumab month 6
+
+Subjective:
+Pt returns for romosozumab follow-up. Has received 6 monthly injections at
+infusion center without issues. "The nurses are wonderful."
+
+Reports feeling "maybe a little stronger." No new falls. Back pain unchanged.
+Continues chair yoga and daily walks with daughter.
+
+Denies injection site reactions. No new symptoms.
+
+Concerned about one thing: "I've been having some chest tightness when I walk up
+stairs. Only started a few weeks ago. Goes away when I rest."
+
+Also notes increased fatigue. "I thought it was just my age."
+
+Appetite good. No weight changes.
+
+Current Medications:
+- Romosozumab 210mg monthly (at infusion center)
+- Calcium carbonate 600mg BID
+- Vitamin D3 2000 IU daily
+- Levothyroxine 75mcg daily
+- Amlodipine 5mg daily
+- Acetaminophen 650mg PRN
+
+Objective:
+Vitals: BP 142/82, HR 78, Wt 116 lbs
+General: Pleasant, appears slightly fatigued
+Cardiovascular: Regular rhythm, soft systolic murmur at aortic area (new?),
+                no peripheral edema
+Lungs: Clear bilaterally
+Spine: Chronic kyphosis, no new tenderness
+
+Labs:
+- Calcium: 9.8 (normal)
+- Creatinine: 1.1, eGFR: 52
+
+Assessment/Plan:
+1. Severe Osteoporosis on romosozumab - tolerating well, month 6 of 12. Will
+   continue monthly injections. Repeat DEXA at end of treatment course.
+
+2. NEW: Exertional chest tightness - CONCERNING in 79 yo. New systolic murmur
+   noted. Given romosozumab cardiovascular warnings (increased CV event risk),
+   this requires immediate workup.
+   - URGENT: Order echocardiogram
+   - Order stress test (pharmacologic given limited mobility)
+   - Check BNP
+   - May need to discuss romosozumab continuation if significant CV disease found
+   - Instructed pt to go to ER if chest pain worsens or occurs at rest
+
+3. Fatigue - could be cardiac-related. Will assess after cardiac workup. Check
+   CBC, TSH, B12.
+
+4. CKD Stage 3a - slightly worse eGFR 52. Monitor.
+
+5. Hypertension - slightly elevated today 142/82. Recheck after cardiac workup.
+
+IMPORTANT: Called cardiology directly - appointment scheduled in 1 week.
+Explained warning signs to patient and daughter.
+
+RTC 1 month for romosozumab OR sooner for cardiac results.
+
+Electronically signed by Michael Torres, MD  08/20/2024 4:15 PM

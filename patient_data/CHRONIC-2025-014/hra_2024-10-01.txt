@@ -1,0 +1,132 @@
+HEALTH RISK ASSESSMENT
+Patient: Jessica Romano
+Date Completed: 2024-10-01
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Very Good
+Compared to one year ago? Much better
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - recurrent, on medication, doing well now
+[X] Anxiety - generalized, on medication
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+Depression: Yes
+    Who? Mother (treated), grandmother (untreated)
+
+Anxiety: Yes
+    Who? Mother
+
+Cancer: Yes
+    Who? Mother (breast cancer, recently diagnosed, doing well on treatment)
+
+Heart Disease: Yes
+    Who? Father (had bypass at 65)
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Socially
+    How often? 1-2 times per week
+    How many drinks per occasion? 1-2 glasses of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 4-5 times per week
+What type of exercise? Running, yoga, strength training
+What barriers prevent you from exercising more?
+    [ ] None - prioritize it for mental health
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4-5
+How often do you eat fast food? Rarely
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (normal amount, manageable)
+
+Do you feel you have adequate emotional support? Yes - therapist, friends, family
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    No
+Are you currently employed? Yes, full-time (senior project manager)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"This has been a good year. I went through a rough patch early in the year with
+my depression flaring up - a lot of stress with my mom's diagnosis and a breakup.
+But increasing my medication and getting back into therapy made a huge difference.
+
+I've learned that exercise really helps my mental health. If I skip workouts for
+more than a few days, I can feel my mood start to dip. Running is like meditation
+for me.
+
+My mom is doing well now and that's a huge relief. I'm also in a new relationship
+and feeling hopeful about it.
+
+I'm grateful for having good mental health care. It took me years to find the right
+combination of medication and therapy, but I finally feel stable. I know depression
+can come back so I'm committed to staying on my medication and continuing therapy."
+
+================================================================================

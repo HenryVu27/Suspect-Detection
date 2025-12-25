@@ -1,0 +1,55 @@
+PROGRESS NOTE
+Patient: Darnell Washington    DOB: 04/12/1968    MRN: 89123456
+Date: 2024-03-01       Provider: Dr. Maria Santos, MD
+
+Chief Complaint: Urgent follow-up, insulin rationing
+
+Subjective:
+Pt returns as scheduled. Reports Medicaid application approved! Will be effective
+03/15. In meantime, patient assistance programs have provided insulin. Now taking
+full prescribed doses of Lantus and Novolog.
+
+Glucose readings improved - fasting 140-180, post-meal 180-220. No episodes of
+severe hypoglycemia. No signs of DKA.
+
+Mood "a little better" - started fluoxetine 2 weeks ago. Still low energy but
+less hopeless. Getting out of bed. Daughter has been helping with meals.
+
+Saw ophthalmology - "they said my eyes are worse, need injections."
+
+Current Medications (now taking as prescribed):
+- Lantus 50 units QHS
+- Novolog 15 units TID with meals
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Atorvastatin 40mg QHS
+- Gabapentin 300mg TID
+- Allopurinol 300mg daily
+- Fluoxetine 20mg daily (new)
+
+Objective:
+Vitals: BP 148/88, HR 82, Wt 240 lbs (-2), SpO2 96% RA
+General: Better affect, more engaged
+Ext: Trace edema, feet unchanged
+
+No new labs - will check once Medicaid active
+
+Assessment/Plan:
+1. T2DM - improving now that on full insulin doses. Continue current regimen.
+   A1c in 4-6 weeks to assess trajectory.
+2. Diabetic retinopathy - progressed to severe NPDR per ophthalmology. Starting
+   intravitreal injections. NEW DIAGNOSIS: Severe nonproliferative diabetic
+   retinopathy (E11.349).
+3. CKD Stage 3b - stable. Nephrology appointment scheduled 03/20.
+4. Depression - some improvement on fluoxetine. Continue. F/u with psychiatry
+   would be ideal but access limited.
+5. HTN - improved but still elevated. Will discuss diuretic with nephrology.
+6. Medicaid approved - can now access full benefits. Transition care to Medicaid
+   primary care or continue here with new coverage.
+
+Insurance enrollment assistance completed. Transportation assistance for appointments
+arranged through Medicaid waiver.
+
+RTC 4-6 weeks with labs.
+
+Electronically signed by Maria Santos, MD  03/01/2024 10:30 AM

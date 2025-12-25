@@ -1,0 +1,143 @@
+HEALTH RISK ASSESSMENT
+Patient: Aiden Kowalski
+Date Completed: 2024-02-20
+Completed via: Patient portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Much better
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue - much better now
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[ ] Abdominal pain - only during flares, not now
+[ ] Diarrhea - controlled on current medication
+[ ] Blood in stool - none currently
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[X] Liver disease - PSC, related to my UC
+[ ] Cancer
+[ ] Depression - had it during bad flares, resolved
+[ ] Anxiety - same, related to disease
+[ ] Sleep apnea
+[X] IBD - Ulcerative colitis since 2016
+
+================================================================================
+FAMILY HISTORY
+
+IBD: No
+Colon Cancer: No
+Liver Disease: No
+Autoimmune Disease: Yes
+    Who? Aunt has rheumatoid arthritis
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    Notes: Avoid due to liver disease (PSC)
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 4-5 times per week
+What type of exercise? Running, cycling, gym
+What barriers prevent you from exercising more?
+    [ ] None currently - exercise when I feel good
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Good - I'm careful about what I eat
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4-5
+How often do you eat fast food? Rarely
+Notes: I follow a low-residue diet when having any symptoms, otherwise try to
+       eat healthy Mediterranean-style diet
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days - always some anxiety about when next flare will happen
+
+Do you feel you have adequate emotional support?
+    Yes - partner is very supportive, also attend online UC support group
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    No - insurance covers most, manufacturer assistance program for vedolizumab
+Are you currently employed? Yes, graphic designer (remote mostly)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I've had UC since I was 24. The first few years were rough - I was in and out
+of the hospital, tried multiple medications that didn't work, lost weight, lost
+jobs. It affected every part of my life.
+
+Things turned around when I started vedolizumab two years ago. It's the first
+medication that's actually put me in remission. I can eat without fear, I can
+travel, I can work normally. I almost feel like a regular person.
+
+The PSC diagnosis was scary. Having a second chronic disease that affects my
+liver was a lot to process. But it's mild so far and the doctor is monitoring
+it closely.
+
+My biggest fear is colon cancer. My doctor told me that having UC + PSC puts
+me at higher risk. I know I need colonoscopies every year for monitoring. It's
+stressful but I'd rather catch something early than wait until it's too late.
+
+I try not to let the disease define me. I'm more than just a UC patient.
+I have a career, a partner, hobbies. I exercise regularly because it helps my
+mental health and maybe my gut health too. I'm careful about diet but not
+obsessive.
+
+The one thing I wish is that people understood invisible illness better. When
+I'm in remission, I look totally healthy. No one knows what I deal with unless
+I tell them. During flares, I've had people not believe I was sick because I
+'look fine.' It's frustrating."
+
+================================================================================

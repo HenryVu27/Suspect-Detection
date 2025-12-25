@@ -1,0 +1,117 @@
+PROGRESS NOTE
+Patient: Jasmine Washington    DOB: 05/22/1988    MRN: 23456012
+Date: 2024-10-21       Provider: Dr. Karen Mitchell, MD (Rheumatology)
+
+Chief Complaint: New symptoms, concern for flare
+
+Subjective:
+Pt called urgent line with new symptoms x 1 week, came in for same-day evaluation.
+
+NEW SYMPTOMS:
+- Joint pain: Bilateral hands and wrists, symmetric, morning stiffness >1 hour
+- Fatigue: Much worse than baseline. "Can barely get through the workday."
+- Hair loss: "Clumps coming out in the shower."
+- Mouth ulcers: 3 painful ulcers on palate and inner cheek
+- Facial rash: "The butterfly rash is back" - across cheeks and nose
+- Low-grade fever: 99-100°F for past 3 days
+
+Also reports:
+- Swelling in legs for past week
+- "Foamy urine" - noticed past few days
+- Missed 3 days of work this week
+
+Denies chest pain, shortness of breath, seizures, severe headache.
+
+Medications: Has been compliant. No missed doses. No new medications or supplements.
+Sun exposure: Went to outdoor wedding 2 weeks ago. "Was outside for about 4 hours.
+I forgot to reapply sunscreen."
+
+Current Medications:
+- Hydroxychloroquine 400mg daily
+- Mycophenolate mofetil 1000mg BID
+- Prednisone 5mg daily
+- Lisinopril 10mg daily
+- Warfarin 5mg daily
+- Calcium/Vitamin D 600/400 BID
+- Folic acid 1mg daily
+
+Objective:
+Vitals: BP 148/94 (elevated), HR 88, Temp 99.8°F, Wt 152 lbs (up 7 lbs)
+General: Ill-appearing, fatigued
+Skin: Malar rash present (erythematous, raised, sparing nasolabial folds)
+      Active alopecia noted - diffuse thinning
+Oral: 3 oral ulcers on soft palate and buccal mucosa
+Joints: Synovitis bilateral MCPs and wrists, PIPs swollen bilaterally,
+        tender with ROM
+Lungs: Clear
+Cardiac: RRR, no rub
+Extremities: 1+ pitting edema bilateral ankles
+
+Labs (STAT today):
+- CBC: WBC 3.2 (low), Hgb 10.8 (low), Plt 128 (low)
+- CMP: Cr 1.4 (UP from 1.0), BUN 28
+- Urinalysis: 2+ protein (was trace), 10-15 RBC/hpf, RBC casts present
+- UPCR: 1.8 (UP from 0.3!!!)
+- C3: 52 (LOW, was 88), C4: 8 (LOW, was 18)
+- dsDNA: 1:320 (UP from 1:40)
+- ESR: 68, CRP: 2.4
+- INR: 2.8 (therapeutic)
+
+Assessment/Plan:
+***SLE FLARE - SEVERE, WITH ACTIVE NEPHRITIS***
+
+1. SLE Flare - SLEDAI-2K now 16 (was 2). Multi-organ involvement:
+   - Mucocutaneous: Malar rash, oral ulcers, alopecia
+   - Arthritis: Active polyarthritis
+   - Hematologic: Leukopenia, anemia, thrombocytopenia
+   - Renal: Active nephritis (see below)
+   - Serology: Consumed complements, rising dsDNA
+   - Constitutional: Fever, fatigue
+
+2. LUPUS NEPHRITIS FLARE - Active nephritis with:
+   - Rising creatinine (1.0 → 1.4)
+   - Proteinuria worsening (UPCR 0.3 → 1.8)
+   - Active sediment (RBC casts)
+   - Hypertension worsening
+   - URGENT nephrology consult placed - likely needs repeat renal biopsy
+     to assess class and activity/chronicity
+   - Treatment will depend on biopsy but likely needs intensification
+
+3. TREATMENT PLAN:
+   - Increase prednisone to 60mg daily (1mg/kg) immediately
+   - PCP prophylaxis: Start Bactrim - WAIT, ALLERGY. Use dapsone or atovaquone.
+     Start atovaquone 1500mg daily.
+   - Continue MMF for now - may need to add rituximab or belimumab after biopsy
+   - Check G6PD before dapsone if using
+   - BP control: Increase lisinopril to 20mg daily
+
+4. Trigger: Likely UV exposure at outdoor wedding. Reinforced strict sun avoidance.
+
+5. Antiphospholipid syndrome - continue warfarin. INR therapeutic.
+
+6. Lab monitoring:
+   - Repeat labs in 1 week
+   - 24-hour urine for protein quantification ordered
+   - Anti-dsDNA and complements to follow response
+
+7. Bone protection for high-dose steroids:
+   - Increase calcium/vitamin D
+   - Consider bisphosphonate (check DEXA)
+   - Monitor glucose (steroids)
+
+8. Work: Patient needs medical leave. Will provide documentation.
+
+PATIENT COUNSELING:
+- Explained this is a significant flare requiring aggressive treatment
+- High-dose steroids have side effects but necessary to control inflammation
+- May need additional immunosuppression depending on biopsy
+- Emphasized importance of sun protection going forward
+- Patient understands, anxious but cooperative
+
+Nephrology consult today - Dr. Patel will see patient this afternoon for
+biopsy planning.
+
+Close follow-up in 1 week. Call if fever >101, worsening edema, decreased urine
+output, chest pain, or neurological symptoms.
+
+Electronically signed by Karen Mitchell, MD  10/21/2024 11:30 AM

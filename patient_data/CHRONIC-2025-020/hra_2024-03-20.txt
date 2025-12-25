@@ -1,0 +1,155 @@
+HEALTH RISK ASSESSMENT
+Patient: Marcus Johnson
+Date Completed: 2024-03-20
+Completed via: Patient portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Poor
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - constant, never feel rested
+[X] Difficulty sleeping - wake up from pain
+[X] Frequent urination - 2x per night
+[X] Numbness/tingling in hands or feet - feet and lower legs, both sides
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - with minimal activity due to weight/deconditioning
+[ ] Dizziness
+[X] Feeling sad or hopeless - yes
+[X] Difficulty concentrating - brain fog, hard to focus
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[X] Daytime sleepiness - exhausted all the time
+[X] Back pain - 24/7, my main problem
+[X] Leg weakness - noticed more recently
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[X] High blood pressure - borderline, watching it
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - yes, diagnosed 2018
+[ ] Anxiety
+[ ] Sleep apnea
+[ ] Chronic pain - that's my whole life now
+
+================================================================================
+FAMILY HISTORY
+
+Depression: Yes
+    Who? Father
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? 58, died at 62
+
+Diabetes: Yes
+    Who? Mother
+    Age at diagnosis? 55
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2016
+    How much? Pack a day for 15 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Occasionally
+    How often? 1-2x per month
+    How many drinks per occasion? 1-2 beers
+    Notes: Careful because of medications
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Rarely
+What type of exercise? Can barely walk around the block
+What barriers prevent you from exercising more?
+    [X] Pain
+    [X] Fatigue
+    [X] Physical limitations
+    [X] Fear of making injury worse
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Fair
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 1-2
+How often do you eat fast food? 2-3x per week
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    More than half the days
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    More than half the days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days
+
+Do you feel you have adequate emotional support?
+    Not really - divorced, kids live out of state, few friends left
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes - apartment
+Do you have reliable transportation to medical appointments?
+    Yes, but driving is painful
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - copays add up, especially the oxycodone
+Are you currently employed?
+    Part-time, work from home (IT consulting). Can't work full-time due to pain
+
+================================================================================
+FALL RISK
+
+Have you fallen in the past year? Yes, twice
+Do you feel unsteady when standing or walking? Yes - legs feel weak sometimes
+Do you worry about falling? Yes
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"My life revolves around pain management. Every decision I make - what I eat,
+when I sleep, whether I go out - is based on my pain levels. I used to be
+active, played basketball, hiked. Now I can barely walk to the mailbox.
+
+The surgery in 2017 was supposed to fix things but made them worse in some ways.
+I have 'failed back surgery syndrome' - what a name. Makes me feel like a failure.
+
+I know the doctors worry about the opioids but they're the only thing that
+lets me function at all. Without them I'd be bedridden. I'm not an addict -
+I take them exactly as prescribed. I just wish people understood that chronic
+pain is real and disabling.
+
+The depression makes everything harder. It's hard to stay positive when you're
+in pain 24/7. I lost my marriage, my career, my social life. I'm 51 and feel
+like 81.
+
+One thing I've noticed lately - my legs feel weaker than usual. Sometimes they
+almost give out. My feet are more numb too. Probably just getting older but
+maybe worth mentioning."
+
+================================================================================

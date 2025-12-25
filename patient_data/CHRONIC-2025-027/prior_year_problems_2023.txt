@@ -1,0 +1,58 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (UCLA Rheumatology)
+Export Date: 2023-12-18
+Patient: Jasmine Washington    DOB: 05/22/1988    MRN: 23456012
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Systemic Lupus Erythematosus (M32.10)
+   - First Documented: 2014-08-15
+   - Status: Active
+   - Managing Provider: Dr. Karen Mitchell (Rheumatology) 
+   - Notes: ANA+, dsDNA+, low complements. History of nephritis. On HCQ/MMF.
+
+2. Lupus Nephritis Class III (M32.14)
+   - First Documented: 2017-04-22
+   - Status: Active (in remission)
+   - Notes: Biopsy 2017 showed Class III. Treated with MMF. Currently stable.
+
+3. Antiphospholipid Syndrome (D68.61)
+   - First Documented: 2016-02-10
+   - Status: Active
+   - Notes: Lupus anticoagulant+, history of DVT 2016. On warfarin.
+
+4. Chronic Kidney Disease Stage 2 (N18.2)
+   - First Documented: 2019-08-15
+   - Status: Active
+   - Notes: Secondary to lupus nephritis. eGFR 75.
+
+5. Hypertension (I10)
+   - First Documented: 2017-06-20
+   - Status: Active
+   - Notes: Renal-related. On lisinopril.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Deep Vein Thrombosis, left leg (I82.40)
+   - Episode: 2016-02-08
+   - Notes: Led to antiphospholipid syndrome diagnosis. On lifelong anticoagulation.
+
+2. Lupus Flare with nephritis exacerbation (M32.14)
+   - Episode: 2021-03-15 to 2021-05-20
+   - Notes: Required high-dose steroids. Increased MMF.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Sulfa drugs (Bactrim)
+   - Reaction: Severe rash, lupus flare triggered
+   - Severity: Severe
+
+================================================================================

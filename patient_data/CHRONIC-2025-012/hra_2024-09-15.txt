@@ -1,0 +1,142 @@
+HEALTH RISK ASSESSMENT
+Patient: Nguyen Tran
+Date Completed: 2024-09-15
+Completed via: Paper form at nephrology clinic
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Worse (kidney function declining)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - getting worse, tired by afternoon
+[ ] Difficulty sleeping
+[X] Frequent urination - less than before actually (kidneys not working)
+[X] Numbness/tingling in hands or feet - diabetes neuropathy
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - with exertion
+[ ] Dizziness
+[X] Feeling sad or hopeless - worried about dialysis
+[X] Difficulty concentrating - hard to focus some days
+[X] Unintentional weight loss - appetite not good
+[ ] Loud snoring
+[X] Daytime sleepiness
+[X] Nausea - sometimes, especially mornings
+[X] Metallic taste - food tastes different
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - Type 2, for 16 years, on insulin
+[X] High blood pressure - yes
+[X] High cholesterol - yes
+[ ] Heart disease
+[ ] Stroke
+[X] Kidney disease - Stage 4 CKD, will need dialysis soon
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+Diabetes: Yes
+    Who? Mother, father, siblings - common in our family
+
+Kidney Disease: Yes
+    Who? Father (was on dialysis before he passed)
+
+Heart Disease: Yes
+    Who? Father
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2008 when diagnosed with diabetes
+    How much did you smoke? Pack a day for about 20 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? No
+    Did you quit? Yes, stopped when kidneys started failing
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 1-2 times per week (less than before)
+What type of exercise? Short walks
+What barriers prevent you from exercising more?
+    [X] Too tired
+    [X] Shortness of breath
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Following kidney diet (trying)
+Do you eat breakfast regularly? Sometimes - not always hungry
+Servings of fruits/vegetables per day? 2-3 (careful about potassium)
+How often do you eat fast food? Rarely
+Do you follow any special diet?
+    [X] Low sodium
+    [X] Low potassium
+    [X] Low phosphorus
+    [X] Diabetic diet
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    More than half the days (worried about the future)
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    More than half the days (nervous about dialysis)
+
+Do you feel you have adequate emotional support? Yes - wife and family supportive
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes - wife drives
+In the past 12 months, have you had difficulty affording your medications?
+    Yes - so many medications, copays add up
+Are you currently employed? No - disability since CKD got worse
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I know I'm going to need dialysis soon. My father was on dialysis for years before
+he died and I remember how hard it was for him. Three times a week, four hours each
+time. I'm scared.
+
+My son is getting tested to see if he can give me a kidney. I don't want him to
+have to do that but he insists. My wife says we should try - a transplant would be
+better than dialysis.
+
+I've been feeling sick lately - not hungry, food tastes bad, tired all the time.
+The doctor says these are signs my kidneys are getting worse. They put the tube in
+my arm for dialysis - it's working well.
+
+I wish I had taken better care of my diabetes when I was younger. Maybe my kidneys
+would be okay. But I can't change the past. Just trying to take my medications now
+and follow the diet even though it's hard.
+
+The cost of all my medications is a lot. Some months we have to choose what to buy.
+I worry about what dialysis will cost even with insurance."
+
+================================================================================

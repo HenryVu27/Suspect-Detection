@@ -1,0 +1,135 @@
+HEALTH RISK ASSESSMENT
+Patient: Sandra Mitchell
+Date Completed: 2024-09-28
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Better (blood pressure improved)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[X] High blood pressure - yes, for over 25 years, hard to control
+[X] High cholesterol - yes
+[ ] Heart disease
+[ ] Stroke
+[X] Kidney disease - yes, from high blood pressure damage
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+High Blood Pressure: Yes
+    Who? Mother (died of stroke), father, brother, sister
+    Notes: Runs strongly in our family
+
+Stroke: Yes
+    Who? Mother, aunt
+
+Heart Disease: Yes
+    Who? Father
+
+Kidney Disease: Yes
+    Who? Uncle (was on dialysis)
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Occasionally
+    How often? 1-2 times per month
+    How many drinks per occasion? 1 glass of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 2-3 times per week (more than before)
+What type of exercise? Walking, using elliptical at home
+What barriers prevent you from exercising more?
+    [X] Work schedule (teaching is tiring)
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Improving
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? Rarely now
+Do you follow any special diet?
+    [X] Low sodium - working with nutritionist
+    [X] DASH diet
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (normal work stress)
+
+Do you feel you have adequate emotional support? Yes - husband and adult children
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    No - insurance covers most
+Are you currently employed? Yes, full-time (middle school teacher, planning retirement)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"My blood pressure has been a problem my whole adult life. My mother had it too
+and she died from a stroke at 68. I don't want that to happen to me. It scared
+me when my doctor said my kidneys are being affected.
+
+The new medicine (spironolactone) seems to be helping a lot. My blood pressure
+numbers at home are better than they've been in years. I'm also trying to eat
+less salt which is hard but I'm making changes.
+
+I'm planning to retire next year after 35 years of teaching. I think having less
+stress will help my blood pressure too. I want to be healthy for my grandchildren.
+
+I use a pill organizer now to remember all my medications. Taking them at night
+together has been easier than trying to remember different times."
+
+================================================================================

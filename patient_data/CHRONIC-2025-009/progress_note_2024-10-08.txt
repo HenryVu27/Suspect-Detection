@@ -1,0 +1,57 @@
+PROGRESS NOTE
+Patient: Raymond Brooks    DOB: 03/08/1971    MRN: 23456789
+Date: 2024-10-08       Provider: Dr. Angela Richardson, MD
+
+Chief Complaint: OSA follow-up, BP check
+
+Subjective:
+53 yo M with newly diagnosed severe OSA returns for follow-up. Started CPAP in
+April. Initial adjustment was rough - felt claustrophobic, mask leaks. DME adjusted
+mask twice. Now using nasal pillows - "game changer."
+
+CPAP use per download data: averaging 6.2 hours/night, AHI on CPAP 3.2 (controlled).
+
+Reports feeling "like a new person." Energy improved significantly. Wife says
+snoring resolved, no more apneas. Morning headaches gone. Can concentrate at work.
+No more near-crashes while driving.
+
+Lost 12 lbs over past 6 months - "Have energy to walk now, cut back on eating."
+
+BP at home now running 125-135 systolic! Much better.
+
+Current Medications:
+- Lisinopril 20mg daily
+- Amlodipine 5mg daily
+- Omeprazole 20mg daily
+
+Objective:
+Vitals: BP 128/82, HR 72, Wt 254 lbs (-14), BMI 35.5, SpO2 97% RA
+General: Alert, pleasant, appears more energetic than prior visits
+HEENT: Crowded oropharynx unchanged but no longer as fatigued appearing
+CV: RRR
+
+Labs from 10/01:
+- Fasting glucose: 98
+- A1c: 5.6%
+- Cr: 1.0, eGFR 85
+- Lipids: TC 195, TG 165, HDL 42, LDL 120
+
+Assessment/Plan:
+1. Severe OSA - WELL CONTROLLED on CPAP! Excellent compliance. AHI reduced from
+   38 to 3.2. Symptoms resolved. Continue current therapy.
+2. Hypertension - NOW CONTROLLED! BP 128/82 today, at goal. OSA treatment has
+   improved BP significantly. Consider reducing amlodipine if continues well
+   controlled. Continue monitoring.
+3. Obesity - weight trending down nicely. 14 lb loss. Encourage continued efforts.
+   Improved energy from OSA treatment facilitating lifestyle changes.
+4. Prediabetes - A1c 5.6% is at upper limit of normal. Weight loss should help.
+   Continue monitoring annually.
+5. GERD - reports reflux improved as well - OSA treatment and weight loss both help.
+   Continue omeprazole for now.
+6. Hyperlipidemia - LDL 120, slightly elevated. Given weight loss trajectory, will
+   recheck in 6 months. Statin if not improving or if glucose worsens.
+
+Excellent response to OSA treatment. CPAP is life-changing for this patient.
+RTC 6 months or sooner if issues.
+
+Electronically signed by Angela Richardson, MD  10/08/2024 2:30 PM

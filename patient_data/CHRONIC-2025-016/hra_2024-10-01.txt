@@ -1,0 +1,135 @@
+HEALTH RISK ASSESSMENT
+Patient: Anthony Delgado
+Date Completed: 2024-10-01
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Better (mood more stable)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[X] High cholesterol - on medication
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression - part of my bipolar
+[ ] Anxiety - yes
+[ ] Sleep apnea
+[X] Bipolar disorder - Type I, on medication, stable now
+[X] Thyroid problem - from lithium, on medication
+
+================================================================================
+FAMILY HISTORY
+
+Bipolar Disorder: Yes
+    Who? Mother (diagnosed later in life)
+
+Depression: Yes
+    Who? Father, brother
+
+Substance Abuse: Yes
+    Who? Father
+
+Heart Disease: No
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2019
+    How much did you smoke? Half pack per day for 5 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    How often? Special occasions only
+    How many drinks per occasion? 1 drink maximum
+    Notes: Limit alcohol due to bipolar and lithium
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week (new!)
+What type of exercise? Walking, starting to jog
+What barriers prevent you from exercising more?
+    [ ] Motivation when mood is low
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Improving
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? 1-2 times per week (down from more)
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (normal amount)
+
+Do you feel you have adequate emotional support? Yes - therapist, support group, friends
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - multiple medications add up but managing
+Are you currently employed? Self-employed (freelance graphic designer)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"My bipolar has been really stable lately and I'm grateful. It took years to find
+the right medication combination and learn to manage this illness. I used to have
+bad manic episodes that would land me in the hospital.
+
+The key for me has been taking my medications consistently and keeping a regular
+sleep schedule. When I travel for work or my sleep gets disrupted, I notice my
+mood starts to wobble. Exercise has also helped a lot.
+
+I gained a lot of weight on some of the medications I tried before but I'm working
+on losing it now. My cholesterol is a concern but it's coming down.
+
+I see my psychiatrist regularly and also go to a support group for people with
+bipolar. Having people who understand what I go through makes a big difference."
+
+================================================================================

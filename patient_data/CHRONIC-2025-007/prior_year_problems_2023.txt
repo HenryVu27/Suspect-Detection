@@ -1,0 +1,72 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Intermountain Healthcare)
+Export Date: 2023-12-18
+Patient: Frank Morrison    DOB: 09/25/1952    MRN: 91234567
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Chronic Obstructive Pulmonary Disease, severe (J44.1)
+   - First Documented: 2015-03-20
+   - Status: Active
+   - Managing Provider: Dr. Susan Taylor (Pulmonology)
+   - Notes: FEV1 38% predicted. GOLD Stage III. On triple therapy.
+
+2. Tobacco Use Disorder (F17.210)
+   - First Documented: 1975-01-01
+   - Status: Active
+   - Notes: 55 pack-year history. Multiple quit attempts. Currently smoking 10 cigs/day.
+
+3. Essential Hypertension (I10)
+   - First Documented: 2002-06-15
+   - Status: Active
+   - Notes: On lisinopril
+
+4. Hyperlipidemia (E78.5)
+   - First Documented: 2008-04-22
+   - Status: Active
+   - Notes: On simvastatin
+
+5. Coronary Artery Disease (I25.10)
+   - First Documented: 2018-11-10
+   - Status: Active
+   - Notes: MI in 2018, PCI to LAD. On aspirin and clopidogrel.
+
+6. Osteoporosis (M81.0)
+   - First Documented: 2021-08-15
+   - Status: Active
+   - Notes: Secondary to chronic steroid use. On alendronate.
+
+7. Anxiety Disorder (F41.9)
+   - First Documented: 2019-02-28
+   - Status: Active
+   - Notes: Related to dyspnea/health concerns. On buspirone.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. COPD exacerbation (J44.1)
+   - Episode: 2023-09-12 to 2023-09-22
+   - Notes: Required hospitalization, IV steroids, antibiotics
+
+2. Community acquired pneumonia (J18.9)
+   - Episode: 2022-11-05 to 2022-11-18
+   - Notes: Right lower lobe. Required hospitalization.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Percutaneous Coronary Intervention (PCI)
+   - Date: 2018-11-10
+   - Hospital: Intermountain Medical Center
+   - Notes: Drug-eluting stent to LAD
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Aspirin
+   - Reaction: GI bleeding (had upper GI bleed on full-dose ASA)
+   - Severity: Moderate
+   - Notes: Tolerates low-dose 81mg with PPI
+
+================================================================================

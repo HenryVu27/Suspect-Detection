@@ -1,0 +1,62 @@
+PROGRESS NOTE
+Patient: Harold Peterson    DOB: 12/05/1950    MRN: 34567891
+Date: 2024-01-30       Provider: Dr. Robert Kim, MD (Pulmonology)
+
+Chief Complaint: COPD follow-up, worsening fatigue
+
+Subjective:
+73 yo M Vietnam veteran with moderate COPD here for routine pulmonology follow-up.
+Reports SOB stable - can walk about 1/4 mile before needing to rest. Using rescue
+inhaler 2-3x/day. No exacerbations since February 2023.
+
+However, reports significant fatigue over past 6 months that's different from his
+usual COPD tiredness. "I just have no energy, even when I'm not short of breath."
+Wife reports he falls asleep watching TV every evening. Snoring has gotten much
+worse. She's noticed he "stops breathing then gasps" at night - happening multiple
+times per hour. Wakes with headaches.
+
+Diabetes stable. Taking medications. No chest pain. Leg swelling slightly worse.
+
+Remains tobacco-free since 2016.
+
+Current Medications:
+- Symbicort 160/4.5 2 puffs BID
+- Albuterol HFA PRN
+- Metformin 1000mg BID
+- Lisinopril 20mg daily
+- HCTZ 25mg daily
+- Atorvastatin 40mg QHS
+- Tamsulosin 0.4mg QHS
+- Sertraline 100mg daily
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 142/88, HR 82, RR 18, Temp 98.2F, Wt 248 lbs (+5), BMI 35.2, SpO2 91% RA
+       Neck circumference 19 inches
+General: Obese male, appears fatigued, speaking in full sentences
+HEENT: Crowded oropharynx, Mallampati IV
+Lungs: Decreased breath sounds, scattered wheezes, prolonged expiration
+CV: RRR, distant heart sounds
+Ext: 2+ pitting edema bilateral LE (worse than last visit)
+
+Assessment/Plan:
+1. COPD moderate (GOLD II) - stable from respiratory standpoint, no exacerbations.
+   Continue current inhalers.
+2. SUSPECT OVERLAP SYNDROME (COPD + OSA) - patient has classic OSA symptoms
+   (snoring, witnessed apneas, daytime somnolence, morning HA) on top of COPD.
+   This is a HIGH-RISK combination with increased mortality. Will order in-lab
+   polysomnogram (not HST given COPD - need full evaluation).
+3. Worsening leg edema + daytime fatigue - may indicate developing cor pulmonale
+   or right heart failure from chronic hypoxemia. Will check BNP, consider echo.
+4. Diabetes - continue metformin. Check A1c.
+5. HTN - not controlled. May improve with OSA treatment.
+6. PTSD - stable. Continue sertraline.
+
+Labs ordered: BNP, CBC, BMP, A1c
+Echo ordered
+Sleep study ordered (in-lab PSG)
+
+RTC after sleep study results. This is concerning for overlap syndrome which
+carries significant morbidity/mortality risk.
+
+Electronically signed by Robert Kim, MD  01/30/2024 3:45 PM

@@ -1,0 +1,79 @@
+PROGRESS NOTE
+Patient: Dorothy Chen    DOB: 02/28/1945    MRN: 45678234
+Date: 2024-02-14       Provider: Dr. Michael Torres, MD (Endocrinology)
+
+Chief Complaint: Osteoporosis management, DEXA follow-up
+
+Subjective:
+79 yo F with severe osteoporosis (history of 2 vertebral compression fractures)
+here for annual follow-up. Reports taking alendronate as directed - first thing
+in morning, upright for 30 minutes, with full glass of water.
+
+No new falls. Uses cane for outdoor walking. Home has been "fall-proofed" -
+removed throw rugs, added grab bars. Daughter moved in last year to help.
+
+Back pain stable - chronic from old fractures. Rates 3-4/10 most days. Uses
+Tylenol as needed.
+
+Exercising with chair yoga DVD at home. Walks around block with daughter daily
+when weather permits. Stopped driving 6 months ago due to vision changes.
+
+Eating well - daughter prepares meals. Taking calcium and vitamin D as directed.
+
+Denies chest pain, shortness of breath, palpitations. Some constipation - "always
+been that way."
+
+Current Medications:
+- Alendronate 70mg weekly
+- Calcium carbonate 600mg BID
+- Vitamin D3 2000 IU daily
+- Levothyroxine 75mcg daily
+- Amlodipine 5mg daily
+- Acetaminophen 650mg PRN
+
+Objective:
+Vitals: BP 138/78, HR 68, Wt 118 lbs, Ht 5'0" (was 5'2" - height loss)
+General: Pleasant elderly woman, kyphotic posture, ambulatory with cane
+Spine: Kyphosis, tenderness T12-L2 region, no new point tenderness
+Extremities: No edema, good distal pulses
+Gait: Slow, cautious, stable with cane
+
+DEXA Results (performed 02/10/2024):
+- Lumbar spine T-score: -3.2 (was -3.0 in 2022) - WORSENING
+- Femoral neck T-score: -2.9 (was -2.7 in 2022) - WORSENING
+- Total hip T-score: -2.6 (was -2.5 in 2022) - WORSENING
+
+Labs from last week:
+- Calcium: 9.2, Phosphorus: 3.8
+- Vitamin D, 25-OH: 42 (adequate)
+- TSH: 0.8 (normal)
+- Creatinine: 1.0, eGFR: 55
+- CTX (bone resorption marker): 450 (elevated - poor response)
+
+Assessment/Plan:
+1. Severe Osteoporosis - CONCERNING: DEXA shows worsening despite 5+ years of
+   alendronate. T-scores declining at all sites. CTX elevated suggesting
+   inadequate suppression of bone resorption.
+   - Bisphosphonate failure - need to transition to anabolic therapy
+   - Recommend romosozumab (Evenity) 210mg monthly x 12 months, then transition
+     to denosumab
+   - Will need to check calcium levels regularly on romosozumab
+   - Discuss with patient and daughter about injection therapy
+
+2. Chronic back pain - stable, from old vertebral fractures. Continue Tylenol PRN.
+
+3. Fall prevention - continue current measures. Refer to PT for balance assessment.
+
+4. Vitamin D - level adequate at 42. Continue current supplementation.
+
+5. Hypothyroidism - TSH normal. Continue levothyroxine 75mcg.
+
+6. CKD Stage 3a - eGFR 55. Monitor, will affect medication choices.
+
+Extensive discussion with patient and daughter about need to change osteoporosis
+therapy. Patient initially resistant ("another medication?") but understands
+fracture risk. Will proceed with romosozumab.
+
+RTC 1 month after starting new therapy.
+
+Electronically signed by Michael Torres, MD  02/14/2024 3:30 PM

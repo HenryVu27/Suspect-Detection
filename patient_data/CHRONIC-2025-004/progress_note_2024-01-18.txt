@@ -1,0 +1,65 @@
+PROGRESS NOTE
+Patient: David Chen    DOB: 02/15/1969    MRN: 67891234
+Date: 2024-01-18       Provider: Dr. Richard Thompson, MD
+
+Chief Complaint: Annual physical exam
+
+Subjective:
+55 yo M here for annual exam. Generally feeling well. No specific complaints today.
+Reports work stress (engineer at manufacturing company) but managing. Sleep adequate.
+Exercise limited - walks occasionally on weekends.
+
+Diet - admits "not great." Lots of takeout due to busy schedule. Wife travels
+frequently for work so he's cooking for himself, which means frozen meals and
+fast food more than he'd like.
+
+No polyuria, polydipsia. No vision changes. No numbness/tingling. Denies CP, SOB.
+BPH symptoms stable - some nocturia x1-2.
+
+Current Medications:
+- Lisinopril 10mg daily
+- Omeprazole 20mg PRN (uses 2-3x/week)
+
+Objective:
+Vitals: BP 128/82, HR 76, RR 14, Temp 98.4F, Wt 198 lbs (+5 lbs), BMI 28.4
+General: Well-appearing Asian male, mildly overweight
+CV: RRR
+Lungs: Clear
+Abdomen: Soft, NT, no masses
+Ext: No edema, pulses intact
+Monofilament: Normal bilateral feet
+
+Labs ordered today:
+- CMP, A1c, lipid panel, CBC, PSA, TSH
+
+Assessment/Plan:
+1. Prediabetes - will check A1c today. Weight has increased, diet poor - concerning
+   for progression. Counseled on lifestyle.
+2. HTN - controlled on current regimen.
+3. Hyperlipidemia - repeat lipids. May need to revisit statin discussion.
+4. GERD - stable on PRN PPI.
+5. BPH - stable symptoms. PSA to be checked.
+6. Health maintenance - colonoscopy due (55, never done). Order screening.
+   Flu shot given today.
+
+Will call with results.
+
+Electronically signed by Richard Thompson, MD  01/18/2024 3:45 PM
+
+================================================================================
+ADDENDUM - 01/22/2024
+
+Labs reviewed:
+- HbA1c: 7.1% (was 5.8% in 2021 - now in diabetic range!)
+- Fasting glucose: 142
+- Cr: 1.0, eGFR 88
+- LDL: 148, TG: 195, HDL: 38
+- PSA: 1.8
+- TSH: 2.1
+
+Called patient to discuss results. A1c 7.1% now meets criteria for Type 2 Diabetes.
+Patient surprised - "I didn't think I had any symptoms." Discussed that DM can be
+asymptomatic initially. Scheduled urgent follow-up for diabetes education and
+treatment discussion.
+
+Addendum signed by Richard Thompson, MD  01/22/2024 10:15 AM

@@ -1,0 +1,152 @@
+HEALTH RISK ASSESSMENT
+Patient: Walter Thompson
+Date Completed: 2024-01-22
+Completed via: Paper form (wife assisted with handwriting due to tremor)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Worse
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - constant background tiredness
+[X] Difficulty sleeping - REM sleep disorder, act out dreams
+[X] Frequent urination - up 2x per night
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[X] Dizziness - when standing quickly
+[X] Feeling sad or hopeless - sometimes
+[X] Difficulty concentrating - hard to focus like before
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[X] Daytime sleepiness - often drowsy during day
+[X] Tremor - main symptom of my Parkinson's
+[X] Stiffness - especially in morning
+[X] Constipation - major problem for me
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - related to Parkinson's
+[ ] Anxiety
+[X] Sleep disorder - REM sleep behavior disorder
+[X] Parkinson's disease - diagnosed 2018
+
+================================================================================
+FAMILY HISTORY
+
+Parkinson's Disease: No
+Dementia: No
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? 70
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    Notes: Maybe glass of wine at dinner once a week
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week
+What type of exercise? Stationary bike, swimming, walks
+What barriers prevent you from exercising more?
+    [X] Fatigue
+    [X] Balance concerns
+    [X] Stiffness in morning
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Good
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? Rarely
+Notes: Trying to eat high fiber for constipation, protein timed away from
+       levodopa doses
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Several days
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days - worry about disease progression
+
+Do you feel you have adequate emotional support?
+    Yes - wonderful wife, adult children supportive, PD support group monthly
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes - own home, single level
+Do you have reliable transportation to medical appointments?
+    Yes - wife drives, also can use ride services
+In the past 12 months, have you had difficulty affording your medications?
+    No - good insurance through former employer
+Are you currently employed? Yes, part-time consultant (planning to retire soon)
+
+================================================================================
+FALL RISK SCREENING
+
+Have you fallen in the past year? No
+Do you feel unsteady when standing or walking? Sometimes - especially when stiff
+Do you worry about falling? Yes - biggest fear
+Do you use an assistive device? No, not yet
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I was a mechanical engineer for 40 years. I designed machinery, solved complex
+problems, worked with my hands. Parkinson's has taken a lot of that from me.
+My handwriting looks like a child's. My hands shake when I try to do detailed
+work. I can't draft like I used to.
+
+I'm planning to retire soon. Not because I want to - because I have to. It's
+hard to admit you can't do what you used to do.
+
+The tremor isn't the worst part. It's the slowness, the stiffness, the feeling
+like I'm moving through molasses. Some mornings it takes me an hour to get
+dressed. My wife has to button my shirts.
+
+The worst is the unpredictability. I never know if I'll have a good hour or
+a bad hour. Makes it hard to plan anything.
+
+I try to stay positive. I exercise every day - the doctors say it's the best
+thing I can do. I go to a Parkinson's boxing class. I stay active in my
+support group. I still have quality of life. I'm determined to fight this
+for as long as I can.
+
+What worries me most is the future. I've read about cognitive problems in
+Parkinson's. I don't want to forget my wife, my kids, my grandchildren. That
+terrifies me more than any tremor."
+
+================================================================================

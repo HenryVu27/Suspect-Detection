@@ -1,0 +1,67 @@
+PROGRESS NOTE
+Patient: Patricia O'Brien    DOB: 07/18/1965    MRN: 34567123
+Date: 2024-09-25       Provider: Dr. Sandra Kim, MD (Rheumatology)
+
+Chief Complaint: RA follow-up, anemia follow-up
+
+Subjective:
+Pt returns for routine follow-up. RA continues well-controlled. Successfully
+tapered prednisone to 3mg daily. Morning stiffness minimal - about 10 minutes.
+
+"Feeling better since the iron infusions." Had 3 iron infusions over summer after
+iron deficiency confirmed. Energy improved. GI workup negative - EGD and colonoscopy
+unremarkable per GI notes.
+
+Fingertip numbness persists - maybe slightly worse. Now waking at night with
+numbness in both hands. Has to shake hands to get feeling back. "Probably need
+to see about carpal tunnel."
+
+Noticed some dry eyes lately - using over-the-counter drops. Mouth feels dry too
+sometimes. "Probably just aging."
+
+Blood sugars improved with weight loss - now running 110-120s fasting.
+
+Current Medications:
+- Methotrexate 20mg weekly (with folic acid 1mg daily)
+- Adalimumab 40mg SQ every 2 weeks
+- Prednisone 3mg daily
+- Alendronate 70mg weekly
+- Lisinopril 10mg daily
+- Metformin 1000mg BID
+- Omeprazole 20mg daily
+- Calcium/Vitamin D 600/400 BID
+- Ferrous sulfate 325mg daily (new)
+
+Objective:
+Vitals: BP 122/74, HR 68, Wt 152 lbs (down 6 lbs)
+General: Well-appearing, improved from last visit
+Eyes: Conjunctival injection noted bilaterally
+Mouth: Decreased salivary pooling
+Hands: No synovitis, Phalen's test positive bilaterally, Tinel's positive bilaterally
+Wrists: No swelling, full ROM
+Knees: Left TKA stable, right - effusion resolved
+Feet: No synovitis
+
+Labs:
+- CBC: Hgb 12.4 (improved!), MCV 84, WBC 4.8, Plt 230
+- CRP: 0.5, ESR: 14
+- LFTs: Normal
+- Iron studies: Ferritin 45 (improved from 8)
+- HbA1c: 6.8% (improved)
+
+Assessment/Plan:
+1. Rheumatoid Arthritis - excellent disease control. Continue current regimen.
+   Prednisone now 3mg - continue slow taper.
+2. Iron deficiency anemia - resolved with infusions. Continue oral iron. Recheck
+   CBC in 3 months.
+3. Bilateral carpal tunnel syndrome - clinical diagnosis. Refer to hand surgery
+   for EMG/NCS and possible intervention.
+4. Dry eyes/dry mouth - NEW CONCERN. In patient with seropositive RA, must consider
+   secondary Sjogren's syndrome. Order SSA/SSB antibodies, Schirmer test. May need
+   ophthalmology referral.
+5. Type 2 DM - HbA1c improved to 6.8% with weight loss. Excellent.
+6. Osteoporosis - DEXA ordered today.
+
+RTC 3 months. Pending Sjogren's workup.
+
+Electronically signed by Sandra Kim, MD  09/25/2024 3:45 PM

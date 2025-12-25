@@ -1,0 +1,111 @@
+PROGRESS NOTE
+Patient: Eleanor Patterson    DOB: 08/05/1940    MRN: 56789345
+Date: 2024-10-21       Provider: Dr. William Harris, MD (Geriatric Medicine)
+
+Chief Complaint: Daughter concerned about confusion and decline
+
+Subjective:
+Pt brought in by daughter Susan with concerns about cognitive and functional
+decline over past 2 months.
+
+Per daughter:
+- Confusion: "She's not herself. Gets confused about the day, asks the same
+  questions over and over. Couldn't remember my son's name last week."
+- Getting lost: "Found her wandering in the parking lot last week. She was
+  looking for her apartment but was in the wrong building."
+- Missed medications: "The aide found pill organizer not touched for 2 days.
+  She forgot to take them."
+- Declined cooking: "Burned a pot badly. Almost set off smoke alarm."
+- Hygiene declining: "Not bathing even when aide comes. Wearing same clothes."
+- Fall: Fell last week (no injury). "She said she tripped but I think she was
+  confused about where she was."
+
+Per patient: "I'm fine. Everyone worries too much." Doesn't recall falling or
+getting lost. Becomes agitated when daughter describes concerns.
+
+NEW SYMPTOM per daughter: "She's been complaining of a cough for a couple weeks.
+Seemed tired and not eating well."
+
+Medications: Uncertain adherence per above.
+
+Vitals at home (daughter checked): Felt warm yesterday.
+
+Current Medications: (Same as last visit)
+
+Objective:
+Vitals: BP 118/70 (lower than baseline), HR 98 irregular, Temp 100.4°F, RR 22,
+        O2 sat 93% RA (low), Wt 132 lbs (down 6 lbs)
+General: Appears tired, slightly unkempt, intermittently drowsy
+Cardiac: Irregularly irregular, tachycardic
+Lungs: Crackles right base, decreased breath sounds right lower lobe
+Abdomen: Soft
+Neuro: Alert but disoriented - knows name, thinks year is 2020, doesn't know
+       where she is ("the hospital?"). Unable to complete MoCA today.
+Skin: No rash, dry mucous membranes
+
+Labs (STAT today):
+- CBC: WBC 14.8 (elevated), Hgb 10.8, Plt 148
+- CMP: Na 148 (HIGH - dehydration), K 3.8, Cr 2.1 (UP from 1.4), BUN 45,
+       glucose 220
+- Urinalysis: Trace protein, no WBC, no bacteria
+- Procalcitonin: 0.8 (elevated - bacterial infection likely)
+- Lactate: 2.2
+
+CXR:
+- Right lower lobe consolidation
+- No pleural effusion
+- Consistent with pneumonia
+
+Assessment/Plan:
+***ACUTE ILLNESS WITH DELIRIUM - REQUIRES HOSPITALIZATION***
+
+1. DELIRIUM - superimposed on possible baseline MCI. Acute cognitive decline
+   with fluctuating attention, disorientation. CONTRIBUTING FACTORS:
+   - Infection (pneumonia)
+   - Dehydration (Na 148)
+   - Possible medication nonadherence (missed doses, possible missed anticoagulation)
+   - UTI ruled out
+
+2. COMMUNITY-ACQUIRED PNEUMONIA - Right lower lobe consolidation, elevated WBC,
+   fever, tachycardia, hypoxia.
+   - ADMIT to hospital
+   - Antibiotics: Ceftriaxone + azithromycin per CAP guidelines
+   - Oxygen to maintain sats >92%
+   - Watch for aspiration component given cognitive state
+
+3. DEHYDRATION/ACUTE KIDNEY INJURY - Na 148, Cr 2.1 (baseline 1.4). Prerenal
+   from poor intake.
+   - IV fluids cautiously (afib, prior cardiac history)
+   - Monitor I/O
+
+4. HYPERGLYCEMIA - Glucose 220. Infection-related. Likely missed diabetes
+   medications.
+   - Insulin sliding scale while inpatient
+   - Hold oral agents until stabilized
+
+5. POSSIBLE MISSED ANTICOAGULATION - HIGH CONCERN given afib and high stroke
+   risk. Cannot confirm recent apixaban adherence.
+   - Check no signs of CVA (no focal deficits currently but delirium makes
+     exam difficult)
+   - Resume anticoagulation once able to take PO reliably
+   - Consider bridging with heparin if extended NPO status
+
+6. FALLS - Fell last week. Fall in setting of undiagnosed pneumonia and
+   confusion. High risk.
+
+7. FUNCTIONAL/COGNITIVE BASELINE - Need to reassess after acute illness resolves.
+   Daughter notes decline over 2 months - may have been brewing infection or
+   may represent true dementia progression. Consider formal neuropsych testing
+   after recovery.
+
+8. GOALS OF CARE DISCUSSION - Spoke with daughter. Patient has advance directive
+   (full code currently). Given trajectory, should revisit goals after acute
+   illness resolves. May need to discuss transition to higher level of care
+   (assisted living vs. memory care).
+
+9. SOCIAL - Lives alone, clearly not safe at present. Discharge planning will
+   need to address - likely cannot return to independent living safely.
+
+ADMISSION to medicine service. Called daughter with plan. Will update daily.
+
+Electronically signed by William Harris, MD  10/21/2024 4:30 PM

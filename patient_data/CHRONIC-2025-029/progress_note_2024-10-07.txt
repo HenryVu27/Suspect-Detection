@@ -1,0 +1,110 @@
+PROGRESS NOTE
+Patient: George Williams    DOB: 11/18/1950    MRN: 45678234
+Date: 2024-10-07       Provider: Dr. Robert Kim, MD (Cardiology/Heart Failure)
+
+Chief Complaint: Heart failure worsening, urgent visit
+
+Subjective:
+Pt called HF nurse line with concerning symptoms, brought in for same-day evaluation.
+
+WORSENING SYMPTOMS over past 2 weeks:
+- Weight gain: Up 8 lbs in 10 days despite "trying to be good with salt"
+- Increased edema: Legs swollen to knees. "Can barely get shoes on."
+- Worsening dyspnea: Now SOB with minimal activity - walking 20 feet to bathroom.
+  Orthopnea - now needs 4 pillows to sleep (was 2)
+- NEW: Waking gasping for air 2-3 nights this week (PND)
+- Decreased exercise tolerance: Can't make it upstairs at all now
+- Fatigue: "Exhausted all the time. Can barely get out of chair."
+- Decreased appetite: "Food doesn't taste good. Feel full quickly."
+- Decreased urine output: "Not urinating as much despite drinking fluids."
+
+NEW: ICD shock 3 days ago. "Knocked me off my feet. Just one."
+
+No fever, no chest pain, no recent illness.
+
+Medications: Ran out of dapagliflozin 2 weeks ago. "Prescription needed refill
+and I forgot to call." Has been taking all other medications.
+
+Diet: States he's been compliant but wife interjects: "He had soup at the diner
+last week. The salty kind."
+
+Current Medications:
+- Sacubitril-valsartan 97/103mg BID
+- Carvedilol 25mg BID
+- Dapagliflozin 10mg daily (NOT TAKING - ran out)
+- Spironolactone 25mg daily
+- Furosemide 40mg BID
+- Apixaban 5mg BID
+- Aspirin 81mg daily
+- Atorvastatin 80mg daily
+- Insulin glargine 24 units QHS
+- Insulin lispro sliding scale
+
+Objective:
+Vitals: BP 96/62 (low), HR 110 (irregularly irregular), RR 24, O2 sat 91% RA,
+        Wt 206 lbs (UP 8 lbs from April!!)
+General: Appears fatigued, mild respiratory distress at rest
+JVP: 14cm (significantly elevated)
+Cardiac: Irregularly irregular, tachycardic, S3 gallop present, soft systolic
+         murmur (MR)
+Lungs: Bibasilar crackles to mid-lung fields, decreased breath sounds bases
+Abdomen: Hepatomegaly palpable, mild RUQ tenderness
+Extremities: 3+ pitting edema bilateral to knees, cool
+
+ICD Interrogation (today):
+- AF with RVR: Average HR 105-115 past 2 weeks
+- ONE APPROPRIATE ICD SHOCK 3 days ago - VT episode terminated
+- AF burden: 100%
+
+Labs (STAT today):
+- BNP: 2,450 (markedly elevated, was 450!!)
+- CMP: Na 132 (low), K 5.2, Cr 2.4 (UP from 1.8), BUN 58, glucose 195
+- CBC: Hgb 10.8 (down)
+- Troponin: 0.08 (mildly elevated)
+- Lactate: 1.8
+
+CXR (portable):
+- Cardiomegaly
+- Bilateral pleural effusions, moderate
+- Pulmonary vascular congestion
+- Interstitial edema
+
+Assessment/Plan:
+***ACUTE ON CHRONIC HEART FAILURE EXACERBATION - SEVERE***
+
+1. Acute HF Exacerbation - ADMIT TO HOSPITAL
+   - Clinical profile: Wet and cold (congested with hypoperfusion signs)
+   - Triggers identified: SGLT2i nonadherence x2 weeks, dietary indiscretion,
+     possible uncontrolled afib contributing
+   - Immediate management:
+     * IV furosemide 80mg bolus now, then 10mg/hr continuous infusion
+     * Strict I/O, daily weights
+     * Telemetry monitoring
+     * Oxygen supplementation to maintain O2 >92%
+     * HOLD sacubitril-valsartan temporarily (hypotension)
+   - If no response to diuresis, may need inotropic support or ultrafiltration
+   - RESTART dapagliflozin once stabilized - CRITICAL medication
+
+2. Atrial fibrillation with RVR - contributing to decompensation
+   - Rate control inadequate on carvedilol alone
+   - Add IV digoxin load (0.25mg x2 doses) then 0.125mg daily (renally dose)
+   - Goal HR <100
+
+3. ICD therapy - APPROPRIATE shock for VT. Will review full device data with
+   EP. May need VT ablation evaluation if recurrent.
+
+4. Acute Kidney Injury on CKD - Cr 1.8 → 2.4. Cardiorenal syndrome. May worsen
+   with diuresis but benefit outweighs risk. Hold dapagliflozin until renal
+   function stabilizes.
+
+5. Hyponatremia - Na 132. Dilutional from HF. Fluid restrict 1.5L/day.
+
+6. Troponin elevation - Type 2 MI (demand ischemia from afib RVR). Not ACS.
+
+7. Goals of care - Will discuss with patient and family. Advanced HF options
+   (LVAD, transplant) may need to be considered if continues to decline.
+   Patient is 73 - borderline candidate.
+
+ADMISSION ORDERS PLACED. Called daughter to update.
+
+Electronically signed by Robert Kim, MD  10/07/2024 3:45 PM

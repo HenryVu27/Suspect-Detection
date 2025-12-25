@@ -1,0 +1,137 @@
+HEALTH RISK ASSESSMENT
+Patient: Barbara Jackson
+Date Completed: 2024-09-20
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Better (blood pressure much better)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[X] Frequent urination - more than before, but doctor says it's from medication
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - Type 2, on medication
+[X] High blood pressure - yes, on three medications now
+[X] High cholesterol - yes
+[ ] Heart disease
+[ ] Stroke
+[X] Kidney disease - yes, my kidneys aren't working at full capacity
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+High Blood Pressure: Yes
+    Who? Mother, father, two sisters
+    All have/had high blood pressure
+
+Kidney Disease: Yes
+    Who? Mother
+    Notes: She was on dialysis for years before she passed
+
+Diabetes: Yes
+    Who? Mother, sister
+    Age at diagnosis? Mother at 60, sister at 55
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? Had heart attack at 72
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Occasionally
+    How often? 1-2 times per month
+    How many drinks per occasion? 1 glass of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week
+What type of exercise? Walking (30 min), water aerobics at the Y
+What barriers prevent you from exercising more?
+    [X] Work schedule (still working part-time as administrative assistant)
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Improving
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? Rarely now
+Do you follow any special diet?
+    [X] Low sodium - trying hard!
+    [X] Diabetic diet
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (worry about kidneys sometimes)
+
+Do you feel you have adequate emotional support? Yes - husband, kids nearby
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    No - insurance covers most
+Are you currently employed? Part-time (administrative assistant, planning to retire next year)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I'm worried about my kidneys. My mother was on dialysis for years and I saw how
+hard that was for her. I don't want to end up on dialysis. My doctor says we're
+doing everything we can to slow it down and my numbers have stabilized which is
+good news.
+
+My blood pressure was always hard to control until we added the new medicine. Now
+it's much better. I've also really been trying to watch my salt which is hard
+because I love salty snacks!
+
+I'm planning to retire next year and want to make sure my health is in good shape.
+I want to enjoy retirement and spend time with my grandkids. I'm trying to lose
+a little weight and exercise more."
+
+================================================================================

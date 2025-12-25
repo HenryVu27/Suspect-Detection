@@ -1,0 +1,68 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Heart Failure Clinic)
+Export Date: 2023-12-18
+Patient: George Williams    DOB: 11/18/1950    MRN: 45678234
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Heart Failure with Reduced Ejection Fraction (I50.22)
+   - First Documented: 2019-04-15
+   - Status: Active
+   - Managing Provider: Dr. Robert Kim (Cardiology/Heart Failure)
+   - Notes: Ischemic cardiomyopathy. EF 30%. On GDMT. ICD in place.
+
+2. Coronary Artery Disease, s/p MI (I25.2)
+   - First Documented: 2019-03-22
+   - Status: Active
+   - Notes: Anterior STEMI 2019, LAD stent. On aspirin/statin.
+
+3. Atrial Fibrillation, persistent (I48.1)
+   - First Documented: 2020-08-10
+   - Status: Active
+   - Notes: Rate-controlled. On anticoagulation.
+
+4. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2010-06-15
+   - Status: Active
+   - Notes: On insulin.
+
+5. Chronic Kidney Disease Stage 3b (N18.32)
+   - First Documented: 2021-02-20
+   - Status: Active
+   - Notes: eGFR 38. Cardiorenal syndrome.
+
+6. Hypertension (I10)
+   - First Documented: 2005-03-18
+   - Status: Active
+   - Notes: On beta-blocker and ACEi.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Heart Failure Exacerbation (I50.23)
+   - Episode: 2023-01-15 to 2023-01-22
+   - Notes: Hospitalized, IV diuretics. Dietary indiscretion trigger.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. PCI with LAD stent
+   - Date: 2019-03-22
+   - Hospital: University Hospital
+   - Notes: During acute STEMI
+
+2. ICD implantation
+   - Date: 2020-02-15
+   - Hospital: University Hospital
+   - Notes: Primary prevention
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Lisinopril
+   - Reaction: Angioedema
+   - Severity: Severe
+   - Notes: On sacubitril-valsartan instead
+
+================================================================================

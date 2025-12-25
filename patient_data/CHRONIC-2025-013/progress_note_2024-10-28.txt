@@ -1,0 +1,54 @@
+PROGRESS NOTE
+Patient: Sandra Mitchell    DOB: 09/30/1960    MRN: 67891456
+Date: 2024-10-28       Provider: Dr. James Wilson, MD
+
+Chief Complaint: HTN/CKD follow-up
+
+Subjective:
+64 yo F returns for chronic disease follow-up. Reports BP much better at home since
+starting spironolactone and consolidating evening meds - now running 135-145/80-88.
+Using pill organizer - "game changer for remembering my meds."
+
+Saw nutritionist - working on reducing sodium, bringing lunch from home instead of
+eating cafeteria food. Lost 5 lbs.
+
+No headaches, chest pain, SOB, swelling. Energy good.
+
+Planning to retire next year - looking forward to less stress.
+
+Current Medications:
+- Lisinopril 40mg daily (AM)
+- Amlodipine 10mg QHS
+- Chlorthalidone 25mg daily (AM)
+- Metoprolol succinate 100mg QHS
+- Spironolactone 25mg daily (AM)
+- Atorvastatin 40mg QHS
+
+Objective:
+Vitals: BP 138/82, HR 64, RR 14, Wt 193 lbs (-5), BMI 32.6
+General: Well-appearing, less anxious
+CV: RRR, S4 present
+Lungs: Clear
+Ext: No edema
+
+Labs from 10/21:
+- Cr: 1.45 (stable), eGFR 42
+- K: 5.0 (on spironolactone - monitor)
+- Urine ACR: 85 mg/g (improved from 120!)
+- Aldosterone/Renin ratio: 12 (normal - no primary aldo)
+
+Assessment/Plan:
+1. Resistant Hypertension - NOW CONTROLLED! BP 138/82 today, home readings confirm.
+   Spironolactone addition was key. No primary aldosteronism per labs - just
+   resistant HTN responding to MRA. Continue current regimen.
+   Monitor K on spironolactone.
+2. CKD Stage 3b - eGFR 42, STABLE. Proteinuria improved (ACR 85, was 120)! BP control
+   is slowing progression. Excellent response.
+3. LVH - will need repeat echo in 1-2 years to assess for regression with BP control.
+4. Obesity - making progress! 5 lb weight loss. Encourage continued efforts.
+5. Hyperlipidemia - controlled.
+
+Continue current regimen. This is an excellent response to intensified management.
+RTC 4 months. Recheck K in 2 weeks (on spironolactone + ACEi).
+
+Electronically signed by James Wilson, MD  10/28/2024 4:00 PM

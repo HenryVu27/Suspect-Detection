@@ -1,0 +1,74 @@
+LABORATORY REPORT
+Patient: Anthony Delgado    DOB: 11/22/1988    MRN: 91234789
+Collection Date: 2024-10-15 08:30 AM (Fasting, 12 hours post-lithium dose)
+Ordering Provider: Dr. Elizabeth Warren (Psychiatry)
+Performing Lab: Mount Sinai Clinical Laboratory
+
+================================================================================
+LITHIUM LEVEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Lithium, Serum               0.8         0.6-1.2 mEq/L       THERAPEUTIC
+
+Collection timing: 12 hours post-dose (appropriate for trough level)
+
+================================================================================
+THYROID FUNCTION
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+TSH                          2.4         0.4-4.0 mIU/L
+Free T4                      1.2         0.8-1.8 ng/dL
+
+Note: Improved from prior TSH 5.8 on increased levothyroxine dose
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose                      95          70-100 mg/dL
+BUN                          18          7-20 mg/dL
+Creatinine                   1.1         0.7-1.3 mg/dL
+eGFR                         82          >60 mL/min
+Sodium                       140         136-145 mEq/L
+Potassium                    4.2         3.5-5.0 mEq/L
+Chloride                     102         98-106 mEq/L
+CO2                          24          23-29 mEq/L
+Calcium                      9.5         8.5-10.5 mg/dL
+
+================================================================================
+LIPID PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Total Cholesterol            185         <200 mg/dL
+Triglycerides                145         <150 mg/dL
+HDL Cholesterol              48          >40 mg/dL
+LDL Cholesterol (calc)       118         <100 mg/dL          HIGH
+
+================================================================================
+COMPLETE BLOOD COUNT
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          7.8         4.5-11.0 K/uL
+RBC                          5.0         4.5-5.5 M/uL
+Hemoglobin                   14.8        13.5-17.5 g/dL
+Hematocrit                   44.2        38-50%
+Platelet Count               265         150-400 K/uL
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+
+LITHIUM MONITORING - SATISFACTORY:
+1. Lithium level 0.8 mEq/L - therapeutic range, improved from prior 0.5
+2. Renal function stable (Cr 1.1, eGFR 82)
+3. Thyroid function normalized (TSH 2.4) on adjusted levothyroxine
+4. LDL still above goal but improved - continue lifestyle modifications
+
+No evidence of lithium toxicity or renal impairment.
+
+Report electronically signed by: Robert Chen, MD, Laboratory Director
+2024-10-15 12:00 PM

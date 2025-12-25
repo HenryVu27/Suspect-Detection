@@ -1,0 +1,67 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Northwestern Medicine)
+Export Date: 2023-12-22
+Patient: Dorothy Chen    DOB: 02/28/1945    MRN: 45678234
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Osteoporosis, postmenopausal with fracture (M80.00XA)
+   - First Documented: 2018-06-15
+   - Status: Active
+   - Managing Provider: Dr. Michael Torres (Endocrinology)
+   - Notes: Vertebral compression fractures T12, L1. On alendronate.
+
+2. Vitamin D Deficiency (E55.9)
+   - First Documented: 2018-06-15
+   - Status: Active
+   - Notes: On supplementation.
+
+3. Hypertension (I10)
+   - First Documented: 2010-03-20
+   - Status: Active
+   - Notes: Well-controlled on amlodipine.
+
+4. Hypothyroidism (E03.9)
+   - First Documented: 2005-11-08
+   - Status: Active
+   - Notes: On levothyroxine. Monitor for overcorrection.
+
+5. Osteoarthritis, generalized (M15.9)
+   - First Documented: 2012-08-22
+   - Status: Active
+   - Notes: Knees and hips primarily.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Vertebral Compression Fracture T12 (M80.08XA)
+   - Episode: 2018-05-20
+   - Notes: Minimal trauma. Led to osteoporosis diagnosis.
+
+2. Vertebral Compression Fracture L1 (M80.08XA)
+   - Episode: 2021-02-15
+   - Notes: Fall from standing. Kyphoplasty performed.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Kyphoplasty L1
+   - Date: 2021-02-22
+   - Hospital: Northwestern Memorial
+   - Notes: For vertebral compression fracture
+
+2. Total Hysterectomy
+   - Date: 1995-04-15
+   - Hospital: Community Hospital
+   - Notes: Fibroids
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Ibandronate
+   - Reaction: Severe esophageal irritation
+   - Severity: Moderate
+   - Notes: Switched to alendronate with strict protocols
+
+================================================================================

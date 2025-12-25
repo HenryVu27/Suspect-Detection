@@ -1,0 +1,54 @@
+PROGRESS NOTE
+Patient: David Chen    DOB: 02/15/1969    MRN: 67891234
+Date: 2024-10-22       Provider: Dr. Richard Thompson, MD
+
+Chief Complaint: Routine diabetes/HTN follow-up
+
+Subjective:
+Pt doing well overall. Maintaining lifestyle changes though admits "slipped a bit
+over the summer" with vacations. Weight stable. Still exercising regularly. Glucose
+readings at home slightly higher than spring - fasting 110-130.
+
+Colonoscopy done in July - one small benign polyp removed, repeat in 5 years.
+Saw podiatry - feet fine.
+
+Reports increased stress at work - company layoffs, worried about job security.
+Having trouble sleeping - takes hours to fall asleep, wakes frequently. "Mind just
+won't shut off." Mood somewhat down. Not enjoying things as much. Appetite decreased.
+Denies SI.
+
+Current Medications:
+- Lisinopril 10mg daily
+- Metformin 500mg BID
+- Atorvastatin 40mg QHS
+
+Objective:
+Vitals: BP 134/86, HR 78, RR 14, Wt 188 lbs (+2), BMI 27.0
+General: Appears tired, somewhat subdued
+Psych: Anxious, tearful when discussing work stress
+Feet: Normal exam
+
+Labs from 10/15:
+- HbA1c: 6.6% (slight increase)
+- Fasting glucose: 118
+- Cr: 0.9, eGFR 92
+- LDL: 78
+
+PHQ-9: 12 (moderate depression)
+GAD-7: 14 (moderate anxiety)
+
+Assessment/Plan:
+1. Type 2 Diabetes - A1c 6.6%, slight uptick but still well controlled. Will not
+   change medication. Reinforce lifestyle.
+2. HTN - slightly elevated today. May be white coat effect or stress-related. Monitor.
+3. Hyperlipidemia - at goal.
+4. NEW: Adjustment disorder with mixed anxiety and depressed mood - significant
+   occupational stressor. PHQ-9: 12, GAD-7: 14. Discussed counseling vs medication.
+   Patient prefers to try counseling first. Referred to behavioral health. Sleep
+   hygiene discussed. Will consider medication if symptoms worsen or persist.
+5. Insomnia - likely secondary to anxiety. Avoid starting sleep meds until
+   underlying anxiety addressed.
+
+RTC 6-8 weeks. Sooner if mood worsens. Behavioral health referral placed.
+
+Electronically signed by Richard Thompson, MD  10/22/2024 3:15 PM

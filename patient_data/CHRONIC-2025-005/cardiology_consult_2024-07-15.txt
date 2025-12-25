@@ -1,0 +1,104 @@
+CARDIOLOGY CONSULTATION
+
+Patient: Aisha Hassan    DOB: 07/28/1982    MRN: 78912345
+Date of Service: 2024-07-15
+Referring Provider: Dr. Lisa Wong (Endocrinology)
+Consulting Provider: Dr. James Miller, MD, FACC
+
+================================================================================
+REASON FOR CONSULTATION
+
+Pre-surgical cardiac clearance for thyroidectomy. History of paroxysmal atrial
+fibrillation in setting of hyperthyroidism.
+
+================================================================================
+HISTORY OF PRESENT ILLNESS
+
+42 yo F with Graves' disease diagnosed March 2022. Initial presentation included
+palpitations, and she was found to be in atrial fibrillation with RVR. She was
+admitted for thyroid storm triggered by URI. Since achieving euthyroid state on
+methimazole, she has had no AFib recurrence. She is on metoprolol 25mg BID for
+rate control.
+
+Now planning total thyroidectomy for pregnancy planning (allergic to PTU, wants
+definitive treatment). Referred for surgical clearance.
+
+Denies palpitations, chest pain, dyspnea, syncope, or near-syncope. Exercise
+tolerance good - does yoga and walking without symptoms.
+
+================================================================================
+PAST MEDICAL HISTORY
+
+- Graves' disease
+- Paroxysmal atrial fibrillation (March 2022, no episodes since euthyroid)
+- Anxiety disorder
+- IBS-D
+
+================================================================================
+MEDICATIONS
+
+- Methimazole 10mg daily
+- Metoprolol succinate 25mg BID
+- Buspirone 10mg BID
+- Vitamin D3 2000 IU daily
+
+================================================================================
+ALLERGIES
+
+PTU - hepatotoxicity
+
+================================================================================
+SOCIAL HISTORY
+
+Non-smoker. Rare alcohol. Software engineer. Married, planning pregnancy.
+
+================================================================================
+FAMILY HISTORY
+
+Father - MI at age 58
+Mother - RA
+No sudden cardiac death
+
+================================================================================
+PHYSICAL EXAMINATION
+
+Vitals: BP 116/72, HR 68 regular, RR 14
+General: Well-appearing female in no distress
+CV: RRR, S1 S2 normal, no murmurs, gallops, or rubs
+Lungs: Clear
+Ext: No edema, pulses 2+ throughout
+Neck: Mild thyromegaly, no JVD
+
+================================================================================
+DIAGNOSTICS REVIEWED
+
+ECG (today): Normal sinus rhythm, HR 68, normal axis, no ST changes
+Echocardiogram (2022): Normal LV function EF 60%, no structural abnormalities,
+                       LA mildly dilated at time (likely due to AFib/hyperthyroid)
+Holter monitor (2023): Sinus rhythm throughout, no arrhythmias
+
+================================================================================
+IMPRESSION
+
+1. Paroxysmal atrial fibrillation - likely thyrotoxic, no recurrence since 2022
+   when euthyroid achieved
+2. Graves' disease - euthyroid on methimazole
+3. Planning thyroidectomy for pregnancy planning
+
+================================================================================
+RECOMMENDATIONS
+
+1. CARDIAC CLEARANCE GRANTED for thyroidectomy - low surgical risk
+2. Continue metoprolol through perioperative period for rate control during
+   potential thyroid manipulation
+3. Post-operatively, once confirmed hypothyroid and stable on levothyroxine,
+   can consider weaning off metoprolol. If AFib was solely thyroid-induced,
+   may not need long-term rate control.
+4. CHA2DS2-VASc score = 1 (female). No anticoagulation indicated currently.
+5. Repeat ECG post-operatively, consider Holter if any palpitations
+6. Follow-up with cardiology in 2-3 months post-surgery
+
+Thank you for this interesting consultation.
+
+Electronically signed by James Miller, MD, FACC
+2024-07-15 3:30 PM

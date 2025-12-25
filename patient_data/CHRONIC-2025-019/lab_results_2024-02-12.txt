@@ -1,0 +1,70 @@
+LABORATORY RESULTS
+Patient: Dorothy Chen    DOB: 02/28/1945    MRN: 45678234
+Collection Date: 2024-02-12 09:00    Reported: 2024-02-12 15:45
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+Glucose                 98          mg/dL       70-100
+BUN                     24          mg/dL       7-20                H
+Creatinine              1.0         mg/dL       0.6-1.2
+eGFR                    55          mL/min      >60                 L
+Sodium                  141         mEq/L       136-145
+Potassium               4.3         mEq/L       3.5-5.0
+Chloride                104         mEq/L       98-106
+CO2                     26          mEq/L       22-29
+Calcium                 9.2         mg/dL       8.5-10.5
+Phosphorus              3.8         mg/dL       2.5-4.5
+Total Protein           7.0         g/dL        6.0-8.3
+Albumin                 3.8         g/dL        3.5-5.0
+AST                     22          U/L         10-40
+ALT                     18          U/L         7-56
+Alk Phos                95          U/L         44-147
+Bilirubin, Total        0.5         mg/dL       0.1-1.2
+
+================================================================================
+THYROID FUNCTION
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+TSH                     0.8         mIU/L       0.4-4.0
+
+================================================================================
+VITAMIN D
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+25-OH Vitamin D         42          ng/mL       30-100
+
+================================================================================
+BONE TURNOVER MARKERS
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+CTX (C-telopeptide)     450         pg/mL       <300                H
+
+Interpretation: Elevated CTX indicates ongoing bone resorption despite
+bisphosphonate therapy. Suggests inadequate response to alendronate.
+
+================================================================================
+DEXA BONE DENSITY (02/10/2024)
+================================================================================
+Site                    T-Score     Z-Score     Change from 2022
+------------------------------------------------------------------------------
+Lumbar Spine (L1-L4)    -3.2        -1.4        -0.2 (WORSENING)
+Femoral Neck            -2.9        -1.1        -0.2 (WORSENING)
+Total Hip               -2.6        -0.9        -0.1 (WORSENING)
+
+FRAX 10-year Fracture Risk:
+- Major osteoporotic fracture: 32%
+- Hip fracture: 18%
+
+Interpretation: Severe osteoporosis with T-scores worsening at all sites despite
+bisphosphonate therapy. Prior vertebral fractures. High fracture risk.
+Recommend consideration of anabolic therapy.
+
+================================================================================
+Resulted by: Laboratory Information System
+Reviewed by: Michael Torres, MD

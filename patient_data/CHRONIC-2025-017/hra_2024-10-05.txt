@@ -1,0 +1,139 @@
+HEALTH RISK ASSESSMENT
+Patient: Maria Gonzalez
+Date Completed: 2024-10-05
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Much better
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping - much better now
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[X] Headaches - occasional migraines, less frequent
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[X] Back pain - chronic but manageable
+[ ] Nightmares - rare now (used to be frequent)
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - yes, related to PTSD
+[ ] Anxiety
+[ ] Sleep apnea
+[X] PTSD - combat-related, on medication and therapy
+[X] Traumatic Brain Injury - mild TBI from blast, 2014
+
+================================================================================
+FAMILY HISTORY
+
+Depression: Yes
+    Who? Mother
+
+Heart Disease: Yes
+    Who? Grandfather
+
+Diabetes: Yes
+    Who? Father
+    Age at diagnosis? 52
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2017
+    How much did you smoke? Occasionally during deployment
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    How often? Maybe once per month
+    How many drinks per occasion? 1-2
+    Notes: Careful with alcohol due to PTSD - can trigger symptoms
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 4-5 times per week
+What type of exercise? Gym (weights and cardio), running, hiking
+What barriers prevent you from exercising more?
+    [ ] None - exercise is crucial for my mental health
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4-5
+How often do you eat fast food? Rarely
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (but much better than before)
+
+Do you feel you have adequate emotional support? Yes - partner, women vets group, therapist
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    No - VA covers everything
+Are you currently employed? Yes, full-time (EMT supervisor)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I just finished a trauma therapy called CPT and it changed my life. I was
+skeptical at first - I'd tried therapy before and it didn't help much. But this
+was different. My therapist helped me work through the memories and beliefs
+I had about what happened in Afghanistan.
+
+I used to have nightmares almost every night and couldn't go to crowded places
+without panicking. Now I rarely have nightmares and I can do normal things again.
+I still avoid fireworks and certain movies but that's okay - I'm not trying to be
+'cured', just functional.
+
+Working as an EMT helps give meaning to what I went through. I can help people
+in crisis because I understand what it's like. I got promoted to supervisor
+recently which feels good.
+
+The VA has taken good care of me. I know a lot of veterans have bad experiences
+but my team has been great. I tell other veterans to give treatment a chance."
+
+================================================================================

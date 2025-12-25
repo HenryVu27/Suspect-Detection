@@ -1,0 +1,92 @@
+PROGRESS NOTE
+Patient: Christopher Martinez    DOB: 03/30/1979    MRN: 34567123
+Date: 2024-03-25       Provider: Dr. Amy Nguyen, MD (Neurology/MS)
+
+Chief Complaint: MS follow-up, stable
+
+Subjective:
+44 yo M with relapsing-remitting MS (diagnosed 2012) here for routine follow-up.
+On ocrelizumab since 2019 with good disease control.
+
+Reports doing well overall. No new neurological symptoms. No vision changes, no
+new numbness or weakness, no worsening gait.
+
+Bladder: Urgency still present but manageable on oxybutynin. No incontinence.
+Gets up 2x/night to urinate.
+
+Fatigue: "My constant companion." Uses modafinil on work days - helps but
+doesn't eliminate fatigue. Rates energy 5/10 on average.
+
+Mood: Stable on bupropion. "Better than I was." Seeing therapist monthly.
+
+Walking: Can walk about half a mile before needing to rest. Uses no assistive
+device. Slight limp when fatigued.
+
+Working as accountant (desk job). Managing full-time but "exhausted by Friday."
+
+Last ocrelizumab infusion was 2 weeks ago - tolerated well.
+
+No infections. No fever.
+
+Current Medications:
+- Ocrelizumab 600mg IV every 6 months (last 03/11/2024)
+- Oxybutynin 5mg TID
+- Modafinil 200mg daily PRN
+- Bupropion 150mg daily
+- Vitamin D3 5000 IU daily
+- Vitamin B12 1000mcg daily
+
+Objective:
+Vitals: BP 122/78, HR 68, Wt 185 lbs
+General: Well-appearing, cooperative
+Neuro Exam:
+  - Mental status: Alert, oriented, normal cognition
+  - Cranial nerves: Left pupil slightly sluggish (old optic neuritis), otherwise
+    intact
+  - Motor: 5/5 throughout, no drift
+  - Sensory: Intact
+  - Reflexes: Brisk at knees bilaterally, 2+ elsewhere, toes downgoing
+  - Coordination: Intact finger-to-nose, no intention tremor
+  - Gait: Mildly wide-based, slight left leg circumduction, tandem difficult
+
+EDSS: 2.5 (stable)
+
+Labs (pre-infusion, 03/11/2024):
+- CBC: WBC 5.8, Hgb 14.2, Plt 220
+- CMP: Normal
+- Vitamin D: 48 (adequate on supplementation)
+- B12: 650 (normal)
+- Hepatitis B: Surface antibody positive (vaccinated), core negative
+
+MRI Brain (02/2024):
+- No new T2 lesions compared to 2023
+- No gadolinium-enhancing lesions
+- Stable chronic lesion burden (15+ periventricular, several juxtacortical)
+- Mild volume loss (stable)
+
+Assessment/Plan:
+1. Multiple Sclerosis, Relapsing-Remitting - STABLE on ocrelizumab. No relapses
+   since 2022. No MRI progression. EDSS stable at 2.5.
+   - Continue ocrelizumab every 6 months
+   - Next MRI brain in 1 year
+   - Vaccinations: Ensure up to date (avoid live vaccines on ocrelizumab)
+     Flu and COVID vaccines recommended. Review pneumonia vaccine status.
+
+2. MS Fatigue - chronic. Modafinil somewhat helpful.
+   - Continue modafinil PRN
+   - Discussed importance of pacing, adequate sleep
+   - May consider amantadine if modafinil insufficient
+
+3. Neurogenic Bladder - managed on oxybutynin. Consider urology referral if
+   worsening.
+
+4. Depression - stable on bupropion. Continue therapy.
+
+5. Vitamin D - level adequate. Continue supplementation.
+
+6. Infection monitoring - on B-cell depleting therapy. Low threshold for
+   antibiotics if URI symptoms. Report any fevers promptly.
+
+Continue current regimen. RTC 6 months (around next infusion).
+
+Electronically signed by Amy Nguyen, MD  03/25/2024 2:00 PM

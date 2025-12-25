@@ -1,0 +1,49 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (UCSF Health)
+Export Date: 2023-12-12
+Patient: Emily Nakamura    DOB: 11/14/1992    MRN: 12345891
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Asthma, mild persistent (J45.30)
+   - First Documented: 2008-03-15
+   - Status: Active
+   - Managing Provider: Dr. Jennifer Liu
+   - Notes: Well controlled on low-dose ICS. Triggers: exercise, cold air, cats
+
+2. Allergic Rhinitis (J30.9)
+   - First Documented: 2005-06-20
+   - Status: Active
+   - Notes: Seasonal and perennial. On cetirizine and fluticasone nasal spray.
+
+3. Eczema (L30.9)
+   - First Documented: 2002-04-10
+   - Status: Active
+   - Notes: Mild, intermittent. Uses hydrocortisone cream PRN.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Asthma exacerbation (J45.901)
+   - Episode: 2022-09-15
+   - Resolved: 2022-09-22
+   - Notes: Triggered by wildfire smoke. Required short prednisone course.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Cats
+   - Reaction: Asthma exacerbation, rhinitis, hives
+   - Severity: Moderate
+
+2. Dust mites
+   - Reaction: Rhinitis, asthma symptoms
+   - Severity: Mild
+
+================================================================================

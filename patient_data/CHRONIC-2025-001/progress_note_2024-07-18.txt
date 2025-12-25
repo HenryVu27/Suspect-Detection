@@ -1,0 +1,63 @@
+PROGRESS NOTE
+Patient: Patricia Williams    DOB: 08/22/1962    MRN: 34567891
+Date: 2024-07-18       Provider: Dr. Michael Roberts, MD
+
+Chief Complaint: Follow-up diabetes, hypertension
+
+Subjective:
+Pt returns for DM follow-up. Reports feeling "a little better" on Jardiance - glucose
+readings improved, fasting now 120-150. Still having nocturia but maybe slightly less.
+Lost 4 lbs without really trying - attributes to Jardiance. Neuropathy symptoms unchanged.
+
+Mood-wise, admits she's been struggling. Daughter going through chemo, she's been the
+primary support. "I cry every day." Sleep poor - 4-5 hours. Low energy. Not enjoying
+things she used to. Husband says she's been "withdrawn."
+
+Reports loud snoring per husband. He says she "stops breathing" sometimes at night
+then gasps. Wakes up with headaches most mornings. Falls asleep watching TV.
+
+No chest pain or SOB. No vision changes.
+
+Current Medications:
+- Metformin 1000mg BID
+- Glipizide 10mg BID
+- Jardiance 10mg daily
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Atorvastatin 80mg QHS
+- Gabapentin 400mg TID
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 138/86, HR 78, RR 16, Temp 98.2F, Wt 230 lbs (-4 lbs), BMI 38.2, SpO2 95% RA
+General: Obese female, tired appearing, slow to respond
+HEENT: Neck circumference appears large, MMM
+CV: RRR
+Lungs: CTA
+Ext: No edema, sensation unchanged
+
+Labs from 07/10:
+- HbA1c: 7.6% (improved)
+- Cr: 1.3 (eGFR 48)
+- Urine ACR: 85 mg/g (elevated - moderately increased albuminuria)
+- LDL: 95
+
+Assessment/Plan:
+1. T2DM - improved on Jardiance. A1c 7.6%. Continue current regimen.
+2. Diabetic nephropathy - eGFR continues to decline (now 48), ACR elevated at 85.
+   Already on ACEi and SGLT2i which is appropriate. Will continue to monitor.
+3. HTN - improved but still above goal. Continue current meds.
+4. Neuropathy - stable symptoms. Continue gabapentin.
+5. Mood concerns - PHQ-9 today: 16 (moderately severe). Patient previously on
+   sertraline and self-discontinued. Given current stressors and symptom severity,
+   strongly recommend restarting antidepressant. Pt reluctant, wants to "see if
+   things get better on their own." Discussed risks of untreated depression.
+   Will revisit at next visit. Provided mental health resources.
+6. Possible OSA - classic symptoms reported (snoring, witnessed apneas, morning HA,
+   daytime somnolence). Would benefit from sleep study. Will order. High suspicion
+   in obese patient with HTN.
+7. Obesity - weight trending down slightly. Encouraged continued efforts.
+
+RTC 3 months. Sleep study pending.
+
+Electronically signed by Michael Roberts, MD  07/18/2024 3:15 PM

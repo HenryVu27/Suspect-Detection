@@ -1,0 +1,82 @@
+PROGRESS NOTE
+Patient: Darnell Washington    DOB: 04/12/1968    MRN: 89123456
+Date: 2024-02-15       Provider: Dr. Maria Santos, MD
+
+Chief Complaint: Diabetes follow-up
+
+Subjective:
+56 yo M with long-standing T2DM on insulin here for routine follow-up. Reports
+glucose "running high" - fasting 180-220, post-meal often over 300. Admits he's
+been "stretching" his insulin to make it last longer.
+
+When asked to clarify, patient states he lost his job 4 months ago and with it
+his insurance. Has been paying out of pocket for medications. Lantus cost is
+"impossible" - over $300/month. Has been using half his usual Lantus dose and
+skipping Humalog doses at meals to make it last.
+
+Also reports stopping his sertraline because "couldn't afford everything." Mood
+has been low - "hard to care about anything when you can't afford to stay alive."
+Denies SI.
+
+Neuropathy symptoms worsening - burning in feet at night. Also notes intermittent
+blurry vision. Last eye exam over a year ago.
+
+Current Medications (per patient - not what's prescribed):
+- Lantus 25 units QHS (prescribed 50 units - taking half)
+- Humalog 10 units with meals (taking maybe 1-2x/day instead of 3x)
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Atorvastatin 40mg QHS
+- Gabapentin 300mg TID
+- Allopurinol 300mg daily
+- NOT taking: sertraline (stopped), CPAP (returned equipment)
+
+Objective:
+Vitals: BP 158/94, HR 88, RR 18, Wt 242 lbs (+8 lbs), BMI 36.2
+General: Tired appearing, poor eye contact, affect flat
+HEENT: Dry mucous membranes
+CV: RRR
+Lungs: Clear
+Ext: 1+ pitting edema bilateral LE, right foot missing 2nd toe, no current ulcers,
+     sensation markedly decreased bilateral feet
+Psych: Flat affect, psychomotor slowing
+
+Labs from 02/08:
+- HbA1c: 11.2% (was 8.5%)
+- Fasting glucose: 245
+- Cr: 1.8 (up from 1.4), eGFR 38
+- K: 5.4 (H)
+- Urine ACR: 320 mg/g
+
+Assessment/Plan:
+CRITICAL CONCERN: Patient is rationing insulin due to inability to afford medications.
+This is a medical emergency - DKA risk is high.
+
+1. Type 2 Diabetes - POORLY CONTROLLED, A1c 11.2%. Insulin rationing identified.
+   ACTION TAKEN:
+   - Provided samples of Lantus from office supply
+   - Enrolled in Lantus patient assistance program (application submitted today)
+   - Switched Humalog to Novolog (manufacturer assistance available)
+   - Social work consulted for Medicaid application
+   - Glucose log provided, ketone strips given, education on DKA warning signs
+2. CKD - worsening, eGFR now 38 (was 45). Stage 3b. Hyperkalemia developing.
+   Defer ACE increase given K 5.4. Nephrology referral placed.
+3. Depression - OFF MEDICATIONS. PHQ-9 today: 18 (moderately severe). Started on
+   fluoxetine (generic, $4 list). Crisis resources provided. Patient denies SI
+   but feels hopeless about situation.
+4. HTN - not controlled. Adding HCTZ would help BP and K but need to be careful
+   with diuretics in CKD. Will defer until nephrology input.
+5. Neuropathy - gabapentin can continue. Symptomatic worsening likely from poor
+   glucose control.
+6. Diabetic retinopathy - OVERDUE for eye exam. Urgent ophthalmology referral.
+7. OSA - not treating. Will need to address once stability achieved.
+
+SOCIAL WORK URGENT REFERRAL for:
+- Medicaid application
+- Medication assistance programs
+- Food insecurity screening
+- Transportation assistance
+
+RTC 2 weeks or sooner if any signs of DKA. Patient verbalized understanding.
+
+Electronically signed by Maria Santos, MD  02/15/2024 5:15 PM

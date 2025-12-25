@@ -1,0 +1,61 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Mayo Clinic)
+Export Date: 2023-12-20
+Patient: Patricia O'Brien    DOB: 07/18/1965    MRN: 34567123
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Rheumatoid Arthritis, seropositive (M05.79)
+   - First Documented: 2015-03-12
+   - Status: Active
+   - Managing Provider: Dr. Sandra Kim (Rheumatology)
+   - Notes: RF+, anti-CCP+. On methotrexate and adalimumab. Well-controlled.
+
+2. Osteoporosis, postmenopausal (M81.0)
+   - First Documented: 2019-08-22
+   - Status: Active
+   - Notes: Steroid-induced and postmenopausal. DEXA T-score -2.8 hip.
+
+3. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2018-11-05
+   - Status: Active
+   - Notes: Steroid-related. On metformin.
+
+4. Hypertension (I10)
+   - First Documented: 2016-04-18
+   - Status: Active
+   - Notes: Well-controlled on lisinopril.
+
+5. Gastroesophageal Reflux Disease (K21.0)
+   - First Documented: 2017-09-10
+   - Status: Active
+   - Notes: On omeprazole.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. RA Flare (M05.79)
+   - Episode: 2022-11-15 to 2022-12-20
+   - Notes: Required prednisone burst. Resolved.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Total Knee Replacement, left
+   - Date: 2021-06-15
+   - Hospital: Mayo Clinic
+   - Notes: RA-related joint destruction
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Sulfasalazine
+   - Reaction: Severe rash
+   - Severity: Moderate
+
+2. Penicillin
+   - Reaction: Hives
+   - Severity: Moderate
+
+================================================================================

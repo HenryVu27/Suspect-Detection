@@ -1,0 +1,48 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Stanford Health)
+Export Date: 2023-12-18
+Patient: Michael Anderson    DOB: 08/15/1972    MRN: 89123678
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Generalized Anxiety Disorder (F41.1)
+   - First Documented: 2015-06-20
+   - Status: Active
+   - Managing Provider: Dr. Robert Lee
+   - Notes: On venlafaxine 150mg. Well controlled most of the time.
+
+2. Panic Disorder (F41.0)
+   - First Documented: 2016-02-14
+   - Status: Active
+   - Notes: Occasional panic attacks. Has PRN lorazepam.
+
+3. Essential Hypertension (I10)
+   - First Documented: 2019-04-10
+   - Status: Active
+   - Notes: On lisinopril 10mg
+
+4. Gastroesophageal Reflux Disease (K21.0)
+   - First Documented: 2017-08-22
+   - Status: Active
+   - Notes: On pantoprazole
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+None
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Shoulder arthroscopy
+   - Date: 2020-05-15
+   - Hospital: Stanford Medical Center
+   - Notes: Rotator cuff repair
+
+================================================================================
+ALLERGIES
+================================================================================
+NKDA
+
+================================================================================

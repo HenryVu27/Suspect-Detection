@@ -1,0 +1,131 @@
+HEALTH RISK ASSESSMENT
+Patient: Aisha Hassan
+Date Completed: 2024-09-01
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Much better (thyroid controlled)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[ ] Heart palpitations (was an issue before, better now)
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Thyroid problems - Graves' disease, on medication, planning surgery
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[X] Heart disease - atrial fibrillation (related to thyroid)
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[X] Anxiety - on medication
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+Thyroid Disease: Yes
+    Who? Maternal grandmother (hypothyroid), maternal aunt (Graves')
+
+Autoimmune Disease: Yes
+    Who? Mother has rheumatoid arthritis
+
+Diabetes: No
+
+Heart Disease: Yes
+    Who? Father, had heart attack at 58, doing well
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    How often? 1-2 times per month (social occasions)
+    How many drinks per occasion? 1
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week
+What type of exercise? Yoga, walking, light strength training
+What barriers prevent you from exercising more?
+    [ ] None currently
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 5+
+How often do you eat fast food? Rarely
+Do you follow any special diet?
+    [X] Mostly vegetarian (occasional fish)
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (normal for me, managed with medication)
+
+Do you feel you have adequate emotional support? Yes
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, full-time (software engineer)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"My main focus right now is getting my thyroid situation resolved so I can start
+a family. I've had Graves' disease for about 2 years and the medication has
+controlled it but I'm allergic to one of the medications and the other one has
+risks during pregnancy. So I'm having surgery later this month.
+
+I'm a little nervous about the surgery but my doctors have been great at explaining
+everything. I've also been doing well with my anxiety - the buspirone helps and
+my therapist taught me good coping techniques.
+
+I'm otherwise healthy and try to take good care of myself. My grandmother and aunt
+both had thyroid issues so I guess it runs in my family."
+
+================================================================================

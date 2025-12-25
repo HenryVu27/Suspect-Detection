@@ -1,0 +1,72 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (VA Medical Center - Boston)
+Export Date: 2023-12-20
+Patient: Harold Peterson    DOB: 12/05/1950    MRN: 34567891
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Chronic Obstructive Pulmonary Disease, moderate (J44.1)
+   - First Documented: 2016-04-15
+   - Status: Active
+   - Managing Provider: Dr. Robert Kim (Pulmonology)
+   - Notes: GOLD Stage II. FEV1 58%. On dual inhaler therapy.
+
+2. Tobacco Use Disorder, in remission (F17.211)
+   - First Documented: 1968-01-01
+   - Status: Active
+   - Notes: 40 pack-year history. Quit 2016 at time of COPD diagnosis.
+
+3. Essential Hypertension (I10)
+   - First Documented: 2005-08-22
+   - Status: Active
+   - Notes: On lisinopril, HCTZ
+
+4. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2012-03-15
+   - Status: Active
+   - Notes: On metformin. A1c 7.2%.
+
+5. Hyperlipidemia (E78.5)
+   - First Documented: 2008-11-10
+   - Status: Active
+   - Notes: On atorvastatin
+
+6. Obesity (E66.9)
+   - First Documented: 2010-02-28
+   - Status: Active
+   - Notes: BMI 34.5
+
+7. Benign Prostatic Hyperplasia (N40.0)
+   - First Documented: 2019-06-22
+   - Status: Active
+   - Notes: On tamsulosin
+
+8. PTSD (F43.10)
+   - First Documented: 2008-05-15
+   - Status: Active
+   - Notes: Vietnam veteran. On sertraline. Stable with therapy.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. COPD exacerbation (J44.1)
+   - Episode: 2023-02-10 to 2023-02-20
+   - Notes: Treated outpatient with steroids and antibiotics
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Right knee replacement
+   - Date: 2020-11-15
+   - Hospital: VA Boston
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Erythromycin
+   - Reaction: GI upset, nausea
+   - Severity: Mild
+
+================================================================================

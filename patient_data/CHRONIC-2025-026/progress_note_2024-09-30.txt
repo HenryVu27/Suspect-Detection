@@ -1,0 +1,115 @@
+PROGRESS NOTE
+Patient: Vincent Rossi    DOB: 12/08/1962    MRN: 12345901
+Date: 2024-09-30       Provider: Dr. Thomas Chen, MD (Hepatology)
+
+Chief Complaint: Cirrhosis surveillance, new symptoms
+
+Subjective:
+Pt returns for routine follow-up but reports concerning new symptoms.
+
+NEW SYMPTOMS:
+- Abdominal swelling: "My pants don't fit. My belly is bigger." Started
+  noticing about 3 weeks ago. Progressive.
+- Ankle swelling: Both legs swollen by end of day. New.
+- Decreased appetite: "Food doesn't taste good. I feel full quickly."
+- Fatigue: More tired than usual. "Can barely walk around the block now."
+- Dark urine: Noticed past week. "Like iced tea."
+
+Denies confusion, memory problems, or personality changes per patient.
+Wife interjects: "He's been more forgetful and irritable. Fell asleep at dinner
+twice last week. That's not like him."
+
+Denies fever, blood in stool, abdominal pain.
+
+Diet: Admits hasn't been following low-sodium diet. "Hard to avoid salt."
+
+Weight up 12 lbs since last visit.
+
+CPAP: Still using. Alcohol: Denies any alcohol use ever.
+
+Current Medications:
+- Metformin 1000mg BID
+- Glipizide 10mg BID
+- Lisinopril 20mg daily
+- Atorvastatin 40mg daily
+- Omeprazole 20mg daily
+
+Objective:
+Vitals: BP 104/68 (low for him), HR 82, Wt 280 lbs (up 12 lbs), BMI 37
+General: Fatigued appearing, slightly slow to respond
+Skin: Mild scleral icterus (NEW), spider angiomata chest (NEW)
+Mental status: Alert but mildly slowed, oriented x3, asterixis PRESENT (NEW)
+Abdomen: Distended, positive shifting dullness (ascites confirmed), umbilicus
+         everted, spleen palpable
+Extremities: 2+ pitting edema bilateral ankles
+
+Labs (STAT drawn today):
+- CBC: WBC 4.2, Hgb 11.8 (down), Plt 88 (down from 118)
+- CMP: Cr 1.4 (up), Na 132 (low), K 4.8, glucose 168
+- LFTs: AST 72, ALT 58, Alk phos 125, T bili 3.2 (up from 1.1), D bili 1.8
+- Albumin: 2.8 (down from 3.6)
+- INR: 1.6 (up from 1.2)
+- Ammonia: 85 (elevated)
+- AFP: 8.4 (was 4.2 - nearly doubled)
+
+Calculated MELD-Na: 18 (INCREASED from 8!!!)
+
+Ultrasound (ordered STAT today):
+- Cirrhotic liver, nodular contour
+- ***NEW 2.8cm HYPERVASCULAR LESION in right hepatic lobe, segment 6***
+- Moderate ascites (NEW)
+- Patent portal vein (no thrombosis)
+- Splenomegaly 14cm
+
+Assessment/Plan:
+***DECOMPENSATED CIRRHOSIS WITH MULTIPLE CRITICAL FINDINGS***
+
+1. HEPATIC DECOMPENSATION - New ascites, jaundice, coagulopathy, elevated MELD
+   (8 to 18). First episode of decompensation.
+   - Start diuretics: Furosemide 40mg daily + Spironolactone 100mg daily
+   - STRICT sodium restriction <2g/day
+   - Daily weights, target 1-2 lb loss/day
+   - Stop metformin (now contraindicated)
+   - May need paracentesis if tense ascites/discomfort
+   - HOLD lisinopril (hypotension concern with diuretics)
+
+2. HEPATIC ENCEPHALOPATHY - Asterixis present, wife notes confusion/personality
+   change. Elevated ammonia.
+   - Start lactulose 30mL TID, titrate to 3-4 BM/day
+   - Start rifaximin 550mg BID
+   - Educate family on HE signs and when to seek emergency care
+
+3. ***NEW LIVER LESION 2.8cm - HIGHLY CONCERNING FOR HCC***
+   - AFP nearly doubled (4.2 to 8.4)
+   - Hypervascular lesion on ultrasound in cirrhotic liver = HCC until proven
+     otherwise
+   - URGENT: Order MRI liver with contrast (Eovist) for LI-RADS classification
+   - If LI-RADS 5, will need multidisciplinary tumor board discussion
+   - Hepatology/oncology/transplant surgery involvement
+
+4. Hyponatremia - Na 132. Dilutional from decompensation. Fluid restrict to
+   1.5L/day.
+
+5. Acute Kidney Injury - Cr 1.4 (baseline 1.0). Hepatorenal syndrome vs.
+   prerenal. Hold lisinopril. Careful with diuretics. Monitor closely.
+
+6. Diabetes - STOP METFORMIN (lactic acidosis risk in decompensation). Switch
+   to insulin (start glargine 10 units QHS). Continue glipizide for now but
+   monitor for hypoglycemia.
+
+7. Varices - Given decompensation, start propranolol 20mg BID for portal
+   hypertension/variceal prophylaxis. EGD soon for variceal assessment.
+
+8. Transplant evaluation - Given decompensation and likely HCC, URGENT referral
+   to transplant hepatology. MELD 18 + potential HCC exception points.
+
+CRITICAL COMMUNICATION:
+- Explained to patient and wife that liver disease has progressed significantly
+- New lesion concerning for liver cancer - need MRI urgently
+- May need to consider liver transplant evaluation
+- Wife understands seriousness, patient tearful but accepting
+
+MRI scheduled for 10/02. Will call with results.
+Follow-up in 1 week. ER if confusion worsens, fever, GI bleeding.
+
+Electronically signed by Thomas Chen, MD  09/30/2024 5:45 PM

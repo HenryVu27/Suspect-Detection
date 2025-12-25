@@ -1,0 +1,71 @@
+PROGRESS NOTE
+Patient: Marcus Johnson    DOB: 09/10/1972    MRN: 56789345
+Date: 2024-04-08       Provider: Dr. Robert Hayes, MD (Pain Management)
+
+Chief Complaint: Chronic pain management follow-up
+
+Subjective:
+51 yo M with chronic low back pain with radiculopathy, failed back surgery syndrome,
+here for routine pain management follow-up. Reports pain 6-7/10 on average, worse
+with prolonged sitting or standing.
+
+"The medications take the edge off but I'm never pain-free." Rates pain relief
+with current regimen at about 50%.
+
+Currently working part-time from home as IT consultant. Has to take frequent breaks.
+Unable to return to previous job as field technician due to physical demands.
+
+Mood "not great." Feels frustrated by limitations. Seeing therapist monthly but
+"it's expensive." Stopped CBT for chronic pain program after insurance denied
+coverage. Sleep remains poor - wakes 3-4x/night with pain.
+
+Denies medication misuse. Taking medications as prescribed. No early refill requests.
+Pill count today: correct.
+
+Constipation continues - using MiraLAX daily. Reports some "brain fog" - "not as
+sharp as I used to be."
+
+Current Medications:
+- Oxycodone ER 40mg BID
+- Oxycodone IR 10mg Q6H PRN breakthrough (max 4/day)
+- Duloxetine 60mg daily
+- Gabapentin 600mg TID
+- Trazodone 100mg QHS
+- Polyethylene glycol (MiraLAX) daily
+- Docusate 100mg BID
+
+Objective:
+Vitals: BP 138/88, HR 76, Wt 238 lbs, Ht 5'10"
+General: Well-appearing, flat affect, moves carefully
+Lumbar spine: Surgical scar well-healed, paraspinal tenderness bilateral,
+              limited flexion/extension
+Neuro: DTRs 1+ at ankles bilaterally, strength 4/5 hip flexors bilateral,
+       sensation diminished L5-S1 dermatome right > left
+Gait: Antalgic
+
+PDMP Review: Consistent with prescriptions. Last filled 30 days ago.
+UDS: Positive for oxycodone, negative for other substances.
+
+Assessment/Plan:
+1. Chronic Low Back Pain with Radiculopathy - stable on current regimen. PEG score
+   (pain, enjoyment, general activity) 5/10 - unchanged. Continue current opioid
+   regimen. No changes indicated. Continue gabapentin.
+   - Discussed opioid taper - patient not ready. "It's the only thing that helps."
+   - Encouraged physical therapy - will try aquatic therapy (insurance approved)
+
+2. Failed Back Surgery Syndrome - no surgical options per spine surgery.
+
+3. Chronic Opioid Therapy - continuing monitoring. PDMP reviewed, UDS appropriate.
+   Pain agreement renewed today. Discussed naloxone - patient declined ("I don't
+   abuse my medications").
+
+4. Major Depressive Disorder - duloxetine continued. PHQ-9 today: 14 (moderate).
+   Encouraged to continue therapy. Will look into sliding scale options.
+
+5. Insomnia - pain-related. Trazodone helps somewhat. Sleep hygiene reviewed.
+
+6. Obesity - BMI 33. Limited exercise ability. Discussed low-impact options.
+
+RTC 30 days for controlled substance follow-up.
+
+Electronically signed by Robert Hayes, MD  04/08/2024 10:45 AM

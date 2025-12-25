@@ -1,0 +1,104 @@
+PROGRESS NOTE
+Patient: Eleanor Patterson    DOB: 08/05/1940    MRN: 56789345
+Date: 2024-03-11       Provider: Dr. William Harris, MD (Geriatric Medicine)
+
+Chief Complaint: Annual wellness visit, multiple chronic conditions
+
+Subjective:
+83 yo F with multiple comorbidities (afib, HTN, DM2, CKD, OA, osteoporosis)
+here for annual wellness visit. Lives alone in independent living apartment
+since husband passed 3 years ago.
+
+Functional status: "Doing okay for my age." Uses walker for ambulation since
+hip fracture (2022). Can do most ADLs but needs help with bathing (aide comes
+3x/week). Does own light cooking, uses walker to get around apartment.
+
+Falls: No falls since the big one in 2022. "I'm very careful now."
+
+Medications: Takes 12 different medications. Uses weekly pill organizer that
+aide fills. "Sometimes I forget if I took my pills."
+
+Cognition: Daughter notes some forgetfulness but "nothing too concerning."
+Patient sometimes repeats stories but generally oriented and engaged.
+
+Heart: No palpitations, no chest pain, no significant SOB. Gets winded with
+activity but attributes to age.
+
+Pain: Chronic knee and hip pain, managed. Rates 4/10 most days.
+
+Diabetes: No hypoglycemia symptoms. Doesn't check sugars regularly.
+
+Mood: "Some days are lonely. I miss Henry." Enjoys bingo at the community
+center and visits from grandchildren.
+
+Hearing aids: Using regularly. "What?" (needs frequent repetition).
+
+Current Medications:
+- Apixaban 5mg BID
+- Metoprolol succinate 50mg daily
+- Amlodipine 5mg daily
+- Losartan 50mg daily
+- Glipizide 5mg BID
+- Sitagliptin 50mg daily
+- Levothyroxine 50mcg daily
+- Alendronate 70mg weekly
+- Calcium/Vitamin D 600/400 BID
+- Acetaminophen 650mg TID
+- Famotidine 20mg daily
+- Vitamin B12 1000mcg daily
+
+Objective:
+Vitals: BP 142/78, HR 68 irregular, Wt 138 lbs (stable)
+General: Well-appearing for age, pleasant, hearing aids in place
+Cardiac: Irregularly irregular, no murmurs
+Lungs: Clear
+Extremities: Mild OA changes hands, well-healed surgical scars bilateral knees
+             and right hip
+Mobility: Ambulates with walker, slow but steady, no obvious fall risk today
+Cognition: Alert, oriented x3, MoCA 24/30 (mild cognitive impairment range)
+
+Labs (drawn last week):
+- CBC: WBC 6.2, Hgb 11.2, Plt 165
+- CMP: Na 140, K 4.6, Cr 1.4 (eGFR 42), glucose 148
+- TSH: 3.2 (normal)
+- HbA1c: 7.6%
+- Vitamin D: 35 (adequate)
+- B12: 520 (normal)
+
+Assessment/Plan:
+1. Geriatric wellness - 83 yo with high comorbidity burden but maintaining
+   function and independence. DISCUSS goals of care, advance directives
+   (completed - daughter is healthcare proxy).
+
+2. Polypharmacy - 12 medications, high pill burden. Reviewed for interactions
+   and appropriateness. Consider deprescribing famotidine (no clear ongoing
+   indication noted). Otherwise medications appropriate for conditions.
+
+3. Atrial Fibrillation - rate-controlled on metoprolol. Continue apixaban
+   (CHA2DS2-VASc 6, high stroke risk).
+
+4. Hypertension - BP 142/78, reasonable for age. Avoid overtreatment given
+   fall risk. Continue current regimen.
+
+5. Type 2 DM - HbA1c 7.6%, acceptable for age/comorbidities. Avoid hypoglycemia
+   (fall risk). Continue glipizide and sitagliptin.
+
+6. CKD Stage 3b - stable eGFR 42. Continue monitoring.
+
+7. Osteoporosis - on alendronate. Continue. DEXA due this year.
+
+8. Osteoarthritis - managed on acetaminophen. Avoid NSAIDs (CKD, anticoagulation).
+
+9. Mild Cognitive Impairment - MoCA 24/30, mild impairment. Monitor. Not
+   recommending cholinesterase inhibitor at this time.
+
+10. Fall risk - HIGH. Walker use, home safety, vitamin D adequate. Continue
+    PT as needed.
+
+11. Social - Living alone but with support (aide, daughter). Screen for
+    depression - PHQ-2 negative today.
+
+Continue current regimen. Update vaccinations (flu, COVID, pneumonia done).
+RTC 6 months or sooner if concerns.
+
+Electronically signed by William Harris, MD  03/11/2024 3:00 PM

@@ -1,0 +1,126 @@
+PROGRESS NOTE
+Patient: Christopher Martinez    DOB: 03/30/1979    MRN: 34567123
+Date: 2024-10-28       Provider: Dr. Amy Nguyen, MD (Neurology/MS)
+
+Chief Complaint: New symptoms, concern for relapse or progression
+
+Subjective:
+Pt called urgent line with new symptoms developing over past 3 weeks. Came in
+for same-day evaluation.
+
+NEW/WORSENING SYMPTOMS:
+- Right leg weakness: "Dragging my leg more. Tripping over my foot."
+  Progressive over 3 weeks. Not sudden onset.
+- Gait worsening: "Can barely make it to the end of the driveway now."
+  Was walking half mile 6 months ago.
+- Increased spasticity: "My legs feel stiff and tight."
+- Balance problems: "Almost fell twice this week."
+- NEW: Right hand weakness and clumsiness: "Dropping things. Hard to button
+  shirt." Started about 1 week ago.
+- NEW: Mild cognitive changes: "Having trouble finding words. Forgetting things
+  at work." Wife confirms - "He asked me the same question three times yesterday."
+- Fatigue: Worse than baseline.
+
+Denies: Fever, recent infections, vision changes, vertigo, severe headache.
+
+No missed ocrelizumab infusions. Last was September 2024.
+
+Temperature at home: Normal.
+
+Current Medications: Unchanged from last visit.
+
+Objective:
+Vitals: BP 128/82, HR 72, Temp 98.2°F, Wt 182 lbs
+General: Appears fatigued, anxious
+Neuro Exam:
+  - Mental status: Alert, oriented. Word-finding difficulty noted during exam.
+    Delayed recall (2/3 at 5 min). MOCA performed: 24/30 (was not formally tested
+    before but no concerns historically)
+  - Cranial nerves: Left pupil sluggish (old), otherwise intact
+  - Motor: Right lower extremity 4/5 hip flexion, 4/5 knee flexion/extension,
+           4/5 ankle dorsiflexion (NEW weakness)
+           Right upper extremity 4+/5 grip, 4+/5 finger abduction (NEW weakness)
+           Left side 5/5
+  - Sensory: Decreased vibration right ankle
+  - Reflexes: Right knee 3+ (hyperreflexic), Babinski positive right (NEW)
+  - Coordination: Mild intention tremor right hand
+  - Gait: Marked right leg circumduction, foot drop noted, requires support to
+          walk safely, unable to tandem walk
+
+EDSS today: 4.5 (UP from 2.5 - significant worsening!!)
+
+Assessment/Plan:
+***CONCERNING FOR MS PROGRESSION - NEED URGENT EVALUATION***
+
+Clinical picture is ATYPICAL for simple relapse:
+- Gradual progression over 3+ weeks (relapses usually peak within days to 1-2 weeks)
+- Cognitive involvement (new)
+- Progressive worsening without clear plateau
+- On highly effective therapy with prior good control
+
+DIFFERENTIAL DIAGNOSIS:
+1. Secondary Progressive MS (SPMS) - conversion from RRMS
+   - Most concerning - gradual accumulation without clear relapses
+2. MS relapse (atypical presentation)
+3. Progressive multifocal leukoencephalopathy (PML) - MUST RULE OUT given
+   B-cell depleting therapy, though very rare with ocrelizumab
+4. Other CNS infection/process
+
+URGENT WORKUP:
+1. MRI brain AND spine with contrast - ordered STAT (today if possible)
+   - Looking for: New T2 lesions, gadolinium enhancement, PML pattern,
+     spinal cord lesion
+2. Lumbar puncture after MRI if no contraindication:
+   - CSF: Cell count, protein, glucose, oligoclonal bands
+   - JC virus PCR (PML evaluation - critical given immunosuppression)
+   - Cytology
+3. Labs: CBC, CMP, B12, Vitamin D, quantitative immunoglobulins (IgG levels
+   can drop on ocrelizumab)
+
+MANAGEMENT PENDING RESULTS:
+- HOLD next ocrelizumab infusion until PML ruled out
+- If MRI shows new active lesions without PML pattern → IV steroids
+- If concerning for SPMS → therapy discussion, consider different DMT
+
+SAFETY:
+- Fall risk HIGH. Discussed home safety, assistive device. Ordered rollator.
+- Physical therapy evaluation urgent
+- No driving until evaluated further
+
+Patient and wife educated on concerning nature of symptoms. Understand need
+for urgent testing. MRI scheduled for this afternoon. Will call with results.
+
+Electronically signed by Amy Nguyen, MD  10/28/2024 11:15 AM
+
+ADDENDUM 10/28/2024 5:30 PM:
+
+MRI RESULTS (reviewed with neuroradiology):
+
+BRAIN:
+- Multiple new T2 hyperintense lesions (5+) compared to February 2024
+- Two lesions show gadolinium enhancement (active inflammation)
+- NO PATTERN CONSISTENT WITH PML (no involvement of subcortical U-fibers,
+  no typical PML distribution)
+- Increased volume loss compared to prior
+
+SPINE (Cervical and Thoracic):
+- NEW T2 hyperintense lesion at C3-C4 level with mild enhancement
+- Cord expansion at this level - consistent with active myelitis
+
+IMPRESSION: Active MS disease with new brain and spinal cord lesions despite
+ocrelizumab therapy. No evidence of PML. Pattern concerning for breakthrough
+disease activity.
+
+PLAN:
+- Start IV methylprednisolone 1g daily x 5 days (beginning tomorrow AM)
+- Still obtain LP to confirm no atypical infection and for prognostic markers
+- Discussed with patient: Despite being on highly effective therapy, MS has
+  become active. May represent transition to SPMS with superimposed relapses.
+- After steroids, will need disease therapy reassessment - options include
+  continuing ocrelizumab vs. alternative (natalizumab if JCV negative).
+- Prognosis discussion - condition is worsening, may not return to prior baseline
+
+Patient understands severity. Very emotional but accepting. Wife supportive.
+Will admit for IV steroids tomorrow.
+
+Electronically signed by Amy Nguyen, MD  10/28/2024 5:45 PM

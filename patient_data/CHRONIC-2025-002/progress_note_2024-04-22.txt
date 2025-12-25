@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Patient: Jennifer Martinez    DOB: 05/18/1975    MRN: 45678912
+Date: 2024-04-22       Provider: Dr. Amanda Lewis, MD
+
+Chief Complaint: Thyroid follow-up, annual exam
+
+Subjective:
+49 yo F here for annual exam and thyroid check. Reports feeling well overall.
+Energy levels good. Weight stable. No cold intolerance, constipation, or hair loss.
+Taking levothyroxine faithfully every morning on empty stomach, 30 min before eating.
+
+Menses still regular but heavier than before. Using iron supplements as directed.
+Denies dizziness, palpitations. No SOB or CP.
+
+Mood good. Sleep good. Works as graphic designer from home. Married, two teenage children.
+
+Current Medications:
+- Levothyroxine 75mcg daily
+- Ferrous sulfate 325mg daily
+- Vitamin D3 2000 IU daily
+- Calcium citrate 600mg BID
+- Multivitamin daily
+
+Objective:
+Vitals: BP 118/74, HR 72, RR 14, Temp 98.4F, Wt 148 lbs (stable), BMI 24.6
+General: Well-appearing, pleasant
+HEENT: Thyroid normal size, no nodules palpable
+CV: RRR, no murmurs
+Lungs: CTA
+Skin: Warm, dry, no myxedema
+Neuro: Reflexes normal
+
+Labs from 04/15:
+- TSH: 2.4 mIU/L (normal 0.4-4.0)
+- Free T4: 1.1 ng/dL (normal 0.8-1.8)
+- Hemoglobin: 12.2 g/dL (improved from 10.8)
+- Ferritin: 45 ng/mL (improved from 12)
+- Vitamin D: 38 ng/mL (normal)
+
+Assessment/Plan:
+1. Hypothyroidism - well controlled on current dose. TSH normal. Continue levothyroxine 75mcg.
+2. Iron deficiency anemia - improving! Hemoglobin 12.2, ferritin 45. Continue iron x3 more months then recheck. If menses remain heavy, may need GYN referral.
+3. Vitamin D - replete. Continue supplementation.
+4. Health maintenance - up to date on mammogram, pap. Colonoscopy due next year at 50.
+
+RTC 1 year unless problems. TSH annually.
+
+Electronically signed by Amanda Lewis, MD  04/22/2024 10:45 AM

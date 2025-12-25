@@ -1,0 +1,131 @@
+HEALTH RISK ASSESSMENT
+Patient: David Chen
+Date Completed: 2024-10-01
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? Better (lost weight, exercising more)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[X] Difficulty sleeping - takes long time to fall asleep, wake up a lot
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[X] Feeling sad or hopeless - sometimes lately
+[X] Difficulty concentrating - especially at work
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[X] Daytime sleepiness - because not sleeping well at night
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - diagnosed this year
+[X] High blood pressure - yes
+[X] High cholesterol - yes
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+Diabetes: Yes
+    Who? Mother, brother
+    Age at diagnosis? Mother at 50, brother at 52
+
+Heart Disease: Yes
+    Who? Mother (died of heart attack)
+    Age at diagnosis? 72
+
+Stroke: Yes
+    Who? Father
+    Age at diagnosis? 68 (died)
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2008
+    How much did you smoke? Half pack per day for about 8 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Yes
+    How often? 2-3 times per week
+    How many drinks per occasion? 1-2 beers or glasses of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 4-5 times per week
+What type of exercise? Walking 30 min, gym 2x/week
+What barriers prevent you from exercising more?
+    [X] Work schedule
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4-5
+How often do you eat fast food? Rarely (1-2x per month)
+Do you follow any special diet?
+    [X] Low carb for diabetes
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Several days
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    More than half the days
+
+Do you feel you have adequate emotional support? Mostly, wife is supportive
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes - but uncertain (company going through layoffs)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I've been dealing with a lot of stress at work. There have been layoffs and I don't
+know if my job is safe. I'm 55 and worried about finding another job if I get laid
+off. I've been having trouble sleeping - I lie awake worrying. My wife says I seem
+down and irritable lately.
+
+My diabetes is under control I think - the numbers look good. I've really changed
+my lifestyle since I was diagnosed in January. Seeing my mother go through all
+those diabetes complications scared me and I didn't want that to happen to me.
+
+I'm more worried about the stress and not sleeping than the diabetes right now."
+
+================================================================================

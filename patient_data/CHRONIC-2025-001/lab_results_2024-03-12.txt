@@ -1,0 +1,67 @@
+LABORATORY REPORT
+Patient: Patricia Williams    DOB: 08/22/1962    MRN: 34567891
+Collection Date: 2024-03-12 07:45 AM (Fasting)
+Ordering Provider: Dr. Michael Roberts
+Performing Lab: Mercy Health Laboratory Services
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose                      186         70-100 mg/dL        HIGH
+BUN                          28          7-20 mg/dL          HIGH
+Creatinine                   1.2         0.6-1.2 mg/dL
+eGFR                         52          >60 mL/min          LOW
+Sodium                       141         136-145 mEq/L
+Potassium                    4.1         3.5-5.0 mEq/L
+Chloride                     102         98-106 mEq/L
+CO2                          24          23-29 mEq/L
+Calcium                      9.4         8.5-10.5 mg/dL
+Total Protein                7.2         6.0-8.3 g/dL
+Albumin                      4.0         3.5-5.0 g/dL
+Bilirubin, Total             0.8         0.1-1.2 mg/dL
+Alkaline Phosphatase         78          44-147 U/L
+AST                          32          10-40 U/L
+ALT                          38          7-56 U/L
+
+================================================================================
+HEMOGLOBIN A1C
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Hemoglobin A1c               8.2         <5.7% (normal)      HIGH
+                                         5.7-6.4% (prediab)
+                                         >=6.5% (diabetes)
+
+Estimated Average Glucose: 189 mg/dL
+
+================================================================================
+LIPID PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Total Cholesterol            198         <200 mg/dL
+Triglycerides                220         <150 mg/dL          HIGH
+HDL Cholesterol              42          >40 mg/dL
+LDL Cholesterol (calc)       112         <100 mg/dL          HIGH
+VLDL Cholesterol             44          <30 mg/dL           HIGH
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+
+SIGNIFICANT FINDINGS:
+1. HbA1c 8.2% indicates poorly controlled diabetes mellitus - above goal of <7%
+2. eGFR 52 mL/min indicates Stage 3a chronic kidney disease (decline from prior)
+3. Elevated fasting glucose of 186 mg/dL
+4. LDL cholesterol 112 mg/dL - above goal for diabetic patient with CKD
+5. Elevated triglycerides
+
+RECOMMENDATIONS:
+- Consider intensification of diabetes therapy
+- Monitor renal function closely given CKD progression
+- Lipid management optimization recommended
+- Repeat labs in 3 months
+
+Report electronically signed by: James Patterson, MD, Laboratory Director
+2024-03-12 11:30 AM

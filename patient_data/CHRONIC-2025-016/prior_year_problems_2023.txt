@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Mount Sinai)
+Export Date: 2023-12-15
+Patient: Anthony Delgado    DOB: 11/22/1988    MRN: 91234789
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Bipolar I Disorder, current episode depressed (F31.31)
+   - First Documented: 2012-06-15
+   - Status: Active
+   - Managing Provider: Dr. Elizabeth Warren (Psychiatry)
+   - Notes: On lithium and lamotrigine. Multiple hospitalizations for mania.
+
+2. Generalized Anxiety Disorder (F41.1)
+   - First Documented: 2014-03-20
+   - Status: Active
+   - Notes: Comorbid with bipolar. On buspirone.
+
+3. Obesity (E66.9)
+   - First Documented: 2018-05-10
+   - Status: Active
+   - Notes: Weight gain on mood stabilizers. BMI 32.
+
+4. Hyperlipidemia (E78.5)
+   - First Documented: 2021-08-22
+   - Status: Active
+   - Notes: Metabolic effects of medications. On atorvastatin.
+
+5. Hypothyroidism (E03.9)
+   - First Documented: 2019-11-15
+   - Status: Active
+   - Notes: Lithium-induced. On levothyroxine.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Bipolar I, manic episode with psychotic features (F31.2)
+   - Episode: 2021-04-10 to 2021-04-28
+   - Notes: Required hospitalization. Resolved with medication adjustment.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Carbamazepine
+   - Reaction: Stevens-Johnson syndrome prodrome (rash)
+   - Severity: Severe
+   - Notes: Discontinued immediately. Never use.
+
+2. Olanzapine
+   - Reaction: Severe weight gain (40 lbs), metabolic syndrome
+   - Severity: Moderate
+
+================================================================================

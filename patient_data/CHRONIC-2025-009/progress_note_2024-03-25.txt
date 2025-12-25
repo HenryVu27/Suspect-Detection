@@ -1,0 +1,50 @@
+PROGRESS NOTE
+Patient: Raymond Brooks    DOB: 03/08/1971    MRN: 23456789
+Date: 2024-03-25       Provider: Dr. Angela Richardson, MD
+
+Chief Complaint: Sleep study results, OSA diagnosis
+
+Subjective:
+Pt returns for sleep study results. Symptoms unchanged - still exhausted, snoring.
+Wife says apneas are very concerning - "he stops breathing for what feels like
+30 seconds sometimes."
+
+Switched from ibuprofen to acetaminophen per advice - headaches same frequency.
+
+BP at home still 145-155 systolic.
+
+HOME SLEEP TEST RESULTS (03/10/2024):
+- AHI: 38 events/hour (SEVERE obstructive sleep apnea)
+- Lowest SpO2: 78%
+- Mean SpO2: 89%
+- Time SpO2 <90%: 42 minutes
+- Predominant obstructive events with some central components
+
+Current Medications:
+- Lisinopril 20mg daily
+- Amlodipine 5mg daily
+- Omeprazole 20mg daily
+- Acetaminophen PRN
+
+Objective:
+Vitals: BP 148/92, HR 80, Wt 266 lbs (-2), SpO2 96% RA
+General: Obese, fatigued appearing, yawning
+
+Assessment/Plan:
+1. SEVERE Obstructive Sleep Apnea (AHI 38) - NEWLY DIAGNOSED
+   - Referral to DME for CPAP setup
+   - Discussed importance of treatment - CV risk reduction, BP improvement,
+     symptom relief, safety (driving!)
+   - Auto-titrating CPAP (APAP) ordered
+   - Sleep hygiene reviewed, positional therapy if possible (side sleeping)
+   - Weight loss will help but CPAP is primary treatment
+2. Resistant hypertension - secondary to severe OSA. Expect improvement with CPAP.
+   Will not add third agent yet. Recheck in 6-8 weeks after CPAP established.
+3. Morning headaches - should resolve with CPAP treatment of nocturnal hypoxia.
+4. Obesity - discussed. May have more energy to exercise once treating OSA.
+5. Significant nocturnal hypoxia (SpO2 to 78%) - concerning. If CPAP not tolerated,
+   may need supplemental O2.
+
+DME appointment scheduled for CPAP. RTC 6 weeks.
+
+Electronically signed by Angela Richardson, MD  03/25/2024 3:15 PM

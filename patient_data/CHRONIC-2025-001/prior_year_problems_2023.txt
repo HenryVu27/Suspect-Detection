@@ -1,0 +1,84 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Mercy Health Partners)
+Export Date: 2023-12-18
+Patient: Patricia Williams    DOB: 08/22/1962    MRN: 34567891
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Type 2 Diabetes Mellitus with diabetic chronic kidney disease (E11.22)
+   - First Documented: 2016-03-15
+   - Status: Active
+   - Managing Provider: Dr. Michael Roberts
+   - Notes: On metformin and glipizide. Last A1c 7.4%
+
+2. Essential Hypertension (I10)
+   - First Documented: 2012-09-20
+   - Status: Active
+   - Managing Provider: Dr. Michael Roberts
+
+3. Obesity, unspecified (E66.9)
+   - First Documented: 2010-01-10
+   - Status: Active
+   - BMI 38.2
+
+4. Major Depressive Disorder, recurrent, moderate (F33.1)
+   - First Documented: 2019-11-05
+   - Status: Active
+   - Managing Provider: Dr. Michael Roberts
+   - Notes: On sertraline 100mg. Stable on current regimen.
+
+5. Chronic Kidney Disease, Stage 2 (N18.2)
+   - First Documented: 2021-06-14
+   - Status: Active
+   - Notes: eGFR 78. Secondary to diabetes and hypertension.
+
+6. Hyperlipidemia (E78.5)
+   - First Documented: 2014-02-28
+   - Status: Active
+   - Notes: On atorvastatin 40mg
+
+7. Diabetic Peripheral Neuropathy (E11.42)
+   - First Documented: 2022-04-10
+   - Status: Active
+   - Notes: Symptoms in bilateral feet. Started gabapentin.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Urinary Tract Infection (N39.0)
+   - Onset: 2023-03-12
+   - Resolved: 2023-03-22
+   - Notes: Treated with nitrofurantoin
+
+2. Acute sinusitis (J01.90)
+   - Onset: 2022-11-15
+   - Resolved: 2022-11-28
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Cholecystectomy (laparoscopic)
+   - Date: 2018-07-22
+   - Hospital: Mercy Medical Center
+   - Complications: None
+
+2. Cesarean section x2
+   - Dates: 1988, 1991
+   - Hospital: Community Hospital
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Penicillin
+   - Reaction: Anaphylaxis (throat swelling, difficulty breathing)
+   - Severity: Severe
+   - Documented: 1995-08-20
+
+2. Sulfa drugs
+   - Reaction: Rash
+   - Severity: Moderate
+   - Documented: 2005-03-15
+
+================================================================================

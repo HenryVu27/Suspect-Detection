@@ -1,0 +1,87 @@
+IMAGING REPORT - MRI LUMBAR SPINE
+
+Patient: Marcus Johnson    DOB: 09/10/1972    MRN: 56789345
+Exam Date: 2024-10-07 16:45
+Ordering Provider: Dr. Robert Hayes, MD
+Reading Radiologist: Dr. Amanda Foster, MD
+
+================================================================================
+EXAMINATION: MRI Lumbar Spine without and with contrast
+
+CLINICAL INDICATION: Progressive bilateral lower extremity weakness, expanded
+sensory loss, urinary hesitancy, decreased rectal tone. Concern for cauda equina
+syndrome. URGENT.
+
+COMPARISON: MRI lumbar spine 2019-08-12
+
+TECHNIQUE: Multiplanar, multisequence MRI of the lumbar spine performed without
+and with IV gadolinium contrast on 3T scanner.
+
+================================================================================
+FINDINGS:
+
+VERTEBRAL BODIES:
+- L3: Mild degenerative changes, no acute fracture
+- L4: Moderate degenerative changes, mild retrolisthesis on L5
+- L5: Moderate degenerative changes
+- S1: Normal
+- Marrow signal normal throughout, no evidence of metastatic disease
+
+INTERVERTEBRAL DISCS:
+- L2-L3: Mild disc bulge, no significant stenosis
+- L3-L4: ***LARGE CENTRAL DISC EXTRUSION with inferior migration, measuring
+  approximately 15mm craniocaudal x 12mm transverse. SEVERELY COMPRESSES
+  CAUDA EQUINA with obliteration of CSF signal. NEW since 2019.***
+- L4-L5: Post-laminectomy changes. Moderate disc bulge with annular tear.
+  Moderate bilateral foraminal stenosis.
+- L5-S1: Moderate disc bulge, moderate bilateral foraminal stenosis. Stable.
+
+SPINAL CANAL:
+- L3-L4: ***SEVERE CENTRAL CANAL STENOSIS secondary to disc extrusion described
+  above. AP diameter reduced to approximately 5mm (normal >12mm). CAUDA EQUINA
+  COMPRESSION CONFIRMED.***
+- L4-L5: Moderate stenosis, post-surgical changes
+- L5-S1: Moderate stenosis
+
+NEURAL FORAMINA:
+- L4-L5: Moderate bilateral narrowing
+- L5-S1: Moderate bilateral narrowing
+
+CONUS MEDULLARIS: Normal position and signal, terminates at L1.
+
+CAUDA EQUINA: ***COMPRESSED AND DISPLACED POSTERIORLY at L3-L4 level by central
+disc extrusion. Nerve roots crowded and clumped. Concerning for cauda equina
+syndrome.***
+
+PARASPINAL SOFT TISSUES: Post-surgical changes. No collection or abscess.
+
+POST-CONTRAST: No abnormal enhancement to suggest infection or tumor.
+
+================================================================================
+IMPRESSION:
+
+1. ***LARGE CENTRAL DISC EXTRUSION AT L3-L4 WITH SEVERE CENTRAL CANAL STENOSIS
+   AND CAUDA EQUINA COMPRESSION. NEW SINCE 2019. FINDINGS CONSISTENT WITH
+   CLINICAL CONCERN FOR CAUDA EQUINA SYNDROME.***
+
+2. Known post-laminectomy changes L4-L5 with moderate residual stenosis.
+
+3. Multilevel degenerative changes as described above.
+
+================================================================================
+CRITICAL FINDING COMMUNICATION:
+
+Findings communicated to Dr. Robert Hayes by telephone at 18:25 on 10/07/2024.
+Dr. Hayes acknowledged receipt and stated he will contact patient and arrange
+for emergent surgical evaluation.
+
+Documentation of communication:
+- Caller: Dr. Amanda Foster
+- Recipient: Dr. Robert Hayes
+- Time: 18:25
+- Content: Critical finding of cauda equina compression requiring emergent
+  surgical intervention
+- Acknowledgment: Verbal confirmation received
+
+================================================================================
+Electronically signed by Amanda Foster, MD  10/07/2024 18:30

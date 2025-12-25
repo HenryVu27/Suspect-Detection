@@ -1,0 +1,58 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Cedars-Sinai IBD Center)
+Export Date: 2023-12-18
+Patient: Aiden Kowalski    DOB: 02/19/1992    MRN: 01234890
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Ulcerative Colitis, pancolitis (K51.00)
+   - First Documented: 2016-08-22
+   - Status: Active
+   - Managing Provider: Dr. Maria Fernandez (Gastroenterology/IBD)
+   - Notes: E3 pancolitis. Failed multiple biologics. On vedolizumab.
+
+2. Primary Sclerosing Cholangitis (K83.01)
+   - First Documented: 2020-11-15
+   - Status: Active
+   - Notes: Associated with UC. Mild on MRCP. On ursodiol. Annual surveillance.
+
+3. Iron Deficiency Anemia (D50.9)
+   - First Documented: 2018-03-12
+   - Status: Active
+   - Notes: Chronic blood loss from UC. Requires periodic iron infusions.
+
+4. Vitamin D Deficiency (E55.9)
+   - First Documented: 2019-05-08
+   - Status: Active
+   - Notes: On supplementation.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. UC Flare, severe (K51.01)
+   - Episode: 2022-09-15 to 2022-10-20
+   - Notes: Required hospitalization, IV steroids. Switched to vedolizumab.
+
+2. C. difficile colitis (A04.72)
+   - Episode: 2021-04-10 to 2021-05-05
+   - Notes: Superimposed on UC. Treated with vancomycin.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Sulfasalazine
+   - Reaction: Severe headache, nausea
+   - Severity: Moderate
+
+2. Infliximab
+   - Reaction: Infusion reaction (hives, hypotension)
+   - Severity: Severe
+   - Notes: Required epinephrine
+
+================================================================================

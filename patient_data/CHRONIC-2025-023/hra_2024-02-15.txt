@@ -1,0 +1,148 @@
+HEALTH RISK ASSESSMENT
+Patient: Rachel Steinberg
+Date Completed: 2024-02-15
+Completed via: Patient portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - tired most days
+[X] Difficulty sleeping - can't shut off my brain
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[X] Headaches - that's my main problem!
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[X] Feeling sad or hopeless - sometimes
+[ ] Difficulty concentrating - during migraines yes
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[X] Nausea - with migraines
+[X] Sensitivity to light/sound - with migraines
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[X] Anxiety - GAD, on medication
+[ ] Sleep apnea
+[X] Chronic migraine
+[X] IBS
+
+================================================================================
+FAMILY HISTORY
+
+Migraine: Yes
+    Who? Mother, maternal grandmother, sister
+    Notes: Strong family history - all women in family have migraines
+
+High Blood Pressure: Yes
+    Who? Father
+
+Diabetes: No
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Tried in college, not regular
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Yes
+    How often? 2-3 times per week
+    How many drinks per occasion? 1-2 glasses of wine
+    Notes: I know red wine is a trigger but I enjoy it
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 2-3 times per week when not having migraines
+What type of exercise? Yoga, walking, sometimes spin class
+What barriers prevent you from exercising more?
+    [X] Headaches/migraines
+    [X] Time constraints from work
+    [X] Fatigue
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Fair
+Do you eat breakfast regularly? Sometimes, skip if running late
+Servings of fruits/vegetables per day? 2-3
+How often do you eat fast food? 2-3 times per week (quick lunch at work)
+Notes: I try to avoid known triggers but don't always succeed
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Several days
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    More than half the days
+
+Do you feel you have adequate emotional support?
+    Mostly - husband is supportive, but he doesn't really understand the migraines
+    "It's just a headache" - if I hear that one more time...
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - the Botox copay is expensive even with insurance
+Are you currently employed? Yes, Marketing Director
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I've had migraines since I was 16. They got worse in my late 20s and became
+'chronic' - meaning more than half the month. At my worst I was having headaches
+25 days a month.
+
+The Botox has helped a lot - brought me down to about 12-15 days. But I still
+lose so much of my life to these headaches. I've missed important work events,
+family gatherings, my husband's birthday dinner once. I feel like I'm always
+either having a migraine, recovering from one, or dreading the next one.
+
+Work is incredibly stressful. I know stress is my biggest trigger but I can't
+just quit my job. I'm trying to advance my career and that means long hours.
+I push through headaches that would send most people to bed.
+
+I worry about the long-term effects of all these medications. I've been on
+something for migraines for over 20 years. Is this sustainable?
+
+My anxiety makes everything worse. I get anxious about getting a migraine,
+which makes me more likely to get one. It's a vicious cycle. My therapist
+helps but I can't afford to go as often as I should.
+
+The thing people don't understand is that chronic migraine isn't 'just headaches.'
+It's a neurological disease that affects every aspect of your life. I wish
+there was more awareness."
+
+================================================================================

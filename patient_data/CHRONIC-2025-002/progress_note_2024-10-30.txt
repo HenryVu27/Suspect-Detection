@@ -1,0 +1,62 @@
+PROGRESS NOTE
+Patient: Jennifer Martinez    DOB: 05/18/1975    MRN: 45678912
+Date: 2024-10-30       Provider: Dr. Amanda Lewis, MD
+
+Chief Complaint: Fatigue, weight gain
+
+Subjective:
+Pt calls to be seen earlier than scheduled annual. Reports past 6-8 weeks feeling
+very tired, "like I did before I was diagnosed with thyroid problems." Also noticed
+weight gain of about 8 lbs despite no diet changes. Constipated for past month.
+Hair seems thinner. Feels cold when others are comfortable.
+
+Confirms she's been taking levothyroxine as prescribed. Takes it first thing in
+morning with water, waits 30-60 min before eating or coffee. Recently started
+taking calcium in the morning with her other vitamins - about 2 months ago.
+
+No SOB, CP, palpitations. Mood okay but fatigue affecting her work.
+
+Current Medications:
+- Levothyroxine 75mcg daily
+- Ferrous sulfate 325mg daily
+- Vitamin D3 2000 IU daily
+- Calcium citrate 600mg BID (AM and PM)
+- Multivitamin daily
+
+Objective:
+Vitals: BP 124/78, HR 58, RR 14, Temp 97.8F, Wt 156 lbs (+8 lbs), BMI 26.0
+General: Appears fatigued, dry skin
+HEENT: Thyroid normal size, no nodules
+CV: Bradycardia, regular
+Skin: Dry, cool
+Reflexes: Delayed relaxation phase
+
+Labs ordered today (results pending):
+- TSH, Free T4
+
+Assessment/Plan:
+1. Hypothyroidism - clinical symptoms suggest undertreatment. Likely cause: patient
+   started taking calcium at same time as levothyroxine. Calcium interferes with
+   thyroid hormone absorption! Counseled patient to separate calcium from
+   levothyroxine by at least 4 hours. Will check TSH to confirm.
+2. Weight gain - likely secondary to thyroid dysfunction.
+3. Anemia - recheck when drawing thyroid labs.
+
+Will call with lab results. Expect TSH to be elevated. May need dose adjustment
+after confirming and allowing 4 weeks of proper medication timing.
+
+Electronically signed by Amanda Lewis, MD  10/30/2024 3:15 PM
+
+================================================================================
+ADDENDUM - 10/31/2024
+
+Lab results reviewed:
+- TSH: 12.8 mIU/L (HIGH - was 2.4 in April)
+- Free T4: 0.6 ng/dL (LOW)
+- Hemoglobin: 11.8 g/dL (stable)
+
+As suspected, calcium interaction caused hypothyroid symptoms. Called patient.
+Reinforced need to take calcium 4+ hours after levothyroxine. Will also increase
+levothyroxine to 88mcg daily given degree of TSH elevation. Recheck in 6 weeks.
+
+Addendum signed by Amanda Lewis, MD  10/31/2024 9:30 AM

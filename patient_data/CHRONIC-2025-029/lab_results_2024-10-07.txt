@@ -1,0 +1,107 @@
+LABORATORY RESULTS
+Patient: George Williams    DOB: 11/18/1950    MRN: 45678234
+Collection Date: 2024-10-07 14:30    Reported: 2024-10-07 15:15
+
+================================================================================
+COMPLETE BLOOD COUNT
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+WBC                     8.2         K/uL        4.0-11.0
+RBC                     3.8         M/uL        4.5-5.5             L
+Hemoglobin              10.8        g/dL        13.5-17.5           L
+Hematocrit              32.4        %           38.0-50.0           L
+MCV                     85          fL          80-100
+Platelet Count          195         K/uL        150-400
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+Glucose                 195         mg/dL       70-100              H
+BUN                     58          mg/dL       7-20                H
+Creatinine              2.4         mg/dL       0.7-1.3             H
+eGFR                    24          mL/min      >60                 L
+Sodium                  132         mEq/L       136-145             L
+Potassium               5.2         mEq/L       3.5-5.0             H
+Chloride                98          mEq/L       98-106
+CO2                     20          mEq/L       22-29               L
+Calcium                 8.5         mg/dL       8.5-10.5
+Total Protein           6.2         g/dL        6.0-8.3
+Albumin                 3.0         g/dL        3.5-5.0             L
+
+================================================================================
+CARDIAC BIOMARKERS
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+BNP                     2,450       pg/mL       <100                H
+Troponin I              0.08        ng/mL       <0.04               H
+
+================================================================================
+COAGULATION
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+PT                      12.5        seconds     11.0-13.5
+INR                     1.1                     0.9-1.1
+
+================================================================================
+OTHER
+================================================================================
+Test                    Result      Units       Reference Range     Flag
+------------------------------------------------------------------------------
+Lactate                 1.8         mmol/L      0.5-2.0
+
+================================================================================
+COMPARISON TO PRIOR (April 2024)
+================================================================================
+Parameter               April 2024      October 2024    Change
+------------------------------------------------------------------------------
+BNP                     450             2,450           +444%
+Creatinine              1.8             2.4             +33%
+eGFR                    38              24              -37%
+Sodium                  138             132             -6
+
+================================================================================
+INTERPRETATION
+================================================================================
+CRITICAL FINDINGS CONSISTENT WITH ACUTE DECOMPENSATED HEART FAILURE:
+
+1. BNP markedly elevated at 2,450 pg/mL (5x baseline):
+   - Indicates significant cardiac volume overload
+   - Correlates with clinical picture of congestion
+
+2. Acute Kidney Injury on CKD:
+   - Creatinine 1.8 → 2.4
+   - eGFR 38 → 24 (now Stage 4 CKD range)
+   - Cardiorenal syndrome pattern
+   - BUN/Cr ratio elevated (prerenal component likely)
+
+3. Hyponatremia (132 mEq/L):
+   - Dilutional from heart failure
+   - Poor prognostic indicator in HF
+
+4. Hyperkalemia (5.2 mEq/L):
+   - Mild - monitor closely with diuresis
+   - Related to AKI and MRA therapy
+
+5. Metabolic acidosis (CO2 20):
+   - Consistent with poor cardiac output
+
+6. Troponin elevation (0.08 ng/mL):
+   - Type 2 MI pattern
+   - Demand ischemia from tachycardia, likely not ACS
+
+7. Anemia (Hgb 10.8):
+   - Chronic disease/cardiorenal syndrome
+   - Contributes to symptoms
+
+================================================================================
+CRITICAL VALUE NOTIFICATION:
+BNP 2,450 and Creatinine 2.4 called to Dr. Kim at 15:20. Acknowledged.
+
+================================================================================
+Resulted by: Laboratory Information System
+Reviewed by: Robert Kim, MD

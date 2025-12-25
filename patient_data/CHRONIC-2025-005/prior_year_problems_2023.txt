@@ -1,0 +1,60 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Northwestern Medicine)
+Export Date: 2023-12-15
+Patient: Aisha Hassan    DOB: 07/28/1982    MRN: 78912345
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Graves' Disease (E05.00)
+   - First Documented: 2022-03-18
+   - Status: Active
+   - Managing Provider: Dr. Lisa Wong (Endocrinology)
+   - Notes: Diagnosed after presenting with weight loss, palpitations, tremor.
+           TSI positive. On methimazole.
+
+2. Atrial Fibrillation, paroxysmal (I48.0)
+   - First Documented: 2022-03-25
+   - Status: Active
+   - Managing Provider: Dr. James Miller (Cardiology)
+   - Notes: Likely thyroid-induced. On metoprolol for rate control.
+           CHA2DS2-VASc = 1. Not anticoagulated.
+
+3. Anxiety Disorder (F41.9)
+   - First Documented: 2019-06-10
+   - Status: Active
+   - Notes: Predates thyroid diagnosis. On buspirone.
+
+4. Irritable Bowel Syndrome (K58.9)
+   - First Documented: 2018-02-14
+   - Status: Active
+   - Notes: Diarrhea-predominant. Managed with diet.
+
+5. Vitamin D deficiency (E55.9)
+   - First Documented: 2021-08-22
+   - Status: Active
+   - Notes: On vitamin D supplementation
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Thyroid storm (E05.91)
+   - Onset: 2022-03-20
+   - Resolved: 2022-03-28
+   - Notes: Hospitalized. Triggered by URI. Resolved with treatment.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Propylthiouracil (PTU)
+   - Reaction: Severe hepatotoxicity (elevated LFTs)
+   - Severity: Severe
+   - Documented: 2022-04-15
+   - Notes: Switched to methimazole after PTU-induced liver injury
+
+================================================================================

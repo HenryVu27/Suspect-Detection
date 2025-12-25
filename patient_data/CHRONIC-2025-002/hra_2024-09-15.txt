@@ -1,0 +1,123 @@
+HEALTH RISK ASSESSMENT
+Patient: Jennifer Martinez
+Date Completed: 2024-09-15
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Thyroid problems - hypothyroidism, on medication
+[ ] Diabetes
+[ ] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+Thyroid Disease: Yes
+    Who? Mother, maternal aunt
+    Age at diagnosis? Mother was 45
+
+Diabetes: No
+
+Heart Disease: No
+
+Cancer: Yes
+    Who? Grandmother (breast)
+    Age at diagnosis? 68
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Occasionally
+    How often? 1-2 times per month
+    How many drinks per occasion? 1-2 glasses of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week
+What type of exercise? Walking, yoga, occasional cycling
+What barriers prevent you from exercising more?
+    [X] Time constraints with work and family
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Generally healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4-5
+How often do you eat fast food? Rarely
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (normal work stress)
+
+Do you feel you have adequate emotional support? Yes
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, full-time (work from home)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"No major concerns right now. My thyroid has been stable and I feel pretty good.
+I make sure to take my medication every morning. The only thing I've noticed is
+my periods are still pretty heavy - the iron supplements help but I'm wondering
+if there's something else going on. My mom had to have a hysterectomy for
+fibroids around my age so maybe I should get checked?"
+
+================================================================================

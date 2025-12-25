@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (VA San Diego)
+Export Date: 2023-12-18
+Patient: Maria Gonzalez    DOB: 03/15/1990    MRN: 12345901
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Post-Traumatic Stress Disorder (F43.10)
+   - First Documented: 2016-08-20
+   - Status: Active
+   - Managing Provider: Dr. Jennifer Adams (VA Psychiatry)
+   - Notes: Combat-related PTSD from OEF deployment. On prazosin and sertraline.
+
+2. Major Depressive Disorder, recurrent (F33.1)
+   - First Documented: 2017-02-15
+   - Status: Active
+   - Notes: Comorbid with PTSD
+
+3. Chronic Migraine (G43.709)
+   - First Documented: 2018-04-10
+   - Status: Active
+   - Notes: Started after TBI from blast exposure. On topiramate.
+
+4. Traumatic Brain Injury, history of (S06.9)
+   - First Documented: 2014-11-22
+   - Status: Active
+   - Notes: Mild TBI from blast exposure. Resolved acute symptoms.
+
+5. Chronic Low Back Pain (M54.5)
+   - First Documented: 2015-06-18
+   - Status: Active
+   - Notes: Service-related injury. Physical therapy, gabapentin.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Acute PTSD exacerbation (F43.10)
+   - Episode: 2023-07-04 (July 4th fireworks trigger)
+   - Resolved: 2023-07-20
+   - Notes: Increased prazosin, therapy intensified
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Knee arthroscopy, right
+   - Date: 2019-04-22
+   - Hospital: VA San Diego
+   - Notes: Service-related injury
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Trazodone
+   - Reaction: Priapism (reported by partner)
+   - Severity: Moderate
+   - Notes: Discontinued
+
+================================================================================

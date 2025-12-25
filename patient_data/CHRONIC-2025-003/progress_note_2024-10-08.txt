@@ -1,0 +1,58 @@
+PROGRESS NOTE
+Patient: Marcus Johnson    DOB: 11/03/1978    MRN: 56789123
+Date: 2024-10-08       Provider: Dr. Kevin Park, MD
+
+Chief Complaint: Pre-surgical clearance, metabolic follow-up
+
+Subjective:
+46 yo M here for pre-op clearance for sleeve gastrectomy scheduled 10/28. Has been
+in supervised weight loss program for 6 months, lost 18 lbs total. Feeling "better
+than I have in years" - more energy, sleeping better with consistent CPAP use.
+
+Taking medications as prescribed. Tolerating metformin well - no GI upset. No muscle
+aches from statin.
+
+Denies CP, SOB, dizziness. Exercise tolerance improved - can now walk 20 min without
+stopping.
+
+Current Medications:
+- Lisinopril 20mg daily
+- Metformin 500mg BID
+- Atorvastatin 20mg QHS
+- Omeprazole 20mg daily
+
+Objective:
+Vitals: BP 132/80, HR 70, RR 14, Wt 280 lbs (-18 lbs from baseline), BMI 41.5,
+       SpO2 96% RA
+General: Morbidly obese but improved appearance, good spirits
+CV: RRR
+Lungs: Clear
+Ext: No edema
+
+Labs from 10/01:
+- A1c: 6.2% (improved!)
+- Fasting glucose: 108
+- ALT: 42, AST: 38 (normalizing)
+- TG: 175, HDL: 38, LDL: 98
+- Cr: 0.9, eGFR 98
+- CBC: normal
+- BMP: normal
+- PT/INR: normal
+- Albumin: 4.2
+
+Assessment/Plan:
+1. Obesity - excellent progress! BMI 41.5, down from 44.1. Cleared for bariatric surgery.
+2. Type 2 Diabetes - A1c now 6.2%, below diagnostic threshold. Metformin working well.
+   Continue through surgery.
+3. HTN - well controlled. Continue lisinopril. May need dose reduction post-surgery.
+4. Hyperlipidemia - LDL now at goal. Continue statin.
+5. OSA - continue CPAP. May improve or resolve post-surgery; repeat sleep study
+   recommended 6 months post-op.
+6. NAFLD - transaminases normalizing with weight loss.
+
+Pre-operative clearance: CLEARED for sleeve gastrectomy from medical standpoint.
+Risk/benefit discussed. Patient understands surgical risks and post-op requirements.
+
+Continue all medications except hold metformin morning of surgery.
+
+Electronically signed by Kevin Park, MD  10/08/2024 11:00 AM

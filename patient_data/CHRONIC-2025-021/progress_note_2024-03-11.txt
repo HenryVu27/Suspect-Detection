@@ -1,0 +1,75 @@
+PROGRESS NOTE
+Patient: Harold Nakamura    DOB: 04/12/1941    MRN: 67890456
+Date: 2024-03-11       Provider: Dr. Lisa Chen, MD (Neurology)
+
+Chief Complaint: Dementia follow-up
+
+Subjective:
+82 yo M with mild Alzheimer's dementia diagnosed 2022 here for routine follow-up.
+Wife Helen accompanies and provides history.
+
+Per wife: "He's about the same. Maybe a little worse." Reports he occasionally
+forgets what day it is, repeats questions, and has trouble finding words. Still
+recognizes family members. Managing basic ADLs but needs reminders.
+
+Driving: Stopped driving 6 months ago after getting lost going to familiar grocery
+store. "That was scary."
+
+Medications: Wife manages all medications. Using pill organizer.
+
+Sleep: Up 2-3x/night to urinate. Wife reports no wandering behavior.
+
+Mood: "I feel okay. A little frustrated sometimes." No depression symptoms per wife.
+
+No falls. Appetite good. Weight stable.
+
+Per patient: "I know I'm getting forgetful. It's embarrassing. But I'm doing
+my best."
+
+Current Medications:
+- Donepezil 10mg QHS
+- Lisinopril 10mg daily
+- Metformin 1000mg BID
+- Atorvastatin 20mg daily
+- Tamsulosin 0.4mg QHS
+- Aspirin 81mg daily
+
+Objective:
+Vitals: BP 132/76, HR 68, Wt 168 lbs
+General: Pleasant, well-groomed (wife assists), cooperative
+Neuro:
+  - Alert, oriented to person and place, not date (said "March something, 2024")
+  - Speech: Fluent but word-finding pauses
+  - Attention: Can spell WORLD backwards with difficulty
+  - Memory: 1/3 objects at 5 minutes
+  - Language: Naming intact for common objects, difficulty with low-frequency words
+  - Visuospatial: Clock draw 3/5 (numbers correct, hands incorrect)
+  - No focal deficits, normal gait, no parkinsonism
+
+MoCA today: 18/30 (was 20/30 in 2023) - decline noted
+
+Assessment/Plan:
+1. Alzheimer's Disease, mild stage - declining per MoCA (20 to 18). Expected
+   progression. Continue donepezil 10mg. Discuss adding memantine given decline.
+   - Decision: Start memantine 5mg daily, titrate to 10mg BID over 4 weeks
+   - Ordered labs: B12, TSH, BMP (rule out reversible causes)
+
+2. Caregiver support - Wife appears tired. Discussed respite care options.
+   Provided information about local Alzheimer's Association support group.
+   Recommended she see her own doctor for checkup.
+
+3. Safety - No driving (appropriate). Discussed home safety: remove throw rugs,
+   ensure smoke detectors working, consider medical ID bracelet.
+
+4. Advanced care planning - Encouraged completion of POLST and durable power of
+   attorney while patient can still participate in decisions.
+
+5. DM2 - Continue metformin. Check HbA1c today.
+
+6. HTN - Controlled.
+
+7. BPH - Nocturia 2-3x, stable. Continue tamsulosin.
+
+RTC 4 months. Call if any acute changes, falls, or wandering.
+
+Electronically signed by Lisa Chen, MD  03/11/2024 3:45 PM

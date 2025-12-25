@@ -1,0 +1,92 @@
+SLEEP STUDY REPORT - HOME SLEEP TEST
+
+Patient: Raymond Brooks    DOB: 03/08/1971    MRN: 23456789
+Study Date: 2024-03-10
+Ordering Provider: Dr. Angela Richardson
+Interpreting Provider: Dr. Michael Stevens, MD, Sleep Medicine
+
+================================================================================
+CLINICAL INDICATION
+
+Excessive daytime sleepiness, loud snoring with witnessed apneas, morning headaches,
+resistant hypertension, obesity. Epworth Sleepiness Scale 16/24.
+
+================================================================================
+STUDY TYPE
+
+Home Sleep Test (HST) - Type III portable monitor
+Recording time: 7.2 hours
+Total sleep time (estimated): 6.8 hours
+
+================================================================================
+RESPIRATORY ANALYSIS
+
+                                Result          Normal
+--------------------------------------------------------------------------------
+Apnea-Hypopnea Index (AHI)     38.2/hr         <5/hr           SEVERE
+Obstructive Apnea Index         28.5/hr
+Central Apnea Index             2.1/hr
+Hypopnea Index                  7.6/hr
+
+Mean Apnea Duration             22.4 seconds
+Longest Apnea Duration          52 seconds
+
+================================================================================
+OXIMETRY ANALYSIS
+
+                                Result          Normal
+--------------------------------------------------------------------------------
+Baseline SpO2                   95%             >95%
+Mean SpO2                       89%             >90%            LOW
+Minimum SpO2                    78%             >88%            LOW
+Time SpO2 <90%                  42 minutes
+Time SpO2 <88%                  18 minutes
+Oxygen Desaturation Index       35.8/hr
+
+================================================================================
+HEART RATE ANALYSIS
+
+Mean Heart Rate                 72 bpm
+Range                           52-98 bpm
+Heart rate variability present consistent with respiratory events
+
+================================================================================
+POSITIONAL DATA
+
+Supine time                     65%
+AHI supine                      52.4/hr
+AHI non-supine                  18.6/hr
+
+Significant positional component noted.
+
+================================================================================
+INTERPRETATION
+
+FINDINGS:
+1. SEVERE Obstructive Sleep Apnea with AHI of 38.2 events per hour
+2. Significant nocturnal hypoxemia with minimum SpO2 of 78%
+3. Prolonged time with oxygen saturation below 90% (42 minutes)
+4. Positional component with worsening in supine position
+5. Occasional central apneas (CAI 2.1), likely treatment-emergent or related to
+   prolonged obstructive events
+
+SEVERITY CLASSIFICATION: SEVERE (AHI >= 30)
+
+================================================================================
+RECOMMENDATIONS
+
+1. Positive Airway Pressure (PAP) therapy is indicated and strongly recommended
+2. Auto-titrating CPAP (APAP) appropriate for initial therapy
+3. Pressure range: 6-15 cmH2O suggested starting range
+4. Follow-up to assess compliance and residual AHI
+5. Weight loss counseling - may improve OSA severity
+6. Positional therapy may be adjunctive (avoid supine sleep)
+7. Screen for comorbid conditions (HTN, DM, cardiovascular disease)
+8. Reassess with in-lab polysomnogram if APAP not effective or if central
+   apneas persist/worsen
+
+Given degree of nocturnal hypoxemia, recommend prompt initiation of CPAP.
+Important to address driving safety given Epworth score of 16.
+
+Report electronically signed by: Michael Stevens, MD, DABSM
+2024-03-12 10:00 AM

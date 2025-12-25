@@ -1,0 +1,154 @@
+HEALTH RISK ASSESSMENT
+Patient: Jasmine Washington
+Date Completed: 2024-03-15
+Completed via: Patient portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - chronic, baseline for me
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[ ] Joint pain - only during flares, not now
+[ ] Rash - none currently
+[ ] Mouth sores - none currently
+[ ] Hair loss - stable
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[X] High blood pressure - related to lupus kidney
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[X] Kidney disease - lupus nephritis, in remission
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression - had it after diagnosis, resolved with therapy
+[ ] Anxiety
+[ ] Sleep apnea
+[X] Lupus (SLE) - diagnosed 2014
+[X] Blood clots - DVT 2016, on blood thinner
+
+================================================================================
+FAMILY HISTORY
+
+Autoimmune Disease: Yes
+    Who? Mother has rheumatoid arthritis, cousin has lupus
+
+Heart Disease: Yes
+    Who? Grandfather
+
+Lupus: Yes
+    Who? Maternal cousin
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    How often? Special occasions only
+    Notes: Careful because of medications
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week when feeling well
+What type of exercise? Yoga, swimming (indoor pool), walking
+What barriers prevent you from exercising more?
+    [X] Fatigue
+    [X] Joint pain during flares
+    [X] Sun exposure concerns (outdoor exercise limited)
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Good
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4-5
+How often do you eat fast food? Rarely
+Notes: Try to eat anti-inflammatory diet - lots of fish, vegetables, whole grains
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days - always some health anxiety with lupus
+
+Do you feel you have adequate emotional support?
+    Yes - wonderful family, partner, lupus support group (online and in-person)
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes - rent apartment with partner
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - mycophenolate is expensive even with insurance
+Are you currently employed? Yes, hospital social worker
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I was diagnosed with lupus at 26. It was a shock - I had no idea what was
+happening when I started getting joint pain, rashes, and fatigue. It took over
+a year to get diagnosed because lupus can look like so many other things.
+
+The hardest part was when I developed kidney involvement. I had to have a kidney
+biopsy and go on stronger medications. That was terrifying - lupus nephritis can
+lead to kidney failure. Thankfully, my kidneys have been stable for the past
+few years on my current medications.
+
+I also had a blood clot in my leg in 2016, which led to finding out I have
+antiphospholipid syndrome - another autoimmune condition that goes with lupus.
+Now I'm on blood thinners for life. It's a lot of medications to manage.
+
+The sun is my enemy now. I used to love being outside, going to the beach,
+hiking. Now I have to avoid sun or cover up completely. I've learned to adapt
+but I miss that freedom.
+
+I want to have children someday. I know it's possible but I'll need to plan
+carefully with my doctors. Some of my medications aren't safe during pregnancy
+so I'll need to switch and be stable for a while first. It's overwhelming
+to think about but I'm hopeful.
+
+The hardest thing is the unpredictability. I can feel fine one week and
+flaring the next. I've learned to listen to my body and pace myself. I'm lucky
+to have supportive employers who understand when I need flexibility.
+
+Being a social worker in a hospital actually helps - I understand what patients
+go through with chronic illness. I feel like my experience makes me better
+at my job."
+
+================================================================================

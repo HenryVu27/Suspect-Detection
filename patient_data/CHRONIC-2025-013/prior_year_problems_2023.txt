@@ -1,0 +1,56 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Johns Hopkins)
+Export Date: 2023-12-20
+Patient: Sandra Mitchell    DOB: 09/30/1960    MRN: 67891456
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Chronic Kidney Disease, Stage 3a (N18.31)
+   - First Documented: 2021-08-15
+   - Status: Active
+   - Managing Provider: Dr. James Wilson
+   - Notes: eGFR 52. Likely hypertensive nephrosclerosis.
+
+2. Essential Hypertension, malignant (I10)
+   - First Documented: 1998-05-22
+   - Status: Active
+   - Notes: Longstanding, poorly controlled. On 4 agents.
+
+3. Left Ventricular Hypertrophy (I51.7)
+   - First Documented: 2019-04-10
+   - Status: Active
+   - Notes: Per echocardiogram. Secondary to chronic hypertension.
+
+4. Hyperlipidemia (E78.5)
+   - First Documented: 2008-11-15
+   - Status: Active
+
+5. Obesity (E66.9)
+   - First Documented: 2005-03-20
+   - Status: Active
+   - Notes: BMI 33.2
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. Hypertensive urgency (I16.0)
+   - Episode: 2023-04-15
+   - Resolved: 2023-04-16
+   - Notes: ED visit, BP 210/120. Treated, discharged.
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Cesarean section x2
+   - Dates: 1985, 1988
+   - Complications: None
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Hydrochlorothiazide
+   - Reaction: Severe hyponatremia
+   - Severity: Moderate
+
+================================================================================

@@ -1,0 +1,57 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Liver Institute)
+Export Date: 2023-12-15
+Patient: Vincent Rossi    DOB: 12/08/1962    MRN: 12345901
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Nonalcoholic Steatohepatitis (NASH) with Cirrhosis (K75.81)
+   - First Documented: 2020-06-18
+   - Status: Active
+   - Managing Provider: Dr. Thomas Chen (Hepatology)
+   - Notes: Compensated cirrhosis, MELD 8. On surveillance.
+
+2. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2008-04-22
+   - Status: Active
+   - Notes: On metformin and glipizide. HbA1c 7.5%.
+
+3. Obesity (E66.9)
+   - First Documented: 2005-11-10
+   - Status: Active
+   - Notes: BMI 36. Central obesity.
+
+4. Hypertension (I10)
+   - First Documented: 2010-03-15
+   - Status: Active
+   - Notes: On lisinopril.
+
+5. Hyperlipidemia (E78.5)
+   - First Documented: 2009-08-20
+   - Status: Active
+   - Notes: On atorvastatin.
+
+6. Obstructive Sleep Apnea (G47.33)
+   - First Documented: 2015-06-12
+   - Status: Active
+   - Notes: On CPAP.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+None
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Laparoscopic cholecystectomy
+   - Date: 2018-09-15
+   - Notes: Symptomatic gallstones
+
+================================================================================
+ALLERGIES
+================================================================================
+NKDA
+
+================================================================================

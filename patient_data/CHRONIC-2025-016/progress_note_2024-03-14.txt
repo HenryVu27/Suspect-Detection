@@ -1,0 +1,75 @@
+PROGRESS NOTE
+Patient: Anthony Delgado    DOB: 11/22/1988    MRN: 91234789
+Date: 2024-03-14       Provider: Dr. Elizabeth Warren, MD (Psychiatry)
+
+Chief Complaint: Bipolar disorder follow-up, mood check
+
+Subjective:
+35 yo M with Bipolar I disorder here for routine follow-up. Reports mood has been
+"okay but fragile." Some low days over past month - not severe depression but "not
+feeling like myself." Sleep has been inconsistent - sometimes sleeping 10-11 hours,
+sometimes only 5. Appetite increased.
+
+Denies manic symptoms - no decreased need for sleep, no grandiosity, no impulsive
+behaviors, no racing thoughts. No psychotic symptoms.
+
+Work going okay - freelance graphic designer, managing deadlines.
+
+Medication adherence: "Pretty good." Admits missing doses occasionally when traveling
+for work. Has not been checking lithium levels regularly - last level was 9 months ago.
+
+No SI/HI.
+
+Current Medications:
+- Lithium 600mg BID
+- Lamotrigine 200mg daily
+- Buspirone 15mg BID
+- Levothyroxine 50mcg daily
+- Atorvastatin 20mg QHS
+
+Objective:
+Vitals: BP 124/82, HR 72, Wt 218 lbs (+4), BMI 32.8
+General: Appears tired, psychomotor slowing
+Psych: Mood "meh", affect constricted, no pressured speech, thought process linear,
+       no SI/HI, no psychotic features
+
+PHQ-9: 11 (moderate depression)
+MDQ: Negative for current mania
+
+Assessment/Plan:
+1. Bipolar I Disorder - subsyndromal depressive symptoms. PHQ-9: 11. Not meeting
+   criteria for major depressive episode but needs monitoring.
+   - Continue lithium and lamotrigine - backbone of mood stabilization
+   - Labs overdue - check lithium level, TSH, renal function, lipids TODAY
+   - Consider lamotrigine increase if depression worsens (protects against
+     depression in bipolar)
+   - Sleep hygiene reviewed - irregular sleep is destabilizing
+2. Hypothyroidism (lithium-induced) - check TSH
+3. Weight - continuing to gain. Lithium effect plus sedentary work. Discussed
+   exercise and diet. Consider GLP-1 agonist if continues to worsen.
+4. Medication adherence - critical for bipolar stability. Discussed importance.
+   Suggested pillbox and phone reminders.
+5. No mania indicators currently - continue monitoring for mood switches.
+
+Labs drawn. RTC 4 weeks. Call if mood worsens significantly.
+
+Electronically signed by Elizabeth Warren, MD  03/14/2024 3:00 PM
+
+================================================================================
+ADDENDUM - 03/18/2024
+
+Labs reviewed:
+- Lithium level: 0.5 mEq/L (LOW - therapeutic is 0.6-1.2)
+- TSH: 5.8 mIU/L (HIGH - suggests hypothyroidism undertreated)
+- Cr: 1.1 (stable)
+- eGFR: 82
+- LDL: 135 (above goal)
+
+Lithium level subtherapeutic - likely contributing to mood instability. Patient
+likely missing doses as suspected. Called patient - discussed importance of
+consistent dosing. Increase lithium to 900mg AM, 600mg PM (total 1500mg daily).
+Also increase levothyroxine to 75mcg daily for elevated TSH.
+
+Recheck lithium level in 1 week.
+
+Addendum signed by Elizabeth Warren, MD  03/18/2024 11:00 AM

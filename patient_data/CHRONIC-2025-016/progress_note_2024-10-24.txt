@@ -1,0 +1,53 @@
+PROGRESS NOTE
+Patient: Anthony Delgado    DOB: 11/22/1988    MRN: 91234789
+Date: 2024-10-24       Provider: Dr. Elizabeth Warren, MD (Psychiatry)
+
+Chief Complaint: Routine bipolar follow-up
+
+Subjective:
+Pt returns for routine follow-up. Reports mood "the best it's been in a while."
+No depression, no mania. Sleep regular - 7-8 hours, consistent bedtime. Energy good.
+Work going well - got a new contract that he's excited about.
+
+Taking medications consistently now - using weekly pill organizer and phone alarms.
+"Made all the difference."
+
+No anxiety symptoms. No SI/HI.
+
+Started walking 30 min 4x/week. Watching diet more carefully. Lost 8 lbs.
+
+Current Medications:
+- Lithium 900mg AM, 600mg PM
+- Lamotrigine 200mg daily
+- Buspirone 15mg BID
+- Levothyroxine 75mcg daily
+- Atorvastatin 20mg QHS
+
+Objective:
+Vitals: BP 118/76, HR 70, Wt 210 lbs (-8), BMI 31.6
+General: Bright, well-groomed, good eye contact
+Psych: Mood "good", affect full and appropriate, no psychomotor changes,
+       thought process goal-directed
+
+PHQ-9: 3 (minimal)
+MDQ: Negative
+
+Labs from 10/15:
+- Lithium: 0.8 mEq/L (therapeutic!)
+- TSH: 2.4 (normalized)
+- Cr: 1.1 (stable)
+- LDL: 118 (improved)
+
+Assessment/Plan:
+1. Bipolar I Disorder - EUTHYMIC and STABLE! Excellent response to optimized lithium
+   dosing and improved adherence. Continue current regimen.
+2. Hypothyroidism - TSH normalized on 75mcg levothyroxine. Continue.
+3. Obesity - weight trending down nicely. 8 lb loss. Encourage continued lifestyle
+   changes.
+4. Hyperlipidemia - LDL improved with exercise and diet. Continue statin.
+5. Medication adherence - now excellent with organizational tools. Reinforce.
+
+Doing great. This is the most stable I've seen this patient in years.
+Continue current regimen. RTC 3 months.
+
+Electronically signed by Elizabeth Warren, MD  10/24/2024 2:30 PM

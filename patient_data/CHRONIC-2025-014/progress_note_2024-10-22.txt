@@ -1,0 +1,50 @@
+PROGRESS NOTE
+Patient: Jessica Romano    DOB: 04/22/1985    MRN: 78912567
+Date: 2024-10-22       Provider: Dr. Sarah Mitchell, MD
+
+Chief Complaint: Routine mental health follow-up
+
+Subjective:
+38 yo F here for routine follow-up. Continues to do well. Mood stable - "the best
+I've felt in years." Working out regularly, sleeping well, enjoying social activities.
+
+Work promoted to senior project manager - happy but also slightly anxious about
+new responsibilities. "Good anxiety - motivating."
+
+Mother finished chemo and is in remission - huge relief.
+
+Started dating someone new - feeling optimistic.
+
+Therapy tapered to every 2 weeks - feels adequate.
+
+Occasionally misses a dose of buspirone when traveling - considering whether she
+still needs it.
+
+No depressive symptoms. No SI.
+
+Current Medications:
+- Sertraline 150mg daily
+- Buspirone 10mg TID (sometimes misses doses)
+- Trazodone 100mg QHS (sometimes skips if sleepy)
+
+Objective:
+Vitals: BP 114/68, HR 68, Wt 130 lbs
+General: Pleasant, animated, well-groomed
+Psych: Mood "great", affect full and appropriate
+
+PHQ-9: 2 (minimal depression)
+GAD-7: 5 (mild anxiety)
+
+Assessment/Plan:
+1. MDD in sustained remission - PHQ-9 = 2. Continue sertraline 150mg indefinitely.
+   Discussed importance of maintenance therapy given multiple recurrences.
+2. GAD - well controlled. Patient asks about tapering buspirone. Given current
+   stressors (new role) and history, recommend continuing for now. Can revisit
+   in 6 months if continues doing well. If wants to try tapering, do slowly.
+3. Insomnia - resolved. Can use trazodone PRN at this point.
+4. Overall wellness - excellent. Lifestyle factors (exercise, therapy, social
+   support) contributing to stability.
+
+Continue current meds. Reduce trazodone to PRN. RTC 3-4 months.
+
+Electronically signed by Sarah Mitchell, MD  10/22/2024 11:15 AM

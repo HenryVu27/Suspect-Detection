@@ -1,0 +1,145 @@
+HEALTH RISK ASSESSMENT
+Patient: Darnell Washington
+Date Completed: 2024-10-01
+Completed via: Tablet in clinic waiting room (with staff assistance)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Better (insurance now, taking medications)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - daily, moderate (better than before)
+[ ] Difficulty sleeping
+[X] Frequent urination - at night especially, 2-3x
+[X] Numbness/tingling in hands or feet - constant in feet
+[ ] Headaches
+[X] Excessive thirst - sometimes
+[ ] Chest pain or pressure
+[X] Shortness of breath - with exertion
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[X] Loud snoring - daughter says I snore very loud
+[X] Daytime sleepiness - fall asleep at work sometimes
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - Type 2, for 12 years, on insulin
+[X] High blood pressure - yes
+[X] High cholesterol - yes
+[ ] Heart disease
+[ ] Stroke
+[X] Kidney disease - my kidneys are damaged from diabetes
+[ ] Liver disease
+[ ] Cancer
+[X] Depression - was bad earlier this year, better now on medication
+[ ] Anxiety
+[X] Sleep apnea - diagnosed but don't use the machine
+
+================================================================================
+FAMILY HISTORY
+
+Diabetes: Yes
+    Who? Mother, father, both grandmothers
+    Age at diagnosis? All before 50
+
+Heart Disease: Yes
+    Who? Father (died of heart attack at 60)
+
+Stroke: Yes
+    Who? Mother (had stroke at 65, still living)
+
+Kidney Disease: Yes
+    Who? Mother (on dialysis)
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2010
+    How much did you smoke? Pack a day for 20 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? No
+    Did you drink in the past? Yes, quit when diagnosed with diabetes
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Rarely
+What type of exercise? Walking short distances at work
+What barriers prevent you from exercising more?
+    [X] Foot problems/pain
+    [X] Shortness of breath
+    [X] Tired
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Could be better
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 1-2
+How often do you eat fast food? 2-3 times per week
+Do you follow any special diet?
+    [X] Trying to follow diabetes diet but hard to afford healthy food
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all (better since on medication)
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (worry about health and bills)
+
+Do you feel you have adequate emotional support? Yes, daughter moved in to help
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food?
+    Sometimes - hard to afford healthy food on fixed income
+
+Do you have stable housing? Yes
+
+Do you have reliable transportation to medical appointments?
+    Now yes - Medicaid provides transportation
+
+In the past 12 months, have you had difficulty affording your medications?
+    Earlier this year yes, almost died from not affording insulin. Have Medicaid now.
+
+Are you currently employed? Part-time (security guard, 20 hrs/week)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I almost died earlier this year because I couldn't afford my insulin. I was
+taking half doses and skipping meals. I got real sick and my blood sugar was
+over 300 all the time. Thank God my doctor helped me get on Medicaid and now
+I can afford my medications.
+
+My biggest worry now is my kidneys. My mother is on dialysis and I don't want
+to end up like that. I try to take my medications and check my blood sugar but
+it's hard to eat healthy when you don't have a lot of money.
+
+I know I should use that CPAP machine for my sleep apnea but I can't stand it.
+My daughter says I snore so loud she can hear me through the wall and I stop
+breathing sometimes. But that mask makes me feel like I'm suffocating.
+
+I lost a toe a few years ago and I check my feet every day like the doctor told
+me. I don't want to lose any more."
+
+================================================================================

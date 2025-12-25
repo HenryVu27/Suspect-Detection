@@ -1,0 +1,139 @@
+HEALTH RISK ASSESSMENT
+Patient: Harold Peterson
+Date Completed: 2024-10-01
+Completed via: Paper form at VA clinic
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Much better (BiPAP machine helps)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - much better than before but still present with exertion
+[ ] Difficulty sleeping - much better with BiPAP
+[ ] Frequent urination - once per night (BPH)
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches - no more morning headaches since starting BiPAP
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - with exertion (COPD), improved
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring - resolved with BiPAP
+[ ] Daytime sleepiness - much better
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - Type 2
+[X] High blood pressure - yes
+[X] High cholesterol - yes
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[X] Sleep apnea - newly diagnosed this year, on BiPAP
+[X] COPD/Emphysema - moderate
+[X] PTSD - Vietnam veteran
+
+================================================================================
+FAMILY HISTORY
+
+COPD/Lung Disease: Yes
+    Who? Father (smoker, emphysema)
+
+Heart Disease: Yes
+    Who? Father (MI at 70)
+
+Diabetes: Yes
+    Who? Mother
+    Age at diagnosis? 60s
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2016 (when diagnosed with COPD)
+    How much did you smoke? Pack a day for about 40 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? No
+    Did you drink in the past? Yes, quit when diagnosed with diabetes
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week now
+What type of exercise? Walking (1/2 mile), stationary bike at VA gym
+What barriers prevent you from exercising more?
+    [X] Shortness of breath limits how much I can do
+    [X] Fatigue (better now though)
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? Rarely
+Do you follow any special diet?
+    [X] Diabetic diet, watching carbs
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (occasional PTSD symptoms but managed)
+
+Do you feel you have adequate emotional support? Yes - wife, VA support groups
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    No - VA covers most of it
+Are you currently employed? Retired (former postal worker, 35 years)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"The breathing machine (BiPAP) has been a life changer. When I first started it
+I hated it - felt like I was suffocating. But I stuck with it because the doctor
+said it was really important for someone with both COPD and sleep apnea. Now I
+can't sleep without it.
+
+My energy is so much better than last year. My wife says I don't snore anymore
+and I'm not gasping for air. I don't wake up with headaches. I can actually stay
+awake to watch a whole TV show now!
+
+The leg swelling has gone down too. I was worried about my heart but the doctors
+say that's improving.
+
+My PTSD is under control with the medication and I still go to the VA group
+occasionally. Vietnam was a long time ago but some things stay with you.
+
+I'm grateful for the VA taking care of me. I know I did damage with all those
+years of smoking but quitting and following the doctors' advice has helped."
+
+================================================================================

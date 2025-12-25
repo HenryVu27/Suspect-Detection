@@ -1,0 +1,124 @@
+HEALTH RISK ASSESSMENT
+Patient: Michael Anderson
+Date Completed: 2024-10-10
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Good
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[ ] Shortness of breath
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[X] Occasional anxiety - managed with medication and coping skills
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[X] High blood pressure - yes, mild
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[X] Anxiety - generalized anxiety and panic disorder
+
+================================================================================
+FAMILY HISTORY
+
+Anxiety: Yes
+    Who? Mother, sister
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? 62
+
+Cancer: No
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? No
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Moderately
+    How often? 2-3 times per week
+    How many drinks per occasion? 1-2 beers or glasses of wine
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 3-4 times per week
+What type of exercise? Cycling, hiking, weight training
+What barriers prevent you from exercising more?
+    [X] Work schedule
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Generally healthy
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? 1-2 times per week
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (normal for me, well managed)
+
+Do you feel you have adequate emotional support? Yes
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, full-time (senior software engineer)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"My anxiety has been well controlled for several years now with medication and
+the cognitive behavioral therapy techniques I learned. I rarely have panic attacks
+anymore and when I do, I know how to handle them.
+
+I'm a little worried about flying - I had a panic attack on a flight recently.
+It wasn't too bad but it reminded me that anxiety can still pop up in stressful
+situations. I have some work trips coming up so I'll make sure to have my
+medication just in case.
+
+No other major concerns. Just want to stay healthy and keep my anxiety managed."
+
+================================================================================

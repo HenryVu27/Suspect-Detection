@@ -1,0 +1,48 @@
+PROGRESS NOTE
+Patient: Aisha Hassan    DOB: 07/28/1982    MRN: 78912345
+Date: 2024-06-20       Provider: Dr. Lisa Wong, MD (Endocrinology)
+
+Chief Complaint: Preconception planning, Graves' disease
+
+Subjective:
+Patient returns to discuss pregnancy planning. She and husband have decided they
+want to try to conceive in the next 6 months. Has done research on options.
+Concerned about methimazole and birth defects. Interested in thyroidectomy as
+"definitive solution."
+
+Currently feeling well. No hyperthyroid symptoms. Taking medications regularly.
+Last menstrual period 06/10.
+
+Current Medications:
+- Methimazole 10mg daily
+- Metoprolol 25mg BID
+- Buspirone 10mg BID
+- Vitamin D3 2000 IU daily
+- Prenatal vitamin (started)
+
+Objective:
+Vitals: BP 116/74, HR 72, Wt 143 lbs
+Thyroid: Mildly enlarged, no nodules
+
+Labs from 06/12:
+- TSH: 2.1 mIU/L (normal)
+- Free T4: 1.1 ng/dL (normal)
+- TSI: still elevated but lower than baseline
+
+Assessment/Plan:
+1. Graves' disease - euthyroid, stable. Given pregnancy plans:
+   - Discussed all options in detail:
+     a) Continue methimazole through 1st trimester then switch to PTU -
+        CANNOT use PTU due to prior hepatotoxicity
+     b) Continue methimazole - associated with methimazole embryopathy
+        (aplasia cutis, choanal atresia) - small risk but present
+     c) Radioactive iodine - would need to delay pregnancy 6 months minimum
+     d) Thyroidectomy - definitive, could conceive immediately after healing
+   - Patient elects thyroidectomy given PTU allergy and desire for near-term pregnancy
+   - Referred to endocrine surgery. Will need to remain euthyroid until surgery.
+2. Afib - continue metoprolol through surgery. Cardiology clearance needed.
+3. Started prenatal vitamins - good.
+
+Referral to Dr. Anderson (Endocrine Surgery) placed. Cardiology clearance requested.
+
+Electronically signed by Lisa Wong, MD  06/20/2024 2:45 PM

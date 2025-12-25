@@ -1,0 +1,101 @@
+PROGRESS NOTE
+Patient: Walter Thompson    DOB: 08/25/1955    MRN: 78901567
+Date: 2024-09-09       Provider: Dr. James Morrison, MD (Movement Disorders)
+
+Chief Complaint: Parkinson's disease follow-up, new symptoms
+
+Subjective:
+Pt returns for follow-up. Now retired as of June - "Best decision I made."
+Wife Diane accompanies again.
+
+Motor symptoms: Stalevo helped with wearing-off initially but last 2-3 months
+having new issues:
+- Dyskinesias - "Writhing movements" in arms and legs, especially afternoon
+- "On-off" fluctuations - unpredictable periods of immobility
+- More freezing when trying to start walking or going through doorways
+- Two falls last month - "My feet just stopped and I kept going forward"
+  (No injuries, fell onto soft surface)
+
+Wife adds: "The movements are sometimes so bad he can't hold a fork. Then an
+hour later he's frozen and can barely move. It's like a rollercoaster."
+
+Non-motor symptoms:
+- NEW: Visual hallucinations - "Sees people who aren't there. Usually at night.
+  He knows they're not real but it's disturbing." Started about 6 weeks ago.
+  Per patient: "I see a man standing in the corner. I know he's not there but
+  he looks real."
+- Sleep: RBD symptoms returning despite clonazepam - wife sleeping in guest room
+  after he hit her during a dream last month
+- Mood: More anxious during off periods. "I panic when I can't move."
+- Cognition: Wife notes more forgetfulness, repeating stories
+
+Swallowing: Some coughing with liquids. "Drinks go down wrong way sometimes."
+
+Current Medications:
+- Stalevo 25/100/200 QID
+- Pramipexole 0.5mg TID
+- Clonazepam 0.5mg QHS
+- Midodrine 5mg TID
+- Sertraline 50mg daily
+- Polyethylene glycol daily
+- Docusate 100mg BID
+
+Objective:
+Vitals: BP 144/86 sitting, 112/68 standing, HR 68
+General: Currently in "on" state with moderate dyskinesias
+Neuro:
+  - Mentation: Alert, oriented, but slower to respond. MoCA 23/30 (was 27)
+  - Speech: Hypophonic, some slurring
+  - Dyskinesias: Moderate choreiform movements bilateral arms and trunk
+  - Tremor: Present but less prominent (masked by dyskinesias)
+  - Rigidity: Moderate when not dyskinetic
+  - Bradykinesia: Moderate
+  - Gait: Festinating, required 2 attempts to initiate walking, freezing at
+          doorway during exam
+  - Postural stability: Retropulsion 3 steps, caught by examiner
+
+Observed "off" period during visit - pt became rigid, unable to rise from
+chair without assistance for approximately 20 minutes until next dose took
+effect.
+
+UPDRS Motor Score: 34 in off state (significant worsening)
+
+Assessment/Plan:
+1. Parkinson's Disease - ADVANCING TO STAGE 3 (Hoehn & Yahr). Motor fluctuations
+   and dyskinesias now significantly impacting function. UPDRS worsened 20->34.
+   - This is classic levodopa long-term complication pattern
+   - Medication restructuring:
+     * Reduce individual Stalevo doses but increase frequency (smaller more frequent)
+     * Consider extended-release carbidopa-levodopa (Rytary) for smoother coverage
+     * May need to reduce or stop pramipexole (contributing to dyskinesias)
+   - DBS evaluation: Patient now a candidate. Refer to neurosurgery for DBS
+     evaluation. Discussed risks/benefits.
+
+2. Visual hallucinations - NEW AND CONCERNING. Likely PD-related psychosis.
+   - Rule out: Infection (check UA, CBC), metabolic (check CMP)
+   - Reduce pramipexole (dopamine agonists major contributor) - taper from
+     0.5mg TID to 0.25mg TID
+   - If persists, may need pimavanserin (Nuplazid) - approved for PD psychosis
+   - AVOID typical antipsychotics (haloperidol, etc.) - contraindicated
+
+3. Falls - high risk. PT referral for gait training, home safety evaluation.
+   Consider rollator walker. Fall precautions education.
+
+4. Dysphagia - coughing with liquids concerning for aspiration risk.
+   - URGENT: Speech therapy referral for swallow evaluation
+   - May need modified barium swallow study
+   - Aspiration precautions: Chin tuck, thickened liquids if indicated
+
+5. Cognitive decline - MoCA dropped from 27 to 23. Concerning for PD dementia.
+   Monitor closely. May need formal neuropsych testing.
+
+6. RBD worsening - increase clonazepam to 0.75mg QHS. Consider melatonin add-on.
+   Bed safety measures (floor mattress, padded rails).
+
+7. Depression/anxiety - worse during off states. Continue sertraline. Consider
+   increasing if needed.
+
+Complex patient with advancing PD. Multiple new issues requiring multidisciplinary
+approach. Will see in 6 weeks after medication changes. DBS eval in process.
+
+Electronically signed by James Morrison, MD  09/09/2024 4:45 PM

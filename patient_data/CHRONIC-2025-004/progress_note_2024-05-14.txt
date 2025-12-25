@@ -1,0 +1,52 @@
+PROGRESS NOTE
+Patient: David Chen    DOB: 02/15/1969    MRN: 67891234
+Date: 2024-05-14       Provider: Dr. Richard Thompson, MD
+
+Chief Complaint: Diabetes follow-up
+
+Subjective:
+55 yo M returns for DM f/u. Reports doing well with lifestyle changes. Lost 12 lbs
+total since diagnosis. Exercising now - walking 30 min 5 days/week, started going
+to gym 2x/week. Diet much improved - wife now working from home more and they're
+cooking together.
+
+Checking sugars at home - fasting 100-120, post-meal <160. Taking metformin without
+GI issues after initial week of loose stools.
+
+Completed diabetes education class. Found it helpful. Saw ophthalmology - "eyes are
+fine, no diabetes damage yet." Podiatry appointment scheduled for next month.
+
+No numbness, tingling, vision changes. Mood improved. Less anxious about diagnosis now.
+
+Current Medications:
+- Lisinopril 10mg daily
+- Metformin 500mg BID
+- Atorvastatin 40mg QHS
+- Omeprazole 20mg PRN (rarely using now - less reflux)
+
+Objective:
+Vitals: BP 122/78, HR 68, RR 14, Wt 186 lbs (-12 lbs from Jan), BMI 26.7
+General: Looks well, good spirits, weight loss visible
+CV: RRR
+Ext: No edema
+
+Labs from 05/07:
+- HbA1c: 6.4% (down from 7.1%!)
+- Fasting glucose: 112
+- Cr: 0.9, eGFR 92
+- LDL: 82, TG: 145, HDL: 44
+- ALT: 28, AST: 24
+
+Assessment/Plan:
+1. Type 2 Diabetes - EXCELLENT response to metformin and lifestyle! A1c 6.4%, down
+   from 7.1%. Continue current regimen. Consider adding SGLT2 inhibitor for cardiorenal
+   protection if not at goal next check, though may not need it.
+2. HTN - well controlled on lisinopril.
+3. Hyperlipidemia - LDL 82, at goal on atorvastatin.
+4. Overweight - excellent progress. BMI now 26.7.
+5. GERD - minimal symptoms with dietary changes. Continue PRN PPI.
+6. Pending colonoscopy - scheduled for July.
+
+Continue metformin 500mg BID. RTC 3-4 months.
+
+Electronically signed by Richard Thompson, MD  05/14/2024 2:00 PM

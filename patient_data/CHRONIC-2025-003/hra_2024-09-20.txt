@@ -1,0 +1,142 @@
+HEALTH RISK ASSESSMENT
+Patient: Marcus Johnson
+Date Completed: 2024-09-20
+Completed via: Patient Portal (online)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Better
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - less than before, still present
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - with exertion, improved
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[X] Loud snoring - still present but better with CPAP
+[ ] Daytime sleepiness
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - recently diagnosed, on metformin
+[X] High blood pressure - yes
+[X] High cholesterol - yes, on statin now
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[X] Liver disease - fatty liver
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[X] Sleep apnea - moderate, using CPAP
+
+================================================================================
+FAMILY HISTORY
+
+Diabetes: Yes
+    Who? Father, paternal grandmother
+    Age at diagnosis? Father was 52
+
+Heart Disease: Yes
+    Who? Father
+    Age at diagnosis? 58, had bypass surgery
+
+High Blood Pressure: Yes
+    Who? Both parents
+
+Stroke: Yes
+    Who? Grandmother
+    Age at diagnosis? 72
+
+Obesity: Yes
+    Who? Father, brother
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2015
+    How much did you smoke? About a pack a day for 10 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Socially
+    How often? 1-2 times per week
+    How many drinks per occasion? 2-3 beers
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? 2-3 times per week (new!)
+What type of exercise? Walking, started using stationary bike
+What barriers prevent you from exercising more?
+    [X] Work schedule
+    [X] Joint pain (knees)
+    [ ] Too tired
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Improving
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 3-4
+How often do you eat fast food? 1-2 times per week (down from daily)
+Do you follow any special diet?
+    [X] Working with dietitian for bariatric surgery prep
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (nervous about upcoming surgery)
+
+Do you feel you have adequate emotional support? Yes
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, full-time (IT manager)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I'm scheduled for sleeve gastrectomy surgery at the end of October and I'm nervous
+but also excited. I've tried to lose weight so many times and it always comes back.
+My father had diabetes and heart disease and I don't want to end up like him - he
+died at 64 from a heart attack.
+
+The supervised weight loss program has actually helped - I've lost almost 20 pounds
+and I'm feeling better than I have in years. My wife says I snore less with the CPAP
+and I definitely have more energy during the day.
+
+I'm a little worried about the surgery risks but Dr. Park said my labs look good
+and I'm a good candidate. My main concern is making sure I follow the diet after
+surgery. The nutritionist gave me a lot of information and my wife is being really
+supportive."
+
+================================================================================

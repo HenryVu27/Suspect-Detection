@@ -1,0 +1,135 @@
+HEALTH RISK ASSESSMENT
+Patient: Frank Morrison
+Date Completed: 2024-09-25
+Completed via: Mail-in paper form
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? Better (quit smoking, no hospitalizations)
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - with exertion
+[ ] Difficulty sleeping
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - main problem, with activity
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[X] Joint pain or stiffness - hands, knees, mornings
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[ ] Diabetes
+[X] High blood pressure - yes
+[X] High cholesterol - yes
+[X] Heart disease - heart attack in 2018, stent
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[X] Anxiety - yes, controlled on medication
+[ ] Sleep apnea
+[X] COPD/Emphysema - main condition
+
+================================================================================
+FAMILY HISTORY
+
+COPD/Lung Disease: Yes
+    Who? Father (also heavy smoker, died of emphysema)
+
+Heart Disease: Yes
+    Who? Father, brother
+
+Lung Cancer: Yes
+    Who? Father (also had lung cancer along with emphysema)
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? NO - QUIT!
+Have you ever used tobacco products? Yes
+    When did you quit? April 2024
+    How much did you smoke? Pack a day for about 55 years, cut down in last year
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Rarely
+    How often? Special occasions only
+    How many drinks per occasion? 1 beer
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Daily (as tolerated)
+What type of exercise? Walking, breathing exercises from pulmonary rehab
+What barriers prevent you from exercising more?
+    [X] Shortness of breath
+    [X] Need oxygen with activity
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Healthy
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 4
+How often do you eat fast food? Rarely
+Do you follow any special diet?
+    [ ] None specific
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Over the past 2 weeks, how often have you felt nervous, anxious, or on edge?
+    Several days (worry about breathing sometimes, especially exertion)
+
+Do you feel you have adequate emotional support? Yes - wife is very supportive
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - Trelegy is expensive even with insurance
+Are you currently employed? Retired (former construction worker)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I finally quit smoking in April after 55 years. My wife and I quit together.
+I wish I had done it sooner but better late than never. My breathing has been
+the best it's been in years and I haven't been in the hospital since last winter.
+
+I'm worried about my heart. I had a heart attack a few years ago and with my
+lungs being bad, I worry about my heart too. My father died of emphysema and
+lung cancer so I know what can happen if I'm not careful.
+
+I've noticed my hands and knees are getting stiff in the mornings. Takes me a
+while to loosen up. I figure it's just getting old but it's annoying.
+
+The pulmonary rehab was really helpful. I learned exercises to help with my
+breathing and I feel stronger than I did last year."
+
+================================================================================

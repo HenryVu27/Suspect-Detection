@@ -1,0 +1,60 @@
+LABORATORY REPORT
+Patient: Emily Nakamura    DOB: 11/14/1992    MRN: 12345891
+Collection Date: 2024-04-10 09:00 AM
+Ordering Provider: Dr. Jennifer Liu
+Performing Lab: UCSF Clinical Laboratory
+
+================================================================================
+COMPLETE BLOOD COUNT
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+WBC                          6.2         4.5-11.0 K/uL
+RBC                          4.5         4.0-5.5 M/uL
+Hemoglobin                   13.8        12.0-16.0 g/dL
+Hematocrit                   41.2        36-46%
+MCV                          92          80-100 fL
+MCH                          30.7        27-33 pg
+MCHC                         33.5        32-36 g/dL
+Platelet Count               248         150-400 K/uL
+
+WBC Differential:
+  Neutrophils                55%         40-70%
+  Lymphocytes                35%         20-40%
+  Monocytes                  6%          2-8%
+  Eosinophils                3%          1-4%
+  Basophils                  1%          0-2%
+
+================================================================================
+COMPREHENSIVE METABOLIC PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Glucose                      88          70-100 mg/dL
+BUN                          14          7-20 mg/dL
+Creatinine                   0.8         0.6-1.2 mg/dL
+eGFR                         >90         >60 mL/min
+Sodium                       140         136-145 mEq/L
+Potassium                    4.0         3.5-5.0 mEq/L
+Chloride                     102         98-106 mEq/L
+CO2                          24          23-29 mEq/L
+Calcium                      9.5         8.5-10.5 mg/dL
+
+================================================================================
+LIPID PANEL
+
+Test Name                    Result      Reference Range     Flag
+--------------------------------------------------------------------------------
+Total Cholesterol            168         <200 mg/dL
+Triglycerides                75          <150 mg/dL
+HDL Cholesterol              68          >50 mg/dL
+LDL Cholesterol (calc)       85          <100 mg/dL
+
+================================================================================
+LABORATORY INTERPRETATION - SUMMARY
+
+All values within normal limits. Healthy laboratory profile.
+Eosinophils within normal range despite atopic history.
+
+Report electronically signed by: David Park, MD, Laboratory Director
+2024-04-10 12:30 PM

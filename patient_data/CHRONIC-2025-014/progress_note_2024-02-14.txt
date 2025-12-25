@@ -1,0 +1,57 @@
+PROGRESS NOTE
+Patient: Jessica Romano    DOB: 04/22/1985    MRN: 78912567
+Date: 2024-02-14       Provider: Dr. Sarah Mitchell, MD
+
+Chief Complaint: Depression worsening, medication follow-up
+
+Subjective:
+38 yo F with recurrent MDD and GAD here because she feels "sliding back down."
+Reports past 6 weeks mood has been declining - feels sad, hopeless, crying spells.
+Sleep worsening despite trazodone - wakes at 3am, can't fall back asleep. Appetite
+decreased - lost 5 lbs. Low energy. Difficulty concentrating at work (project manager
+at tech company). Ruminating about past failures.
+
+Denies SI/HI. "I don't want to hurt myself, I just don't want to feel like this."
+
+Anxiety also elevated - worrying about everything, can't relax, muscle tension,
+GI symptoms worse.
+
+Current meds have been stable for 2 years. Wonders if they "stopped working."
+
+Stressors: New manager at work who is "demanding." Relationship with boyfriend
+ended 2 months ago. Mother recently diagnosed with breast cancer - traveling to
+NY every other weekend to help.
+
+In therapy monthly - hasn't gone in 6 weeks due to scheduling conflicts.
+
+Current Medications:
+- Sertraline 100mg daily
+- Buspirone 10mg TID
+- Trazodone 50mg QHS PRN (using nightly now)
+
+Objective:
+Vitals: BP 118/72, HR 78, RR 16, Wt 128 lbs (-5 lbs)
+General: Appears fatigued, tearful at times, appropriate affect
+Psych: Mood "depressed", affect constricted but reactive, no psychomotor changes,
+       thought process linear, no SI/HI, no psychosis
+
+PHQ-9: 16 (moderately severe depression)
+GAD-7: 14 (moderate anxiety)
+
+Assessment/Plan:
+1. Major Depressive Disorder - acute exacerbation with multiple stressors. PHQ-9 16.
+   Increase sertraline to 150mg daily. Continue for 4-6 weeks to assess response.
+   If no improvement, consider augmentation or switch.
+2. Generalized Anxiety Disorder - also worsening. Continue buspirone. Consider
+   increase if sertraline doesn't help anxiety component.
+3. Insomnia - worsening with depression. Increase trazodone to 100mg QHS.
+4. Therapy - CRITICAL. Patient needs to prioritize therapy. Discussed telehealth
+   options for scheduling flexibility. Encouraged weekly sessions during this period.
+5. IBS - likely stress-exacerbated. Symptomatic management.
+6. Safety: No SI, patient has strong reasons for living (mother, work). Crisis line
+   and safety plan reviewed.
+7. Support: Caregiver stress for mother - discussed self-care importance.
+
+RTC 4 weeks. Call before if worsening or any SI.
+
+Electronically signed by Sarah Mitchell, MD  02/14/2024 4:30 PM

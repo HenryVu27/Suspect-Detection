@@ -1,0 +1,140 @@
+HEALTH RISK ASSESSMENT
+Patient: Frank Moretti
+Date Completed: 2024-03-10
+Completed via: Paper form at annual exam
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[ ] Fatigue
+[X] Difficulty sleeping - wake up with heartburn
+[ ] Frequent urination
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure - no, but heartburn sometimes feels like it
+[X] Shortness of breath - when walking upstairs, probably weight
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[X] Heartburn - main problem, almost every day
+[X] Regurgitation - food comes back up sometimes
+[X] Difficulty swallowing - food gets stuck sometimes (recent)
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - type 2
+[X] High blood pressure
+[ ] High cholesterol
+[ ] Heart disease
+[ ] Stroke
+[ ] Kidney disease
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+[X] GERD - chronic
+[X] Barrett's esophagus - being monitored
+
+================================================================================
+FAMILY HISTORY
+
+Cancer: Yes
+    Who? Father
+    Type: Lung cancer (was a smoker)
+
+Heart Disease: Yes
+    Who? Mother
+    Age at diagnosis? 70
+
+Diabetes: Yes
+    Who? Mother, brother
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2010
+    How much did you smoke? Pack a day for 25 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? Yes
+    How often? 3-4 times per week
+    How many drinks per occasion? 1-2 beers
+    Notes: Usually with dinner
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Rarely
+What type of exercise? Walking occasionally
+What barriers prevent you from exercising more?
+    [X] Work schedule - long hours
+    [X] Tired after work
+    [X] Knee pain
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Fair
+Do you eat breakfast regularly? Sometimes
+Servings of fruits/vegetables per day? 1-2
+How often do you eat fast food? 2-3 times per week
+Notes: Eat late at night after work, eat fast at my desk for lunch
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Not at all
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Not at all
+
+Do you feel you have adequate emotional support? Yes - married, good relationship
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes
+Do you have reliable transportation to medical appointments? Yes
+In the past 12 months, have you had difficulty affording your medications? No
+Are you currently employed? Yes, restaurant owner
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"I've had heartburn since my 40s. It's just gotten worse over time. I take the
+purple pill every day but it doesn't completely control it. The doctor says I
+have something called Barrett's esophagus which means the acid has damaged my
+swallowing tube. I have to get scoped every few years to watch for changes.
+
+I know my weight makes it worse. Running a restaurant isn't good for weight loss -
+I'm surrounded by good food all the time and I eat late after we close. I've
+tried to lose weight but it's hard.
+
+One thing that's been different lately - sometimes food gets stuck when I
+swallow. I have to drink water to push it down. This is new in the last few
+months. Probably should mention it to the doctor.
+
+My biggest fear is cancer. My father died of lung cancer and I've read that
+Barrett's can turn into esophageal cancer. That's why I take the monitoring
+seriously. I just hope it doesn't get to that point."
+
+================================================================================

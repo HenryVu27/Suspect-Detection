@@ -1,0 +1,144 @@
+HEALTH RISK ASSESSMENT
+Patient: George Williams
+Date Completed: 2024-03-18
+Completed via: Paper form at annual wellness visit (wife assisted)
+
+================================================================================
+GENERAL HEALTH
+
+How would you rate your overall health? Fair
+Compared to one year ago? About the same
+
+================================================================================
+CURRENT SYMPTOMS (Check all that apply)
+
+[X] Fatigue - tired easily
+[X] Difficulty sleeping - have to prop up on pillows
+[X] Frequent urination - especially at night (diuretic)
+[ ] Numbness/tingling in hands or feet
+[ ] Headaches
+[ ] Excessive thirst
+[ ] Chest pain or pressure
+[X] Shortness of breath - with activity
+[ ] Dizziness
+[ ] Feeling sad or hopeless
+[ ] Difficulty concentrating
+[ ] Unintentional weight loss
+[ ] Loud snoring
+[ ] Daytime sleepiness
+[X] Swelling in legs/ankles - comes and goes
+[X] Rapid or irregular heartbeat - afib
+
+================================================================================
+MEDICAL HISTORY
+
+Have you ever been diagnosed with any of the following?
+[X] Diabetes - type 2, on insulin
+[X] High blood pressure
+[X] High cholesterol
+[X] Heart disease - heart attack 2019, heart failure, afib
+[ ] Stroke
+[X] Kidney disease - related to heart
+[ ] Liver disease
+[ ] Cancer
+[ ] Depression
+[ ] Anxiety
+[ ] Sleep apnea
+
+================================================================================
+FAMILY HISTORY
+
+Heart Disease: Yes
+    Who? Father (died of heart attack at 62), brother (bypass surgery at 58)
+
+Diabetes: Yes
+    Who? Mother, father
+
+================================================================================
+LIFESTYLE - TOBACCO
+
+Do you currently use tobacco products? No
+Have you ever used tobacco products? Yes
+    When did you quit? 2019 (after heart attack)
+    How much did you smoke? Pack a day for 40 years
+
+================================================================================
+LIFESTYLE - ALCOHOL
+
+Do you drink alcohol? No - stopped after heart diagnosis
+    Notes: Doctor said no alcohol with heart failure
+
+================================================================================
+LIFESTYLE - EXERCISE
+
+How often do you exercise? Trying to daily
+What type of exercise? Short walks around the house/yard
+What barriers prevent you from exercising more?
+    [X] Shortness of breath
+    [X] Fatigue
+    [X] Leg swelling
+
+================================================================================
+LIFESTYLE - DIET
+
+How would you describe your diet? Trying to be good
+Do you eat breakfast regularly? Yes
+Servings of fruits/vegetables per day? 2-3
+How often do you eat fast food? Rarely now - too salty
+Notes: Following low-salt diet for heart. Wife cooks most meals.
+       Hard to give up salty foods I used to love.
+
+================================================================================
+SOCIAL/EMOTIONAL HEALTH
+
+Over the past 2 weeks, how often have you felt down, depressed, or hopeless?
+    Several days - hard to accept limitations
+
+Over the past 2 weeks, how often have you had little interest or pleasure in doing things?
+    Several days - can't do things I used to enjoy
+
+Do you feel you have adequate emotional support?
+    Yes - married 50 years, two adult children, grandchildren
+
+================================================================================
+SOCIAL DETERMINANTS OF HEALTH
+
+In the past 12 months, have you worried about running out of food? No
+Do you have stable housing? Yes - own home
+Do you have reliable transportation to medical appointments?
+    Yes - wife or children drive me
+In the past 12 months, have you had difficulty affording your medications?
+    Sometimes - lots of medications, copays add up. Medicare helps.
+Are you currently employed? No, retired (former electrician)
+
+================================================================================
+ADDITIONAL CONCERNS (In your own words)
+
+"My heart attack in 2019 was a wake-up call. I was 68, still felt pretty good,
+then suddenly I was in the hospital getting a stent. That's when they discovered
+my heart was already weakened - 'heart failure' they called it. Had to get an
+ICD (defibrillator) implanted.
+
+Since then my life has changed completely. I can't do the things I used to do.
+I used to work in my garage, do projects around the house. Now I get tired
+walking to the mailbox. Some days are better than others but I'm never back
+to normal.
+
+The salt restriction is the hardest part. I grew up eating everything salty -
+pickles, ham, chips. Now my wife makes everything bland and I miss the taste.
+Sometimes I cheat when we go out. I know I shouldn't but you have to enjoy
+something in life.
+
+All the medications are overwhelming. I have a pillbox for morning and evening.
+If I miss something I can feel the difference - especially the water pill.
+Miss that and my legs swell up in a day.
+
+The ICD is always in the back of my mind. It's there in case my heart goes into
+a dangerous rhythm, but knowing it could shock me any time is stressful. So far
+it hasn't had to do anything. I hope it never does.
+
+I try to stay positive for my grandkids. They give me something to look forward
+to. I want to be around to see them grow up. That's why I try to take care of
+myself even when it's hard."
+
+================================================================================

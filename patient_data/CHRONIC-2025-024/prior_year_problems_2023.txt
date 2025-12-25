@@ -1,0 +1,62 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (GI Associates)
+Export Date: 2023-12-20
+Patient: Frank Moretti    DOB: 06/14/1958    MRN: 90123789
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Barrett's Esophagus without dysplasia (K22.70)
+   - First Documented: 2018-05-15
+   - Status: Active
+   - Managing Provider: Dr. Sarah Goldman (Gastroenterology)
+   - Notes: 4cm segment. On PPI. Surveillance EGD q3 years.
+
+2. Gastroesophageal Reflux Disease (K21.0)
+   - First Documented: 2005-08-22
+   - Status: Active
+   - Notes: Chronic, on high-dose PPI.
+
+3. Hiatal Hernia (K44.9)
+   - First Documented: 2010-04-18
+   - Status: Active
+   - Notes: 3cm sliding hernia. Contributing to GERD.
+
+4. Obesity (E66.9)
+   - First Documented: 2008-11-10
+   - Status: Active
+   - Notes: BMI 34. Contributes to GERD.
+
+5. Type 2 Diabetes Mellitus (E11.9)
+   - First Documented: 2015-03-20
+   - Status: Active
+   - Notes: On metformin.
+
+6. Hypertension (I10)
+   - First Documented: 2010-09-15
+   - Status: Active
+   - Notes: On lisinopril.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+1. H. pylori infection (B96.81)
+   - Episode: 2016-02-10
+   - Treated: Triple therapy
+   - Notes: Eradicated, confirmed by breath test
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Cholecystectomy, laparoscopic
+   - Date: 2012-07-22
+   - Notes: For symptomatic gallstones
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Erythromycin
+   - Reaction: Severe nausea, abdominal pain
+   - Severity: Moderate
+
+================================================================================

@@ -1,0 +1,51 @@
+PROGRESS NOTE
+Patient: Emily Nakamura    DOB: 11/14/1992    MRN: 12345891
+Date: 2024-10-28       Provider: Dr. Jennifer Liu, MD
+
+Chief Complaint: Increased asthma symptoms, cough
+
+Subjective:
+Pt calls for urgent visit. Reports increased cough and SOB x5 days. Started with
+URI symptoms - congestion, sore throat, now resolved. But cough persists - dry,
+worse at night. Waking up 2x/night with cough. Using rescue inhaler 4-5x/day.
+
+No fever, no purulent sputum. No sick contacts with COVID.
+
+Moved to new apartment 2 weeks ago. New place has old carpet. Boyfriend brought
+his cat to visit this weekend - "I know I'm allergic but thought it would be okay
+for just a few hours." Cat left but symptoms continued.
+
+Running has been impossible due to SOB.
+
+Current Medications:
+- Flovent HFA 44mcg 2 puffs BID
+- Albuterol HFA PRN (using frequently)
+- Cetirizine 10mg daily
+- Fluticasone nasal spray
+
+Objective:
+Vitals: BP 112/72, HR 88, RR 18, SpO2 97% RA
+General: Mild respiratory distress, speaking full sentences
+HEENT: Mild nasal congestion
+Lungs: Diffuse expiratory wheezes bilateral, prolonged expiratory phase
+CV: RRR, tachycardic
+
+Peak flow: 350 L/min (personal best 460 - 76% of PB)
+
+Assessment/Plan:
+1. Asthma exacerbation, moderate - triggered by URI and allergen exposure (cat).
+   Peak flow 76% of personal best.
+   - Start prednisone 40mg daily x5 days
+   - Increase Flovent to 110mcg 2 puffs BID temporarily (step up)
+   - Continue albuterol as needed (every 4-6 hours okay)
+   - Cat exposure counseling - even brief exposure can trigger multi-day symptoms
+   - New apartment - recommend allergen covers for bedding, consider air purifier,
+     discuss carpet cleaning/removal if possible
+2. Post-viral bronchospasm likely contributing. Should improve with treatment.
+3. ACTION PLAN reviewed: Return or call if not improving in 48-72 hours, or if
+   worsening (peak flow <50%, can't speak in sentences, using rescue every 2 hours).
+
+RTC 1 week for reassessment. May need to step up maintenance therapy if not
+returning to baseline.
+
+Electronically signed by Jennifer Liu, MD  10/28/2024 3:30 PM

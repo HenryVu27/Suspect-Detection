@@ -1,0 +1,66 @@
+PROGRESS NOTE
+Patient: Frank Moretti    DOB: 06/14/1958    MRN: 90123789
+Date: 2024-05-06       Provider: Dr. Sarah Goldman, MD (Gastroenterology)
+
+Chief Complaint: EGD results discussion
+
+Subjective:
+Pt returns for EGD results. Procedure performed 05/02/2024 under moderate sedation,
+tolerated well. Some mild sore throat after, resolved.
+
+Current symptoms: Heartburn slightly better on BID PPI. Dysphagia - still present
+but maybe slightly less.
+
+Objective:
+EGD FINDINGS (05/02/2024):
+- Esophagus: Barrett's segment now measuring 5-6cm (increased from 4cm in 2021)
+  Salmon-colored mucosa with irregular nodularity in mid-segment (NEW)
+  No stricture identified
+  No ulceration
+- Stomach: Mild gastritis
+- Duodenum: Normal
+
+BIOPSY RESULTS (returned 05/05/2024):
+- Barrett's esophagus with LOW-GRADE DYSPLASIA (LGD) - CONFIRMED by expert
+  GI pathology review
+- Multiple biopsies from nodular area show LGD
+- No high-grade dysplasia or carcinoma
+
+Assessment/Plan:
+***SIGNIFICANT FINDING - BARRETT'S ESOPHAGUS WITH LOW-GRADE DYSPLASIA***
+
+1. Barrett's with LGD - This represents PROGRESSION from prior non-dysplastic
+   Barrett's. LGD has annual progression rate to high-grade dysplasia/cancer
+   of 0.5-1% per year, but in the setting of visible nodularity this is higher
+   concern.
+
+   OPTIONS DISCUSSED:
+   A) Endoscopic surveillance every 6 months (conservative)
+   B) Endoscopic eradication therapy (radiofrequency ablation - RFA) - RECOMMENDED
+      given visible nodularity and confirmed LGD
+
+   DECISION: Patient elects RFA after detailed discussion of risks/benefits.
+   - Refer to advanced endoscopy/Barrett's center for RFA evaluation
+   - Continue high-dose PPI (essential for healing after ablation)
+
+2. GERD - Maximum medical therapy essential. Continue omeprazole 40mg BID.
+   Consider adding H2 blocker at bedtime if breakthrough symptoms.
+
+3. Lifestyle modifications - CRITICAL. Explained that weight loss and dietary
+   changes support Barrett's management. Reiterated counseling.
+
+4. Dysphagia - No mechanical stricture. May be due to inflammation/Barrett's.
+   Should improve after ablation treatment.
+
+5. Cancer risk - Discussed that while LGD is concerning, treatment with RFA
+   can prevent progression. Regular surveillance even after ablation is essential.
+
+PATIENT EDUCATION:
+- Explained Barrett's progression: non-dysplastic → LGD → HGD → cancer
+- Discussed that RFA can eliminate dysplasia in >90% of cases
+- Emphasized that even after successful ablation, lifelong surveillance needed
+- Warning signs to report: Dysphagia worsening, weight loss, bleeding
+
+Referral placed to University Barrett's Center. Will expedite.
+
+Electronically signed by Sarah Goldman, MD  05/06/2024 11:00 AM

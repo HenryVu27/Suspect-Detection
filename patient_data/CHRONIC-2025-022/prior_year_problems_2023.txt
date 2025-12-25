@@ -1,0 +1,59 @@
+PROBLEM LIST EXPORT
+Source: Previous EHR System (Johns Hopkins)
+Export Date: 2023-12-20
+Patient: Walter Thompson    DOB: 08/25/1955    MRN: 78901567
+
+================================================================================
+ACTIVE PROBLEMS
+================================================================================
+1. Parkinson's Disease (G20)
+   - First Documented: 2018-09-14
+   - Status: Active
+   - Managing Provider: Dr. James Morrison (Movement Disorders)
+   - Notes: Tremor-predominant. On carbidopa-levodopa. Hoehn & Yahr Stage 2.
+
+2. REM Sleep Behavior Disorder (G47.52)
+   - First Documented: 2016-05-20
+   - Status: Active
+   - Notes: Predated PD diagnosis. On clonazepam.
+
+3. Orthostatic Hypotension (I95.1)
+   - First Documented: 2020-04-15
+   - Status: Active
+   - Notes: Autonomic dysfunction. On midodrine.
+
+4. Depression (F32.1)
+   - First Documented: 2019-11-22
+   - Status: Active
+   - Notes: PD-related. On sertraline.
+
+5. Constipation (K59.00)
+   - First Documented: 2018-09-14
+   - Status: Active
+   - Notes: Autonomic/medication-related.
+
+================================================================================
+RESOLVED PROBLEMS
+================================================================================
+None
+
+================================================================================
+SURGICAL HISTORY
+================================================================================
+1. Appendectomy
+   - Date: 1982
+   - Hospital: Community hospital
+
+================================================================================
+ALLERGIES
+================================================================================
+1. Metoclopramide
+   - Reaction: Contraindicated in Parkinson's (dopamine blocker)
+   - Severity: Severe
+   - Notes: Will worsen PD symptoms
+
+2. Haloperidol
+   - Reaction: Contraindicated in Parkinson's (dopamine blocker)
+   - Severity: Severe
+
+================================================================================

@@ -1,0 +1,65 @@
+PROGRESS NOTE
+Patient: Sandra Mitchell    DOB: 09/30/1960    MRN: 67891456
+Date: 2024-04-08       Provider: Dr. James Wilson, MD
+
+Chief Complaint: Hypertension follow-up, CKD management
+
+Subjective:
+63 yo F with longstanding resistant HTN and CKD Stage 3a here for follow-up.
+BP at home still running high - 155-165/90-100. Admits medication adherence
+"could be better" - sometimes misses evening dose because she forgets.
+
+Denies headaches, visual changes, chest pain, SOB. No swelling. Urination normal.
+
+Works as middle school teacher - stressful job. Reports high salt intake due to
+eating cafeteria food. "Hard to eat healthy at school."
+
+No new symptoms. Concerned about kidney function.
+
+Current Medications:
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Chlorthalidone 25mg daily
+- Metoprolol succinate 100mg daily
+- Atorvastatin 40mg QHS
+
+Objective:
+Vitals: BP 162/98, HR 68, RR 16, Wt 198 lbs (stable), BMI 33.5
+General: Well-appearing, anxious about BP reading
+CV: RRR, S4 present (LVH)
+Lungs: Clear
+Ext: No edema
+
+Labs from 04/01:
+- Cr: 1.4 (was 1.2 last year), eGFR 44 (declining from 52)
+- K: 4.6
+- Urine ACR: 120 mg/g (new - moderately increased)
+- Lipids at goal
+
+Assessment/Plan:
+1. Resistant Hypertension - on 4 agents but still above goal. Contributing factors:
+   - Medication non-adherence (evening doses missed)
+   - High salt intake
+   - Obesity
+   - Consider secondary causes if persists
+
+   Plan:
+   - Consolidate dosing: switch to evening amlodipine, all PM meds together
+   - Pill organizer counseling
+   - Dietary counseling - reduce sodium
+   - If still uncontrolled, consider aldosterone/renin ratio for primary aldosteronism
+   - Add spironolactone 25mg for resistant HTN (also protects kidney)
+
+2. CKD Stage 3b - eGFR has declined from 52 to 44 in one year. This is faster than
+   expected. Proteinuria now present (ACR 120). Hypertensive nephrosclerosis
+   progressing. MUST control BP to slow progression.
+3. LVH - consequence of chronic HTN. BP control critical.
+4. Obesity - discussed weight loss. Patient interested but needs support.
+   Refer to nutritionist.
+5. Hyperlipidemia - at goal on statin.
+
+Labs: aldosterone/renin ratio if BP still uncontrolled in 8 weeks
+Nutrition referral placed
+RTC 8 weeks
+
+Electronically signed by James Wilson, MD  04/08/2024 3:45 PM

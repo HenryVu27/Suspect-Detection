@@ -1,0 +1,60 @@
+PROGRESS NOTE
+Patient: Patricia Williams    DOB: 08/22/1962    MRN: 34567891
+Date: 2024-11-14       Provider: Dr. Michael Roberts, MD
+
+Chief Complaint: DM follow-up, labs review
+
+Subjective:
+Pt here for routine follow-up. Reports glucose fairly well controlled - fasting 110-140
+most days. Neuropathy symptoms stable. Daughter finished chemo and is doing well - pt
+states mood is "much better" though still has bad days. Sleep still poor.
+
+Notes she never completed the sleep study - "couldn't get time off work" (pt now works
+part-time at library). Still snoring loudly per husband.
+
+Reports occasional dizziness when standing quickly. Denies falls. No chest pain or SOB.
+No vision changes. Due for eye exam.
+
+Current Medications:
+- Metformin 1000mg BID
+- Glipizide 10mg BID
+- Jardiance 10mg daily
+- Lisinopril 40mg daily
+- Amlodipine 10mg daily
+- Atorvastatin 80mg QHS
+- Gabapentin 400mg TID
+- ASA 81mg daily
+
+Objective:
+Vitals: BP 134/82 sitting, 118/76 standing (orthostatic drop), HR 80, Wt 226 lbs (-4),
+       BMI 37.5, SpO2 96% RA
+General: Pleasant, less fatigued appearing than July
+CV: RRR
+Lungs: Clear
+Ext: No edema, sensation impaired bilateral feet
+
+Labs from 11/08:
+- HbA1c: 7.3% (good improvement!)
+- Fasting glucose: 128
+- Cr: 1.4 (eGFR 45)
+- K: 4.8
+- Urine ACR: 95 mg/g
+
+Assessment/Plan:
+1. T2DM - well controlled! A1c 7.3%, excellent progress. Continue current regimen.
+2. Diabetic nephropathy - eGFR 45, Stage 3b now. ACR 95. Continue SGLT2i and ACEi.
+   Will refer to nephrology for co-management given progression.
+3. HTN - better today. Orthostatic hypotension noted - likely medication related.
+   Monitor symptoms. May need to reduce amlodipine if persists.
+4. Neuropathy - stable.
+5. OSA - still not evaluated. STRONGLY encouraged patient to complete sleep study.
+   Rescheduled. Untreated OSA contributes to HTN, DM control, fatigue.
+6. Depression - PHQ-9 today: 8 (mild). Improved with daughter's recovery. Will
+   continue to monitor. Not restarting medication at this time per patient preference.
+7. Obesity - trending down nicely. BMI 37.5, down from 38.9.
+8. Overdue diabetic eye exam - ordered referral to ophthalmology.
+9. Hyperlipidemia - LDL at goal on current statin dose.
+
+Labs in 3 months. Nephrology referral placed. Sleep study scheduled.
+
+Electronically signed by Michael Roberts, MD  11/14/2024 2:30 PM
