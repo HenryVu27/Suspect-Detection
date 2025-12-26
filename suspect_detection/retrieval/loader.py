@@ -63,6 +63,6 @@ class DocumentLoader:
         patients = []
         for item in os.listdir(self.base_path):
             item_path = os.path.join(self.base_path, item)
-            if os.path.isdir(item_path) and item.startswith("CVD-"):
+            if os.path.isdir(item_path) and re.match(r"^[A-Z]+-\d{4}-\d{3}$", item):
                 patients.append(item)
         return sorted(patients)
